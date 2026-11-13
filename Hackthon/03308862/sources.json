@@ -1,0 +1,233 @@
+{
+  "pzn": "03308862",
+  "input_file": "heart_failure_collection_list_expanded.csv",
+  "collection_row": {
+    "active_ingredient": "Losartan",
+    "category": "血管紧张素II受体阻滞剂 / ARB",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/losartan-hexal-125-mg-filmtabletten-3308862.html",
+    "hf_context_zh": "ACE抑制剂不适合或不耐受的特定成人慢性HFrEF患者。",
+    "mechanism_zh": "阻断AT1受体，减轻血管紧张素II导致的血管收缩和醛固酮作用。",
+    "clinical_role_zh": "HFrEF中肾素-血管紧张素系统治疗的替代选择。",
+    "example_product_name": "LOSARTAN HEXAL 12,5 mg Filmtabletten",
+    "pzn": "03308862",
+    "example_strength_as_stated": "12,5 mg",
+    "pack_size_units": "21",
+    "market": "DE",
+    "collection_order": "187",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/losartan-hexal-125-mg-filmtabletten-3308862.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Filmtabletten",
+    "pharmaceutical_company_as_listed": "Hexal AG",
+    "ingredient_content_as_listed": "Losartan kalium 12,5 mg pro 1 Tablette; = Losartan (11,47 mg pro 1 Tablette)",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "product_page": {
+    "page_title": "Beipackzettel von LOSARTAN HEXAL 12,5 mg Filmtabletten",
+    "pzn_on_page": "03308862",
+    "pack_size_on_page": "21 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten",
+    "provider_on_page": "Hexal AG Holzkirchen www.hexal.de",
+    "substances_on_page": [
+      "Losartan kalium 12,5 mg pro 1 Tablette",
+      "= Losartan (11,47 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Cellulose, mikrokristalline Carboxymethylstärke, Natrium Typ A Povidon K25 Siliciumdioxid, hochdisperses Magnesium stearat (pflanzlich)",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/70/48/184870.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/70/48/184870.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/70/48/184870.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/71/48/184871.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 3,0 mm Breite: 4,1 mm Tiefe: 9,1 mm Masse: 83,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Anordnung : ohne Kerbe Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"1\" Besonderheiten Die Tablette ist gesprenkelt. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/losartan-hexal-125-mg-filmtabletten-3308862.html?file=6ee852c339ea0e85d087fa609985c907",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 01.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27",
+    "provider_website": "https://www.hexal.de"
+  },
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/70/48/184870.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 86320,
+      "saved_as": "03308862_tablet_1.jpg",
+      "sha256": "1d81171aff3d4b76ae1909b01f150bfdd7410e89612defc90a7e666dad1cda9c",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/71/48/184871.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 85522,
+      "saved_as": "03308862_tablet_2.jpg",
+      "sha256": "7c7da6442d14a113e8562d24d47a31e74bc5ba5510c367308bc7e27c89bad4cb",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/12/33/23312.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 67190,
+      "saved_as": "03308862_leaflet.pdf",
+      "sha256": "d99ca6a9fc8e055e253ab7e600d8acc41db40799e98f43ab18ec30889c94742c",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/losartan-hexal-125-mg-filmtabletten-3308862.html?file=6ee852c339ea0e85d087fa609985c907",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 01.2025"
+    }
+  },
+  "unresolved_issues": [],
+  "field_sources": {
+    "pzn": {
+      "value": "03308862",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "market": {
+      "value": "DE",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "product_name": {
+      "value": "LOSARTAN HEXAL 12,5 mg Filmtabletten",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "active_ingredient": {
+      "value": "Losartan",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Losartan kalium 12,5 mg pro 1 Tablette",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "strength_as_stated": {
+      "value": "12,5 mg",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "dosage_form": {
+      "value": "Filmtabletten",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "pack_size": {
+      "value": "21",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "pharmaceutical_company": {
+      "value": "Hexal AG Industriestraße 25 83607 Holzkirchen Telefon: (08024) 908-0 Telefax: (08024) 908-1290 E-Mail: service@hexal.com",
+      "source": "leaflet PDF, automatic extract; requires review"
+    },
+    "manufacturer": {
+      "value": "Lek Pharmaceuticals d.d. Verovskova ulica 57 1526 Ljubljana Slowenien",
+      "source": "leaflet PDF, automatic extract; requires review"
+    },
+    "score_line": {
+      "value": "Anordnung : ohne Kerbe Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird.",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "tablet_image_1": {
+      "value": "03308862/03308862_tablet_1.jpg",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "tablet_image_2": {
+      "value": "03308862/03308862_tablet_2.jpg",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "leaflet_path": {
+      "value": "03308862/03308862_leaflet.pdf",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/losartan-hexal-125-mg-filmtabletten-3308862.html",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "leaflet_revision_date": {
+      "value": "2025-01",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "retrieved_at": {
+      "value": "2026-11-13T15:44:53.316237+00:00",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "verification_status": {
+      "value": "PZN verified against product page; assets file-validated; automatically extracted; appearance and clinical details require review.",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "notes": {
+      "value": "Source catalogue strength preserved verbatim. Provider is recorded separately from manufacturer. Appearance/company details are automatically extracted from the leaflet; ambiguous multi-strength appearance fields are left blank. Leaflet document date is taken from the product page. ",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "category": {
+      "value": "血管紧张素II受体阻滞剂 / ARB",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "hf_context_zh": {
+      "value": "ACE抑制剂不适合或不耐受的特定成人慢性HFrEF患者。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "mechanism_zh": {
+      "value": "阻断AT1受体，减轻血管紧张素II导致的血管收缩和醛固酮作用。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "clinical_role_zh": {
+      "value": "HFrEF中肾素-血管紧张素系统治疗的替代选择。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "strength_note_zh": {
+      "value": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "clinical_source_url": {
+      "value": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "mechanism_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/losartan-hexal-125-mg-filmtabletten-3308862.html",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "dosage_form_as_listed": {
+      "value": "Filmtabletten",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "pharmaceutical_company_as_listed": {
+      "value": "Hexal AG",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "ingredient_content_as_listed": {
+      "value": "Losartan kalium 12,5 mg pro 1 Tablette; = Losartan (11,47 mg pro 1 Tablette)",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "product_hf_indication_status": {
+      "value": "not_reviewed_check_product_leaflet",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "scope_note_zh": {
+      "value": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "notes_zh": {
+      "value": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "checked_on": {
+      "value": "2026-11-13",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "brand": {
+      "value": "LOSARTAN HEXAL",
+      "source": "Derived from product_name: strength, dosage form and pack descriptors removed; existing brand capitalization reused where available.",
+      "product_name": "LOSARTAN HEXAL 12,5 mg Filmtabletten"
+    }
+  },
+  "reuse_permission": "Not checked; original downloaded files and watermarks preserved."
+}

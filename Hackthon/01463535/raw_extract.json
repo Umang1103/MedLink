@@ -1,0 +1,104 @@
+{
+  "pzn": "01463535",
+  "list_row": {
+    "active_ingredient": "Furosemid",
+    "category": "袢利尿剂 / Loop diuretic",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/lasix-500-mg-tabs-tabletten-1463535.html",
+    "hf_context_zh": "伴液体潴留的心衰：如腿肿、肺淤血；可见于不同射血分数类型。",
+    "mechanism_zh": "抑制肾脏对钠盐的重吸收，增加盐和水的排出。",
+    "clinical_role_zh": "主要缓解水肿和淤血症状；不等同于改善生存的基础药。",
+    "example_product_name": "LASIX 500 mg Tabs Tabletten",
+    "pzn": "01463535",
+    "example_strength_as_stated": "500 mg",
+    "pack_size_units": "20",
+    "market": "DE",
+    "collection_order": "38",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/lasix-500-mg-tabs-tabletten-1463535.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "Sanofi-Aventis Deutschland GmbH",
+    "ingredient_content_as_listed": "Furosemid 500 mg pro 1 Tablette",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:42:17.314740+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/24/10/51024.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 113495,
+      "saved_as": "01463535_tablet_1.jpg",
+      "sha256": "49904f034adddf0d3bee6c2c2d07f6e197400056e8046f424130bc9d431d4214",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/25/10/51025.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 115412,
+      "saved_as": "01463535_tablet_2.jpg",
+      "sha256": "43c286cbb7300f5f35999db845ecba9dd0ad8626d88122b3c367b71427716104",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/24/79/47924.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 135136,
+      "saved_as": "01463535_leaflet.pdf",
+      "sha256": "a0bac7094839986fd07362c234dd9448a1970fad2ca1579579c9dc109ad21158",
+      "pages": 11,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/lasix-500-mg-tabs-tabletten-1463535.html?file=d843b65520f2f26e53d72ca4c13cb22e",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 09.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von LASIX 500 mg Tabs Tabletten",
+    "pzn_on_page": "01463535",
+    "pack_size_on_page": "20 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "Sanofi-Aventis Deutschland GmbH Frankfurt am Main www.sanofi.com",
+    "substances_on_page": [
+      "Furosemid 500 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Maisstärke Lactose-1-Wasser Cellulosepulver Carboxymethylstärke, Natrium Typ C Talkum",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/24/10/51024.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/24/10/51024.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/24/10/51024.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/25/10/51025.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 13,2 mm Höhe: 3,8 mm Masse: 708,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Kreuzkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"D L X\", \"Hoechster Logo mit Schriftzug\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/lasix-500-mg-tabs-tabletten-1463535.html?file=d843b65520f2f26e53d72ca4c13cb22e",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 09.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15",
+    "provider_website": "https://www.sanofi.com"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "",
+    "company_raw": "((ggf. zusätzlich:)) und",
+    "manufacturer_raw": "Sanofi-Aventis Deutschland GmbH 65926 Frankfurt am Main Postanschrift: Postfach 80 08 60 65908 Frankfurt am Main Telefon: 0800 52 52 010 ((ggf.:)) Hersteller Opella Healthcare International S.A.S. 157 Avenue Charles De Gaulle 92200 Neuilly-Sur-Seine Frankreich",
+    "revision_raw": "September 2025",
+    "wirkstoff_raw": "Furosemid Lesen Sie die gesamte Packungsbeilage sorgfältig durch, bevor Sie mit der Einnahme dieses Arzneimittels beginnen, denn sie enthält wichtige Informationen. − Heben Sie die Packungsbeilage auf",
+    "composition_raw": "",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

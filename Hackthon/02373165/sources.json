@@ -1,0 +1,243 @@
+{
+  "pzn": "02373165",
+  "input_file": "heart_failure_collection_list_expanded.csv",
+  "collection_row": {
+    "active_ingredient": "Carvedilol",
+    "category": "β受体阻滞剂（兼α1阻断） / Beta-blocker",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/carvedilol-stada-625-mg-tabletten-2373165.html",
+    "hf_context_zh": "HFrEF：射血分数降低的心衰（心脏泵血能力减弱）",
+    "mechanism_zh": "阻断β受体并扩张外周血管，减轻心脏负担。",
+    "clinical_role_zh": "稳定慢性HFrEF的基础治疗选择。",
+    "example_product_name": "CARVEDILOL STADA 6,25 mg Tabletten",
+    "pzn": "02373165",
+    "example_strength_as_stated": "6,25 mg",
+    "pack_size_units": "100",
+    "market": "DE",
+    "collection_order": "105",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/carvedilol-stada-625-mg-tabletten-2373165.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "STADAPHARM GmbH",
+    "ingredient_content_as_listed": "Carvedilol 6,25 mg pro 1 Tablette",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "product_page": {
+    "page_title": "Beipackzettel von CARVEDILOL STADA 6,25 mg Tabletten",
+    "pzn_on_page": "02373165",
+    "pack_size_on_page": "100 Stück (N3)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "STADAPHARM GmbH Bad Vilbel",
+    "substances_on_page": [
+      "Carvedilol 6,25 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Crospovidon Lactose-1-Wasser Magnesium stearat Povidon K25 Siliciumdioxid, hochdisperses",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/14/81/28114.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/14/81/28114.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/14/81/28114.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/15/81/28115.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 3,0 mm Breite: 4,0 mm Tiefe: 9,0 mm Masse: 90,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"S2\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/carvedilol-stada-625-mg-tabletten-2373165.html?file=1b9e8a4db3aefb7ea5733e8eb50d0a0a",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 01.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-10-27"
+  },
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/14/81/28114.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 47697,
+      "saved_as": "02373165_tablet_1.jpg",
+      "sha256": "288f0b63828d32daab44eac7e77a6c03ecc9efb83ae1d2a4dc54c89fe2c2199a",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/15/81/28115.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 47141,
+      "saved_as": "02373165_tablet_2.jpg",
+      "sha256": "b89d08d5d6738ad07780f6a626e42fdea99ffe3721641ef66323227161666b99",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/16/99/219916.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 582789,
+      "saved_as": "02373165_leaflet.pdf",
+      "sha256": "f9b5df3c8671c2dc45a27b988d636f847dedb1f4f31e55812e8e65aa96419c0e",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/carvedilol-stada-625-mg-tabletten-2373165.html?file=1b9e8a4db3aefb7ea5733e8eb50d0a0a",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 01.2025"
+    }
+  },
+  "unresolved_issues": [],
+  "field_sources": {
+    "pzn": {
+      "value": "02373165",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "market": {
+      "value": "DE",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "product_name": {
+      "value": "CARVEDILOL STADA 6,25 mg Tabletten",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "active_ingredient": {
+      "value": "Carvedilol",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Carvedilol 6,25 mg pro 1 Tablette",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "strength_as_stated": {
+      "value": "6,25 mg",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "dosage_form": {
+      "value": "Tabletten",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "pack_size": {
+      "value": "100",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "pharmaceutical_company": {
+      "value": "STADAPHARM GmbH, Stadastraße 2–18, 61118 Bad Vilbel Telefon: 06101 603-0, Telefax: 06101 603-3888 Internet: www.stadapharm.de",
+      "source": "leaflet PDF, automatic extract; requires review"
+    },
+    "color": {
+      "value": "white",
+      "source": "leaflet PDF, automatic extract; requires review"
+    },
+    "shape": {
+      "value": "oval, biconvex",
+      "source": "leaflet PDF, automatic extract; requires review"
+    },
+    "imprint": {
+      "value": "S2",
+      "source": "leaflet PDF, automatic extract; requires review"
+    },
+    "score_line": {
+      "value": "Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird.",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "appearance_description_original": {
+      "value": "Weiße, ovale, bikonvexe Tablette mit einer Bruchkerbe auf der einen Seite und der Prägung „S2“ auf der anderen Seite. Carvedilol STADA ® 6,25 mg",
+      "source": "leaflet PDF, automatic extract; requires review"
+    },
+    "tablet_image_1": {
+      "value": "02373165/02373165_tablet_1.jpg",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "tablet_image_2": {
+      "value": "02373165/02373165_tablet_2.jpg",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "leaflet_path": {
+      "value": "02373165/02373165_leaflet.pdf",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/carvedilol-stada-625-mg-tabletten-2373165.html",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "leaflet_revision_date": {
+      "value": "2025-01",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "retrieved_at": {
+      "value": "2026-11-13T15:43:29.675514+00:00",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "verification_status": {
+      "value": "PZN verified against product page; assets file-validated; automatically extracted; appearance and clinical details require review.",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "notes": {
+      "value": "Source catalogue strength preserved verbatim. Provider is recorded separately from manufacturer. Appearance/company details are automatically extracted from the leaflet; ambiguous multi-strength appearance fields are left blank. Leaflet document date is taken from the product page. ",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "category": {
+      "value": "β受体阻滞剂（兼α1阻断） / Beta-blocker",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "hf_context_zh": {
+      "value": "HFrEF：射血分数降低的心衰（心脏泵血能力减弱）",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "mechanism_zh": {
+      "value": "阻断β受体并扩张外周血管，减轻心脏负担。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "clinical_role_zh": {
+      "value": "稳定慢性HFrEF的基础治疗选择。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "strength_note_zh": {
+      "value": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "clinical_source_url": {
+      "value": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "mechanism_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/carvedilol-stada-625-mg-tabletten-2373165.html",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "dosage_form_as_listed": {
+      "value": "Tabletten",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "pharmaceutical_company_as_listed": {
+      "value": "STADAPHARM GmbH",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "ingredient_content_as_listed": {
+      "value": "Carvedilol 6,25 mg pro 1 Tablette",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "product_hf_indication_status": {
+      "value": "not_reviewed_check_product_leaflet",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "scope_note_zh": {
+      "value": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "notes_zh": {
+      "value": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "checked_on": {
+      "value": "2026-11-13",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "brand": {
+      "value": "CARVEDILOL STADA",
+      "source": "Derived from product_name: strength, dosage form and pack descriptors removed; existing brand capitalization reused where available.",
+      "product_name": "CARVEDILOL STADA 6,25 mg Tabletten"
+    }
+  },
+  "reuse_permission": "Not checked; original downloaded files and watermarks preserved."
+}

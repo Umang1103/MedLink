@@ -1,0 +1,201 @@
+{
+  "pzn": "10169496",
+  "generated_at": "2026-11-13T11:47:45.864805+00:00",
+  "retrieved_at": "2026-11-13T11:36:02.217729+00:00",
+  "product_page": {
+    "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eplerenon-ratiopharm-25-mg-filmtabletten-10169496.html",
+    "http_status": 200,
+    "pzn_on_page": "10169496",
+    "pack_size_on_page": "20 Stück (N1)",
+    "provider_on_page (Anbieter)": "ratiopharm GmbH Ulm www.ratiopharm.de",
+    "substances_on_page": [
+      "Eplerenon 25 mg pro 1 Tablette"
+    ],
+    "physical_data_on_page": "Abmessungen und Gewicht 1 Höhe: 2,8 mm Breite: 6,4 mm Tiefe: 7,4 mm Masse: 90,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Anordnung : ohne Kerbe Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"E25\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "page_last_reviewed": "2026-07-27",
+    "data_provider": "ABDATA Pharma-Daten-Service"
+  },
+  "files": {
+    "tablet_image_1": {
+      "local_path": "10169496/10169496_tablet_1.jpg",
+      "download_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/90/04/30490.jpg",
+      "viewer_page": null,
+      "download_ok": true,
+      "verified_type": "jpeg",
+      "bytes": 100655,
+      "pixels": "600x600",
+      "document_date_on_page": null
+    },
+    "tablet_image_2": {
+      "local_path": "10169496/10169496_tablet_2.jpg",
+      "download_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/91/04/30491.jpg",
+      "viewer_page": null,
+      "download_ok": true,
+      "verified_type": "jpeg",
+      "bytes": 99994,
+      "pixels": "600x600",
+      "document_date_on_page": null
+    },
+    "leaflet_path": {
+      "local_path": "10169496/10169496_leaflet.pdf",
+      "download_url": "https://image.wub-service.de/resources/static/drugexpert/261101/07/20/42007.pdf",
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eplerenon-ratiopharm-25-mg-filmtabletten-10169496.html?file=92c08b233a024cb55f906336e01e47a9",
+      "download_ok": true,
+      "verified_type": "pdf",
+      "bytes": 153417,
+      "pixels": null,
+      "document_date_on_page": "Dokumentdatum: 08.2024"
+    }
+  },
+  "image_classification": {
+    "result": "both files are tablet photographs (front and back) with mm scale and '© ABDATA | Dosing' watermark; yellow diamond tablet, 'E25' on one side, plain other side; consistent with page and leaflet",
+    "method": "visual review of each file",
+    "package_image": "none available"
+  },
+  "field_sources": {
+    "pzn": {
+      "value": "10169496",
+      "source": "product_page (verified equal to list)"
+    },
+    "market": {
+      "value": "DE",
+      "source": "derived (German PZN)"
+    },
+    "product_name": {
+      "value": "Eplerenon-ratiopharm 25 mg Filmtabletten",
+      "source": "leaflet_pdf title (German, preserved)"
+    },
+    "active_ingredient": {
+      "value": "Eplerenon",
+      "source": "leaflet_pdf section 6"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Eplerenon",
+      "source": "leaflet_pdf section 6"
+    },
+    "strength_as_stated": {
+      "value": "25 mg",
+      "source": "product_name / leaflet_pdf section 6 (label strength, not converted)"
+    },
+    "dosage_form": {
+      "value": "Filmtabletten",
+      "source": "product_page Darreichungsform + leaflet_pdf"
+    },
+    "pack_size": {
+      "value": "20",
+      "source": "product_page Packungsgröße (verified for this PZN)"
+    },
+    "brand": {
+      "value": "Eplerenon-ratiopharm",
+      "source": "product_name"
+    },
+    "pharmaceutical_company": {
+      "value": "ratiopharm GmbH, Graf-Arco-Str. 3, 89079 Ulm",
+      "source": "leaflet_pdf section 6 (Pharmazeutischer Unternehmer / Zulassungsinhaber)"
+    },
+    "manufacturer": {
+      "value": "Merckle GmbH, Ludwig-Merckle-Str. 3, 89143 Blaubeuren; oder TEVA Pharmaceutical Works Private Limited Company - Teva Gyógyszergyár Zrt., Pallagi út 13, 4042 Debrecen, Ungarn",
+      "source": "leaflet_pdf section 6 (Hersteller)"
+    },
+    "color": {
+      "value": "yellow",
+      "source": "leaflet_pdf section 6, normalised to English"
+    },
+    "shape": {
+      "value": "diamond-shaped, biconvex (approx. 6.4 mm wide, 7.4 mm long)",
+      "source": "leaflet_pdf section 6, normalised to English"
+    },
+    "imprint": {
+      "value": "E25",
+      "source": "product_page 'Sonstige Merkmale' + leaflet_pdf"
+    },
+    "score_line": {
+      "value": "none",
+      "source": "product_page 'Angaben zu Kerben' + leaflet_pdf"
+    },
+    "appearance_description_original": {
+      "value": "Eplerenon-ratiopharm® 25 mg Filmtabletten sind gelbe diamantenförmige beidseitig gewölbte Filmtabletten, ungefähr 6,4 mm breit und 7,4 mm lang, mit Prägung „E25“ auf einer Seite und ohne Prägung auf der anderen Seite.",
+      "source": "leaflet_pdf section 6 (German, verbatim)",
+      "note": "Reassembled from PDF text layer (product name displaced by layout); wording otherwise verbatim."
+    },
+    "tablet_image_1": {
+      "value": "10169496/10169496_tablet_1.jpg",
+      "source": "product_page 'Originalbilder des Präparats'"
+    },
+    "tablet_image_2": {
+      "value": "10169496/10169496_tablet_2.jpg",
+      "source": "product_page 'Originalbilder des Präparats'"
+    },
+    "package_image": {
+      "value": "",
+      "source": "none available"
+    },
+    "leaflet_path": {
+      "value": "10169496/10169496_leaflet.pdf",
+      "source": "product_page 'PDF-Dokumente' link"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eplerenon-ratiopharm-25-mg-filmtabletten-10169496.html",
+      "source": "heart_failure_collection_list.csv"
+    },
+    "manufacturer_source_url": {
+      "value": "",
+      "source": "not cross-checked"
+    },
+    "leaflet_revision_date": {
+      "value": "2024-08",
+      "source": "leaflet_pdf 'zuletzt überarbeitet im …'"
+    },
+    "retrieved_at": {
+      "value": "2026-11-13",
+      "source": "collection run date"
+    },
+    "verification_status": {
+      "value": "Extracted from product page and leaflet PDF; images visually confirmed as tablet photos; not clinically or pharmacist verified.",
+      "source": "workflow status"
+    },
+    "notes": {
+      "value": "Leaflet covers 25 mg and 50 mg; only the 25 mg description is used. Score: product page 'ohne Kerbe'. ABDATA average: 7.4 x 6.4 x 2.8 mm, mass 90.0 mg. Leaflet packs 20, 50, 100; this PZN = 20 (N1). The PDF text layer splits the product name out of the sentence; the original description was reassembled in reading order - check against the PDF.",
+      "source": "collector notes"
+    }
+  },
+  "unresolved_issues": [
+    "Appearance text reassembled from a scrambled PDF text layer; confirm wording against the PDF."
+  ],
+  "reuse_permission": "unverified - image XMP: creator 'Dosing GmbH Heidelberg', rights 'ABDATA Pharma-Daten-Service', usage terms 'Verwendung nach Lizenzbestimmungen'. No explicit open licence found. Do not publish or deploy.",
+  "attribution": {
+    "product_page": "ABDATA Pharma-Daten-Service via apotheken-umschau.de",
+    "images": "© ABDATA | Dosing (watermark preserved, files unmodified)",
+    "leaflet_pdf": "marketing authorisation holder's patient leaflet, hosted by image.wub-service.de"
+  },
+  "expanded_catalogue": {
+    "input_file": "heart_failure_collection_list_expanded.csv",
+    "row": {
+      "active_ingredient": "Eplerenon",
+      "category": "盐皮质激素受体拮抗剂 / MRA",
+      "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eplerenon-ratiopharm-25-mg-filmtabletten-10169496.html",
+      "hf_context_zh": "特定慢性HFrEF；也用于心肌梗死后伴左室功能不全和心衰的特定患者。",
+      "mechanism_zh": "选择性阻断醛固酮受体，减少醛固酮引起的不利心脏重塑并保钾。",
+      "clinical_role_zh": "HFrEF基础治疗中的MRA选择。",
+      "example_product_name": "EPLERENON-ratiopharm 25 mg Filmtabletten",
+      "pzn": "10169496",
+      "example_strength_as_stated": "25 mg",
+      "pack_size_units": "20",
+      "market": "DE",
+      "collection_order": "4",
+      "collection_status": "check_existing_record",
+      "notes_zh": "原清单已有产品；按 market+pzn 检查已有记录。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+      "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+      "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+      "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eplerenon-ratiopharm-25-mg-filmtabletten-10169496.html",
+      "checked_on": "2026-11-13",
+      "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+      "dosage_form_as_listed": "Filmtabletten",
+      "pharmaceutical_company_as_listed": "ratiopharm GmbH",
+      "ingredient_content_as_listed": "Eplerenon 25 mg pro 1 Tablette",
+      "pill_photo_status": "listed_on_product_page_not_visually_verified",
+      "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+      "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+    }
+  }
+}

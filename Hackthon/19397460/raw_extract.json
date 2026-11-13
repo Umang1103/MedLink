@@ -1,0 +1,98 @@
+{
+  "pzn": "19397460",
+  "list_row": {
+    "active_ingredient": "Ramipril",
+    "category": "血管紧张素转换酶抑制剂 / ACE inhibitor",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ramipril-089pharm-5-mg-tabletten-19397460.html",
+    "hf_context_zh": "有症状的心衰，主要关联HFrEF；也可用于特定心梗后心衰。",
+    "mechanism_zh": "减少血管紧张素II生成，降低血管阻力及醛固酮作用。",
+    "clinical_role_zh": "HFrEF中肾素-血管紧张素系统治疗的选择。",
+    "example_product_name": "RAMIPRIL 089PHARM 5 mg Tabletten",
+    "pzn": "19397460",
+    "example_strength_as_stated": "5 mg",
+    "pack_size_units": "20",
+    "market": "DE",
+    "collection_order": "12",
+    "collection_status": "pending_extraction",
+    "notes_zh": "ACE抑制剂、ARB、ARNI不是应全部叠加的清单；不要自动生成联合用药方案。",
+    "strength_note_zh": "示例产品规格，不是患者每次或每日服药剂量；具体适应证以该产品现行说明书为准",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ramipril-089pharm-5-mg-tabletten-19397460.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "心衰相关药物采集起始清单；每种成分/复方选一个产品示例，不穷尽药物、品牌或规格；非患者用药方案；图片和PDF待采集核实。"
+  },
+  "retrieved_at": "2026-11-13T11:37:06.556093+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/97/06/190697.jpg",
+      "http_status": 200,
+      "content_type": "image/jpeg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 104244,
+      "saved_as": "19397460_original_image_1.jpg",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/98/06/190698.jpg",
+      "http_status": 200,
+      "content_type": "image/jpeg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 102380,
+      "saved_as": "19397460_original_image_2.jpg",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/72/32/193272.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 211826,
+      "saved_as": "19397460_leaflet.pdf",
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ramipril-089pharm-5-mg-tabletten-19397460.html?file=2482cb040c9de798366e3f9eb24b50d4",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 12.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von RAMIPRIL 089PHARM 5 mg Tabletten",
+    "pzn_on_page": "19397460",
+    "pack_size_on_page": "20 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten Dosierung & Anwendung Nebenwirkungen Wechselwirkungen alle Kapitel anzeigen Wirkung Originalbilder Anwendungsgebiete Gegenanzeigen & Hinweise Aufbewahrung Lagerungshinweise PDF-Dokumente",
+    "provider_on_page": "089PHARM GmbH München-Flughafen 089pharm.de",
+    "substances_on_page": [
+      "Ramipril 5 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Natriumhydrogencarbonat Lactose-1-Wasser Lactose Croscarmellose natrium Maisstärke, vorverkleistert",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/97/06/190697.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/97/06/190697.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/97/06/190697.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/98/06/190698.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 2,9 mm Breite: 4,5 mm Tiefe: 8,9 mm Masse: 129,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : ja 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"R3\" Besonderheiten Die Tablette ist marmoriert und gesprenkelt. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ramipril-089pharm-5-mg-tabletten-19397460.html?file=2482cb040c9de798366e3f9eb24b50d4",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 12.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-10-09"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": ": Ramipril 089PHARM 5 mg Tabletten Pinkfarbene, kapselförmige und flache Tablette mit Bruchrille auf einer Seite und flachen Seitenwänden. Auf einer Seite mit der Prägung “R3”. Ramipril 089PHARM 10 mg Tabletten Weiße, kapselförmige, flache Tablette mit Bruchrille auf einer Seite sowie an den Seiten. Auf einer Seite mit der Prägung “R4”. Ramipril 089PHARM sind in Al/Al Blisterstreifen in Packungsgrößen mit 20, 50 und 100 Tabletten erhältlich.",
+    "company_raw": "",
+    "manufacturer_raw": "",
+    "revision_raw": "Dezember 2025",
+    "wirkstoff_raw": "Ramipril Lesen Sie die gesamte Packungsbeilage sorgfältig durch, bevor Sie mit der Einnahme dieses Arzneimittels beginnen, denn sie enthält wichtige Informationen. • Heben Sie die Packungsbeilage auf.",
+    "composition_raw": ": Der Wirkstoff ist Ramipril. 8/8 Ramipril 089PHARM 5 mg Tabletten 1 Tablette enthält 5 mg Ramipril. Die sonstigen Bestandteile sind: Natriumhydrogencarbonat, Lactose-Monohydrat, Croscarmellose-Natrium, vorverkleisterte Maisstärke, Natriumstearylfumarat (Ph. Eur.), Eisen(III)-oxid (E172), Eisen(III)-hydroxid-oxid x H2O (E172). Ramipril 089PHARM 10 mg Tabletten 1 Tablette enthält 10 mg Ramipril. Die sonstigen Bestandteile sind: Natriumhydrogencarbonat, Lactose-Monohydrat, Croscarmellose-Natrium,",
+    "pdf_title": ""
+  }
+}

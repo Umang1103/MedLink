@@ -1,0 +1,105 @@
+{
+  "pzn": "10183958",
+  "list_row": {
+    "active_ingredient": "Bisoprolol",
+    "category": "β受体阻滞剂 / Beta-blocker",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-tad-25-mg-filmtabletten-10183958.html",
+    "hf_context_zh": "HFrEF：射血分数降低的心衰（心脏泵血能力减弱）",
+    "mechanism_zh": "减弱交感神经对心脏的刺激，降低心率和心肌耗氧。",
+    "clinical_role_zh": "稳定慢性HFrEF的基础治疗之一，改善长期结局。",
+    "example_product_name": "BISOPROLOL TAD 2,5 mg Filmtabletten",
+    "pzn": "10183958",
+    "example_strength_as_stated": "2,5 mg",
+    "pack_size_units": "30",
+    "market": "DE",
+    "collection_order": "25",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-tad-25-mg-filmtabletten-10183958.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Filmtabletten",
+    "pharmaceutical_company_as_listed": "TAD Pharma GmbH",
+    "ingredient_content_as_listed": "Bisoprolol fumarat 2,5 mg pro 1 Tablette; = Bisoprolol (2,12 mg pro 1 Tablette)",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:42:04.455363+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/48/64/106448.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 96377,
+      "saved_as": "10183958_tablet_1.jpg",
+      "sha256": "b6c7aa7bd3757fa64bde412a20efa4e3c8936d349e463e3fc09f100c8b2064fd",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/49/64/106449.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 94850,
+      "saved_as": "10183958_tablet_2.jpg",
+      "sha256": "b63d13076452d72ef5fd1ddc377a2e3416865c11699facdb9f3519048a23b445",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/67/47/114767.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 178430,
+      "saved_as": "10183958_leaflet.pdf",
+      "sha256": "30f1c503d89f4910798ec67911db3df9646748a75ac7c08d4b670f27b7c521ea",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-tad-25-mg-filmtabletten-10183958.html?file=140f48130d8e62889f80c0528017b5f8",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 10.2021"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von BISOPROLOL TAD 2,5 mg Filmtabletten",
+    "pzn_on_page": "10183958",
+    "pack_size_on_page": "30 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten",
+    "provider_on_page": "TAD Pharma GmbH Cuxhaven www.tad.de",
+    "substances_on_page": [
+      "Bisoprolol fumarat 2,5 mg pro 1 Tablette",
+      "= Bisoprolol (2,12 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Cellulose, mikrokristalline Carboxymethylstärke, Natrium Typ A Povidon K30 Siliciumdioxid, hochdisperses Magnesium stearat (pflanzlich)",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/48/64/106448.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/48/64/106448.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/48/64/106448.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/49/64/106449.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 3,2 mm Breite: 5,5 mm Tiefe: 8,5 mm Masse: 119,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-tad-25-mg-filmtabletten-10183958.html?file=140f48130d8e62889f80c0528017b5f8",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 10.2021"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27",
+    "provider_website": "https://www.tad.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Weiße bis fast weiße, ovale, leicht bikonvexe Filmtabletten (Tabletten), mit einer Bruchkerbe auf einer Seite (Länge: 8,3 – 8,7 mm, Breite: 5,5 mm, Dicke: 2,8 – 3,6 mm). Die Tablette kann in gleiche Dosen geteilt werden. Blisterpackungen (Alu/Alu-Folie) mit 30, 50, 90 und 100 Tabletten in einer Faltschachtel.",
+    "company_raw": "TAD Pharma GmbH Heinz-Lohmann-Straße 5 27472 Cuxhaven Tel.: (04721) 606-0 Fax: (04721) 606-333 E-Mail: info@tad.de",
+    "manufacturer_raw": "Krka, d.d., Novo mesto Šmarješka cesta 6 8501 Novo mesto Slowenien",
+    "revision_raw": "Oktober 2021",
+    "wirkstoff_raw": "in Bisoprolol-TAD ist Bisoprololfumarat. Bisoprolol gehört zur Arzneimittelgruppe der Beta- Rezeptorenblocker. Diese Arzneimittel beeinflussen die Antwort des Körpers auf einige Nervenimpulse, vor all",
+    "composition_raw": "• Der Wirkstoff ist: Bisoprololfumarat. Jede Filmtablette enthält 2,5 mg Bisoprololfumarat (Ph.Eur.). • Die sonstigen Bestandteile sind: Mikrokristalline Cellulose, Carboxymethylstärke-Natrium (Typ A) (Ph.Eur.), Povidon (K30), hochdisperses Siliciumdioxid und Magnesiumstearat (Ph.Eur.) [pflanzlich] in dem Tablettenkern und Hypromellose, Macrogol 400, Titandioxid (E 171), Talkum im Filmüberzug. Siehe Abschnitt 2 „Bisoprolol-TAD enthält Natrium”. Wie Bisoprolol-TAD aussieht und Inhalt der Packung",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

@@ -1,0 +1,105 @@
+{
+  "pzn": "04704873",
+  "list_row": {
+    "active_ingredient": "Bisoprolol",
+    "category": "β受体阻滞剂 / Beta-blocker",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-vitabalans-5-mg-tabletten-4704873.html",
+    "hf_context_zh": "HFrEF：射血分数降低的心衰（心脏泵血能力减弱）",
+    "mechanism_zh": "减弱交感神经对心脏的刺激，降低心率和心肌耗氧。",
+    "clinical_role_zh": "稳定慢性HFrEF的基础治疗之一，改善长期结局。",
+    "example_product_name": "BISOPROLOL Vitabalans 5 mg Tabletten",
+    "pzn": "04704873",
+    "example_strength_as_stated": "5 mg",
+    "pack_size_units": "100",
+    "market": "DE",
+    "collection_order": "26",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-vitabalans-5-mg-tabletten-4704873.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "Blanco Pharma GmbH",
+    "ingredient_content_as_listed": "Bisoprolol fumarat 5 mg pro 1 Tablette; = Bisoprolol (4,24 mg pro 1 Tablette)",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:42:04.855077+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/43/26/62643.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 104011,
+      "saved_as": "04704873_tablet_1.jpg",
+      "sha256": "65d8da10458b5aa25c0c5804c3329b36e67b94d85bd0b2854edc92f93b8c28eb",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/44/26/62644.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 100637,
+      "saved_as": "04704873_tablet_2.jpg",
+      "sha256": "8b1eee2d196d6e430cf56902c9c1ffab58e2042fa801c45143e826ea4569eb59",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/82/52/15282.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 138868,
+      "saved_as": "04704873_leaflet.pdf",
+      "sha256": "ae715392ba23ad0fa522e08a65ce5b6461bb42ac7c6287b996d02fe5adb8f0f8",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-vitabalans-5-mg-tabletten-4704873.html?file=4c7b3313bcb864120cf3712cd3c1c070",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 05.2022"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von BISOPROLOL Vitabalans 5 mg Tabletten",
+    "pzn_on_page": "04704873",
+    "pack_size_on_page": "100 Stück (N3)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "Blanco Pharma GmbH Ellerbek www.blanco-pharma.de",
+    "substances_on_page": [
+      "Bisoprolol fumarat 5 mg pro 1 Tablette",
+      "= Bisoprolol (4,24 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Calciumhydrogenphosphat-2-Wasser Magnesium stearat Cellulose, mikrokristalline",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/43/26/62643.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/43/26/62643.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/43/26/62643.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/44/26/62644.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 8,0 mm Höhe: 3,6 mm Masse: 184,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-vitabalans-5-mg-tabletten-4704873.html?file=4c7b3313bcb864120cf3712cd3c1c070",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 05.2022"
+      }
+    ],
+    "page_last_reviewed": "2026-10-09",
+    "provider_website": "https://www.blanco-pharma.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Aussehen der Bisoprolol Vitabalans Tabletten: Weiße, runde, konvexe Tablette mit Bruchkerbe . Der Diameter beträgt 8 mm. Die Tablette kann in gleiche Dosen geteilt werden. Packungsgrößen: 10, 20, 28, 30, 50, 56, 60, 90 und 100 Tabletten (PVC/Al oder PVC/PVdC/Al Blisterpackungen). Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "und",
+    "manufacturer_raw": "Vitabalans Oy Varastokatu 8 13500 Hämeenlinna Finnland Tel.-Nr.: +358 (3) 615600 Fax-Nr.: +358 (3) 6183130",
+    "revision_raw": "",
+    "wirkstoff_raw": "in Bisoprolol Vitabalans oder einen der sonstigen Bestandteile in diesem Arzneimittel sind (siehe Abschnitt 6 in diesem Beipackzettel), - wenn Sie an unbehandelter Herzschwäche (die Kurzatmigkeit und",
+    "composition_raw": ": Der Wirkstoff ist: Bisoprololhemifumarat. Eine Tablette enthält 5 mg Bisoprololhemifumarat entsprechend 4.2 mg Bisoprolol. Die sonstigen Bestandteile sind: Calciumhydrogenphosphat- Dihydrat, Magnesiumstearat, Mikrokristalline Cellulose. Wie Bisoprolol Vitabalans aussieht und Inhalt der Packung Aussehen der Bisoprolol Vitabalans Tabletten: Weiße, runde, konvexe Tablette mit Bruchkerbe . Der Diameter beträgt 8 mm. Die Tablette kann in gleiche Dosen geteilt werden. Packungsgrößen: 10, 20, 28, 30,",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

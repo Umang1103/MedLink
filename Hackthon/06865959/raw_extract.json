@@ -1,0 +1,31 @@
+{
+  "pzn": "06865959",
+  "retrieved_at": "2026-11-13",
+  "_provenance": "Transcribed from the product page text fetched on 2026-11-13 during the first collection session (before collect_medications.py existed). Not re-fetched. Fields not captured in that fetch are left empty.",
+  "page_http_status": 200,
+  "page": {
+    "page_title": "BISOPROLOL-ratiopharm 5 mg Tabletten - Beipackzettel",
+    "pzn_on_page": "06865959",
+    "pack_size_on_page": "30 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "",
+    "substances_on_page": [],
+    "excipients_on_page": "Lactose-1-Wasser Cellulose, mikrokristalline Magnesium stearat Crospovidon Gelb PB 22812",
+    "primary_image_url": "",
+    "packshot_url": "",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/51/51/45151.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/52/51/45152.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 8,2 mm Höhe: 3,3 mm Masse: 178,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"5\" Besonderheiten Die Tablette ist marmoriert.",
+    "pdf_links": [],
+    "page_last_reviewed": "2025-11-24"
+  },
+  "downloads": {
+    "image_1": {"url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/51/51/45151.jpg", "ok": true, "kind": "jpeg", "bytes": 133078, "pixels": "600x600"},
+    "image_2": {"url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/52/51/45152.jpg", "ok": true, "kind": "jpeg", "bytes": 122566, "pixels": "600x600"},
+    "leaflet": {"url": "https://image.wub-service.de/resources/static/drugexpert/261101/69/16/41669.pdf", "ok": true, "kind": "pdf", "bytes": 145868}
+  },
+  "issues": []
+}

@@ -1,0 +1,99 @@
+{
+  "pzn": "05919707",
+  "list_row": {
+    "active_ingredient": "Nebivolol",
+    "category": "β受体阻滞剂 / Beta-blocker",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/nebivolol-al-5-mg-tabletten-5919707.html",
+    "hf_context_zh": "≥70岁患者的稳定、轻至中度慢性心衰，作为标准治疗的补充。",
+    "mechanism_zh": "阻断β1受体，降低心率；另有一氧化氮相关血管舒张作用。",
+    "clinical_role_zh": "特定老年心衰患者的治疗选择。",
+    "example_product_name": "NEBIVOLOL AL 5 mg Tabletten",
+    "pzn": "05919707",
+    "example_strength_as_stated": "5 mg Nebivolol",
+    "pack_size_units": "30",
+    "market": "DE",
+    "collection_order": "11",
+    "collection_status": "pending_extraction",
+    "notes_zh": "不要把其心衰适应证扩展为所有年龄或所有急性心衰患者。",
+    "strength_note_zh": "示例产品规格，不是患者每次或每日服药剂量；具体适应证以该产品现行说明书为准",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/nebivolol-al-5-mg-tabletten-5919707.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "心衰相关药物采集起始清单；每种成分/复方选一个产品示例，不穷尽药物、品牌或规格；非患者用药方案；图片和PDF待采集核实。"
+  },
+  "retrieved_at": "2026-11-13T11:36:55.845297+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/55/39/33955.jpg",
+      "http_status": 200,
+      "content_type": "image/jpeg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 89422,
+      "saved_as": "05919707_original_image_1.jpg",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/56/39/33956.jpg",
+      "http_status": 200,
+      "content_type": "image/jpeg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 87236,
+      "saved_as": "05919707_original_image_2.jpg",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/68/94/79468.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 122590,
+      "saved_as": "05919707_leaflet.pdf",
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/nebivolol-al-5-mg-tabletten-5919707.html?file=a777982ff638d21249668c563a58e9a2",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 07.2014"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von NEBIVOLOL AL 5 mg Tabletten",
+    "pzn_on_page": "05919707",
+    "pack_size_on_page": "30 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten Dosierung & Anwendung Nebenwirkungen Wechselwirkungen alle Kapitel anzeigen Wirkung Originalbilder Anwendungsgebiete Gegenanzeigen & Hinweise Aufbewahrung Lagerungshinweise PDF-Dokumente",
+    "provider_on_page": "ALIUD Pharma GmbH Laichingen www.aliud.de",
+    "substances_on_page": [
+      "Nebivolol hydrochlorid 5,45 mg pro 1 Tablette",
+      "= Nebivolol (5 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Povidon K30 Lactose-1-Wasser Maisstärke, vorverkleistert Croscarmellose natrium Siliciumdioxid",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/55/39/33955.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/55/39/33955.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/55/39/33955.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/56/39/33956.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 8,6 mm Höhe: 4,0 mm Masse: 227,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Kreuzkerbe Form : keil-/rinnenförmig Anordnung : beidseitig Spaltung 2 : ja 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Besonderheiten Die Tablette hat auf der Vorderseite eine breite keilförmige und auf der Rückseite eine schmale rinnenförmige Kreuzkerbe. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/nebivolol-al-5-mg-tabletten-5919707.html?file=a777982ff638d21249668c563a58e9a2",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 07.2014"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "NEBIVOLOL AL ist nur in der Stärke 5 mg erhältlich. Weiße, runde, bikonvexe Tablette mit beidseitiger Kreuzbruchrille. NEBIVOLOL AL ist in Packungen mit 30, 50 und 100 Tabletten erhältlich.",
+    "company_raw": "ALIUD PHARMA ® GmbH Gottlieb-Daimler-Straße 19 · D-89150 Laichingen info@aliud.de",
+    "manufacturer_raw": "STADA Arzneimittel AG, Stadastraße 2 – 18 61118 Bad Vilbel",
+    "revision_raw": "Juli 2014",
+    "wirkstoff_raw": "Nebivolol Lesen Sie die gesamte Packungsbeilage sorgfältig durch, bevor Sie mit der Einnahme dieses Arzneimittels beginnen, denn sie enthält wichtige Informationen. • Heben Sie die Packungsbeilage auf",
+    "composition_raw": "Nebivolol, ein Herz-Kreislauf- Arzneimittel aus der Gruppe der selektiven Beta- Rezeptorenblocker (d. h. es wirkt gezielt auf das Herz- Kreislauf-System). Es beugt einem zu schnellen Herz schlag vor und reguliert die Schlagkraft des Herzens. Außerdem erweitert es die Blutgefäße, was ebenfalls zu einer Senkung des Blutdrucks beiträgt. NEBIVOLOL AL wird angewendet • zur Behandlung des nicht organbedingten Bluthoch - drucks (essenzielle Hypertonie), • zur Behandlung der stabilen leichten bis mittel",
+    "pdf_title": ""
+  }
+}

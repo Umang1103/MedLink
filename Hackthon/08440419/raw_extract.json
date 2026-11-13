@@ -1,0 +1,104 @@
+{
+  "pzn": "08440419",
+  "list_row": {
+    "active_ingredient": "Valsartan",
+    "category": "血管紧张素II受体阻滞剂 / ARB",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/valsartan-zentiva-160-mg-filmtabletten-8440419.html",
+    "hf_context_zh": "特定有症状的HFrEF患者；也用于特定心梗后左室功能不全/心衰。",
+    "mechanism_zh": "阻断AT1受体，减轻血管收缩、钠水潴留和心脏负荷。",
+    "clinical_role_zh": "HFrEF中肾素-血管紧张素系统治疗的替代选择。",
+    "example_product_name": "VALSARTAN Zentiva 160 mg Filmtabletten",
+    "pzn": "08440419",
+    "example_strength_as_stated": "160 mg",
+    "pack_size_units": "28",
+    "market": "DE",
+    "collection_order": "163",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/valsartan-zentiva-160-mg-filmtabletten-8440419.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Filmtabletten",
+    "pharmaceutical_company_as_listed": "Zentiva Pharma GmbH",
+    "ingredient_content_as_listed": "Valsartan 160 mg pro 1 Tablette",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:44:28.912641+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/36/10/51036.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 168450,
+      "saved_as": "08440419_tablet_1.jpg",
+      "sha256": "902416a9abcfb23afa16f5dd6b96f7c813b79350d3f2ae7dcb15a692f14217fa",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/37/10/51037.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 166883,
+      "saved_as": "08440419_tablet_2.jpg",
+      "sha256": "a607bfea7d0e19558ab0bd92442161e10ac4fb501585ba58c08e74171491e34a",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/16/88/48816.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 199479,
+      "saved_as": "08440419_leaflet.pdf",
+      "sha256": "a5e417b517741f63e3a4640c9408b307b992d238ef39af24f5d20255bbc7531d",
+      "pages": 8,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/valsartan-zentiva-160-mg-filmtabletten-8440419.html?file=f69105183937d1c10a9dfd79c0314a9d",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 01.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von VALSARTAN Zentiva 160 mg Filmtabletten",
+    "pzn_on_page": "08440419",
+    "pack_size_on_page": "28 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten",
+    "provider_on_page": "Zentiva Pharma GmbH Berlin www.zentiva.de",
+    "substances_on_page": [
+      "Valsartan 160 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Cellulose, mikrokristalline Siliciumdioxid, hochdisperses Sorbitol Magnesiumcarbonat Maisstärke, vorverkleistert",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/36/10/51036.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/36/10/51036.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/36/10/51036.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/37/10/51037.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 10,3 mm Höhe: 5,3 mm Masse: 343,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/valsartan-zentiva-160-mg-filmtabletten-8440419.html?file=f69105183937d1c10a9dfd79c0314a9d",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 01.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27",
+    "provider_website": "https://www.zentiva.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Valsartan Zentiva 160 mg sind zylindrische, bikonvexe, ockerfarbene Tabletten mit einseitiger Bruchkerbe und einem Durchmesser von 10,3 mm ± 5 %. Die Tablette kann in zwei gleich große Hälften geteilt werden. Die Tabletten sind in Packungen zu jeweils 14, 28, 56 und 98 Filmtabletten erhältlich. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "Zentiva Pharma GmbH 65927 Frankfurt am Main Telefon: (01 80) 2 02 00 10* Telefax: (01 80) 2 02 00 11* Mitvertrieb Winthrop Arzneimittel GmbH 65927 Frankfurt am Main",
+    "manufacturer_raw": "Winthrop Arzneimittel GmbH 65927 Frankfurt am Main Deutschland Oder Zentiva, k.s. U kabelovny 130 102 37 Prag 10 – Dolni Mecholupy Tschechische Republik",
+    "revision_raw": "Januar 2025",
+    "wirkstoff_raw": "Valsartan und gehört zu einer Klasse von Arzneimitteln, die als Angiotensin-II-Rezeptorantagonisten bekannt sind und die helfen, einen hohen Blutdruck zu kontrollieren. Angiotensin II ist eine körpere",
+    "composition_raw": "Der Wirkstoff ist Valsartan. Jede Filmtablette Valsartan Zentiva 160 mg enthält 160 mg Valsartan. Die sonstigen Bestandteile sind: Mikrokristalline Cellulose, hochdisperses Siliciumdioxid, Sorbitol (Ph. Eur.) (E 420), Magnesiumcarbonat, vorverkleisterte Maisstärke, Povidon K 25, Natriumstearylfumarat (Ph. Eur.), Natriumdodecylsulfat, Crospovidon Typ A, Lactose-Monohydrat, Hypromellose. Valsartan Zentiva 160 mg enthält außerdem Talkum, Macrogol 6000 und als Farbstoffe Eisen(III)- hydroxid-oxid x",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

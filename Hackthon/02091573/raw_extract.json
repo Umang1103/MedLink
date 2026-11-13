@@ -1,0 +1,94 @@
+{
+  "pzn": "02091573",
+  "list_row": {
+    "active_ingredient": "Bisoprolol",
+    "category": "β受体阻滞剂 / Beta-blocker",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/concor-5-mg-filmtabletten-2091573.html",
+    "hf_context_zh": "HFrEF：射血分数降低的心衰（心脏泵血能力减弱）",
+    "mechanism_zh": "减弱交感神经对心脏的刺激，降低心率和心肌耗氧。",
+    "clinical_role_zh": "稳定慢性HFrEF的基础治疗之一，改善长期结局。",
+    "example_product_name": "CONCOR 5 mg Filmtabletten",
+    "pzn": "02091573",
+    "example_strength_as_stated": "5 mg",
+    "pack_size_units": "100",
+    "market": "DE",
+    "collection_order": "28",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/concor-5-mg-filmtabletten-2091573.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Filmtabletten",
+    "pharmaceutical_company_as_listed": "Merck Healthcare Germany GmbH",
+    "ingredient_content_as_listed": "Bisoprolol fumarat 5 mg pro 1 Tablette; = Bisoprolol (4,24 mg pro 1 Tablette)",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:42:06.747676+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/03/22/32203.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 93138,
+      "saved_as": "02091573_tablet_1.jpg",
+      "sha256": "0bbf7a19aa7b177235f7d6044ec2a097f82bf71f0020cc6b29f075ea28f4d1b9",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/58/89/98958.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 181949,
+      "saved_as": "02091573_leaflet.pdf",
+      "sha256": "408b4a811d637d116e0ced23597d41bf2b2e745713b2fec8cd0ebbdbf6589e06",
+      "pages": 9,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/concor-5-mg-filmtabletten-2091573.html?file=af1960cd94d1c26fcf35e096362aef94",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 05.2022"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von CONCOR 5 mg Filmtabletten",
+    "pzn_on_page": "02091573",
+    "pack_size_on_page": "100 Stück (N3)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten",
+    "provider_on_page": "Merck Healthcare Germany GmbH Weiterstadt",
+    "substances_on_page": [
+      "Bisoprolol fumarat 5 mg pro 1 Tablette",
+      "= Bisoprolol (4,24 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Siliciumdioxid, hochdisperses Magnesium stearat Crospovidon Cellulose, mikrokristalline Maisstärke",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/03/22/32203.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/03/22/32203.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/03/22/32203.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 2,7 mm Breite: 6,6 mm Tiefe: 7,8 mm Masse: 174,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : beidseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/concor-5-mg-filmtabletten-2091573.html?file=af1960cd94d1c26fcf35e096362aef94",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 05.2022"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Concor 5 mg sind gelblichweiße, herzförmige Filmtabletten mit Teilungsrille. Concor 5 mg ist in Packungen mit 30, 50 und 100 Filmtabletten erhältlich.",
+    "company_raw": "und",
+    "manufacturer_raw": "Pharmazeutischer Unternehmer Merck Healthcare Germany GmbH Waldstraße 3 64331 Weiterstadt Kostenfreie Service-Nummer: Tel.: 0800 42 88 373 Fax: (06151) 6285 816 E-Mail: Medwiss.Service@merckgroup.com Hersteller Merck Healthcare KGaA Frankfurter Straße 250 64293 Darmstadt und Merck, S.L. Polígono Merck 08100 Mollet del Vallès (Barcelona) Spanien",
+    "revision_raw": "Mai 2022",
+    "wirkstoff_raw": "Bisoprololfumarat Lesen Sie die gesamte Packungsbeilage sorgfältig durch, bevor Sie mit der Einnahme dieses Arzneimittels beginnen, denn sie enthält wichtige Informationen. - Heben Sie die Packungsbei",
+    "composition_raw": "Der Wirkstoff ist: Bisoprololfumarat. 1 Filmtablette Concor 5 mg enthält 5 mg Bisoprololfumarat. Die sonstigen Bestandteile sind: Tablettenkern: Hochdisperses Siliciumdioxid; Magnesiumstearat (Ph.Eur.); Crospovidon; mikrokristalline Cellulose; Maisstärke; Calciumhydrogenphosphat. Filmüberzug: Eisen(III)-hydroxid-oxid x H 2O; Dimeticon; Macrogol 400; Titandioxid; Hypromellose. Wie Concor 5 mg aussieht und Inhalt der Packung Concor 5 mg sind gelblichweiße, herzförmige Filmtabletten mit Teilungsril",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

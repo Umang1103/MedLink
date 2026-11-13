@@ -1,0 +1,104 @@
+{
+  "pzn": "01562556",
+  "list_row": {
+    "active_ingredient": "Torasemid",
+    "category": "袢利尿剂 / Loop diuretic",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/torasemid-al-10-mg-tabletten-1562556.html",
+    "hf_context_zh": "伴心衰相关水肿或体液潴留的患者。",
+    "mechanism_zh": "促进肾脏排钠、排水，减轻循环液体负荷。",
+    "clinical_role_zh": "主要用于缓解淤血和水肿。",
+    "example_product_name": "TORASEMID AL 10 mg Tabletten",
+    "pzn": "01562556",
+    "example_strength_as_stated": "10 mg",
+    "pack_size_units": "100",
+    "market": "DE",
+    "collection_order": "73",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/torasemid-al-10-mg-tabletten-1562556.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "ALIUD Pharma GmbH",
+    "ingredient_content_as_listed": "Torasemid 10 mg pro 1 Tablette",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:42:54.954656+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/70/53/35370.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 92670,
+      "saved_as": "01562556_tablet_1.jpg",
+      "sha256": "e0a0410f18f51550fdfe608597c10dd365a78a34d366f4a7c6e2ca356bb8f2a9",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/71/53/35371.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 89631,
+      "saved_as": "01562556_tablet_2.jpg",
+      "sha256": "1d0db39d8c008d88bece8dc1c24ee190b23f37385336d6d50c754b754273d765",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/34/98/79834.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 96468,
+      "saved_as": "01562556_leaflet.pdf",
+      "sha256": "8dcf595bc8c1ce088875fb7f6a88160d192dcc0c53cea6650c4238ac0406b543",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/torasemid-al-10-mg-tabletten-1562556.html?file=1599b92a034c54d8c37ec877b937262a",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 08.2022"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von TORASEMID AL 10 mg Tabletten",
+    "pzn_on_page": "01562556",
+    "pack_size_on_page": "100 Stück (N3)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "ALIUD Pharma GmbH Laichingen www.aliud.de",
+    "substances_on_page": [
+      "Torasemid 10 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Carboxymethylstärke, Natrium Typ A Lactose-1-Wasser Maisstärke Magnesium stearat Siliciumdioxid, hochdisperses",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/70/53/35370.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/70/53/35370.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/70/53/35370.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/71/53/35371.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 8,1 mm Höhe: 2,9 mm Masse: 162,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"916\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/torasemid-al-10-mg-tabletten-1562556.html?file=1599b92a034c54d8c37ec877b937262a",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 08.2022"
+      }
+    ],
+    "page_last_reviewed": "2026-10-27",
+    "provider_website": "https://www.aliud.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Weiße bis nahezu weiße, runde, bikonvexe Tablette mit einer Bruchkerbe auf der einen Seite und der Prägung „916“ auf der anderen Seite. TORASEMID AL 10 mg Tabletten ist in Packungen mit 30, 50 und 100 Tabletten erhältlich. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "ALIUD PHARMA® GmbH Gottlieb-Daimler-Straße 19 · D-89150 Laichingen info@aliud.de",
+    "manufacturer_raw": "STADA Arzneimittel AG, Stadastraße 2 – 18 61118 Bad Vilbel",
+    "revision_raw": "August 2022",
+    "wirkstoff_raw": "Torasemid Lesen Sie die gesamte Packungsbeilage sorgfältig durch, bevor Sie mit der Einnahme dieses Arzneimittels beginnen, denn sie enthält wichtige Informationen. • Heben Sie die Packungsbeilage auf",
+    "composition_raw": "Der Wirkstoff ist Torasemid. 1 Tablette enthält 10 mg Torasemid. Die sonstigen Bestandteile sind: Carboxymethylstärke-Natrium (Typ A) (Ph.Eur.), Lactose-Monohydrat, Maisstärke, Magnesiumstearat (Ph.Eur.), hochdisperses Siliciumdioxid. Wie TORASEMID AL 10 mg Tabletten aussieht und Inhalt der Packung Weiße bis nahezu weiße, runde, bikonvexe Tablette mit einer Bruchkerbe auf der einen Seite und der Prägung „916“ auf der anderen Seite. TORASEMID AL 10 mg Tabletten ist in Packungen mit 30, 50 und 100",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

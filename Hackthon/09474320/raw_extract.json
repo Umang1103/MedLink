@@ -1,0 +1,99 @@
+{
+  "pzn": "09474320",
+  "list_row": {
+    "active_ingredient": "Candesartan",
+    "category": "血管紧张素II受体阻滞剂 / ARB",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/candesartan-biomo-8-mg-tabletten-9474320.html",
+    "hf_context_zh": "HFrEF：射血分数降低的心衰（心脏泵血能力减弱）；特别是在ACE抑制剂不耐受等情况下的选择。",
+    "mechanism_zh": "阻断血管紧张素II的AT1受体，减少血管收缩和醛固酮作用。",
+    "clinical_role_zh": "HFrEF中肾素-血管紧张素系统治疗的替代选择。",
+    "example_product_name": "CANDESARTAN-biomo 8 mg Tabletten",
+    "pzn": "09474320",
+    "example_strength_as_stated": "8 mg Candesartancilexetil",
+    "pack_size_units": "28",
+    "market": "DE",
+    "collection_order": "14",
+    "collection_status": "pending_extraction",
+    "notes_zh": "原料为前药Candesartancilexetil；有效成分与制剂标示形式分列保存。",
+    "strength_note_zh": "示例产品规格，不是患者每次或每日服药剂量；具体适应证以该产品现行说明书为准",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/candesartan-biomo-8-mg-tabletten-9474320.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "心衰相关药物采集起始清单；每种成分/复方选一个产品示例，不穷尽药物、品牌或规格；非患者用药方案；图片和PDF待采集核实。"
+  },
+  "retrieved_at": "2026-11-13T11:37:28.325823+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/37/60/116037.jpg",
+      "http_status": 200,
+      "content_type": "image/jpeg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 133788,
+      "saved_as": "09474320_original_image_1.jpg",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/38/60/116038.jpg",
+      "http_status": 200,
+      "content_type": "image/jpeg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 128252,
+      "saved_as": "09474320_original_image_2.jpg",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/91/74/147491.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 149501,
+      "saved_as": "09474320_leaflet.pdf",
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/candesartan-biomo-8-mg-tabletten-9474320.html?file=dbed8e9cbc2d9e49c4ebdac41ee3b1e1",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 11.2024"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von CANDESARTAN-biomo 8 mg Tabletten",
+    "pzn_on_page": "09474320",
+    "pack_size_on_page": "28 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten Dosierung & Anwendung Nebenwirkungen Wechselwirkungen alle Kapitel anzeigen Wirkung Originalbilder Anwendungsgebiete Gegenanzeigen & Hinweise Lagerungshinweise PDF-Dokumente",
+    "provider_on_page": "biomo pharma GmbH Hennef www.biomopharma.de",
+    "substances_on_page": [
+      "Candesartan cilexetil 8 mg pro 1 Tablette",
+      "= Candesartan (5,77 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Mannitol Maisstärke Copovidon Glycerol Magnesium stearat (pflanzlich)",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/37/60/116037.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/37/60/116037.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/37/60/116037.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/38/60/116038.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 7,5 mm Höhe: 3,7 mm Masse: 167,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : rinnenförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Besonderheiten Die Tablette ist marmoriert. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/candesartan-biomo-8-mg-tabletten-9474320.html?file=dbed8e9cbc2d9e49c4ebdac41ee3b1e1",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 11.2024"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "",
+    "company_raw": "und",
+    "manufacturer_raw": "biomo pharma GmbH Josef-Dietzgen-Straße 3 53773 Hennef Tel.: 02242 8740-0 Fax: 02242 8740-499 E-Mail: biomo@biomopharma.de",
+    "revision_raw": "November 2024",
+    "wirkstoff_raw": "ist Candesartancilexetil. Es gehört zu einer Gruppe von Arzneimitteln, die Angiotensin-II-Rezeptor-Antagonisten genannt werden. Es wirkt, indem es Ihre Blutgefäße entspannt und erweitert. Dies hilft,",
+    "composition_raw": "− Der Wirkstoff ist: Candesartancilexetil. Jede Tablette candesartan-biomo 8 mg Tabletten enthält 8 mg Candesartancilexetil. Jede Tablette candesartan-biomo 16 mg Tabletten enthält 16 mg Candesartancilexetil. Jede Tablette candesartan-biomo 32 mg Tabletten enthält 32 mg Candesartancilexetil. − Die sonstigen Bestandteile sind: Mannitol (Ph.Eur.) (E 421), Maisstärke, Copovidon, Glycerol (E 422), Magnesiumstearat (Ph.Eur.) [pflanzlich], Eisen(III)-oxid (E 172). candesartan-biomo 16 mg und 32 mg Tab",
+    "pdf_title": ""
+  }
+}

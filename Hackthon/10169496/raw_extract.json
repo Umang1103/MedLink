@@ -1,0 +1,98 @@
+{
+  "pzn": "10169496",
+  "list_row": {
+    "active_ingredient": "Eplerenon",
+    "category": "盐皮质激素受体拮抗剂 / MRA",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eplerenon-ratiopharm-25-mg-filmtabletten-10169496.html",
+    "hf_context_zh": "特定慢性HFrEF；也用于心肌梗死后伴左室功能不全和心衰的特定患者。",
+    "mechanism_zh": "选择性阻断醛固酮受体，减少醛固酮引起的不利心脏重塑并保钾。",
+    "clinical_role_zh": "HFrEF基础治疗中的MRA选择。",
+    "example_product_name": "EPLERENON-ratiopharm 25 mg Filmtabletten",
+    "pzn": "10169496",
+    "example_strength_as_stated": "25 mg",
+    "pack_size_units": "20",
+    "market": "DE",
+    "collection_order": "6",
+    "collection_status": "pending_extraction",
+    "notes_zh": "适用人群有射血分数和症状等条件；不要把它与Spironolacton作为默认同时服用的两种药。",
+    "strength_note_zh": "示例产品规格，不是患者每次或每日服药剂量；具体适应证以该产品现行说明书为准",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eplerenon-ratiopharm-25-mg-filmtabletten-10169496.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "心衰相关药物采集起始清单；每种成分/复方选一个产品示例，不穷尽药物、品牌或规格；非患者用药方案；图片和PDF待采集核实。"
+  },
+  "retrieved_at": "2026-11-13T11:36:02.217729+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/90/04/30490.jpg",
+      "http_status": 200,
+      "content_type": "image/jpeg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 100655,
+      "saved_as": "10169496_original_image_1.jpg",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/91/04/30491.jpg",
+      "http_status": 200,
+      "content_type": "image/jpeg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 99994,
+      "saved_as": "10169496_original_image_2.jpg",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/07/20/42007.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 153417,
+      "saved_as": "10169496_leaflet.pdf",
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eplerenon-ratiopharm-25-mg-filmtabletten-10169496.html?file=92c08b233a024cb55f906336e01e47a9",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 08.2024"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von EPLERENON-ratiopharm 25 mg Filmtabletten",
+    "pzn_on_page": "10169496",
+    "pack_size_on_page": "20 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten Dosierung & Anwendung Nebenwirkungen Wechselwirkungen alle Kapitel anzeigen Wirkung Originalbilder Anwendungsgebiete Gegenanzeigen & Hinweise Lagerungshinweise PDF-Dokumente",
+    "provider_on_page": "ratiopharm GmbH Ulm www.ratiopharm.de",
+    "substances_on_page": [
+      "Eplerenon 25 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Lactose-1-Wasser Lactose Cellulose, mikrokristalline Crospovidon Natriumdodecylsulfat",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/90/04/30490.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/90/04/30490.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/90/04/30490.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/91/04/30491.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 2,8 mm Breite: 6,4 mm Tiefe: 7,4 mm Masse: 90,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Anordnung : ohne Kerbe Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"E25\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eplerenon-ratiopharm-25-mg-filmtabletten-10169496.html?file=92c08b233a024cb55f906336e01e47a9",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 08.2024"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Eplerenon-ratiopharm® Filmtablette sind gelbe diamantenförmige beidseitig gewölbte Filmtabletten, ungefähr 6,4 mm breit und 7,4 mm lang,Eplerenon-ratiopharm 25 mg Filmtabletten ® mit Prägung „E25“ auf einer Seite und ohne Prägung auf der anderen Seite. sind gelbe diamantenförmige beidseitig gewölbte Filmtabletten, ungefähr 8,0 mm breit und 9,5 mm lang,Eplerenon-ratiopharm 50 mg Filmtabletten ® mit Prägung „E50“ auf einer Seite und ohne Prägung auf der anderen Seite. sind in undurchsichtigen PVC/PVdC/Aluminium-Blisterpackungen mit 20, 50 und 100 TablettenEplerenon-ratiopharm 25 mg und 50 mg Filmtabletten ® erhältlich. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "ratiopharm GmbH Graf-Arco-Str. 3 89079 Ulm",
+    "manufacturer_raw": "Merckle GmbH Ludwig-Merckle-Str. 3 89143 Blaubeuren oder TEVA Pharmaceutical Works Private Limited Company - Teva Gyógyszergyár Zrt. – Pallagi út 13 4042 DEBRECEN UNGARN",
+    "revision_raw": "August 2024",
+    "wirkstoff_raw": "ist Eplerenon. Jede Filmtablette enthält 25 mg oder 50 mg Eplerenon. GEBRAUCHSINFORMATION Eplerenon-ratiopharm 25 mg, 50 mg Filmtabletten® 6 — Die sonstigen Bestandteile sind: Lactose-Monohydrat, mikr",
+    "composition_raw": "Eplerenon-ratiopharm ® — Der Wirkstoff ist Eplerenon. Jede Filmtablette enthält 25 mg oder 50 mg Eplerenon. GEBRAUCHSINFORMATION Eplerenon-ratiopharm 25 mg, 50 mg Filmtabletten® 6 — Die sonstigen Bestandteile sind: Lactose-Monohydrat, mikrokristalline Cellulose, Crospovidon (Typ A), Natriumdodecylsulfat, Talkum und Magnesiumstearat (Ph. Eur) [pflanzlich]. Der Filmüberzug enthält Poly(vinylalkohol), Titandioxid (E171), Macrogol 3350, Talkum, Eisen(III)-hydroxid-oxid x H O (E172), Eisen(III)-oxid2",
+    "pdf_title": ""
+  }
+}

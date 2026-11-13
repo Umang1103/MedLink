@@ -1,0 +1,245 @@
+{
+  "pzn": "03031449",
+  "input_file": "heart_failure_collection_list_expanded.csv",
+  "collection_row": {
+    "active_ingredient": "Enalapril",
+    "category": "血管紧张素转换酶抑制剂 / ACE inhibitor",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/enalapril-vitabalans-10-mg-tabletten-3031449.html",
+    "hf_context_zh": "有症状的HFrEF；某些无症状左室功能不全患者用于预防症状性心衰。",
+    "mechanism_zh": "抑制ACE，减少血管收缩和钠水潴留相关激素作用。",
+    "clinical_role_zh": "HFrEF中肾素-血管紧张素系统治疗的选择。",
+    "example_product_name": "ENALAPRIL Vitabalans 10 mg Tabletten",
+    "pzn": "03031449",
+    "example_strength_as_stated": "10 mg",
+    "pack_size_units": "100",
+    "market": "DE",
+    "collection_order": "134",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/enalapril-vitabalans-10-mg-tabletten-3031449.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "Blanco Pharma GmbH",
+    "ingredient_content_as_listed": "Enalapril maleat 10 mg pro 1 Tablette; = Enalapril (7,64 mg pro 1 Tablette)",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "product_page": {
+    "page_title": "Beipackzettel von ENALAPRIL Vitabalans 10 mg Tabletten",
+    "pzn_on_page": "03031449",
+    "pack_size_on_page": "100 Stück (N3)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "Blanco Pharma GmbH Ellerbek www.blanco-pharma.de",
+    "substances_on_page": [
+      "Enalapril maleat 10 mg pro 1 Tablette",
+      "= Enalapril (7,64 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Maisstärke, vorverkleistert Calciumhydrogenphosphat-2-Wasser Talkum Magnesium stearat Cellulose, mikrokristalline",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/80/26/62680.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/80/26/62680.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/80/26/62680.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/81/26/62681.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 8,0 mm Höhe: 3,2 mm Masse: 208,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Besonderheiten Die Tablette ist marmoriert. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/enalapril-vitabalans-10-mg-tabletten-3031449.html?file=365e12e9426d8e8f6ee2773f511f3b79",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 02.2019"
+      }
+    ],
+    "page_last_reviewed": "2026-10-09",
+    "provider_website": "https://www.blanco-pharma.de"
+  },
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/80/26/62680.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 196250,
+      "saved_as": "03031449_tablet_1.jpg",
+      "sha256": "a1b711a5ba0250f486cd0a8d6fafbac28307b92cf81cc33fca324d16338cbae9",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/81/26/62681.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 185659,
+      "saved_as": "03031449_tablet_2.jpg",
+      "sha256": "2ec03248d46e437b9d17928030d4e12ad724110527cf022387372f28a4f923f8",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/88/52/15288.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 48568,
+      "saved_as": "03031449_leaflet.pdf",
+      "sha256": "f06bea70d3c2bc4b003fa68cb4a023e9440d4039f9beae8f5458cb730f8d7ccf",
+      "pages": 10,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/enalapril-vitabalans-10-mg-tabletten-3031449.html?file=365e12e9426d8e8f6ee2773f511f3b79",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 02.2019"
+    }
+  },
+  "unresolved_issues": [],
+  "field_sources": {
+    "pzn": {
+      "value": "03031449",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "market": {
+      "value": "DE",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "product_name": {
+      "value": "ENALAPRIL Vitabalans 10 mg Tabletten",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "active_ingredient": {
+      "value": "Enalapril",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Enalapril maleat 10 mg pro 1 Tablette",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "strength_as_stated": {
+      "value": "10 mg",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "dosage_form": {
+      "value": "Tabletten",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "pack_size": {
+      "value": "100",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "pharmaceutical_company": {
+      "value": "Vitabalans Oy Varastokatu 8 13500 Hämeenlinna Finnland Tel.: +358 (3) 615600 Fax: +358 (3) 6183130 Vertrieb durch: Blanco Pharma GmbH Oasenweg 3 25474 Ellerbek",
+      "source": "leaflet PDF, automatic extract; requires review"
+    },
+    "manufacturer": {
+      "value": "Vitabalans Oy Varastokatu 8 13500 Hämeenlinna Finnland Tel.: +358 (3) 615600 Fax: +358 (3) 6183130 Vertrieb durch: Blanco Pharma GmbH Oasenweg 3 25474 Ellerbek",
+      "source": "leaflet PDF, automatic extract; requires review"
+    },
+    "color": {
+      "value": "brown",
+      "source": "leaflet PDF, automatic extract; requires review"
+    },
+    "shape": {
+      "value": "round",
+      "source": "leaflet PDF, automatic extract; requires review"
+    },
+    "score_line": {
+      "value": "Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Besonderheiten Die Tablette ist marmoriert.",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "appearance_description_original": {
+      "value": "Aussehen der Enalapril Vitabalans Tabletten: Die Tabletten sind rotbraun rund, flach mit einer Bruchkerbe auf einer Seite. Der Durchmesser ist 8 mm. Die Tabletten kann in gleiche Dosen geteilt werden.",
+      "source": "leaflet PDF, automatic extract; requires review"
+    },
+    "tablet_image_1": {
+      "value": "03031449/03031449_tablet_1.jpg",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "tablet_image_2": {
+      "value": "03031449/03031449_tablet_2.jpg",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "leaflet_path": {
+      "value": "03031449/03031449_leaflet.pdf",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/enalapril-vitabalans-10-mg-tabletten-3031449.html",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "leaflet_revision_date": {
+      "value": "2019-02",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "retrieved_at": {
+      "value": "2026-11-13T15:43:59.484931+00:00",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "verification_status": {
+      "value": "PZN verified against product page; assets file-validated; automatically extracted; appearance and clinical details require review.",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "notes": {
+      "value": "Source catalogue strength preserved verbatim. Provider is recorded separately from manufacturer. Appearance/company details are automatically extracted from the leaflet; ambiguous multi-strength appearance fields are left blank. Leaflet document date is taken from the product page. ",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "category": {
+      "value": "血管紧张素转换酶抑制剂 / ACE inhibitor",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "hf_context_zh": {
+      "value": "有症状的HFrEF；某些无症状左室功能不全患者用于预防症状性心衰。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "mechanism_zh": {
+      "value": "抑制ACE，减少血管收缩和钠水潴留相关激素作用。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "clinical_role_zh": {
+      "value": "HFrEF中肾素-血管紧张素系统治疗的选择。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "strength_note_zh": {
+      "value": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "clinical_source_url": {
+      "value": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "mechanism_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/enalapril-vitabalans-10-mg-tabletten-3031449.html",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "dosage_form_as_listed": {
+      "value": "Tabletten",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "pharmaceutical_company_as_listed": {
+      "value": "Blanco Pharma GmbH",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "ingredient_content_as_listed": {
+      "value": "Enalapril maleat 10 mg pro 1 Tablette; = Enalapril (7,64 mg pro 1 Tablette)",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "product_hf_indication_status": {
+      "value": "not_reviewed_check_product_leaflet",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "scope_note_zh": {
+      "value": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "notes_zh": {
+      "value": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "checked_on": {
+      "value": "2026-11-13",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "brand": {
+      "value": "ENALAPRIL Vitabalans",
+      "source": "Derived from product_name: strength, dosage form and pack descriptors removed; existing brand capitalization reused where available.",
+      "product_name": "ENALAPRIL Vitabalans 10 mg Tabletten"
+    }
+  },
+  "reuse_permission": "Not checked; original downloaded files and watermarks preserved."
+}

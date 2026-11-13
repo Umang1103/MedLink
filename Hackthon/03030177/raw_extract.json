@@ -1,0 +1,104 @@
+{
+  "pzn": "03030177",
+  "list_row": {
+    "active_ingredient": "Furosemid",
+    "category": "袢利尿剂 / Loop diuretic",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/furorese-80-mg-tabletten-3030177.html",
+    "hf_context_zh": "伴液体潴留的心衰：如腿肿、肺淤血；可见于不同射血分数类型。",
+    "mechanism_zh": "抑制肾脏对钠盐的重吸收，增加盐和水的排出。",
+    "clinical_role_zh": "主要缓解水肿和淤血症状；不等同于改善生存的基础药。",
+    "example_product_name": "FURORESE 80 mg Tabletten",
+    "pzn": "03030177",
+    "example_strength_as_stated": "80 mg",
+    "pack_size_units": "50",
+    "market": "DE",
+    "collection_order": "40",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/furorese-80-mg-tabletten-3030177.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "Hexal AG",
+    "ingredient_content_as_listed": "Furosemid 80 mg pro 1 Tablette",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:42:17.795010+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/18/44/174418.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 83346,
+      "saved_as": "03030177_tablet_1.jpg",
+      "sha256": "79b5b7dc83f8e90beb9b31ffd74eab7b5f8e648370ad46905469187eb48a06c2",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/19/44/174419.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 76400,
+      "saved_as": "03030177_tablet_2.jpg",
+      "sha256": "6972fa0950af15c04db32aeb0dea34f38e312663aa5e0ef997355ed5fe83cd30",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/28/32/23228.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 957741,
+      "saved_as": "03030177_leaflet.pdf",
+      "sha256": "22863f59f0ec4d501f7226f76ce1636936cc83b94054312f9bbc9e9da6cc67db",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/furorese-80-mg-tabletten-3030177.html?file=a7e96d63a0554fff040e708db3589bd4",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 12.2022"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von FURORESE 80 mg Tabletten",
+    "pzn_on_page": "03030177",
+    "pack_size_on_page": "50 Stück (N2)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "Hexal AG Holzkirchen www.hexal.de",
+    "substances_on_page": [
+      "Furosemid 80 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Carboxymethylstärke, Natrium Typ A Cellulose, mikrokristalline Lactose-1-Wasser Magnesium stearat (pflanzlich) Maisstärke",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/18/44/174418.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/18/44/174418.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/18/44/174418.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/19/44/174419.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 10,1 mm Höhe: 3,8 mm Masse: 328,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/furorese-80-mg-tabletten-3030177.html?file=a7e96d63a0554fff040e708db3589bd4",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 12.2022"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15",
+    "provider_website": "https://www.hexal.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Weiße, runde Tabletten mit einseitiger Bruchkerbe. Die Tablet- te kann in gleiche Dosen geteilt werden. Furorese ist in Packungen mit 20, 50 und 100 Tabletten erhält- lich. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "Hexal AG Industriestraße 25 83607 Holzkirchen Telefon: (08024) 908-0 Telefax: (08024) 908-1290 E-Mail: service@hexal.com",
+    "manufacturer_raw": "Salutas Pharma GmbH Otto-von-Guericke-Allee 1 39179 Barleben",
+    "revision_raw": "",
+    "wirkstoff_raw": "spiegeln im Blut und einem größeren Nebenwirkungsrisiko führen. • Die Wirkung von Theophyllin (Asthmamittel) oder Curare- artigen Mitteln, die eine Muskelentspannung herbeiführen (Muskelrelaxanzien),",
+    "composition_raw": "Der Wirkstoff ist Furosemid. 1 Tablette enthält 80 mg Furosemid. Die sonstigen Bestandteile sind: Carboxymethylstärke-Natrium (Typ A) (Ph.Eur.), Mikrokristalli- ne Cellulose, Lactose-Monohydrat, Magnesiumstearat (Ph.Eur.) [pflanzlich], Maisstärke Wie Furorese aussieht und Inhalt der Packung Weiße, runde Tabletten mit einseitiger Bruchkerbe. Die Tablet- te kann in gleiche Dosen geteilt werden. Furorese ist in Packungen mit 20, 50 und 100 Tabletten erhält- lich. Es werden möglicherweise nicht alle",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

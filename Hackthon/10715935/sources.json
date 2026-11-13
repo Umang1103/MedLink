@@ -1,0 +1,198 @@
+{
+  "pzn": "10715935",
+  "generated_at": "2026-11-13T11:47:45.865653+00:00",
+  "retrieved_at": "2026-11-13T11:36:45.124285+00:00",
+  "product_page": {
+    "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/carvedilol-ratiopharm-625-mg-tabletten-10715935.html",
+    "http_status": 200,
+    "pzn_on_page": "10715935",
+    "pack_size_on_page": "100 Stück (N3)",
+    "provider_on_page (Anbieter)": "ratiopharm GmbH Ulm www.ratiopharm.de",
+    "substances_on_page": [
+      "Carvedilol 6,25 mg pro 1 Tablette"
+    ],
+    "physical_data_on_page": "Abmessungen und Gewicht 1 Höhe: 3,3 mm Breite: 4,6 mm Tiefe: 9,6 mm Masse: 133,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"C2\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "page_last_reviewed": "2026-02-13",
+    "data_provider": "ABDATA Pharma-Daten-Service"
+  },
+  "files": {
+    "tablet_image_1": {
+      "local_path": "10715935/10715935_tablet_1.jpg",
+      "download_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/44/39/33944.jpg",
+      "viewer_page": null,
+      "download_ok": true,
+      "verified_type": "jpeg",
+      "bytes": 59210,
+      "pixels": "600x600",
+      "document_date_on_page": null
+    },
+    "tablet_image_2": {
+      "local_path": "10715935/10715935_tablet_2.jpg",
+      "download_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/45/39/33945.jpg",
+      "viewer_page": null,
+      "download_ok": true,
+      "verified_type": "jpeg",
+      "bytes": 56899,
+      "pixels": "600x600",
+      "document_date_on_page": null
+    },
+    "leaflet_path": {
+      "local_path": "10715935/10715935_leaflet.pdf",
+      "download_url": "https://image.wub-service.de/resources/static/drugexpert/261101/09/17/41709.pdf",
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/carvedilol-ratiopharm-625-mg-tabletten-10715935.html?file=4a4e1fcbe9e279c307b674d0a44f72d9",
+      "download_ok": true,
+      "verified_type": "pdf",
+      "bytes": 183559,
+      "pixels": null,
+      "document_date_on_page": "Dokumentdatum: 10.2025"
+    }
+  },
+  "image_classification": {
+    "result": "both files are tablet photographs (front and back) with mm scale and '© ABDATA | Dosing' watermark; oblong white tablet, 'C | 2' with score on one side, plain other side; consistent with page and leaflet",
+    "method": "visual review of each file",
+    "package_image": "none available"
+  },
+  "field_sources": {
+    "pzn": {
+      "value": "10715935",
+      "source": "product_page (verified equal to list)"
+    },
+    "market": {
+      "value": "DE",
+      "source": "derived (German PZN)"
+    },
+    "product_name": {
+      "value": "Carvedilol-ratiopharm 6,25 mg Tabletten",
+      "source": "leaflet_pdf title (German, preserved)"
+    },
+    "active_ingredient": {
+      "value": "Carvedilol",
+      "source": "leaflet_pdf section 6"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Carvedilol",
+      "source": "leaflet_pdf section 6"
+    },
+    "strength_as_stated": {
+      "value": "6,25 mg",
+      "source": "product_name / leaflet_pdf section 6 (label strength, not converted)"
+    },
+    "dosage_form": {
+      "value": "Tabletten",
+      "source": "product_page Darreichungsform + leaflet_pdf"
+    },
+    "pack_size": {
+      "value": "100",
+      "source": "product_page Packungsgröße (verified for this PZN)"
+    },
+    "brand": {
+      "value": "Carvedilol-ratiopharm",
+      "source": "product_name"
+    },
+    "pharmaceutical_company": {
+      "value": "ratiopharm GmbH, Graf-Arco-Str. 3, 89079 Ulm",
+      "source": "leaflet_pdf section 6 (Pharmazeutischer Unternehmer / Zulassungsinhaber)"
+    },
+    "manufacturer": {
+      "value": "Merckle GmbH, Ludwig-Merckle-Str. 3, 89143 Blaubeuren; oder TEVA Pharmaceutical Works Private Limited Company - Teva Gyógyszergyár Zrt., Pallagi út 13, 4042 Debrecen, Ungarn",
+      "source": "leaflet_pdf section 6 (Hersteller)"
+    },
+    "color": {
+      "value": "white",
+      "source": "leaflet_pdf section 6, normalised to English"
+    },
+    "shape": {
+      "value": "capsule-shaped (oblong), biconvex",
+      "source": "leaflet_pdf section 6, normalised to English"
+    },
+    "imprint": {
+      "value": "C2",
+      "source": "product_page 'Sonstige Merkmale' + leaflet_pdf"
+    },
+    "score_line": {
+      "value": "single score line on the imprinted side (between 'C' and '2'); other side plain",
+      "source": "product_page 'Angaben zu Kerben' + leaflet_pdf"
+    },
+    "appearance_description_original": {
+      "value": "Weiße, beidseitig gewölbte, kapselförmige Tablette mit einer Bruchkerbe und der Prägung „C“ und „2“ auf der einen Seite und glatt auf der anderen Seite.",
+      "source": "leaflet_pdf section 6 (German, verbatim)"
+    },
+    "tablet_image_1": {
+      "value": "10715935/10715935_tablet_1.jpg",
+      "source": "product_page 'Originalbilder des Präparats'"
+    },
+    "tablet_image_2": {
+      "value": "10715935/10715935_tablet_2.jpg",
+      "source": "product_page 'Originalbilder des Präparats'"
+    },
+    "package_image": {
+      "value": "",
+      "source": "none available"
+    },
+    "leaflet_path": {
+      "value": "10715935/10715935_leaflet.pdf",
+      "source": "product_page 'PDF-Dokumente' link"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/carvedilol-ratiopharm-625-mg-tabletten-10715935.html",
+      "source": "heart_failure_collection_list.csv"
+    },
+    "manufacturer_source_url": {
+      "value": "",
+      "source": "not cross-checked"
+    },
+    "leaflet_revision_date": {
+      "value": "2025-10",
+      "source": "leaflet_pdf 'zuletzt überarbeitet im …'"
+    },
+    "retrieved_at": {
+      "value": "2026-11-13",
+      "source": "collection run date"
+    },
+    "verification_status": {
+      "value": "Extracted from product page and leaflet PDF; images visually confirmed as tablet photos; not clinically or pharmacist verified.",
+      "source": "workflow status"
+    },
+    "notes": {
+      "value": "Imprint as listed on product page ('C2'); leaflet: Prägung „C“ und „2“. ABDATA average: 9.6 x 4.6 x 3.3 mm, mass 133.0 mg. Leaflet packs 30 and 100; this PZN = 100 (N3).",
+      "source": "collector notes"
+    }
+  },
+  "unresolved_issues": [],
+  "reuse_permission": "unverified - image XMP: creator 'Dosing GmbH Heidelberg', rights 'ABDATA Pharma-Daten-Service', usage terms 'Verwendung nach Lizenzbestimmungen'. No explicit open licence found. Do not publish or deploy.",
+  "attribution": {
+    "product_page": "ABDATA Pharma-Daten-Service via apotheken-umschau.de",
+    "images": "© ABDATA | Dosing (watermark preserved, files unmodified)",
+    "leaflet_pdf": "marketing authorisation holder's patient leaflet, hosted by image.wub-service.de"
+  },
+  "expanded_catalogue": {
+    "input_file": "heart_failure_collection_list_expanded.csv",
+    "row": {
+      "active_ingredient": "Carvedilol",
+      "category": "β受体阻滞剂（兼α1阻断） / Beta-blocker",
+      "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/carvedilol-ratiopharm-625-mg-tabletten-10715935.html",
+      "hf_context_zh": "HFrEF：射血分数降低的心衰（心脏泵血能力减弱）",
+      "mechanism_zh": "阻断β受体并扩张外周血管，减轻心脏负担。",
+      "clinical_role_zh": "稳定慢性HFrEF的基础治疗选择。",
+      "example_product_name": "CARVEDILOL-ratiopharm 6,25 mg Tabletten",
+      "pzn": "10715935",
+      "example_strength_as_stated": "6.25 mg",
+      "pack_size_units": "100",
+      "market": "DE",
+      "collection_order": "8",
+      "collection_status": "check_existing_record",
+      "notes_zh": "原清单已有产品；按 market+pzn 检查已有记录。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+      "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+      "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+      "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/carvedilol-ratiopharm-625-mg-tabletten-10715935.html",
+      "checked_on": "2026-11-13",
+      "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+      "dosage_form_as_listed": "Tabletten",
+      "pharmaceutical_company_as_listed": "ratiopharm GmbH",
+      "ingredient_content_as_listed": "Carvedilol 6,25 mg pro 1 Tablette",
+      "pill_photo_status": "listed_on_product_page_not_visually_verified",
+      "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+      "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+    }
+  }
+}

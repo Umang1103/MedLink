@@ -1,0 +1,105 @@
+{
+  "pzn": "09098354",
+  "list_row": {
+    "active_ingredient": "Nebivolol",
+    "category": "β受体阻滞剂 / Beta-blocker",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/nebivolol-glenmark-5-mg-tabletten-9098354.html",
+    "hf_context_zh": "≥70岁患者的稳定、轻至中度慢性心衰，作为标准治疗的补充。",
+    "mechanism_zh": "阻断β1受体，降低心率；另有一氧化氮相关血管舒张作用。",
+    "clinical_role_zh": "特定老年心衰患者的治疗选择。",
+    "example_product_name": "NEBIVOLOL Glenmark 5 mg Tabletten",
+    "pzn": "09098354",
+    "example_strength_as_stated": "5 mg",
+    "pack_size_units": "30",
+    "market": "DE",
+    "collection_order": "111",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/nebivolol-glenmark-5-mg-tabletten-9098354.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "Glenmark Arzneimittel GmbH",
+    "ingredient_content_as_listed": "Nebivolol hydrochlorid 5,45 mg pro 1 Tablette; = Nebivolol (5 mg pro 1 Tablette)",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:43:36.269782+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/66/22/32266.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 96030,
+      "saved_as": "09098354_tablet_1.jpg",
+      "sha256": "00eceb6e866b68893191bc6694ea999ea816818d8035f795aca0aac7cb85d2cf",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/67/22/32267.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 92373,
+      "saved_as": "09098354_tablet_2.jpg",
+      "sha256": "fd529d6293c1c019ee75f8f42a2139b32af641cdf641b02774b988abb21fa30a",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/68/36/33668.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 349023,
+      "saved_as": "09098354_leaflet.pdf",
+      "sha256": "7ce0f5fb964fdc9a7c265979632ca96ab7fa6a811eb2f804efee64bb8e1fd8d4",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/nebivolol-glenmark-5-mg-tabletten-9098354.html?file=d711a043c53ebec76a7dc014c17031c0",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 04.2026"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von NEBIVOLOL Glenmark 5 mg Tabletten",
+    "pzn_on_page": "09098354",
+    "pack_size_on_page": "30 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "Glenmark Arzneimittel GmbH Gröbenzell www.glenmark.de",
+    "substances_on_page": [
+      "Nebivolol hydrochlorid 5,45 mg pro 1 Tablette",
+      "= Nebivolol (5 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Lactose-1-Wasser Maisstärke Croscarmellose natrium Hypromellose Cellulose, mikrokristalline",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/66/22/32266.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/66/22/32266.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/66/22/32266.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/67/22/32267.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 9,1 mm Höhe: 3,2 mm Masse: 231,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"NL\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/nebivolol-glenmark-5-mg-tabletten-9098354.html?file=d711a043c53ebec76a7dc014c17031c0",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 04.2026"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27",
+    "provider_website": "https://www.glenmark.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Runde, weiße, bikonvexe, unbeschichtete Tabletten, auf der Seite mit der Bruchkerbe sind rechts und links der Kerbe ‚N’ und ‚L’ eingeprägt, auf der anderen Seite ist die Tablette glatt. Die Tablette kann in gleiche Dosen geteilt werden. Nebivolol Glenmark 5 mg Tabletten sind in PVC/ PVdC/Aluminium-Blisterpackungen und Aluminium/ Aluminium-Blisterpackungen mit 14, 28, 30, 50, 90, 98 oder 100 Tabletten erhältlich. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "Glenmark Arzneimittel GmbH Industriestr. 31 82194 Gröbenzell Deutschland",
+    "manufacturer_raw": "Glenmark Pharmaceuticals s.r.o. Hvezdova 1716/2b 140 78 Praha 4 Tschechische Republik",
+    "revision_raw": "April 2026",
+    "wirkstoff_raw": "ist Nebivolol. Jede Tablette enthält 5 mg Nebivolol entsprechend 5,45 mg Nebivololhydrochlorid. • Die sonstigen Bestandteile sind: Lactose- Monohydrat, Maisstärke, Croscarmellose- Natrium, Hypromellos",
+    "composition_raw": "• Der Wirkstoff ist Nebivolol. Jede Tablette enthält 5 mg Nebivolol entsprechend 5,45 mg Nebivololhydrochlorid. • Die sonstigen Bestandteile sind: Lactose- Monohydrat, Maisstärke, Croscarmellose- Natrium, Hypromellose, mikrokristalline Cellulose, hochdisperses Siliciumdioxid, Magnesiumstearat (Ph.Eur.) [pflanzlich]. Wie Nebivolol Glenmark aussieht und Inhalt der Packung Runde, weiße, bikonvexe, unbeschichtete Tabletten, auf der Seite mit der Bruchkerbe sind rechts und links der Kerbe ‚N’ und ‚L’",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

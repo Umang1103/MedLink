@@ -1,0 +1,98 @@
+{
+  "pzn": "10262043",
+  "list_row": {
+    "active_ingredient": "Empagliflozin",
+    "category": "SGLT2抑制剂 / SGLT2 inhibitor",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/jardiance-10-mg-filmtabletten-10262043.html",
+    "hf_context_zh": "成人有症状的慢性心衰：覆盖降低、轻度降低及保留射血分数；不要求同时患糖尿病。",
+    "mechanism_zh": "抑制肾脏SGLT2，改变葡萄糖和钠的处理，产生心肾保护作用。",
+    "clinical_role_zh": "降低心衰住院等风险；也用于2型糖尿病和慢性肾病。",
+    "example_product_name": "JARDIANCE 10 mg Filmtabletten",
+    "pzn": "10262043",
+    "example_strength_as_stated": "10 mg",
+    "pack_size_units": "30",
+    "market": "DE",
+    "collection_order": "7",
+    "collection_status": "pending_extraction",
+    "notes_zh": "Apotheken Umschau页面心衰描述可能比EMA现行适应证窄；疾病说明参照EMA，保留来源差异。",
+    "strength_note_zh": "示例产品规格，不是患者每次或每日服药剂量；具体适应证以该产品现行说明书为准",
+    "clinical_source_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/jardiance",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/jardiance-10-mg-filmtabletten-10262043.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "心衰相关药物采集起始清单；每种成分/复方选一个产品示例，不穷尽药物、品牌或规格；非患者用药方案；图片和PDF待采集核实。"
+  },
+  "retrieved_at": "2026-11-13T11:36:12.926112+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/62/65/36562.jpg",
+      "http_status": 200,
+      "content_type": "image/jpeg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 135845,
+      "saved_as": "10262043_original_image_1.jpg",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/63/65/36563.jpg",
+      "http_status": 200,
+      "content_type": "image/jpeg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 137581,
+      "saved_as": "10262043_original_image_2.jpg",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/93/90/129093.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 63808,
+      "saved_as": "10262043_leaflet.pdf",
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/jardiance-10-mg-filmtabletten-10262043.html?file=16ccd340b4f594110c5f86596ccd2e30",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 03.2026"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von JARDIANCE 10 mg Filmtabletten",
+    "pzn_on_page": "10262043",
+    "pack_size_on_page": "30 Stück (N2)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten Dosierung & Anwendung Nebenwirkungen Wechselwirkungen alle Kapitel anzeigen Wirkung Originalbilder Anwendungsgebiete Gegenanzeigen & Hinweise Lagerungshinweise PDF-Dokumente",
+    "provider_on_page": "Boehringer Ingelheim Pharma GmbH & Co. KG Ingelheim www.boehringer-ingelheim.com",
+    "substances_on_page": [
+      "Empagliflozin 10 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Lactose-1-Wasser Lactose Cellulose, mikrokristalline Hyprolose Croscarmellose natrium",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/62/65/36562.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/62/65/36562.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/62/65/36562.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/63/65/36563.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 9,1 mm Höhe: 3,8 mm Masse: 259,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Anordnung : ohne Kerbe Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"S10\", \"Boehringer Ingelheim Logo\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/jardiance-10-mg-filmtabletten-10262043.html?file=16ccd340b4f594110c5f86596ccd2e30",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 03.2026"
+      }
+    ],
+    "page_last_reviewed": "2026-10-27"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Jardiance 10 mg Filmtabletten sind rund, hellgelb, bikonvex und haben abgeschrägte Kanten. Auf der einen Seite ist „S10“ und auf der anderen Seite das Boehringer Ingelheim Logo eingeprägt. Der Durch messer der Tabletten beträgt 9,1 mm. Jardiance 25 mg Filmtabletten sind oval, hellgelb und bikonvex. Auf der einen Seite ist „S25“ und auf der anderen Seite das Boehringer Ingelheim Logo einge prägt. Die Tablette ist 11,1 mm lang und 5,6 mm breit. Jardiance Tabletten sind in perforierten PVC/Aluminium- Einzeldosis-Blisterpackungen erhältlich. Die Packungsgrößen sind 7 × 1, 10 × 1, 14 × 1, 28 × 1, 30 × 1, 60 × 1, 70 × 1, 90 × 1 und 100 × 1 Filmtablette. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "Boehringer Ingelheim International GmbH Binger Straße 173 55216 Ingelheim am Rhein Deutschland",
+    "manufacturer_raw": "Boehringer Ingelheim Pharma GmbH & Co. KG Binger Straße 173 55216 Ingelheim am Rhein Deutschland Falls Sie weitere Informationen über das Arzneimittel wünschen, setzen Sie sich bitte mit dem örtlichen Vertreter des pharmazeutischen Unternehmers in Verbindung. Deutschland Boehringer Ingelheim Pharma GmbH & Co. KG Tel.: +49 (0) 800 77 90 900",
+    "revision_raw": "März 2026",
+    "wirkstoff_raw": "Empagliflozin. Jardiance gehört zur Arzneimittelgruppe der sogenannten Natrium-Glucose-Co-Transporter-2(SGLT-2-)-Hemmer. Wofür wird Jardiance angewendet? Typ-2-Diabetes mellitus • Jardiance wird zur B",
+    "composition_raw": "den Wirkstoff Empagliflozin. Jardiance gehört zur Arzneimittelgruppe der sogenannten Natrium-Glucose-Co-Transporter-2(SGLT-2-)-Hemmer. Wofür wird Jardiance angewendet? Typ-2-Diabetes mellitus • Jardiance wird zur Behandlung des Typ-2-Diabetes bei Erwachsenen und Kindern ab 10 Jahren angewendet, wenn dieser mit Diät und Bewegung nicht ausreichend eingestellt werden kann. • Jardiance kann bei Patienten, die kein Metformin (ein anderes blutzuckersenkendes Arzneimittel) einnehmen können, auch ohne a",
+    "pdf_title": ""
+  }
+}

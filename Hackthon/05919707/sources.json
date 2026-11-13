@@ -1,0 +1,202 @@
+{
+  "pzn": "05919707",
+  "generated_at": "2026-11-13T11:47:45.862656+00:00",
+  "retrieved_at": "2026-11-13T11:36:55.845297+00:00",
+  "product_page": {
+    "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/nebivolol-al-5-mg-tabletten-5919707.html",
+    "http_status": 200,
+    "pzn_on_page": "05919707",
+    "pack_size_on_page": "30 Stück (N1)",
+    "provider_on_page (Anbieter)": "ALIUD Pharma GmbH Laichingen www.aliud.de",
+    "substances_on_page": [
+      "Nebivolol hydrochlorid 5,45 mg pro 1 Tablette",
+      "= Nebivolol (5 mg pro 1 Tablette)"
+    ],
+    "physical_data_on_page": "Abmessungen und Gewicht 1 Durchmesser: 8,6 mm Höhe: 4,0 mm Masse: 227,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Kreuzkerbe Form : keil-/rinnenförmig Anordnung : beidseitig Spaltung 2 : ja 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Besonderheiten Die Tablette hat auf der Vorderseite eine breite keilförmige und auf der Rückseite eine schmale rinnenförmige Kreuzkerbe. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "page_last_reviewed": "2026-08-15",
+    "data_provider": "ABDATA Pharma-Daten-Service"
+  },
+  "files": {
+    "tablet_image_1": {
+      "local_path": "05919707/05919707_tablet_1.jpg",
+      "download_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/55/39/33955.jpg",
+      "viewer_page": null,
+      "download_ok": true,
+      "verified_type": "jpeg",
+      "bytes": 89422,
+      "pixels": "600x600",
+      "document_date_on_page": null
+    },
+    "tablet_image_2": {
+      "local_path": "05919707/05919707_tablet_2.jpg",
+      "download_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/56/39/33956.jpg",
+      "viewer_page": null,
+      "download_ok": true,
+      "verified_type": "jpeg",
+      "bytes": 87236,
+      "pixels": "600x600",
+      "document_date_on_page": null
+    },
+    "leaflet_path": {
+      "local_path": "05919707/05919707_leaflet.pdf",
+      "download_url": "https://image.wub-service.de/resources/static/drugexpert/261101/68/94/79468.pdf",
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/nebivolol-al-5-mg-tabletten-5919707.html?file=a777982ff638d21249668c563a58e9a2",
+      "download_ok": true,
+      "verified_type": "pdf",
+      "bytes": 122590,
+      "pixels": null,
+      "document_date_on_page": "Dokumentdatum: 07.2014"
+    }
+  },
+  "image_classification": {
+    "result": "both files are tablet photographs (front and back) with mm scale and '© ABDATA | Dosing' watermark; cross score visible on both sides; consistent with page and leaflet",
+    "method": "visual review of each file",
+    "package_image": "none available"
+  },
+  "field_sources": {
+    "pzn": {
+      "value": "05919707",
+      "source": "product_page (verified equal to list)"
+    },
+    "market": {
+      "value": "DE",
+      "source": "derived (German PZN)"
+    },
+    "product_name": {
+      "value": "NEBIVOLOL AL 5 mg Tabletten",
+      "source": "leaflet_pdf title (German, preserved)"
+    },
+    "active_ingredient": {
+      "value": "Nebivolol",
+      "source": "leaflet_pdf section 6"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Nebivolol als Nebivololhydrochlorid",
+      "source": "leaflet_pdf section 6"
+    },
+    "strength_as_stated": {
+      "value": "5 mg",
+      "source": "product_name / leaflet_pdf section 6 (label strength, not converted)",
+      "note": "5 mg nebivolol base (as hydrochloride); not the salt mass."
+    },
+    "dosage_form": {
+      "value": "Tabletten",
+      "source": "product_page Darreichungsform + leaflet_pdf"
+    },
+    "pack_size": {
+      "value": "30",
+      "source": "product_page Packungsgröße (verified for this PZN)"
+    },
+    "brand": {
+      "value": "NEBIVOLOL AL",
+      "source": "product_name"
+    },
+    "pharmaceutical_company": {
+      "value": "ALIUD PHARMA GmbH, Gottlieb-Daimler-Straße 19, D-89150 Laichingen",
+      "source": "leaflet_pdf section 6 (Pharmazeutischer Unternehmer / Zulassungsinhaber)"
+    },
+    "manufacturer": {
+      "value": "STADA Arzneimittel AG, Stadastraße 2–18, 61118 Bad Vilbel",
+      "source": "leaflet_pdf section 6 (Hersteller)"
+    },
+    "color": {
+      "value": "white",
+      "source": "leaflet_pdf section 6, normalised to English"
+    },
+    "shape": {
+      "value": "round, biconvex",
+      "source": "leaflet_pdf section 6, normalised to English"
+    },
+    "imprint": {
+      "value": "",
+      "source": "product_page 'Sonstige Merkmale' + leaflet_pdf"
+    },
+    "score_line": {
+      "value": "cross-shaped score on both sides (ABDATA: broad wedge-shaped on front, narrow groove-shaped on back)",
+      "source": "product_page 'Angaben zu Kerben' + leaflet_pdf"
+    },
+    "appearance_description_original": {
+      "value": "Weiße, runde, bikonvexe Tablette mit beidseitiger Kreuzbruchrille.",
+      "source": "leaflet_pdf section 6 (German, verbatim)"
+    },
+    "tablet_image_1": {
+      "value": "05919707/05919707_tablet_1.jpg",
+      "source": "product_page 'Originalbilder des Präparats'"
+    },
+    "tablet_image_2": {
+      "value": "05919707/05919707_tablet_2.jpg",
+      "source": "product_page 'Originalbilder des Präparats'"
+    },
+    "package_image": {
+      "value": "",
+      "source": "none available"
+    },
+    "leaflet_path": {
+      "value": "05919707/05919707_leaflet.pdf",
+      "source": "product_page 'PDF-Dokumente' link"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/nebivolol-al-5-mg-tabletten-5919707.html",
+      "source": "heart_failure_collection_list.csv"
+    },
+    "manufacturer_source_url": {
+      "value": "",
+      "source": "not cross-checked"
+    },
+    "leaflet_revision_date": {
+      "value": "2014-07",
+      "source": "leaflet_pdf 'zuletzt überarbeitet im …'"
+    },
+    "retrieved_at": {
+      "value": "2026-11-13",
+      "source": "collection run date"
+    },
+    "verification_status": {
+      "value": "Extracted from product page and leaflet PDF; images visually confirmed as tablet photos; not clinically or pharmacist verified.",
+      "source": "workflow status"
+    },
+    "notes": {
+      "value": "Label strength refers to the base: '1 Tablette enthält 5 mg Nebivolol als Nebivololhydrochlorid'; product page lists 5.45 mg nebivolol hydrochloride = 5 mg nebivolol. ABDATA average: diameter 8.6 mm, height 4.0 mm, mass 227.0 mg. Leaflet packs 30, 50, 100; this PZN = 30 (N1). No imprint stated; images show none.",
+      "source": "collector notes"
+    }
+  },
+  "unresolved_issues": [
+    "Leaflet revision July 2014 (page document date 07.2014) is old; check whether a newer leaflet exists."
+  ],
+  "reuse_permission": "unverified - image XMP: creator 'Dosing GmbH Heidelberg', rights 'ABDATA Pharma-Daten-Service', usage terms 'Verwendung nach Lizenzbestimmungen'. No explicit open licence found. Do not publish or deploy.",
+  "attribution": {
+    "product_page": "ABDATA Pharma-Daten-Service via apotheken-umschau.de",
+    "images": "© ABDATA | Dosing (watermark preserved, files unmodified)",
+    "leaflet_pdf": "marketing authorisation holder's patient leaflet, hosted by image.wub-service.de"
+  },
+  "expanded_catalogue": {
+    "input_file": "heart_failure_collection_list_expanded.csv",
+    "row": {
+      "active_ingredient": "Nebivolol",
+      "category": "β受体阻滞剂 / Beta-blocker",
+      "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/nebivolol-al-5-mg-tabletten-5919707.html",
+      "hf_context_zh": "≥70岁患者的稳定、轻至中度慢性心衰，作为标准治疗的补充。",
+      "mechanism_zh": "阻断β1受体，降低心率；另有一氧化氮相关血管舒张作用。",
+      "clinical_role_zh": "特定老年心衰患者的治疗选择。",
+      "example_product_name": "NEBIVOLOL AL 5 mg Tabletten",
+      "pzn": "05919707",
+      "example_strength_as_stated": "5 mg Nebivolol",
+      "pack_size_units": "30",
+      "market": "DE",
+      "collection_order": "9",
+      "collection_status": "check_existing_record",
+      "notes_zh": "原清单已有产品；按 market+pzn 检查已有记录。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+      "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+      "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+      "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/nebivolol-al-5-mg-tabletten-5919707.html",
+      "checked_on": "2026-11-13",
+      "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+      "dosage_form_as_listed": "Tabletten",
+      "pharmaceutical_company_as_listed": "ALIUD Pharma GmbH",
+      "ingredient_content_as_listed": "Nebivolol hydrochlorid 5,45 mg pro 1 Tablette; = Nebivolol (5 mg pro 1 Tablette)",
+      "pill_photo_status": "listed_on_product_page_not_visually_verified",
+      "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+      "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+    }
+  }
+}
