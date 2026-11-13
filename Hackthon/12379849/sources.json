@@ -1,0 +1,232 @@
+{
+  "pzn": "12379849",
+  "input_file": "heart_failure_collection_list_expanded.csv",
+  "collection_row": {
+    "active_ingredient": "Eplerenon",
+    "category": "盐皮质激素受体拮抗剂 / MRA",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eplerenon-accord-25-mg-filmtabletten-12379849.html",
+    "hf_context_zh": "特定慢性HFrEF；也用于心肌梗死后伴左室功能不全和心衰的特定患者。",
+    "mechanism_zh": "选择性阻断醛固酮受体，减少醛固酮引起的不利心脏重塑并保钾。",
+    "clinical_role_zh": "HFrEF基础治疗中的MRA选择。",
+    "example_product_name": "EPLERENON Accord 25 mg Filmtabletten",
+    "pzn": "12379849",
+    "example_strength_as_stated": "25 mg",
+    "pack_size_units": "20",
+    "market": "DE",
+    "collection_order": "60",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eplerenon-accord-25-mg-filmtabletten-12379849.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Filmtabletten",
+    "pharmaceutical_company_as_listed": "Accord Healthcare GmbH",
+    "ingredient_content_as_listed": "Eplerenon 25 mg pro 1 Tablette",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "product_page": {
+    "page_title": "Beipackzettel von EPLERENON Accord 25 mg Filmtabletten",
+    "pzn_on_page": "12379849",
+    "pack_size_on_page": "20 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten",
+    "provider_on_page": "Accord Healthcare GmbH München www.accord-healthcare.de",
+    "substances_on_page": [
+      "Eplerenon 25 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Lactose-1-Wasser Cellulose, mikrokristallin Typ Avicel PH 101 Cellulose, mikrokristallin Typ Avicel PH 102 Hypromellose Croscarmellose natrium",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/15/66/86615.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/15/66/86615.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/15/66/86615.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/16/66/86616.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 3,2 mm Breite: 6,4 mm Tiefe: 7,2 mm Masse: 89,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Anordnung : ohne Kerbe Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"E1\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eplerenon-accord-25-mg-filmtabletten-12379849.html?file=2ac309ff9e253e651f12848ebbbb49c1",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 09.2022"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27",
+    "provider_website": "https://www.accord-healthcare.de"
+  },
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/15/66/86615.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 107151,
+      "saved_as": "12379849_tablet_1.jpg",
+      "sha256": "d22bad9a6e19db6199c1e05886b2a8b24b2d9001bee7c8e581f6ddead1b56d29",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/16/66/86616.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 103069,
+      "saved_as": "12379849_tablet_2.jpg",
+      "sha256": "e1fe531f467104bc360a3ce03b6361c644a8bd3176b7ba419d3ace5f2d7a03f2",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/22/15/121522.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 761088,
+      "saved_as": "12379849_leaflet.pdf",
+      "sha256": "a53bee16631d4d90a1017a0cfc3748038c57c11febf10a77a9889636943e7c4d",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eplerenon-accord-25-mg-filmtabletten-12379849.html?file=2ac309ff9e253e651f12848ebbbb49c1",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 09.2022"
+    }
+  },
+  "unresolved_issues": [],
+  "field_sources": {
+    "pzn": {
+      "value": "12379849",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "market": {
+      "value": "DE",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "product_name": {
+      "value": "EPLERENON Accord 25 mg Filmtabletten",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "active_ingredient": {
+      "value": "Eplerenon",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Eplerenon 25 mg pro 1 Tablette",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "strength_as_stated": {
+      "value": "25 mg",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "dosage_form": {
+      "value": "Filmtabletten",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "pack_size": {
+      "value": "20",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "pharmaceutical_company": {
+      "value": "Accord Healthcare B.V. Winthontlaan 200 3526 KV Utrecht Niederlande",
+      "source": "leaflet PDF, automatic extract; requires review"
+    },
+    "manufacturer": {
+      "value": "Accord Healthcare Polska Sp.z o.o., ul. Lutomierska 50, 95-200 Pabianice, Polen",
+      "source": "leaflet PDF, automatic extract; requires review"
+    },
+    "score_line": {
+      "value": "Anordnung : ohne Kerbe Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird.",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "tablet_image_1": {
+      "value": "12379849/12379849_tablet_1.jpg",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "tablet_image_2": {
+      "value": "12379849/12379849_tablet_2.jpg",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "leaflet_path": {
+      "value": "12379849/12379849_leaflet.pdf",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eplerenon-accord-25-mg-filmtabletten-12379849.html",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "leaflet_revision_date": {
+      "value": "2022-09",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "retrieved_at": {
+      "value": "2026-11-13T15:42:39.601278+00:00",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "verification_status": {
+      "value": "PZN verified against product page; assets file-validated; automatically extracted; appearance and clinical details require review.",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "notes": {
+      "value": "Source catalogue strength preserved verbatim. Provider is recorded separately from manufacturer. Appearance/company details are automatically extracted from the leaflet; ambiguous multi-strength appearance fields are left blank. Leaflet document date is taken from the product page. ",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "category": {
+      "value": "盐皮质激素受体拮抗剂 / MRA",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "hf_context_zh": {
+      "value": "特定慢性HFrEF；也用于心肌梗死后伴左室功能不全和心衰的特定患者。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "mechanism_zh": {
+      "value": "选择性阻断醛固酮受体，减少醛固酮引起的不利心脏重塑并保钾。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "clinical_role_zh": {
+      "value": "HFrEF基础治疗中的MRA选择。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "strength_note_zh": {
+      "value": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "clinical_source_url": {
+      "value": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "mechanism_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eplerenon-accord-25-mg-filmtabletten-12379849.html",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "dosage_form_as_listed": {
+      "value": "Filmtabletten",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "pharmaceutical_company_as_listed": {
+      "value": "Accord Healthcare GmbH",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "ingredient_content_as_listed": {
+      "value": "Eplerenon 25 mg pro 1 Tablette",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "product_hf_indication_status": {
+      "value": "not_reviewed_check_product_leaflet",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "scope_note_zh": {
+      "value": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "notes_zh": {
+      "value": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "checked_on": {
+      "value": "2026-11-13",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "brand": {
+      "value": "EPLERENON Accord",
+      "source": "Derived from product_name: strength, dosage form and pack descriptors removed; existing brand capitalization reused where available.",
+      "product_name": "EPLERENON Accord 25 mg Filmtabletten"
+    }
+  },
+  "reuse_permission": "Not checked; original downloaded files and watermarks preserved."
+}

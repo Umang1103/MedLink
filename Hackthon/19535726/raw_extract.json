@@ -1,0 +1,105 @@
+{
+  "pzn": "19535726",
+  "list_row": {
+    "active_ingredient": "Candesartan",
+    "category": "血管紧张素II受体阻滞剂 / ARB",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/candesartan-ratiopharm-16-mg-tabletten-dose-19535726.html",
+    "hf_context_zh": "HFrEF：射血分数降低的心衰（心脏泵血能力减弱）；特别是在ACE抑制剂不耐受等情况下的选择。",
+    "mechanism_zh": "阻断血管紧张素II的AT1受体，减少血管收缩和醛固酮作用。",
+    "clinical_role_zh": "HFrEF中肾素-血管紧张素系统治疗的替代选择。",
+    "example_product_name": "CANDESARTAN-ratiopharm 16 mg Tabletten Dose",
+    "pzn": "19535726",
+    "example_strength_as_stated": "16 mg",
+    "pack_size_units": "100",
+    "market": "DE",
+    "collection_order": "152",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/candesartan-ratiopharm-16-mg-tabletten-dose-19535726.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "ratiopharm GmbH",
+    "ingredient_content_as_listed": "Candesartan cilexetil 16 mg pro 1 Tablette; = Candesartan (11,54 mg pro 1 Tablette)",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:44:16.963612+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/62/60/46062.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 93290,
+      "saved_as": "19535726_tablet_1.jpg",
+      "sha256": "99906f8e56ee1df5df9516eaf8461178ac29840bc303d2adab71a47176ba5519",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/63/60/46063.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 87167,
+      "saved_as": "19535726_tablet_2.jpg",
+      "sha256": "d037d84ca760fc5afde0c5ef66e2f9aa1bcdfc154b2618e43d3b4474181be33f",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/91/16/41691.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 129622,
+      "saved_as": "19535726_leaflet.pdf",
+      "sha256": "cf3c01f49826ad25eeb186d21cc275aebaf1a18d22984c72b9685990833a29f9",
+      "pages": 7,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/candesartan-ratiopharm-16-mg-tabletten-dose-19535726.html?file=89f29a464a8e4f15086d433019ed7af7",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 07.2026"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von CANDESARTAN-ratiopharm 16 mg Tabletten Dose",
+    "pzn_on_page": "19535726",
+    "pack_size_on_page": "100 Stück (N3)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "ratiopharm GmbH Ulm www.ratiopharm.de",
+    "substances_on_page": [
+      "Candesartan cilexetil 16 mg pro 1 Tablette",
+      "= Candesartan (11,54 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Lactose-1-Wasser Maisstärke Hyprolose Croscarmellose natrium Magnesium stearat",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/62/60/46062.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/62/60/46062.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/62/60/46062.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/63/60/46063.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 8,1 mm Höhe: 3,2 mm Masse: 158,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"C 16\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/candesartan-ratiopharm-16-mg-tabletten-dose-19535726.html?file=89f29a464a8e4f15086d433019ed7af7",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 07.2026"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27",
+    "provider_website": "https://www.ratiopharm.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Weiße, beidseitig gewölbte Tabletten mit Bruchkerbe auf einer Seite und der Prägung C16 auf derselben Seite. ist in Blisterpackungen mit 28, 56 und 98 Tabletten oder HDPE Flaschen mit 100 Tabletten erhältlich.Candesartan-ratiopharm 16 mg® Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "ratiopharm GmbH Graf-Arco-Str. 3 89079 Ulm",
+    "manufacturer_raw": "Merckle GmbH Ludwig-Merckle-Str. 3 89143 Blaubeuren oder Siegfried Malta Ltd. HHF070 Hal Far Industrial Estate BBG3000 Hal Far Malta oder Balkanpharma – Dupnitsa AD Samokovsko Shosse Str. 3 2600 Dupnitsa Bulgarien",
+    "revision_raw": "Juli 2026",
+    "wirkstoff_raw": "Candesartancilexetil Lesen Sie die gesamte Packungsbeilage sorgfältig durch, bevor Sie mit der Einnahme dieses Arzneimittels beginnen , denn sie enthält wichtige Informationen. — Heben Sie die Packung",
+    "composition_raw": "— Der Wirkstoff ist Candesartancilexetil. Jede Tablette enthält 16 mg Candesartancilexetil. — Die sonstigen Bestandteile sind: Lactose-Monohydrat, Maisstärke, Hyprolose, Croscarmellose-Natrium, Magnesiumstearat (Ph.Eur.), Triethylcitrat. Wie Candesartan-ratiopharm® 16 mg aussieht und Inhalt der Packung Weiße, beidseitig gewölbte Tabletten mit Bruchkerbe auf einer Seite und der Prägung C16 auf derselben Seite. ist in Blisterpackungen mit 28, 56 und 98 Tabletten oder HDPE Flaschen mit 100 Tablette",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

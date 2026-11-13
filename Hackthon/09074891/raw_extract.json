@@ -1,0 +1,105 @@
+{
+  "pzn": "09074891",
+  "list_row": {
+    "active_ingredient": "Candesartan",
+    "category": "血管紧张素II受体阻滞剂 / ARB",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/candesartan-abz-4-mg-tabletten-9074891.html",
+    "hf_context_zh": "HFrEF：射血分数降低的心衰（心脏泵血能力减弱）；特别是在ACE抑制剂不耐受等情况下的选择。",
+    "mechanism_zh": "阻断血管紧张素II的AT1受体，减少血管收缩和醛固酮作用。",
+    "clinical_role_zh": "HFrEF中肾素-血管紧张素系统治疗的替代选择。",
+    "example_product_name": "CANDESARTAN AbZ 4 mg Tabletten",
+    "pzn": "09074891",
+    "example_strength_as_stated": "4 mg",
+    "pack_size_units": "28",
+    "market": "DE",
+    "collection_order": "141",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/candesartan-abz-4-mg-tabletten-9074891.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "AbZ-Pharma GmbH",
+    "ingredient_content_as_listed": "Candesartan cilexetil 4 mg pro 1 Tablette; = Candesartan (2,89 mg pro 1 Tablette)",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:44:05.157072+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/25/83/48325.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 85731,
+      "saved_as": "09074891_tablet_1.jpg",
+      "sha256": "0a2ffdeb8526429bc241154d7443c23141fe6d4912fc4ca99b1d35e351cb7961",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/26/83/48326.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 84562,
+      "saved_as": "09074891_tablet_2.jpg",
+      "sha256": "c8e4e3fecacf7e608a9be56d432226c664dd256d450ee23aef08752274be86df",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/81/04/40481.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 132209,
+      "saved_as": "09074891_leaflet.pdf",
+      "sha256": "6514289f43c0746fe2294566e03ef3b22ba6b8e368a63787566f231ad592b5db",
+      "pages": 6,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/candesartan-abz-4-mg-tabletten-9074891.html?file=7e1c227b2b5d58d68b67c4a81215ceba",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 01.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von CANDESARTAN AbZ 4 mg Tabletten",
+    "pzn_on_page": "09074891",
+    "pack_size_on_page": "28 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "AbZ-Pharma GmbH Ulm www.abz.de",
+    "substances_on_page": [
+      "Candesartan cilexetil 4 mg pro 1 Tablette",
+      "= Candesartan (2,89 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Lactose-1-Wasser Maisstärke Hyprolose Croscarmellose natrium Magnesium stearat",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/25/83/48325.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/25/83/48325.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/25/83/48325.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/26/83/48326.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 8,1 mm Höhe: 3,2 mm Masse: 160,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"C 4\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/candesartan-abz-4-mg-tabletten-9074891.html?file=7e1c227b2b5d58d68b67c4a81215ceba",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 01.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27",
+    "provider_website": "https://www.abz.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Candesartan-AbZ 4 mg Weiße, beidseitig gewölbte Tabletten mit Bruchkerbe auf einer Seite und der Prägung C4 auf derselben Seite. ist in Packungen mit 28, 56 und 98 Tabletten erhältlich.Candesartan-AbZ 4 mg Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "b -Pharma GmbH A Z Graf-Arco-Str. 3 89079 Ulm",
+    "manufacturer_raw": "Merckle GmbH Ludwig-Merckle-Str. 3 89143 Blaubeuren oder Siegfried Malta Ltd. HHF070 Hal Far Industrial Estate BBG3000 Hal Far Malta",
+    "revision_raw": "Januar 2025",
+    "wirkstoff_raw": "Candesartancilexetil Lesen Sie die gesamte Packungsbeilage sorgfältig durch, bevor Sie mit der Einnahme dieses Arzneimittels beginnen, denn sie enthält wichtige Informationen. — Heben Sie die Packungs",
+    "composition_raw": "Candesartan-AbZ 4 mg — Der Wirkstoff ist Candesartancilexetil. Jede Tablette enthält 4 mg Candesartancilexetil. — Die sonstigen Bestandteile sind: Lactose-Monohydrat, Maisstärke, Hyprolose, Croscarmellose-Natrium, Magnesiumstearat (Ph.Eur.), Triethylcitrat. Wie aussieht und Inhalt der Packung Candesartan-AbZ 4 mg Weiße, beidseitig gewölbte Tabletten mit Bruchkerbe auf einer Seite und der Prägung C4 auf derselben Seite. ist in Packungen mit 28, 56 und 98 Tabletten erhältlich.Candesartan-AbZ 4 mg",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

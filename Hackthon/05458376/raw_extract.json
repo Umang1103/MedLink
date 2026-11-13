@@ -1,0 +1,95 @@
+{
+  "pzn": "05458376",
+  "list_row": {
+    "active_ingredient": "Losartan",
+    "category": "血管紧张素II受体阻滞剂 / ARB",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/losartan-kalium-axcount-125-mg-filmtabletten-5458376.html",
+    "hf_context_zh": "ACE抑制剂不适合或不耐受的特定成人慢性HFrEF患者。",
+    "mechanism_zh": "阻断AT1受体，减轻血管紧张素II导致的血管收缩和醛固酮作用。",
+    "clinical_role_zh": "HFrEF中肾素-血管紧张素系统治疗的替代选择。",
+    "example_product_name": "LOSARTAN Kalium axcount 12,5 mg Filmtabletten",
+    "pzn": "05458376",
+    "example_strength_as_stated": "12,5 mg",
+    "pack_size_units": "28",
+    "market": "DE",
+    "collection_order": "188",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/losartan-kalium-axcount-125-mg-filmtabletten-5458376.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Filmtabletten",
+    "pharmaceutical_company_as_listed": "axcount Generika GmbH",
+    "ingredient_content_as_listed": "Losartan kalium 12,5 mg pro 1 Tablette; = Losartan (11,47 mg pro 1 Tablette)",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:44:54.851300+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/51/90/29051.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 80196,
+      "saved_as": "05458376_tablet_1.jpg",
+      "sha256": "a9384d62baad3e014c130524b5c15268cedc101ed839c0ec8d669e7b3697b5bd",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/23/36/63623.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 240039,
+      "saved_as": "05458376_leaflet.pdf",
+      "sha256": "c904733fd7a1b324382b0138835f68b5e2c9b88ab9ee44acb11ec4ce0dad4668",
+      "pages": 9,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/losartan-kalium-axcount-125-mg-filmtabletten-5458376.html?file=39cc11c7e69a1e6a6dfa9dfc19c044e8",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 01.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von LOSARTAN Kalium axcount 12,5 mg Filmtabletten",
+    "pzn_on_page": "05458376",
+    "pack_size_on_page": "28 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten",
+    "provider_on_page": "axcount Generika GmbH Friedrichsdorf www.axcount.de",
+    "substances_on_page": [
+      "Losartan kalium 12,5 mg pro 1 Tablette",
+      "= Losartan (11,47 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Cellulose, mikrokristalline Lactose-1-Wasser Maisstärke, vorverkleistert Carboxymethylstärke, Natrium Typ A Magnesium stearat (pflanzlich)",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/51/90/29051.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/51/90/29051.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/51/90/29051.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 5,1 mm Höhe: 2,3 mm Masse: 38,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Anordnung : ohne Kerbe Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/losartan-kalium-axcount-125-mg-filmtabletten-5458376.html?file=39cc11c7e69a1e6a6dfa9dfc19c044e8",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 01.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27",
+    "provider_website": "https://www.axcount.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "",
+    "company_raw": "und",
+    "manufacturer_raw": "axcount Generika GmbH Max-Planck-Straße 36 d 61381 Friedrichsdorf Telefon: 06172-17940-00 Telefax: 06172-17940-40 E-Mail: service@axcount.de",
+    "revision_raw": "Januar 2025",
+    "wirkstoff_raw": "Losartan blockiert die Bindung von Angiotensin-II an diese Rezeptoren, so dass die Blutgefäße entspannt werden und der bei der Bluthochdruckerkrankung überhöhte Blutdruck sinkt. Losartan verlangsamt d",
+    "composition_raw": "- Der Wirkstoff ist: Losartan-Kalium. Jede Losartan-Kalium axcount 12,5 mg Filmtablette enthält 12,5 mg Losartan-Kalium, entsprechend 11,44 mg Losartan. - Die sonstigen Bestandteile sind: Mikrokristalline Cellulose, Lactose-Monohydrat, vorverkleisterte Stärke (Mais), Carboxymethylstärke-Natrium (Typ A) (Ph. Eur.), Magnesiumstearat (Ph. Eur.) [pflanzlich], Hyprolose, Hypromellose (6 mPa⋅s), Titandioxid. Wie Losartan-Kalium axcount 12,5 mg Filmtabletten aussehen und Inhalt der Packung Losartan-Kal",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

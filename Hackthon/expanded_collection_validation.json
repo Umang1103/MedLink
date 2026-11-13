@@ -1,0 +1,133 @@
+{
+  "catalogue_count": 188,
+  "medicine_count": 190,
+  "new_records": 174,
+  "original_nonempty_fields_preserved": true,
+  "csv_xlsx_equal": true,
+  "all_pzns_eight_digit_text": true,
+  "asset_checks": "All referenced PDFs parsed and all referenced images decoded successfully",
+  "asset_counts_catalogue": {
+    "tablet_image_1": 186,
+    "tablet_image_2": 151,
+    "leaflet_path": 169,
+    "package_image": 2
+  },
+  "complete_catalogue_entries": 169,
+  "incomplete_entries": [
+    {
+      "pzn": "07555149",
+      "name": "BISOPROLOL STADA 5 mg Filmtabletten",
+      "pdf_missing": true,
+      "pill_images_missing": false
+    },
+    {
+      "pzn": "01363153",
+      "name": "SPIRONOLACTON HEXAL 50 mg Tabletten",
+      "pdf_missing": true,
+      "pill_images_missing": true
+    },
+    {
+      "pzn": "01406282",
+      "name": "SPIRONOLACTON STADA 100 mg Tabletten",
+      "pdf_missing": true,
+      "pill_images_missing": false
+    },
+    {
+      "pzn": "01406299",
+      "name": "SPIRONOLACTON STADA 50 mg Tabletten",
+      "pdf_missing": true,
+      "pill_images_missing": false
+    },
+    {
+      "pzn": "10785433",
+      "name": "EPLERENON Heumann 25 mg Filmtabletten",
+      "pdf_missing": true,
+      "pill_images_missing": false
+    },
+    {
+      "pzn": "10921988",
+      "name": "EPLERENON STADA 25 mg Filmtabletten",
+      "pdf_missing": true,
+      "pill_images_missing": false
+    },
+    {
+      "pzn": "00660274",
+      "name": "TORASEMID STADA 200 mg Tabletten",
+      "pdf_missing": true,
+      "pill_images_missing": false
+    },
+    {
+      "pzn": "02377111",
+      "name": "TORASEMID STADA 5 mg Tabletten",
+      "pdf_missing": true,
+      "pill_images_missing": false
+    },
+    {
+      "pzn": "07095096",
+      "name": "METOPROLOLSUCCINAT AL 23,75 mg Retardtabletten",
+      "pdf_missing": true,
+      "pill_images_missing": false
+    },
+    {
+      "pzn": "00217001",
+      "name": "METOPROLOLSUCCINAT Heumann 23,75mg Retardtabletten",
+      "pdf_missing": true,
+      "pill_images_missing": false
+    },
+    {
+      "pzn": "05126303",
+      "name": "METOPROLOLSUCCINAT STADA 23,75 mg Retardtabletten",
+      "pdf_missing": true,
+      "pill_images_missing": false
+    },
+    {
+      "pzn": "03774133",
+      "name": "NEBIVOLOL Heumann 5 mg Tabletten",
+      "pdf_missing": true,
+      "pill_images_missing": false
+    },
+    {
+      "pzn": "04957373",
+      "name": "NEBIVOLOL STADA 5 mg Tabletten",
+      "pdf_missing": true,
+      "pill_images_missing": false
+    },
+    {
+      "pzn": "04213879",
+      "name": "RAMIPRIL STADA 2,5 mg Tabletten",
+      "pdf_missing": true,
+      "pill_images_missing": false
+    },
+    {
+      "pzn": "00569237",
+      "name": "ENALAPRIL STADA 20 mg Tabletten",
+      "pdf_missing": true,
+      "pill_images_missing": false
+    },
+    {
+      "pzn": "09424434",
+      "name": "CANDESARTAN Heumann 4 mg Tabletten",
+      "pdf_missing": true,
+      "pill_images_missing": false
+    },
+    {
+      "pzn": "14211427",
+      "name": "CANDESARTAN Heumann 4 mg Tabletten Heunet",
+      "pdf_missing": true,
+      "pill_images_missing": false
+    },
+    {
+      "pzn": "05371681",
+      "name": "LOSARTAN Heumann 100 mg Filmtabletten",
+      "pdf_missing": true,
+      "pill_images_missing": false
+    },
+    {
+      "pzn": "17420746",
+      "name": "LOSARTAN HEXAL 100 mg Filmtabletten Dose",
+      "pdf_missing": true,
+      "pill_images_missing": true
+    }
+  ],
+  "original_backup": "D:\\Hackthon\\backups\\20261113_164155"
+}

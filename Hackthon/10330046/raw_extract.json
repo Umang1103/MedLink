@@ -1,0 +1,95 @@
+{
+  "pzn": "10330046",
+  "list_row": {
+    "active_ingredient": "Bisoprolol",
+    "category": "β受体阻滞剂 / Beta-blocker",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-ratiopharm-125-mg-tabletten-10330046.html",
+    "hf_context_zh": "HFrEF：射血分数降低的心衰（心脏泵血能力减弱）",
+    "mechanism_zh": "减弱交感神经对心脏的刺激，降低心率和心肌耗氧。",
+    "clinical_role_zh": "稳定慢性HFrEF的基础治疗之一，改善长期结局。",
+    "example_product_name": "BISOPROLOL-ratiopharm 1,25 mg Tabletten",
+    "pzn": "10330046",
+    "example_strength_as_stated": "1,25 mg",
+    "pack_size_units": "20",
+    "market": "DE",
+    "collection_order": "27",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-ratiopharm-125-mg-tabletten-10330046.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "ratiopharm GmbH",
+    "ingredient_content_as_listed": "Bisoprolol fumarat 1,25 mg pro 1 Tablette; = Bisoprolol (1,06 mg pro 1 Tablette)",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:42:06.120830+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/35/95/29535.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 79805,
+      "saved_as": "10330046_tablet_1.jpg",
+      "sha256": "614421d9e81d111f1187e7524ce9ab83e8f74127af7146592dea65ad15c88508",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/65/16/41665.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 124498,
+      "saved_as": "10330046_leaflet.pdf",
+      "sha256": "468a8cba43c64f95a10267064a0bb8af8c1eddb276d769769d004bfd4876d59d",
+      "pages": 7,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-ratiopharm-125-mg-tabletten-10330046.html?file=be1b002a5335b7a7bbac03a75501a68d",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 08.2026"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von BISOPROLOL-ratiopharm 1,25 mg Tabletten",
+    "pzn_on_page": "10330046",
+    "pack_size_on_page": "20 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "ratiopharm GmbH Ulm www.ratiopharm.de",
+    "substances_on_page": [
+      "Bisoprolol fumarat 1,25 mg pro 1 Tablette",
+      "= Bisoprolol (1,06 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Cellulose, mikrokristalline Siliciumdioxid, hochdisperses Croscarmellose natrium Carboxymethylstärke, Natrium Typ A Magnesium stearat (pflanzlich)",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/35/95/29535.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/35/95/29535.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/35/95/29535.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 5,1 mm Höhe: 2,2 mm Masse: 43,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Anordnung : ohne Kerbe Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-ratiopharm-125-mg-tabletten-10330046.html?file=be1b002a5335b7a7bbac03a75501a68d",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 08.2026"
+      }
+    ],
+    "page_last_reviewed": "2026-10-09",
+    "provider_website": "https://www.ratiopharm.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Bisoprolol-ratiopharm® sind weiße bis gebrochen weiße, runde, bikonvexe Tabletten. Bisoprolol-ratiopharm® 1,25 mg Tabletten sind weiße bis gebrochen weiße, runde bikonvexe Tabletten mit einer Bruchkerbe auf einer Seite. Bisoprolol-ratiopharm® 2,5 mg Tabletten sind weiße bis gebrochen weiße, runde bikonvexe Tabletten.Bisoprolol-ratiopharm® 3,75 mg Tabletten Bisoprolol-ratiopharm® 1,25 mg Tabletten Packungsgrößen sind: 20 oder 100 Tabletten Bisoprolol-ratiopharm® 2,5 mg Tabletten Packungsgrößen sind: 30 oder 100 Tabletten Bisoprolol-ratiopharm® 3,75 mg Tabletten Packungsgrößen sind: 30 oder 100 Tabletten Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "ratiopharm GmbH Graf-Arco-Str. 3 89079 Ulm GEBRAUCHSINFORMATION Bisoprolol-ratiopharm 1,25, 2,5, 3,75 mg Tabletten® 7",
+    "manufacturer_raw": "Merckle GmbH Ludwig-Merckle-Str. 3 89143 Blaubeuren .",
+    "revision_raw": "August 2026",
+    "wirkstoff_raw": "von ist Bisoprololfumarat. Bisoprolol gehört zur Arzneimittelklasse der Betablocker. Diese Arzneimittel wirken,Bisoprolol-ratiopharm® indem sie die Reaktion des Körpers auf bestimmte Nervenimpulse – i",
+    "composition_raw": "Bisoprolol-ratiopharm® — Der Wirkstoff ist Bisoprololfumarat. Jede 1,25-mg-Tablette enthält 1,25 mg Bisoprololfumarat. Jede 2,5-mg-Tablette enthält 2,5 mg Bisoprololfumarat. Jede 3,75-mg-Tablette enthält 3,75 mg Bisoprololfumarat. — Die sonstigen Bestandteile sind: Mikrokristalline Cellulose, Hochdisperses Siliciumdioxid, Croscarmellose-Natrium, Carboxymethylstärke-Natrium (Typ A) (Ph.Eur.) und Magnesiumstearat (Ph.Eur.) [pflanzlich]. Wie aussieht und Inhalt der PackungBisoprolol-ratiopharm® sin",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

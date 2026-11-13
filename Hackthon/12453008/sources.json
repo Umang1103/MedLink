@@ -1,0 +1,158 @@
+{
+  "pzn": "12453008",
+  "generated_at": "2026-11-13T11:47:45.866464+00:00",
+  "retrieved_at": "2026-11-13T11:35:55.571524+00:00",
+  "product_page": {
+    "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/entresto-24-mg26-mg-filmtabletten-12453008.html",
+    "http_status": 200,
+    "pzn_on_page": "12453008",
+    "pack_size_on_page": "28 Stück",
+    "provider_on_page (Anbieter)": "FD Pharma GmbH Kehl",
+    "substances_on_page": [
+      "Sacubitril 24,29 mg pro 1 Tablette",
+      "Valsartan 25,71 mg pro 1 Tablette",
+      "= Sacubitril natrium-Valsartan dinatrium (1:1)-2,5-Wasser (56,55 mg pro 1 Tablette)",
+      "= Sacubitril-Valsartan (1:1) (50 mg pro 1 Tablette)"
+    ],
+    "physical_data_on_page": "",
+    "page_last_reviewed": "2026-07-27",
+    "data_provider": "ABDATA Pharma-Daten-Service"
+  },
+  "files": {
+    "leaflet_path": {
+      "local_path": "12453008/12453008_leaflet.pdf",
+      "download_url": "https://image.wub-service.de/resources/static/drugexpert/261101/82/20/152082.pdf",
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/entresto-24-mg26-mg-filmtabletten-12453008.html?file=bc5f925b16b75d0ac5551fb2fff6b6c1",
+      "download_ok": true,
+      "verified_type": "pdf",
+      "bytes": 150958,
+      "pixels": null,
+      "document_date_on_page": "Dokumentdatum: 06.2021"
+    }
+  },
+  "image_classification": {
+    "result": "no images listed on product page",
+    "package_image": "none available"
+  },
+  "field_sources": {
+    "pzn": {
+      "value": "12453008",
+      "source": "product_page (verified equal to list)"
+    },
+    "market": {
+      "value": "DE",
+      "source": "derived (German PZN)"
+    },
+    "product_name": {
+      "value": "Entresto 24 mg/26 mg Filmtabletten",
+      "source": "leaflet_pdf title (German, preserved)"
+    },
+    "active_ingredient": {
+      "value": "Sacubitril / Valsartan",
+      "source": "leaflet_pdf section 6"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Sacubitril-Natrium–Valsartan-Dinatrium (1:1) 2,5 H2O",
+      "source": "leaflet_pdf section 6"
+    },
+    "strength_as_stated": {
+      "value": "24 mg/26 mg",
+      "source": "product_name / leaflet_pdf section 6 (label strength, not converted)",
+      "note": "Label strength '24 mg/26 mg'; leaflet amounts 24,3 mg / 25,7 mg; page 24,29 / 25,71 mg."
+    },
+    "dosage_form": {
+      "value": "Filmtabletten",
+      "source": "product_page Darreichungsform + leaflet_pdf"
+    },
+    "pack_size": {
+      "value": "28",
+      "source": "product_page Packungsgröße (verified for this PZN)"
+    },
+    "brand": {
+      "value": "Entresto",
+      "source": "product_name"
+    },
+    "pharmaceutical_company": {
+      "value": "Novartis Europharm Limited, Vista Building, Elm Park, Merrion Road, Dublin 4, Irland",
+      "source": "leaflet_pdf section 6 (Pharmazeutischer Unternehmer / Zulassungsinhaber)",
+      "note": "Zulassungsinhaber per leaflet; parallel distributor FD Pharma GmbH recorded in notes."
+    },
+    "manufacturer": {
+      "value": "Novartis Pharma GmbH, Roonstraße 25, D-90429 Nürnberg, Deutschland",
+      "source": "leaflet_pdf section 6 (Hersteller)"
+    },
+    "color": {
+      "value": "violet-white",
+      "source": "leaflet_pdf section 6, normalised to English"
+    },
+    "shape": {
+      "value": "oval (approx. 13.1 mm x 5.2 mm)",
+      "source": "leaflet_pdf section 6, normalised to English"
+    },
+    "imprint": {
+      "value": "\"NVR\" on one side; \"LZ\" on the other side",
+      "source": "product_page 'Sonstige Merkmale' + leaflet_pdf"
+    },
+    "score_line": {
+      "value": "",
+      "source": "product_page 'Angaben zu Kerben' + leaflet_pdf"
+    },
+    "appearance_description_original": {
+      "value": "Entresto 24 mg/26 mg Filmtabletten sind violett-weiße, ovale Tabletten mit „NVR” auf der einen Seite und „LZ” auf der anderen Seite. Ungefähre Tablettenabmessungen 13,1 mm x 5,2 mm.",
+      "source": "leaflet_pdf section 6 (German, verbatim)",
+      "note": "PDF spacing artefact in 'violett -weiße' normalised."
+    },
+    "tablet_image_1": {
+      "value": "",
+      "source": "product_page 'Originalbilder des Präparats'"
+    },
+    "tablet_image_2": {
+      "value": "",
+      "source": "product_page 'Originalbilder des Präparats'"
+    },
+    "package_image": {
+      "value": "",
+      "source": "none available"
+    },
+    "leaflet_path": {
+      "value": "12453008/12453008_leaflet.pdf",
+      "source": "product_page 'PDF-Dokumente' link"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/entresto-24-mg26-mg-filmtabletten-12453008.html",
+      "source": "heart_failure_collection_list.csv"
+    },
+    "manufacturer_source_url": {
+      "value": "",
+      "source": "not cross-checked"
+    },
+    "leaflet_revision_date": {
+      "value": "2021-06",
+      "source": "leaflet_pdf 'zuletzt überarbeitet im …'"
+    },
+    "retrieved_at": {
+      "value": "2026-11-13",
+      "source": "collection run date"
+    },
+    "verification_status": {
+      "value": "Extracted from product page and leaflet PDF; no images available; not clinically or pharmacist verified. Has flagged discrepancies.",
+      "source": "workflow status"
+    },
+    "notes": {
+      "value": "COMBINATION PRODUCT: keep both components. Leaflet: 'Jede 24 mg/26 mg-Filmtablette enthält 24,3 mg Sacubitril und 25,7 mg Valsartan (als Sacubitril-Natrium–Valsartan-Dinatrium (1:1) 2,5 H2O)'. Product page states 24,29 mg sacubitril and 25,71 mg valsartan (rounding difference, flagged) and 56,55 mg of the salt complex. PARALLEL IMPORT: 'Parallel vertrieben und umgepackt von FD Pharma GmbH, Siemensstr. 11, 77694 Kehl' (= product page Anbieter); pharmaceutical_company is the Zulassungsinhaber per leaflet. Leaflet covers all three strengths; only the 24 mg/26 mg description is used. No product images on the product page; appearance from leaflet text only. Score line not mentioned in sources (left blank). Product page pack size '28 Stück' has no N-size.",
+      "source": "collector notes"
+    }
+  },
+  "unresolved_issues": [
+    "No tablet or package images available on the product page.",
+    "Component amounts differ in rounding: leaflet 24,3 mg / 25,7 mg vs product page 24,29 mg / 25,71 mg.",
+    "Leaflet supplied with this parallel import is dated June 2021; it may be older than the current EMA product information.",
+    "no product images listed on page"
+  ],
+  "reuse_permission": "unverified - image XMP: creator 'Dosing GmbH Heidelberg', rights 'ABDATA Pharma-Daten-Service', usage terms 'Verwendung nach Lizenzbestimmungen'. No explicit open licence found. Do not publish or deploy.",
+  "attribution": {
+    "product_page": "ABDATA Pharma-Daten-Service via apotheken-umschau.de",
+    "images": "© ABDATA | Dosing (watermark preserved, files unmodified)",
+    "leaflet_pdf": "marketing authorisation holder's patient leaflet, hosted by image.wub-service.de"
+  }
+}

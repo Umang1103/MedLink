@@ -1,0 +1,104 @@
+{
+  "pzn": "09313226",
+  "list_row": {
+    "active_ingredient": "Ramipril",
+    "category": "血管紧张素转换酶抑制剂 / ACE inhibitor",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ramipril-puren-5-mg-tabletten-9313226.html",
+    "hf_context_zh": "有症状的心衰，主要关联HFrEF；也可用于特定心梗后心衰。",
+    "mechanism_zh": "减少血管紧张素II生成，降低血管阻力及醛固酮作用。",
+    "clinical_role_zh": "HFrEF中肾素-血管紧张素系统治疗的选择。",
+    "example_product_name": "RAMIPRIL PUREN 5 mg Tabletten",
+    "pzn": "09313226",
+    "example_strength_as_stated": "5 mg",
+    "pack_size_units": "20",
+    "market": "DE",
+    "collection_order": "121",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ramipril-puren-5-mg-tabletten-9313226.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "PUREN Pharma GmbH & Co. KG",
+    "ingredient_content_as_listed": "Ramipril 5 mg pro 1 Tablette",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:43:45.564727+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/20/70/77020.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 135453,
+      "saved_as": "09313226_tablet_1.jpg",
+      "sha256": "2e0b837c9f0a431e84712373f73919b7434ee0ecb2f36066efedc0f2f67d2353",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/21/70/77021.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 118837,
+      "saved_as": "09313226_tablet_2.jpg",
+      "sha256": "d7ac1a7aa792833a24b7fbe9a61013e54d1880f97aaf6ca75359213b11f59db2",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/60/16/71660.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 204400,
+      "saved_as": "09313226_leaflet.pdf",
+      "sha256": "b1f74f115be7cdf59086010e9e652a1a4d8ff4defdb39814ba527d4c5cf5914d",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ramipril-puren-5-mg-tabletten-9313226.html?file=0fdc259877f77da7772eb8c0a60803fc",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 11.2021"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von RAMIPRIL PUREN 5 mg Tabletten",
+    "pzn_on_page": "09313226",
+    "pack_size_on_page": "20 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "PUREN Pharma GmbH & Co. KG München www.puren-pharma.de",
+    "substances_on_page": [
+      "Ramipril 5 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Maisstärke, vorverkleistert Lactose-1-Wasser Natriumhydrogencarbonat Croscarmellose natrium Natriumstearylfumarat",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/20/70/77020.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/20/70/77020.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/20/70/77020.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/21/70/77021.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 6,0 mm Höhe: 3,0 mm Masse: 100,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"H 19\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ramipril-puren-5-mg-tabletten-9313226.html?file=0fdc259877f77da7772eb8c0a60803fc",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 11.2021"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27",
+    "provider_website": "https://www.puren-pharma.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Hellrosafarbene, marmorierte, flache, runde (Durchmesser 6,0 mm), unbeschichtete Tabletten mit abgeschrägten Kanten und einer Bruchkerbe zwischen der Prägung „H“ und „19“ auf der einen Seite, und ohne Prägung auf der anderen Seite der Tablette. Die Tablette kann in gleiche Dosen geteilt werden. Ramipril PUREN ist in Blisterpackungen (transparentes PVC/Aluminium) und in weiß-opaken HDPE-Flaschen mit PP-Schraubverschluss erhältlich. Packungsgrößen: Blisterpackung: 7, 10, 14, 20, 28, 30, 42, 50, 56, 60, 98, 100 und 500 Tabletten HDPE-Flasche: 30 Tabletten Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "PUREN Pharma GmbH & Co. KG Willy-Brandt-Allee 2 81829 München Telefon: 089/558909 - 0 Telefax: 089/558909 - 240",
+    "manufacturer_raw": "APL Swift Services (Malta) Limited HF26, Hal Far Industrial Estate, Hal Far Birzebbugia, BBG 3000, Malta",
+    "revision_raw": "November 2021",
+    "wirkstoff_raw": "Ramipril. Dieser gehört zur Wirkstoffklasse der ACE-Hemmer (ACE = Angiotensin Converting Enzyme/ Angiotensinkonversionsenzym). Ramipril PUREN wirkt, indem es • die körpereigene Produktion von Substanz",
+    "composition_raw": "• Der Wirkstoff ist: Ramipril. Jede Tablette enthält 5 mg Ramipril. • Die sonstigen Bestandteile sind: Vorverkleisterte Stärke (Mais), Lactose-Monohydrat, Natriumhydrogencarbonat, Croscarmellose-Natrium, Eisen(III)- oxid (E172), Natriumstearylfumarat (Ph.Eur.). Wie Ramipril PUREN aussieht und Inhalt der Packung Hellrosafarbene, marmorierte, flache, runde (Durchmesser 6,0 mm), unbeschichtete Tabletten mit abgeschrägten Kanten und einer Bruchkerbe zwischen der Prägung „H“ und „19“ auf der einen Se",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

@@ -1,0 +1,104 @@
+{
+  "pzn": "00014120",
+  "list_row": {
+    "active_ingredient": "Carvedilol",
+    "category": "β受体阻滞剂（兼α1阻断） / Beta-blocker",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/carve-tad-625-mg-tabletten-14120.html",
+    "hf_context_zh": "HFrEF：射血分数降低的心衰（心脏泵血能力减弱）",
+    "mechanism_zh": "阻断β受体并扩张外周血管，减轻心脏负担。",
+    "clinical_role_zh": "稳定慢性HFrEF的基础治疗选择。",
+    "example_product_name": "CARVE TAD 6,25 mg Tabletten",
+    "pzn": "00014120",
+    "example_strength_as_stated": "6,25 mg",
+    "pack_size_units": "30",
+    "market": "DE",
+    "collection_order": "100",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/carve-tad-625-mg-tabletten-14120.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "TAD Pharma GmbH",
+    "ingredient_content_as_listed": "Carvedilol 6,25 mg pro 1 Tablette",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:43:24.993492+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/05/19/31905.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 49496,
+      "saved_as": "00014120_tablet_1.jpg",
+      "sha256": "8adb459b6bf15e48a90491161f1263ab2289c6457c0d76550c25afa9f03908b1",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/06/19/31906.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 50243,
+      "saved_as": "00014120_tablet_2.jpg",
+      "sha256": "0d565b39bff03ea8b89da3e60a2af39c64f68265b55e4d85ea5c0112e0c4e479",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/48/69/96948.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 91120,
+      "saved_as": "00014120_leaflet.pdf",
+      "sha256": "bade81654a22360613008f283bbccdf85400a7f59aeb98aea84899e7df171af4",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/carve-tad-625-mg-tabletten-14120.html?file=bccecadd02c1b2689e2bff893e730711",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 07.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von CARVE TAD 6,25 mg Tabletten",
+    "pzn_on_page": "00014120",
+    "pack_size_on_page": "30 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "TAD Pharma GmbH Cuxhaven www.tad.de",
+    "substances_on_page": [
+      "Carvedilol 6,25 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Saccharose Lactose-1-Wasser Lactose Povidon K25 Siliciumdioxid, hochdisperses",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/05/19/31905.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/05/19/31905.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/05/19/31905.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/06/19/31906.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 3,0 mm Breite: 4,0 mm Tiefe: 9,2 mm Masse: 92,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"S2\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/carve-tad-625-mg-tabletten-14120.html?file=bccecadd02c1b2689e2bff893e730711",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 07.2025"
+      }
+    ],
+    "page_last_reviewed": "2025-11-24",
+    "provider_website": "https://www.tad.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Carve TAD 6,25 mg Tabletten sind oval, weiß, leicht beidseitig nach außen gewölbt mit der Kennzeichnung S2 auf einer Seite und einer Kerbe auf der Rückseite. Carve TAD 6,25 mg ist in Packungen mit Blistern mit 30, 50 und 100 Tabletten erhältlich. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "TAD Pharma GmbH Heinz-Lohmann-Straße 5 27472 Cuxhaven Tel.: (04721) 606-0 Fax: (04721) 606-333 E-Mail: info@tad.de",
+    "manufacturer_raw": "KRKA, d.d., Novo mesto Šmarješka cesta 6 8501 Novo mesto Slowenien",
+    "revision_raw": "Juli 2025",
+    "wirkstoff_raw": "(z. B. Reserpin und Monoaminooxidase-Hemmer (MAOI‘s)), wie Isocarboxazid und Phenelzin (zur Behandlung von Depressionen), Fluoxetin und Paroxetin (zur Behandlung von Depressionen). • Arzneimittel zur",
+    "composition_raw": "• Der Wirkstoff ist: Carvedilol. Jede Tablette enthält 6,25 mg Carvedilol. • Die sonstigen Bestandteile sind: Lactose-Monohydrat, Sucrose, Crospovidon, Povidon K25, hochdisperses Siliciumdioxid und Magnesiumstearat (Ph.Eur.). Siehe Abschnitt 2. „Carve TAD 6,25 mg enthält Lactose- Monohydrat und Sucrose“. Wie Carve TAD 6,25 mg aussieht und Inhalt der Packung Carve TAD 6,25 mg Tabletten sind oval, weiß, leicht beidseitig nach außen gewölbt mit der Kennzeichnung S2 auf einer Seite und einer Kerbe a",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

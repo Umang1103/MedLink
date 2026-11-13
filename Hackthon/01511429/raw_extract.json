@@ -1,0 +1,104 @@
+{
+  "pzn": "01511429",
+  "list_row": {
+    "active_ingredient": "Furosemid",
+    "category": "袢利尿剂 / Loop diuretic",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/furosemid-ratiopharm-20-mg-tabletten-1511429.html",
+    "hf_context_zh": "伴液体潴留的心衰：如腿肿、肺淤血；可见于不同射血分数类型。",
+    "mechanism_zh": "抑制肾脏对钠盐的重吸收，增加盐和水的排出。",
+    "clinical_role_zh": "主要缓解水肿和淤血症状；不等同于改善生存的基础药。",
+    "example_product_name": "FUROSEMID-ratiopharm 20 mg Tabletten",
+    "pzn": "01511429",
+    "example_strength_as_stated": "20 mg",
+    "pack_size_units": "50",
+    "market": "DE",
+    "collection_order": "42",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/furosemid-ratiopharm-20-mg-tabletten-1511429.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "ratiopharm GmbH",
+    "ingredient_content_as_listed": "Furosemid 20 mg pro 1 Tablette",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:42:21.484899+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/21/36/53621.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 94452,
+      "saved_as": "01511429_tablet_1.jpg",
+      "sha256": "cd49d33436fe54e1be177d801267e4be99f31d5d422d23a7cde2efe2053e421f",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/22/36/53622.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 91359,
+      "saved_as": "01511429_tablet_2.jpg",
+      "sha256": "1ac9ed5b51a26dd8e9668203b1c63037dabdd45d7a1529e3bf464d1b8e1479b8",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/65/20/42065.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 163142,
+      "saved_as": "01511429_leaflet.pdf",
+      "sha256": "8d7590ecdeb060ab0eaa8ebea6402ab8d50c2e2a96c8e2c79d7234442ec6852a",
+      "pages": 9,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/furosemid-ratiopharm-20-mg-tabletten-1511429.html?file=5bd9058ac27d3cd0346e017864aaf28f",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 11.2024"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von FUROSEMID-ratiopharm 20 mg Tabletten",
+    "pzn_on_page": "01511429",
+    "pack_size_on_page": "50 Stück (N2)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "ratiopharm GmbH Ulm www.ratiopharm.de",
+    "substances_on_page": [
+      "Furosemid 20 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Lactose-1-Wasser Cellulose, mikrokristalline Carboxymethylstärke, Natrium Typ A Povidon K25 Siliciumdioxid, hochdisperses",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/21/36/53621.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/21/36/53621.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/21/36/53621.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/22/36/53622.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 6,0 mm Höhe: 2,3 mm Masse: 72,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/furosemid-ratiopharm-20-mg-tabletten-1511429.html?file=5bd9058ac27d3cd0346e017864aaf28f",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 11.2024"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15",
+    "provider_website": "https://www.ratiopharm.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Weiße bis leicht gelbliche, runde, beidseits gewölbte Tablette mit einseitiger breiter Bruchkerbe. Packungsgrößen: Blister: 50 Tabletten Flaschen: 100 Tabletten",
+    "company_raw": "ratiopharm GmbH Graf-Arco-Str. 3 89079 Ulm Deutschland",
+    "manufacturer_raw": "Teva Operations Poland Sp. z o.o. ul. Mogilska 80 31-546 Krakow Polen",
+    "revision_raw": "November 2024",
+    "wirkstoff_raw": "spiegeln im Blut und einem größeren Nebenwirkungsrisiko führen. — Die Wirkung von Theophyllin (Asthmamittel) oder curareartigen Arzneimitteln, die eine Muskelentspannung herbeiführen (Muskelrelaxanzie",
+    "composition_raw": "— Der Wirkstoff ist Furosemid. Jede Tablette enthält 20 mg Furosemid. — Die sonstigen Bestandteile sind: Mikrokristalline Cellulose, Lactose-Monohydrat, Carboxymethylstärke-Natrium (Typ A) (Ph.Eur.), Povidon K25, Hochdisperses Siliciumdioxid, Magnesiumstearat (Ph.Eur.) Wie Furosemid-ratiopharm® aussieht und Inhalt der Packung Weiße bis leicht gelbliche, runde, beidseits gewölbte Tablette mit einseitiger breiter Bruchkerbe. Packungsgrößen: Blister: 50 Tabletten Flaschen: 100 Tabletten Pharmazeuti",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

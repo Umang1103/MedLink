@@ -1,0 +1,94 @@
+{
+  "pzn": "10542179",
+  "list_row": {
+    "active_ingredient": "Eplerenon",
+    "category": "盐皮质激素受体拮抗剂 / MRA",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eplerenon-zentiva-25-mg-filmtabletten-10542179.html",
+    "hf_context_zh": "特定慢性HFrEF；也用于心肌梗死后伴左室功能不全和心衰的特定患者。",
+    "mechanism_zh": "选择性阻断醛固酮受体，减少醛固酮引起的不利心脏重塑并保钾。",
+    "clinical_role_zh": "HFrEF基础治疗中的MRA选择。",
+    "example_product_name": "EPLERENON Zentiva 25 mg Filmtabletten",
+    "pzn": "10542179",
+    "example_strength_as_stated": "25 mg",
+    "pack_size_units": "20",
+    "market": "DE",
+    "collection_order": "67",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eplerenon-zentiva-25-mg-filmtabletten-10542179.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Filmtabletten",
+    "pharmaceutical_company_as_listed": "Zentiva Pharma GmbH",
+    "ingredient_content_as_listed": "Eplerenon 25 mg pro 1 Tablette",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:42:44.449925+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/02/09/50902.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 117957,
+      "saved_as": "10542179_tablet_1.jpg",
+      "sha256": "e25f14d7330c1d7cfb34a6d78329e96da62b2dbbf179b7c5782f00db0d7ee89d",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/56/81/48156.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 171572,
+      "saved_as": "10542179_leaflet.pdf",
+      "sha256": "9991ac7c163f969a2b6f80c80e0feae8277bbc893b2f6893482d3d1b02205964",
+      "pages": 7,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eplerenon-zentiva-25-mg-filmtabletten-10542179.html?file=c7b48edcd1440072a769c0a4a284f2ec",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 04.2024"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von EPLERENON Zentiva 25 mg Filmtabletten",
+    "pzn_on_page": "10542179",
+    "pack_size_on_page": "20 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten",
+    "provider_on_page": "Zentiva Pharma GmbH Berlin www.zentiva.de",
+    "substances_on_page": [
+      "Eplerenon 25 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Lactose-1-Wasser Cellulose, mikrokristalline Hypromellose Croscarmellose natrium Magnesium stearat (pflanzlich)",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/02/09/50902.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/02/09/50902.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/02/09/50902.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 6,0 mm Höhe: 3,0 mm Masse: 83,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Anordnung : ohne Kerbe Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eplerenon-zentiva-25-mg-filmtabletten-10542179.html?file=c7b48edcd1440072a769c0a4a284f2ec",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 04.2024"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15",
+    "provider_website": "https://www.zentiva.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Eplerenon Zentiva 25 mg Filmtabletten sind gelbe, runde, beidseitig gewölbte Filmtabletten mit einem Durchmesser von etwa 6 mm und einer Dicke von etwa 3,0 mm. Eplerenon Zentiva 25 mg Filmtabletten sind erhältlich in Blisterpackungen mit 10, 20, 28, 30, 50, 90, 100 oder 200 Filmtabletten, in perforierten Einzeldosis-Blisterpackungen mit 10 x 1, 20 x 1, 28 x 1, 30 x 1, 50 x 1, 90 x 1, 100 x 1 oder 200 x 1 Filmtablette und in Flaschen mit 10, 20, 28, 30, 50, 90, 100 oder 200 Filmtabletten. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "Zentiva Pharma GmbH 65927 Frankfurt am Main Telefon: (01 80) 2 02 00 10* Telefax: (01 80) 2 02 00 11* Mitvertrieb Winthrop Arzneimittel GmbH 65927 Frankfurt am Main",
+    "manufacturer_raw": "Zentiva SA B-dul. Theodor Pallady nr. 50 032266, Sector 3, Bukarest Rumänien",
+    "revision_raw": "April 2024",
+    "wirkstoff_raw": "ist Eplerenon. Jede Tablette enthält 25 mg Eplerenon. 7 Die sonstigen Bestandteile sind: Lactose-Monohydrat, mikrokristalline Cellulose, Croscarmellose- Natrium, Hypromellose, Natriumdodecylsulfat, Ma",
+    "composition_raw": "Der Wirkstoff ist Eplerenon. Jede Tablette enthält 25 mg Eplerenon. 7 Die sonstigen Bestandteile sind: Lactose-Monohydrat, mikrokristalline Cellulose, Croscarmellose- Natrium, Hypromellose, Natriumdodecylsulfat, Magnesiumstearat (Ph. Eur.) [pflanzlich]. Der Filmüberzug enthält Hypromellose, Titandioxid, Macrogol 400, Polysorbat 80, Eisen(III)- hydroxid-oxid x H2O (E 172). Wie Eplerenon Zentiva aussieht und Inhalt der Packung Eplerenon Zentiva 25 mg Filmtabletten sind gelbe, runde, beidseitig gew",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

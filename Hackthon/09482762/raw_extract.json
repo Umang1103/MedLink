@@ -1,0 +1,105 @@
+{
+  "pzn": "09482762",
+  "list_row": {
+    "active_ingredient": "Candesartan",
+    "category": "血管紧张素II受体阻滞剂 / ARB",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/candesartan-basics-4-mg-tabletten-9482762.html",
+    "hf_context_zh": "HFrEF：射血分数降低的心衰（心脏泵血能力减弱）；特别是在ACE抑制剂不耐受等情况下的选择。",
+    "mechanism_zh": "阻断血管紧张素II的AT1受体，减少血管收缩和醛固酮作用。",
+    "clinical_role_zh": "HFrEF中肾素-血管紧张素系统治疗的替代选择。",
+    "example_product_name": "CANDESARTAN BASICS 4 mg Tabletten",
+    "pzn": "09482762",
+    "example_strength_as_stated": "4 mg",
+    "pack_size_units": "28",
+    "market": "DE",
+    "collection_order": "144",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/candesartan-basics-4-mg-tabletten-9482762.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "Basics GmbH",
+    "ingredient_content_as_listed": "Candesartan cilexetil 4 mg pro 1 Tablette; = Candesartan (2,89 mg pro 1 Tablette)",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:44:08.800722+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/34/91/29134.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 103007,
+      "saved_as": "09482762_tablet_1.jpg",
+      "sha256": "46fcce71e17ea72ff764cb23c3bb0cf5a7085817a375a22b6c06b2f830b674f3",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/35/91/29135.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 101815,
+      "saved_as": "09482762_tablet_2.jpg",
+      "sha256": "0a2fd1dcf1eb687eb0483c51c62789be66e2b7f7589707d6933bb6fac17959b0",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/07/09/200907.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 1373876,
+      "saved_as": "09482762_leaflet.pdf",
+      "sha256": "10dbbe08dc83a9a7392dbca55943910c5b675e87e89d97afdbcb26f1bd6cfc60",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/candesartan-basics-4-mg-tabletten-9482762.html?file=116fa5c3807f5b6f502cc70e4413cef6",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 10.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von CANDESARTAN BASICS 4 mg Tabletten",
+    "pzn_on_page": "09482762",
+    "pack_size_on_page": "28 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "Basics GmbH Leverkusen www.basics.de",
+    "substances_on_page": [
+      "Candesartan cilexetil 4 mg pro 1 Tablette",
+      "= Candesartan (2,89 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Lactose-1-Wasser Maisstärke Hyprolose, niedersubstituiert Macrogol 6000 Carmellose calcium",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/34/91/29134.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/34/91/29134.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/34/91/29134.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/35/91/29135.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 2,5 mm Breite: 3,6 mm Tiefe: 6,6 mm Masse: 49,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"C9\" Besonderheiten Die Tablette ist marmoriert. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/candesartan-basics-4-mg-tabletten-9482762.html?file=116fa5c3807f5b6f502cc70e4413cef6",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 10.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-10-09",
+    "provider_website": "https://www.basics.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "CANDESARTAN BASICS 4 mg Tabletten sind rosafar- bene, marmorierte, kapselförmige Tabletten mit der Prägung „C9“ auf der einen Seite und einer tiefen Bruchkerbe auf der anderen Seite. Die Tablette kann in gleiche Dosen geteilt werden. CANDESARTAN BASICS 8 mg Tabletten sind rosafar- bene, marmorierte, kapselförmige Tabletten mit beid- seitiger Bruchkerbe. Auf der einen Seite der Tablette ist in der einen Hälfte ein „C“ und in der anderen eine „10“ eingeprägt. Die Tablette kann in gleiche Dosen geteilt werden. CANDESARTAN BASICS 16 mg Tabletten sind rosafar- bene, marmorierte, kapselförmige Tabletten mit beid- seitiger Bruchkerbe. Auf der einen Seite der Tablette ist in der einen Hälfte ein „C“ und in der anderen eine „11“ eingeprägt. Die Tablette kann in gleiche Dosen geteilt werden. CANDESARTAN BASICS 32 mg Tabletten sind rosafar- bene, marmorierte, ovale Tabletten mit beidseitiger Bruchkerbe und einer Länge von ca. 15,0 mm und einer Breite von ca. 6,5 mm. Auf der einen Seite der Tablette ist in der einen Hälfte ein „C“ und in der an- deren eine „12“ eingeprägt. Die Tablette kann in glei- che Dosen geteilt werden. CANDESARTAN BASICS 4 mg, 8 mg und 16 mg Tabletten sind in PVC/PE/PVDC/Aluminium-Blister- packungen mit 7, 14, 15, 20, 28, 30, 50, 56, 90, 98 oder 100 Tabletten erhältlich. CANDESARTAN BASICS 32 mg Tabletten sind in PVC/PE/PVDC/Aluminium-Blisterpackungen mit 7, 8, 10, 12, 14, 15, 20, 28, 30, 40, 50, 56, 60, 70, 90, 95, 98, 100 oder 105 Tabletten erhältlich. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "Basics GmbH Hemmelrather Weg 201 51377 Leverkusen E-Mail: info@basics.de Internet: www.basics.de Mitvertrieb Sun Pharmaceuticals Germany GmbH Hemmelrather Weg 201 51377 Leverkusen",
+    "manufacturer_raw": "Sun Pharmaceutical Industries Europe B.V. Polarisavenue 87 2132 JH Hoofddorp Niederlande oder Terapia S.A. 124 Fabricii Street 400 632 Cluj Napoca Rumänien",
+    "revision_raw": "Oktober 2025",
+    "wirkstoff_raw": "ist Candesartancilexetil. Es gehört zu einer Gruppe von Arzneimitteln, die Angiotensin- II-Rezeptor-Antagonisten genannt werden. Es wirkt, in- dem es Ihre Blutgefäße entspannt und erweitert. Dies hilf",
+    "composition_raw": "Der Wirkstoff ist Candesartancilexetil. Jede Tablette enthält 4 mg, 8 mg, 16 mg oder 32 mg Candesartancilexetil. Die sonstigen Bestandteile sind: Lactose-Monohydrat, Maisstärke, Hyprolose (niedrig substituiert), Macrogol 6000, Carmellose-Calcium, Magnesiumstearat (Ph.Eur.), Eisen(III)-oxid (E172) Wie CANDESARTAN BASICS aussieht und Inhalt der Packung CANDESARTAN BASICS 4 mg Tabletten sind rosafar- bene, marmorierte, kapselförmige Tabletten mit der Prägung „C9“ auf der einen Seite und einer tiefe",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

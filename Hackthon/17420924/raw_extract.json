@@ -1,0 +1,104 @@
+{
+  "pzn": "17420924",
+  "list_row": {
+    "active_ingredient": "Ramipril",
+    "category": "血管紧张素转换酶抑制剂 / ACE inhibitor",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ramipril-hexal-125-mg-tabletten-dose-17420924.html",
+    "hf_context_zh": "有症状的心衰，主要关联HFrEF；也可用于特定心梗后心衰。",
+    "mechanism_zh": "减少血管紧张素II生成，降低血管阻力及醛固酮作用。",
+    "clinical_role_zh": "HFrEF中肾素-血管紧张素系统治疗的选择。",
+    "example_product_name": "RAMIPRIL HEXAL 1,25 mg Tabletten Dose",
+    "pzn": "17420924",
+    "example_strength_as_stated": "1,25 mg",
+    "pack_size_units": "100",
+    "market": "DE",
+    "collection_order": "127",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ramipril-hexal-125-mg-tabletten-dose-17420924.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "Hexal AG",
+    "ingredient_content_as_listed": "Ramipril 1,25 mg pro 1 Tablette",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:43:52.482617+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/06/44/174406.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 89689,
+      "saved_as": "17420924_tablet_1.jpg",
+      "sha256": "7563971c62867831e9690b4c42d2910327cb2b3d54bb871357a87695d1891b78",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/07/44/174407.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 85001,
+      "saved_as": "17420924_tablet_2.jpg",
+      "sha256": "6eff7d1d6d7ac8a35f49a95a11affd0cbb0f67262237ee6a007c3ee70549bd10",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/86/39/23986.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 80771,
+      "saved_as": "17420924_leaflet.pdf",
+      "sha256": "9e301dab45f3fda311591084fa13e5ccf75edf1509cda3d5b27ca39f095810c9",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ramipril-hexal-125-mg-tabletten-dose-17420924.html?file=4368c919f07598a6db322a6da5165cdf",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 11.2024"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von RAMIPRIL HEXAL 1,25 mg Tabletten Dose",
+    "pzn_on_page": "17420924",
+    "pack_size_on_page": "100 Stück (N3)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "Hexal AG Holzkirchen www.hexal.de",
+    "substances_on_page": [
+      "Ramipril 1,25 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Cellulose, mikrokristalline Hypromellose Natriumhydrogencarbonat Natriumstearylfumarat Maisstärke, vorverkleistert",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/06/44/174406.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/06/44/174406.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/06/44/174406.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/07/44/174407.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 2,5 mm Breite: 4,1 mm Tiefe: 8,2 mm Masse: 80,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : beidseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"R1,25\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ramipril-hexal-125-mg-tabletten-dose-17420924.html?file=4368c919f07598a6db322a6da5165cdf",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 11.2024"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27",
+    "provider_website": "https://www.hexal.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "",
+    "company_raw": "Hexal AG Industriestraße 25 83607 Holzkirchen Telefon: (08024) 908-0 Telefax: (08024) 908-1290 E-Mail: service@hexal.com",
+    "manufacturer_raw": "Lek S.A. Ul. Podlipie 16 Stryków 95-010 Polen",
+    "revision_raw": "",
+    "wirkstoff_raw": "Ramipril. Dieser gehört zur Wirkstoffklasse der ACE-Hemmer (ACE = An- giotensin-Converting-Enzym/Angiotensinkonversionsen- zym). Ramipril HEXAL wirkt, indem es • die körpereigene Produktion von Substa",
+    "composition_raw": "Der Wirkstoff ist Ramipril. 1 Tablette enthält 1,25 mg Ramipril. Die sonstigen Bestandteile sind: mikrokristalline Cellu- lose, Hypromellose, Natriumhydrogencarbonat, Natri- umstearylfumarat (Ph.Eur.), vorverkleisterte Stärke (Mais) Wie Ramipril HEXAL aussieht und Inhalt der Pa- ckung Ramipril HEXAL ist eine weiße, längliche und ﬂache Tab- lette mit beidseitiger Bruchkerbe und der Prägung „R 1,25“ auf einer Seite. Ramipril HEXAL ist in Blisterpackungen mit 20, 50 und 100 Tabletten und in HDPE-Fl",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

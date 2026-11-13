@@ -1,0 +1,104 @@
+{
+  "pzn": "03682046",
+  "list_row": {
+    "active_ingredient": "Enalapril",
+    "category": "血管紧张素转换酶抑制剂 / ACE inhibitor",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/enalapril-5-1a-pharma-tabletten-3682046.html",
+    "hf_context_zh": "有症状的HFrEF；某些无症状左室功能不全患者用于预防症状性心衰。",
+    "mechanism_zh": "抑制ACE，减少血管收缩和钠水潴留相关激素作用。",
+    "clinical_role_zh": "HFrEF中肾素-血管紧张素系统治疗的选择。",
+    "example_product_name": "ENALAPRIL 5-1A Pharma Tabletten",
+    "pzn": "03682046",
+    "example_strength_as_stated": "Enalapril maleat 5 mg pro 1 Tablette",
+    "pack_size_units": "100",
+    "market": "DE",
+    "collection_order": "131",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/enalapril-5-1a-pharma-tabletten-3682046.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "1A Pharma GmbH",
+    "ingredient_content_as_listed": "Enalapril maleat 5 mg pro 1 Tablette; = Enalapril (3,82 mg pro 1 Tablette)",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:43:57.045599+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/60/89/178960.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 72132,
+      "saved_as": "03682046_tablet_1.jpg",
+      "sha256": "0290ffb456fc616af2136927ee6b865bf2f033ea0074f8073224906d073de9b1",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/61/89/178961.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 68621,
+      "saved_as": "03682046_tablet_2.jpg",
+      "sha256": "0704b14f5838c0ca560ac8342aab9689b325d20d91cf7c1a26013f2feefb6260",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/50/61/26150.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 46467,
+      "saved_as": "03682046_leaflet.pdf",
+      "sha256": "7bcbe56b78e614bf775d33340f90435fcd489dbb5901574d13d6df0105ae6366",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/enalapril-5-1a-pharma-tabletten-3682046.html?file=348cc4b33d3de4f3e8d6f64d305126ec",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 02.2022"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von ENALAPRIL 5-1A Pharma Tabletten",
+    "pzn_on_page": "03682046",
+    "pack_size_on_page": "100 Stück (N3)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "1A Pharma GmbH Holzkirchen",
+    "substances_on_page": [
+      "Enalapril maleat 5 mg pro 1 Tablette",
+      "= Enalapril (3,82 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Lactose-1-Wasser Magnesium stearat Maisstärke Natriumhydrogencarbonat Talkum",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/60/89/178960.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/60/89/178960.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/60/89/178960.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/61/89/178961.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 3,2 mm Breite: 5,6 mm Tiefe: 11,1 mm Masse: 171,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"EN5\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/enalapril-5-1a-pharma-tabletten-3682046.html?file=348cc4b33d3de4f3e8d6f64d305126ec",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 02.2022"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Die Tabletten sind weiß, oval und beidseitig gewölbt mit einer Bruchkerbe und der Prägung „EN 5“ auf einer Seite. Die Tab- lette kann in 2 gleiche Dosen geteilt werden. Enalapril 5 - 1 A Pharma ist in Packungen mit 30, 50, 60 und 100 Tabletten erhältlich. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "1 A Pharma GmbH Industriestraße 18 83607 Holzkirchen Telefon: (08024) 908-3030",
+    "manufacturer_raw": "Salutas Pharma GmbH Otto-von-Guericke-Allee 1 39179 Barleben",
+    "revision_raw": "Februar 2022",
+    "wirkstoff_raw": "Enalaprilmal- eat. Dieser Wirkstoff gehört zu der Klasse der ACE-Hemmer (Angiotensin-Conversions-Enzym-Hemmer). Enalapril 5 - 1 A Pharma wird angewendet zur • Behandlung von Bluthochdruck (Hypertonie)",
+    "composition_raw": "Der Wirkstoff ist Enalaprilmaleat. 1 Tablette enthält 5 mg Enalaprilmaleat. Die sonstigen Bestandteile sind: Hyprolose, Lactose-Mono- hydrat, Magnesiumstearat (Ph.Eur.), Maisstärke, Natriumhy- drogencarbonat, Talkum. Wie Enalapril 5 - 1 A Pharma aussieht und Inhalt der Packung Die Tabletten sind weiß, oval und beidseitig gewölbt mit einer Bruchkerbe und der Prägung „EN 5“ auf einer Seite. Die Tab- lette kann in 2 gleiche Dosen geteilt werden. Enalapril 5 - 1 A Pharma ist in Packungen mit 30, 50,",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

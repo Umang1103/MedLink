@@ -1,0 +1,104 @@
+{
+  "pzn": "09333803",
+  "list_row": {
+    "active_ingredient": "Valsartan",
+    "category": "血管紧张素II受体阻滞剂 / ARB",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/valsartan-dura-320-mg-filmtabletten-9333803.html",
+    "hf_context_zh": "特定有症状的HFrEF患者；也用于特定心梗后左室功能不全/心衰。",
+    "mechanism_zh": "阻断AT1受体，减轻血管收缩、钠水潴留和心脏负荷。",
+    "clinical_role_zh": "HFrEF中肾素-血管紧张素系统治疗的替代选择。",
+    "example_product_name": "VALSARTAN dura 320 mg Filmtabletten",
+    "pzn": "09333803",
+    "example_strength_as_stated": "320 mg",
+    "pack_size_units": "56",
+    "market": "DE",
+    "collection_order": "161",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/valsartan-dura-320-mg-filmtabletten-9333803.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Filmtabletten",
+    "pharmaceutical_company_as_listed": "Viatris Healthcare GmbH - Zweigniederlassung Bad Homburg",
+    "ingredient_content_as_listed": "Valsartan 320 mg pro 1 Tablette",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:44:27.388637+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/58/27/82758.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 93800,
+      "saved_as": "09333803_tablet_1.jpg",
+      "sha256": "4599c33c29fa8ddf9e29554508c392b6c1c1225400f819ac8279bfbfafa7c727",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/59/27/82759.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 94679,
+      "saved_as": "09333803_tablet_2.jpg",
+      "sha256": "a9f3cae7692a2966db276f3aed97fd6b539760703bebeba6334a46eb63001d65",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/45/21/112145.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 118262,
+      "saved_as": "09333803_leaflet.pdf",
+      "sha256": "07dc14a8655b75ce1b5cc7a860f06365e0ba54e193ba0b229bb4fec3a6d4eae6",
+      "pages": 8,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/valsartan-dura-320-mg-filmtabletten-9333803.html?file=21957ae32b37e4819f059977e19d9a68",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 06.2026"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von VALSARTAN dura 320 mg Filmtabletten",
+    "pzn_on_page": "09333803",
+    "pack_size_on_page": "56 Stück (N2)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten",
+    "provider_on_page": "Viatris Healthcare GmbH - Zweigniederlassung Bad Homburg Bad Homburg www.viatris.de",
+    "substances_on_page": [
+      "Valsartan 320 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Cellulose, mikrokristalline Crospovidon Povidon K30 Croscarmellose natrium Siliciumdioxid, hochdisperses",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/58/27/82758.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/58/27/82758.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/58/27/82758.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/59/27/82759.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 6,0 mm Breite: 8,2 mm Tiefe: 17,7 mm Masse: 666,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Anordnung : ohne Kerbe Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"M\", \"VN4\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/valsartan-dura-320-mg-filmtabletten-9333803.html?file=21957ae32b37e4819f059977e19d9a68",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 06.2026"
+      }
+    ],
+    "page_last_reviewed": "2026-09-11",
+    "provider_website": "https://www.viatris.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": ": Valsartan dura 320 mg Filmtabletten sind dunkelgrau-violette, ovale, bikonvexe Filmtabletten mit abgeschrägten Kanten sowie mit eingeprägtem „VN 4“ auf einer Seite und „M“ auf der anderen Seite der Tablette. Valsartan dura 320 mg Filmtabletten sind erhältlich in Blisterpackungen mit 7, 10, 14, 28, 30, 56, 90, 98 Filmta- bletten, in Bündelpackungen mit 98 Filmtabletten bestehend aus 2 Faltschachteln (á 49 Filmtabletten), in HDPE- Stand der Gebrauchsinformation: Juni 2026 Dieses PDF wurde von der Rote Liste® Service GmbH/GI 4.0® erzeugt. 7/8 Gebrauchsinformation: Information für Patienten Valsartan dura 320 mg Filmtabletten Flaschen mit 56, 98, 500 und 1000 Filmtabletten und in HDPE-Flaschen mit Trockenmittel mit 28 und 30 Filmta- bletten. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "Viatris Germany GmbH Lütticher Straße 5 53842 Troisdorf Mitvertrieb Viatris Healthcare GmbH Lütticher Straße 5 53842 Troisdorf",
+    "manufacturer_raw": "Mylan Hungary Kft. H-2900 Komárom Mylan utca 1 Ungarn",
+    "revision_raw": "Juni 2026",
+    "wirkstoff_raw": "Valsartan. Wenn irgendeiner dieser Punkte auf Sie zutrifft, sagen Sie es Ihrem Arzt, bevor Sie Valsartan dura einnehmen. Einnahme von Valsartan dura zusammen mit anderen Arzneimitteln Informieren Sie",
+    "composition_raw": "Der Wirkstoff ist Valsartan. Jede Filmtablette enthält 320 mg Valsartan. Die sonstigen Bestandteile sind: Mikrokristalline Cellulose; Crospovidon (Typ A); Povidon K30; Croscarmellose- Natrium; Hochdisperses Siliciumdioxid; Magnesiumstearat (Ph.Eur.) [pflanzlich]. Der Filmüberzug enthält: Hypromellose (E464); Titandioxid (E171); Macrogol 8000; Vanillin; Eisen(III)-hydroxid- oxid (E172); Eisen(II,III)-oxid (E172); Eisen(III)-oxid (E172). Wie Valsartan dura 320 mg aussieht und Inhalt der Packung: V",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

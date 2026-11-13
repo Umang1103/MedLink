@@ -1,0 +1,187 @@
+{
+  "pzn": "06865959",
+  "generated_at": "2026-11-13T11:48:37.117178+00:00",
+  "field_sources": {
+    "pzn": {
+      "value": "06865959",
+      "source": "product_webpage",
+      "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-ratiopharm-5-mg-tabletten-6865959.html",
+      "verified_against": [
+        "product_webpage",
+        "leaflet_pdf"
+      ]
+    },
+    "market": {
+      "value": "DE",
+      "source": "derived",
+      "note": "German PZN system"
+    },
+    "product_name": {
+      "value": "Bisoprolol-ratiopharm 5 mg Tabletten",
+      "source": "product_webpage",
+      "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-ratiopharm-5-mg-tabletten-6865959.html"
+    },
+    "active_ingredient": {
+      "value": "Bisoprololfumarat",
+      "source": "leaflet_pdf",
+      "note": "Section 1 heading and Section 6 excipients; exact salt form: Bisoprololfumarat"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Bisoprololfumarat",
+      "source": "leaflet_pdf",
+      "note": "Preserved verbatim from leaflet title and section headings"
+    },
+    "strength_as_stated": {
+      "value": "5 mg",
+      "source": "product_webpage + leaflet_pdf",
+      "note": "5 mg per tablet as stated; not converted to free-base equivalent"
+    },
+    "dosage_form": {
+      "value": "Tabletten",
+      "source": "product_webpage",
+      "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-ratiopharm-5-mg-tabletten-6865959.html"
+    },
+    "pack_size": {
+      "value": "30",
+      "source": "product_webpage",
+      "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-ratiopharm-5-mg-tabletten-6865959.html",
+      "note": "PZN 06865959 confirmed as 30 tablets (N1). Leaflet mentions 30/50/98/100 packs; other pack sizes carry separate PZNs."
+    },
+    "brand": {
+      "value": "Bisoprolol-ratiopharm",
+      "source": "product_name"
+    },
+    "pharmaceutical_company": {
+      "value": "ratiopharm GmbH, Graf-Arco-Str. 3, 89079 Ulm",
+      "source": "leaflet_pdf",
+      "note": "Pharmazeutischer Unternehmer per leaflet §7"
+    },
+    "manufacturer": {
+      "value": "Merckle GmbH, Ludwig-Merckle-Str. 3, 89143 Blaubeuren",
+      "source": "leaflet_pdf",
+      "note": "Hersteller per leaflet §7; distinct from Pharmazeutischer Unternehmer"
+    },
+    "color": {
+      "value": "light yellow, mottled/speckled",
+      "source": "leaflet_pdf",
+      "note": "Leaflet §6: 'gesprenkelt, hell gelb gefärbt'. Confirmed by excipient Eisenoxid gelb (E 172). English normalised."
+    },
+    "shape": {
+      "value": "round, biconvex",
+      "source": "leaflet_pdf + product_webpage",
+      "note": "Leaflet §6: 'rund und konvex'. Diameter 8.2 mm (ABDATA average)."
+    },
+    "imprint": {
+      "value": "\"5\"",
+      "source": "leaflet_pdf + product_webpage",
+      "note": "Leaflet §6: Prägung '5' rechts der Bruchkerbe. Apotheken-umschau: Sonstige Merkmale: \"5\". Copied exactly."
+    },
+    "score_line": {
+      "value": "one score line, one side only (wedge-shaped, non-splitting type)",
+      "source": "product_webpage",
+      "note": "Apotheken-umschau (ABDATA): Lage=Einzelkerbe, Form=keilförmig, Anordnung=einseitig, Spaltung=nein. Tablet IS divisible into 2 equal halves (leaflet §3)."
+    },
+    "appearance_description_original": {
+      "value": "Die Tabletten sind gesprenkelt, hell gelb gefärbt, rund und konvex mit folgenden Erkennungsmerkmalen: einseitige Bruchkerbe mit der Prägung „5“ rechts der Bruchkerbe.",
+      "source": "leaflet_pdf",
+      "note": "Exact wording from leaflet §6 (German), preserved verbatim."
+    },
+    "tablet_image_1": {
+      "value": "06865959/06865959_tablet_1.jpg",
+      "download_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/51/51/45151.jpg",
+      "classification": "tablet (visually confirmed)",
+      "classification_basis": "Visual review 2026-11-13: 600x600 px photo of a light-yellow round tablet with a single score line and '5' to the right of the score; mm scale bar and '© ABDATA | Dosing' watermark. Matches leaflet section 6.",
+      "file_verified": true,
+      "file_size_bytes": 133078,
+      "reuse_permission": "unverified – 'Verwendung nach Lizenzbestimmungen'"
+    },
+    "tablet_image_2": {
+      "value": "06865959/06865959_tablet_2.jpg",
+      "download_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/52/51/45152.jpg",
+      "classification": "tablet (visually confirmed)",
+      "classification_basis": "Visual review 2026-11-13: 600x600 px photo of the plain reverse side of the same light-yellow round tablet; mm scale bar and '© ABDATA | Dosing' watermark.",
+      "file_verified": true,
+      "file_size_bytes": 122566,
+      "reuse_permission": "unverified – 'Verwendung nach Lizenzbestimmungen'"
+    },
+    "package_image": {
+      "value": "",
+      "note": "No dedicated packaging image was provided or available."
+    },
+    "leaflet_path": {
+      "value": "06865959/06865959_leaflet.pdf",
+      "download_url": "https://image.wub-service.de/resources/static/drugexpert/261101/69/16/41669.pdf",
+      "file_verified": true,
+      "file_size_bytes": 145868,
+      "pdf_creation_date": "2022-11-11",
+      "pdf_producer": "TevaInternet",
+      "pdf_author": "exensio GmbH"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-ratiopharm-5-mg-tabletten-6865959.html",
+      "source": "product_webpage",
+      "last_updated_on_site": "2025-11-24",
+      "data_provider": "ABDATA Pharma-Daten-Service"
+    },
+    "manufacturer_source_url": {
+      "value": "https://www.ratiopharm.de/produkte/details/bisoprolol-ratiopharm-5-mg-tabletten-pzn-6865959/",
+      "source": "manufacturer_website"
+    },
+    "leaflet_revision_date": {
+      "value": "2022-08",
+      "source": "leaflet_pdf",
+      "note": "Leaflet §10: 'Diese Packungsbeilage wurde zuletzt überarbeitet im August 2022.' Versionscode: Z11."
+    },
+    "retrieved_at": {
+      "value": "2026-11-13",
+      "note": "Date sources were accessed for this record."
+    },
+    "verification_status": {
+      "value": "Data extracted from official sources; not clinically or pharmacist verified. Images visually confirmed as tablet photos."
+    },
+    "notes": {
+      "value": "Dimensions (ABDATA avg): diameter 8.2 mm, height 3.3 mm, mass 178.0 mg. Tablet can be split into 2 equal halves. Excipients include lactose monohydrate (lactose intolerance warning applies). Pack sizes 50, 98, 100 carry different PZNs – not assumed here. Image reuse permission: unverified (licence text: 'Verwendung nach Lizenzbestimmungen', rights holder ABDATA Pharma-Daten-Service / Dosing GmbH Heidelberg). apotheken-umschau.de last updated: 2025-11-24."
+    }
+  },
+  "unresolved_issues": [
+    "Correction 2026-11-13: an earlier version of this file described both images as 88x88 px with unverified classification. They are 600x600 px and were visually confirmed as tablet photographs.",
+    "Image reuse permission: XMP metadata states 'Verwendung nach Lizenzbestimmungen' (usage subject to licence terms). No explicit Creative Commons or public-domain licence found. Do NOT publish or deploy the downloaded files.",
+    "Leaflet revision date is August 2022. The apotheken-umschau page was last updated 2025-11-24. It is possible a newer leaflet version exists; manual cross-check with the BfArM leaflet database is recommended."
+  ],
+  "attribution": {
+    "product_webpage": "ABDATA Pharma-Daten-Service via apotheken-umschau.de",
+    "leaflet_pdf": "ABDATA Pharma-Daten-Service / exensio GmbH / TevaInternet",
+    "images": "Dosing GmbH Heidelberg / ABDATA Pharma-Daten-Service",
+    "manufacturer_page": "ratiopharm GmbH"
+  },
+  "expanded_catalogue": {
+    "input_file": "heart_failure_collection_list_expanded.csv",
+    "row": {
+      "active_ingredient": "Bisoprolol",
+      "category": "β受体阻滞剂 / Beta-blocker",
+      "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-ratiopharm-5-mg-tabletten-6865959.html",
+      "hf_context_zh": "HFrEF：射血分数降低的心衰（心脏泵血能力减弱）",
+      "mechanism_zh": "减弱交感神经对心脏的刺激，降低心率和心肌耗氧。",
+      "clinical_role_zh": "稳定慢性HFrEF的基础治疗之一，改善长期结局。",
+      "example_product_name": "BISOPROLOL-ratiopharm 5 mg Tabletten",
+      "pzn": "06865959",
+      "example_strength_as_stated": "5 mg Bisoprololfumarat",
+      "pack_size_units": "30",
+      "market": "DE",
+      "collection_order": "1",
+      "collection_status": "check_existing_record",
+      "notes_zh": "原清单已有产品；按 market+pzn 检查已有记录。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+      "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+      "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+      "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-ratiopharm-5-mg-tabletten-6865959.html",
+      "checked_on": "2026-11-13",
+      "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+      "dosage_form_as_listed": "Tabletten",
+      "pharmaceutical_company_as_listed": "ratiopharm GmbH",
+      "ingredient_content_as_listed": "Bisoprolol fumarat 5 mg pro 1 Tablette; = Bisoprolol (4,24 mg pro 1 Tablette)",
+      "pill_photo_status": "listed_on_product_page_not_visually_verified",
+      "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+      "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+    }
+  }
+}

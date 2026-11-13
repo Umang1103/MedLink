@@ -1,0 +1,104 @@
+{
+  "pzn": "03820206",
+  "list_row": {
+    "active_ingredient": "Bisoprolol",
+    "category": "β受体阻滞剂 / Beta-blocker",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-5-1a-pharma-filmtabletten-3820206.html",
+    "hf_context_zh": "HFrEF：射血分数降低的心衰（心脏泵血能力减弱）",
+    "mechanism_zh": "减弱交感神经对心脏的刺激，降低心率和心肌耗氧。",
+    "clinical_role_zh": "稳定慢性HFrEF的基础治疗之一，改善长期结局。",
+    "example_product_name": "BISOPROLOL 5-1A Pharma Filmtabletten",
+    "pzn": "03820206",
+    "example_strength_as_stated": "Bisoprolol fumarat 5 mg pro 1 Tablette",
+    "pack_size_units": "30",
+    "market": "DE",
+    "collection_order": "18",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-5-1a-pharma-filmtabletten-3820206.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Filmtabletten",
+    "pharmaceutical_company_as_listed": "1A Pharma GmbH",
+    "ingredient_content_as_listed": "Bisoprolol fumarat 5 mg pro 1 Tablette; = Bisoprolol (4,24 mg pro 1 Tablette)",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:41:55.999363+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/25/67/176725.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 136513,
+      "saved_as": "03820206_tablet_1.jpg",
+      "sha256": "08bc8b15736bfaadedd0518d90a7fa4f79334ea563ed6cbb36ded122a654322c",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/26/67/176726.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 143073,
+      "saved_as": "03820206_tablet_2.jpg",
+      "sha256": "db906b434bac63c554264b5f76a3482fa684f45fb1cb8c378c813f8a2749ba6b",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/52/62/26252.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 51594,
+      "saved_as": "03820206_leaflet.pdf",
+      "sha256": "018dda84b4c849fe0df7c8af50d8df747f9bfa502bd4862d603ed12d97436670",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-5-1a-pharma-filmtabletten-3820206.html?file=098a652e8b52efd8b36c3e7467f9f39e",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 02.2022"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von BISOPROLOL 5-1A Pharma Filmtabletten",
+    "pzn_on_page": "03820206",
+    "pack_size_on_page": "30 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten",
+    "provider_on_page": "1A Pharma GmbH Holzkirchen",
+    "substances_on_page": [
+      "Bisoprolol fumarat 5 mg pro 1 Tablette",
+      "= Bisoprolol (4,24 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Calciumhydrogenphosphat Cellulose, mikrokristalline Croscarmellose natrium Hypromellose Lactose-1-Wasser",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/25/67/176725.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/25/67/176725.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/25/67/176725.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/26/67/176726.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 5,6 mm Höhe: 2,6 mm Masse: 88,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Kreuzkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"BIS 5\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-5-1a-pharma-filmtabletten-3820206.html?file=098a652e8b52efd8b36c3e7467f9f39e",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 02.2022"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Bisoprolol 5 - 1 A Pharma ist eine gelbe, runde Filmtablette mit kreuzförmiger Bruchkerbe (zur Aufteilung der Filmtablette in 4 Tei- le) und einseitiger Prägung „BIS5“. Die Filmtabletten sind in OPA/ALU/PVC/ALU-Blisterpackungen und in einem Umkarton verpackt. Bisoprolol 5 - 1 A Pharma ist in Packungen mit 30, 50, 60 und 100 Filmtabletten erhältlich. Es werden möglicherweise nicht alle Packungsgrößen in den Ver- kehr gebracht.",
+    "company_raw": "1 A Pharma GmbH Industriestraße 18 83607 Holzkirchen Telefon: (08024) 908-3030",
+    "manufacturer_raw": "Lek S.A. Ul. Podlipie 16 Stryków 95-010 Polen",
+    "revision_raw": "",
+    "wirkstoff_raw": "ist: Bisoprololfumarat Jede Filmtablette enthält 5 mg Bisoprololfumarat. Die sonstigen Bestandteile sind: Calciumhydrogenphosphat, mikrokristalline Cellulose, Croscarmellose-Natrium, Hypromel- lose, L",
+    "composition_raw": "Der Wirkstoff ist: Bisoprololfumarat Jede Filmtablette enthält 5 mg Bisoprololfumarat. Die sonstigen Bestandteile sind: Calciumhydrogenphosphat, mikrokristalline Cellulose, Croscarmellose-Natrium, Hypromel- lose, Lactose-Monohydrat, Macrogol 4000, Magnesiumstearat (Ph.Eur.), vorverkleisterte Stärke (Mais), hochdisperses Silicium- dioxid, Eisen(III)-hydroxid-oxid x H 2O (E 172), Titandioxid (E 171) Wie Bisoprolol 5 - 1 A Pharma aussieht und Inhalt der Packung Bisoprolol 5 - 1 A Pharma ist eine ge",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

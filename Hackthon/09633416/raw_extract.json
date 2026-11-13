@@ -1,0 +1,105 @@
+{
+  "pzn": "09633416",
+  "list_row": {
+    "active_ingredient": "Candesartan",
+    "category": "血管紧张素II受体阻滞剂 / ARB",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/candecor-4-mg-tabletten-9633416.html",
+    "hf_context_zh": "HFrEF：射血分数降低的心衰（心脏泵血能力减弱）；特别是在ACE抑制剂不耐受等情况下的选择。",
+    "mechanism_zh": "阻断血管紧张素II的AT1受体，减少血管收缩和醛固酮作用。",
+    "clinical_role_zh": "HFrEF中肾素-血管紧张素系统治疗的替代选择。",
+    "example_product_name": "CANDECOR 4 mg Tabletten",
+    "pzn": "09633416",
+    "example_strength_as_stated": "4 mg",
+    "pack_size_units": "28",
+    "market": "DE",
+    "collection_order": "139",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/candecor-4-mg-tabletten-9633416.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "TAD Pharma GmbH",
+    "ingredient_content_as_listed": "Candesartan cilexetil 4 mg pro 1 Tablette; = Candesartan (2,89 mg pro 1 Tablette)",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:44:04.918192+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/86/27/22786.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 99534,
+      "saved_as": "09633416_tablet_1.jpg",
+      "sha256": "fba0ed701c86d99958bd3982a608466f77d9165fdf563184edc5f0f4325061bd",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/87/27/22787.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 92520,
+      "saved_as": "09633416_tablet_2.jpg",
+      "sha256": "c668aa30ca9363f5485195e33101a96f64da1e4bbe8036e2b702b4f82a25ffde",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/37/56/95637.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 50762,
+      "saved_as": "09633416_leaflet.pdf",
+      "sha256": "9c873c11bbab60b0d9f8742181c9f5cc11495202344b3b11e72640e3fd690cfd",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/candecor-4-mg-tabletten-9633416.html?file=d65dadd75b771debd489f53f89004c3d",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 02.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von CANDECOR 4 mg Tabletten",
+    "pzn_on_page": "09633416",
+    "pack_size_on_page": "28 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "TAD Pharma GmbH Cuxhaven www.tad.de",
+    "substances_on_page": [
+      "Candesartan cilexetil 4 mg pro 1 Tablette",
+      "= Candesartan (2,89 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Lactose-1-Wasser Lactose Maisstärke Hyprolose Carmellose calcium",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/86/27/22786.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/86/27/22786.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/86/27/22786.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/87/27/22787.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 7,1 mm Höhe: 2,9 mm Masse: 131,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : rinnenförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"4\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/candecor-4-mg-tabletten-9633416.html?file=d65dadd75b771debd489f53f89004c3d",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 02.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27",
+    "provider_website": "https://www.tad.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": ": Candecor 4 mg Tabletten sind weiße, runde, bikonvexe Tabletten mit einer einseitigen Bruchkerbe. Eine Seite neben der Bruchkerbe trägt die Prägung „4“. Die Bruchkerbe dient nur zum Teilen der Tablette, um das Schlucken zu erleichtern, und nicht zum Teilen in gleiche Dosen. Candecor 4 mg Tabletten sind in Blisterpackungen in Faltschachteln mit 14, 28, 30, 56, 60, 84, 90 oder 98 Tabletten erhältlich.",
+    "company_raw": "TAD Pharma GmbH Heinz-Lohmann-Straße 5 27472 Cuxhaven Tel.: (04721) 606 0 Fax: (04721) 606 333 E-Mail: info@tad.de",
+    "manufacturer_raw": "KRKA, d. d., Novo mesto, Šmarješka cesta 6, 8501 Novo mesto, Slowenien",
+    "revision_raw": "Februar 2025",
+    "wirkstoff_raw": "ist Candesartancilexetil. Es gehört zu einer Gruppe von Arzneimitteln, die Angiotensin-II-Rezeptor-Antagonisten genannt werden. Es wirkt, indem es Ihre Blutgefäße entspannt und erweitert. Dies hilft,",
+    "composition_raw": ": • Der Wirkstoff ist: Candesartancilexetil. 1 Tablette enthält: 4 mg Candesartancilexetil. • Die sonstigen Bestandteile sind: Lactose-Monohydrat, Maisstärke, Hyprolose, Carmellose- Calcium, Magnesiumstearat (Ph.Eur.) [pflanzlich], Natriumdodecylsulfat, Dibutyldecandioat. Siehe Abschnitt 2 „Candecor enthält Lactose und Natrium“. Wie Candecor aussieht und Inhalt der Packung: Candecor 4 mg Tabletten sind weiße, runde, bikonvexe Tabletten mit einer einseitigen Bruchkerbe. Eine Seite neben der Bruch",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

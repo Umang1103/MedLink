@@ -1,0 +1,104 @@
+{
+  "pzn": "10961309",
+  "list_row": {
+    "active_ingredient": "Eplerenon",
+    "category": "盐皮质激素受体拮抗剂 / MRA",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eplerenon-beta-25-mg-filmtabletten-10961309.html",
+    "hf_context_zh": "特定慢性HFrEF；也用于心肌梗死后伴左室功能不全和心衰的特定患者。",
+    "mechanism_zh": "选择性阻断醛固酮受体，减少醛固酮引起的不利心脏重塑并保钾。",
+    "clinical_role_zh": "HFrEF基础治疗中的MRA选择。",
+    "example_product_name": "EPLERENON beta 25 mg Filmtabletten",
+    "pzn": "10961309",
+    "example_strength_as_stated": "25 mg",
+    "pack_size_units": "20",
+    "market": "DE",
+    "collection_order": "62",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eplerenon-beta-25-mg-filmtabletten-10961309.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Filmtabletten",
+    "pharmaceutical_company_as_listed": "betapharm Arzneimittel GmbH",
+    "ingredient_content_as_listed": "Eplerenon 25 mg pro 1 Tablette",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:42:40.450907+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/95/71/27195.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 123992,
+      "saved_as": "10961309_tablet_1.jpg",
+      "sha256": "acd5d91231e6b30dd6be05afd0836fad9d7c309c0786dbca17f1dc0807471173",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/96/71/27196.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 121278,
+      "saved_as": "10961309_tablet_2.jpg",
+      "sha256": "7601a1334f8c8a1b64fdc1f2e8a78cd4e1b17ca866a9f7169142d8dd5d6d286a",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/02/10/21002.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 115525,
+      "saved_as": "10961309_leaflet.pdf",
+      "sha256": "c6804cc81c23bff736bcd9d711e23c71c0466ac960f63c71d1832ceec9b0bb77",
+      "pages": 8,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eplerenon-beta-25-mg-filmtabletten-10961309.html?file=c409857aee05174a696d142ecc0c1de9",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 07.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von EPLERENON beta 25 mg Filmtabletten",
+    "pzn_on_page": "10961309",
+    "pack_size_on_page": "20 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten",
+    "provider_on_page": "betapharm Arzneimittel GmbH Augsburg www.betapharm.de",
+    "substances_on_page": [
+      "Eplerenon 25 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Lactose-1-Wasser Lactose Cellulose, mikrokristalline Croscarmellose natrium Hypromellose",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/95/71/27195.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/95/71/27195.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/95/71/27195.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/96/71/27196.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 6,0 mm Höhe: 3,2 mm Masse: 89,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Anordnung : ohne Kerbe Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"E9RN\", \"25\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eplerenon-beta-25-mg-filmtabletten-10961309.html?file=c409857aee05174a696d142ecc0c1de9",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 07.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15",
+    "provider_website": "https://www.betapharm.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Eplerenon beta 25 mg sind hellgelbe, runde bikonvexe Filmtabletten, etwa 6 mm Durchmesser, auf der einen Seite mit „E9RN“, auf der anderen Seite mit „25“ bedruckt. Eplerenon beta 50 mg sind hellgelbe, runde bikonvexe Filmtabletten, etwa 8 mm Durchmesser, auf der einen Seite mit „E9RN“, auf der anderen Seite mit „50“ bedruckt. Eplerenon beta 25 mg und 50 mg Filmtabletten sind erhältlich in Blisterpackungen mit 10, 14, 20, 28, 30, 50, 56, 60, 84, 90, 98 oder 100 Filmtabletten; Einzeldosen mit 10 x 1, 14 x 1, 20 x 1, 28 x 1, 30 x 1, 50 x 1, 56 x 1, 60 x 1, 84 x 1, 90 x 1, 98 x 1 oder 100 x 1 Filmtabletten Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "betapharm Arzneimittel GmbH Kobelweg 95 86156 Augsburg Telefon 0821 748810 Telefax 0821 74881420 E-Mail: info@betapharm.de",
+    "manufacturer_raw": "Synthon B.V. Microweg 22, 6545 CM Nijmegen Niederlande Synthon Hispania S.L. c/ Castelló 1, Pol. Las Salinas - 08830 Sant Boi de Llobregat, Barcelona Spanien ELPEN Pharmaceutical Co. Inc. 95 Marathonos Ave - 190 09 Pikermi Attiki Griechenland betapharm Arzneimittel GmbH Kobelweg 95 86156 Augsburg Telefon 0821 748810 Telefax 0821 74881420 E-Mail: info@betapharm.de",
+    "revision_raw": "Juli 2025",
+    "wirkstoff_raw": "Eplerenon. Eplerenon beta gehört zu einer Gruppe von Arzneimitteln, die als selektive Aldosteronblocker bekannt sind. Diese Aldosteronblocker hemmen die Wirkung von Aldosteron, einer körpereigenen Sub",
+    "composition_raw": "Der Wirkstoff von Eplerenon beta Filmtabletten ist Eplerenon. Eine Tablette enthält 25 mg oder 50 mg Eplerenon. Die sonstigen Bestandteile sind: Tablettenkern: Lactose-Monohydrat, mikrokristalline Cellulose (E 460), Croscarmellose-Natrium (E 468), Hypromellose (E 464), Natriumdodecylsulfat, Talkum (E 553b) und Magnesiumstearat (Ph.Eur.) [pflanzlich]. Filmüberzug: Hypromellose (E 464), Polysorbat 80 (E 433), Macrogol 400, Titandioxid (E 171), Eisen(III)-hydroxid-oxid x H2O (E 172) Wie Eplerenon b",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}
