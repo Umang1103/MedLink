@@ -1,6 +1,292 @@
 {% extends "patient_base.html" %}
 {% block title %}Medicine Intake Supervision - MedLink{% endblock %}
+
+{% macro pill(med) -%}
+<span class="pill {{ med.shape }}{{ ' scored' if med.scored }}" style="--c:{{ med.color }}{% if med.color2 %};--c2:{{ med.color2 }}{% endif %}"></span>
+{%- endmacro %}
+
+{% macro role_label(role) -%}{{ 'Doctor' if role == 'doctor' else 'Caregiver' }}{%- endmacro %}
+
 {% block tab_content %}
-<h2>Medicine Intake Supervision</h2>
-<p>Placeholder. Build this tab in <code>app/medicine_intake.py</code> and this template.</p>
+<div class="box-head">
+  <div>
+    <h2>Medicine compartment box</h2>
+    <p class="card-sub">
+      {% if can_edit %}Click a compartment to open its tile: scan a pack, read or leave comments.{% else %}Click a compartment to see how the nurse loaded it and to leave comments.{% endif %}
+    </p>
+  </div>
+  <span class="chip">{{ 'Caregiver' if can_edit else 'Doctor on call' }}</span>
+</div>
+
+<form method="get" action="{{ url_for('medicine_intake.index') }}" class="week-picker" id="week-form">
+  <a class="week-step" href="{{ url_for('medicine_intake.index', week=prev_week) }}" aria-label="Previous week">‹</a>
+  <label for="week-select">Calendar week</label>
+  <select id="week-select" name="week">
+    {% for wid, label in week_options %}
+    <option value="{{ wid }}" {{ 'selected' if wid == week }}>{{ label }}{{ ' (current)' if wid == current_week_id }}{{ ' · 💬 ' ~ week_comments[wid] if week_comments.get(wid) }}</option>
+    {% endfor %}
+  </select>
+  <noscript><button type="submit">Show</button></noscript>
+  <a class="week-step" href="{{ url_for('medicine_intake.index', week=next_week) }}" aria-label="Next week">›</a>
+  {% if not is_current_week %}<a class="week-now" href="{{ url_for('medicine_intake.index') }}">Back to current week</a>{% endif %}
+</form>
+
+<div class="box-wrap">
+  <table class="pillbox">
+    <caption class="sr-only">Weekly medicine box: days in columns, times of day in rows</caption>
+    <thead>
+      <tr>
+        <td></td>
+        {% for short, full in days %}<th scope="col" class="{{ 'today' if loop.index0 == today }}" title="{{ full }}">{{ short }}</th>{% endfor %}
+      </tr>
+    </thead>
+    <tbody>
+      {% for s_short, s_full in slots %}
+      {% set si = loop.index0 %}
+      <tr>
+        <th scope="row">{{ s_short }}</th>
+        {% for d_short, d_full in days %}
+        {% set di = loop.index0 %}
+        {% set items = cells.get((di, si), []) %}
+        {% set ncom = comment_counts.get((di, si), 0) %}
+        <td>
+          <a class="cell {{ 'filled' if items else 'empty' }} {{ 'today' if di == today }} {{ 'selected' if selected == (di, si) }}"
+             href="{{ url_for('medicine_intake.index', week=week, day=di, slot=si, open=1) }}"
+             aria-label="{{ d_full }} {{ s_full|lower }}, {{ items|length if items else 'empty' }}{{ ' medicines' if items }}{{ ', ' ~ ncom ~ ' comments' if ncom }}"
+             {% if selected == (di, si) %}aria-current="true"{% endif %}>
+            {% if items %}
+              <span class="mini">
+                {% for e in items[:3] %}{% if e.med %}{{ pill(e.med) }}{% else %}<span class="pill round" style="--c:#ccd"></span>{% endif %}{% endfor %}
+              </span>
+              {% if items|length > 3 %}<span class="more">+{{ items|length - 3 }}</span>{% endif %}
+            {% elif can_edit %}<span class="plus" aria-hidden="true">+</span>{% endif %}
+            {% if ncom %}<span class="badge" aria-hidden="true">💬 {{ ncom }}</span>{% endif %}
+          </a>
+        </td>
+        {% endfor %}
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+
+<div class="legend">
+  <span>{{ week_label }}: {{ filled_count }} of 28 compartments loaded</span>
+  {% if last_loaded %}<span>Last load: {{ last_loaded_local }} by {{ last_loaded.loaded_by }}</span>{% endif %}
+  <span>Outlined column: today</span>
+</div>
+
+{% if recent_comments %}
+<section class="recent-comments" aria-label="Recent comments">
+  <h3>Recent comments</h3>
+  <ul>
+    {% for c in recent_comments %}
+    <li class="{{ c.role }}">
+      <a href="{{ c.url }}"><strong>{{ days[c.cell[0]][1] }} {{ slots[c.cell[1]][1]|lower }}</strong></a>
+      <span class="muted">{{ role_label(c.role) }} {{ c.author }}, {{ c.created_local }}</span>
+      <div>{{ c.body }}</div>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
+
+<script src="{{ url_for('static', filename='week.js') }}" defer></script>
+
+{% if selected %}
+{% set sd, ss = selected %}
+<dialog id="tile-dialog" class="tile" aria-labelledby="tile-title"
+        data-open="{{ 1 if open_tile else 0 }}"
+        data-lookup-url="{{ url_for('medicine_intake.lookup') }}"
+        data-zxing-url="{{ url_for('static', filename='vendor/zxing-library.min.js') }}">
+  <header class="tile-head">
+    <h3 id="tile-title">{{ days[sd][1] }} {{ slots[ss][1]|lower }} <span class="tile-week">{{ week_label }}</span></h3>
+    <button type="button" id="tile-close" class="link" aria-label="Close tile">Close ✕</button>
+  </header>
+
+  {# ---- record of changes ---- #}
+  <section class="tile-record" aria-label="Modification record">
+    <div>
+      <span class="label">Current modification</span>
+      {% if current_mod %}
+      <strong>{{ current_mod.at_local }}</strong>
+      <span class="muted">{{ 'Loaded' if current_mod.action == 'load' else 'Removed' }} {{ current_mod.name or 'unknown medicine' }} (PZN {{ current_mod.pzn }}) by {{ current_mod.by_name }}</span>
+      {% else %}<strong>Not loaded yet</strong>{% endif %}
+    </div>
+    <div>
+      <span class="label">Last (previous) modification</span>
+      {% if previous_mod %}
+      <strong>{{ previous_mod.at_local }}</strong>
+      <span class="muted">{{ 'Loaded' if previous_mod.action == 'load' else 'Removed' }} {{ previous_mod.name or 'unknown medicine' }} (PZN {{ previous_mod.pzn }}) by {{ previous_mod.by_name }}</span>
+      {% else %}<strong>None</strong>{% endif %}
+    </div>
+  </section>
+
+  {% for names in lookalikes %}
+  <div class="warn"><strong>Look-alike pills.</strong> {{ names|join(' and ') }} look the same (shape and color). If the patient says "the white one", ask for the imprint or read the pack name together.</div>
+  {% endfor %}
+
+  {# ---- medicines in the compartment ---- #}
+  {% if selected_entries %}
+  <div class="table-wrap">
+    <table class="med-table">
+      <caption class="sr-only">Medicines in this compartment</caption>
+      <thead>
+        <tr>
+          <th scope="col">Picture</th>
+          <th scope="col">Medicine</th>
+          <th scope="col">Strength</th>
+          <th scope="col">Form</th>
+          <th scope="col">Imprint</th>
+          <th scope="col">PZN</th>
+          <th scope="col" class="num">Qty</th>
+          <th scope="col">Scanned</th>
+          <th scope="col">By</th>
+          {% if can_edit %}<th scope="col"><span class="sr-only">Actions</span></th>{% endif %}
+        </tr>
+      </thead>
+      <tbody>
+        {% for e in selected_entries %}
+        <tr>
+          <td>
+            <div class="thumb">
+              {% if e.med and e.med.image_url %}<img src="{{ e.med.image_url }}" alt="Picture of {{ e.med.name }}">
+              {% elif e.med %}{{ pill(e.med) }}{% else %}<span aria-hidden="true">?</span>{% endif %}
+            </div>
+          </td>
+          <th scope="row">{% if e.med %}{{ e.med.name }}{% else %}Unknown medicine<span class="muted"> (not in local database yet)</span>{% endif %}</th>
+          <td>{{ e.med.strength if e.med else '-' }}</td>
+          <td>{% if e.med %}{{ e.med.form }}, {{ e.med.shape }}{% else %}-{% endif %}</td>
+          <td>{{ e.med.imprint if e.med and e.med.imprint else '-' }}</td>
+          <td class="mono">{{ e.pzn }}</td>
+          <td class="num"><strong>{{ e.qty }}x</strong></td>
+          <td>{{ e.loaded_at_local }}</td>
+          <td>{{ e.loaded_by }}</td>
+          {% if can_edit %}
+          <td>
+            <form method="post" action="{{ url_for('medicine_intake.remove') }}" class="inline">
+              <input type="hidden" name="csrf_token" value="{{ csrf_token }}">
+              <input type="hidden" name="week" value="{{ week }}">
+              <input type="hidden" name="day" value="{{ sd }}">
+              <input type="hidden" name="slot" value="{{ ss }}">
+              <input type="hidden" name="entry_id" value="{{ e.id }}">
+              <button type="submit" class="link" aria-label="Remove {{ e.med.name if e.med else e.pzn }}">Remove</button>
+            </form>
+          </td>
+          {% endif %}
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+  {% else %}
+  <p class="muted">Nothing has been loaded into this compartment.</p>
+  {% endif %}
+
+  {# ---- scan (caregiver only) ---- #}
+  {% if can_edit %}
+  <div class="scan-actions" id="scan-actions">
+    <button type="button" id="open-camera" class="scan-open">📷 {{ 'Scan another pack with camera' if selected_entries else 'Scan pack with camera' }}</button>
+    <button type="button" id="open-scan" class="secondary">Enter PZN manually</button>
+  </div>
+
+  <form method="post" action="{{ url_for('medicine_intake.load') }}" id="scan-form">
+    <section id="scan-section" class="scan-section" hidden>
+      <input type="hidden" name="csrf_token" value="{{ csrf_token }}">
+          <input type="hidden" name="week" value="{{ week }}">
+      <input type="hidden" name="day" value="{{ sd }}">
+      <input type="hidden" name="slot" value="{{ ss }}">
+      <input type="hidden" name="pzn" id="pzn-final">
+      <input type="hidden" name="qty" id="qty-final" value="1">
+
+      <h4>Scan the medicine pack</h4>
+      <div class="viewfinder" id="viewfinder" hidden>
+        <video id="cam" playsinline muted></video>
+        <span class="corner c1"></span><span class="corner c2"></span><span class="corner c3"></span><span class="corner c4"></span>
+      </div>
+      <button type="button" id="cam-toggle" class="secondary">📷 Start camera</button>
+      <p class="muted" id="cam-msg" role="status"></p>
+
+      <label for="pzn-input">Or type / hardware-scan the PZN</label>
+      <div class="scan-row">
+        <input id="pzn-input" inputmode="numeric" autocomplete="off" placeholder="e.g. 90000015">
+        <button type="button" id="pzn-look">Look up</button>
+      </div>
+      <p class="err" id="scan-err" role="alert"></p>
+
+      <details class="demo-catalog">
+        <summary>Demo catalog</summary>
+        <div class="chips">
+          {% for pzn, m in catalog.items() %}
+          <button type="button" class="chipbtn" data-pzn="{{ pzn }}">{{ pill(m) }} {{ m.name }}</button>
+          {% endfor %}
+        </div>
+      </details>
+
+      <div id="confirm" hidden>
+        <h4>Check the product</h4>
+        <div class="entry-row">
+          <div class="thumb" id="c-thumb"></div>
+          <div class="entry-info">
+            <strong id="c-name"></strong>
+            <span class="muted" id="c-desc"></span>
+            <span class="muted mono" id="c-pzn"></span>
+          </div>
+        </div>
+
+        <div class="row-between">
+          <span id="qty-label">Number per compartment</span>
+          <div class="stepper" role="group" aria-labelledby="qty-label">
+            <button type="button" id="qty-minus" aria-label="Fewer">−</button>
+            <span id="qty-val">1</span>
+            <button type="button" id="qty-plus" aria-label="More">+</button>
+          </div>
+        </div>
+
+        <fieldset class="scope">
+          <legend>Where does it go?</legend>
+          <label class="radio"><input type="radio" name="scope" value="one" checked> {{ days[sd][1] }} {{ slots[ss][1]|lower }} only</label>
+          <label class="radio"><input type="radio" name="scope" value="week"> Every day, {{ slots[ss][1]|lower }}</label>
+        </fieldset>
+
+        <button type="submit" id="save-btn">Save to box</button>
+      </div>
+      <button type="button" id="scan-close" class="link close-link">Cancel scan</button>
+    </section>
+  </form>
+  {% endif %}
+
+  {% if not can_edit %}
+  <p class="hint role-hint">Signed in as {{ g.hpc.name }} (doctor): the box is read-only. Scanning is available when signed in as a caregiver (demo: <code>nurse.weber</code>).</p>
+  {% endif %}
+
+  {# ---- comments (doctor and caregiver) ---- #}
+  <section class="comments" aria-label="Comments">
+    <h4>Comments</h4>
+    {% if selected_comments %}
+    <ul class="comment-list">
+      {% for c in selected_comments %}
+      <li class="{{ c.role }}">
+        <div class="comment-meta"><span class="role-tag {{ c.role }}">{{ role_label(c.role) }}</span> <strong>{{ c.author }}</strong> <span class="muted">{{ c.created_local }}</span></div>
+        <div class="comment-body">{{ c.body }}</div>
+      </li>
+      {% endfor %}
+    </ul>
+    {% else %}
+    <p class="muted">No comments yet.</p>
+    {% endif %}
+
+    <form method="post" action="{{ url_for('medicine_intake.comment') }}" class="comment-form">
+      <input type="hidden" name="csrf_token" value="{{ csrf_token }}">
+          <input type="hidden" name="week" value="{{ week }}">
+      <input type="hidden" name="day" value="{{ sd }}">
+      <input type="hidden" name="slot" value="{{ ss }}">
+      <label for="comment-body">{{ 'Comment on dose changes or care' if not can_edit else 'Reply or note for the doctor' }}</label>
+      <textarea id="comment-body" name="body" rows="3" maxlength="{{ max_comment }}" required></textarea>
+      <button type="submit">Add comment</button>
+    </form>
+  </section>
+</dialog>
+<script src="{{ url_for('static', filename='intake.js') }}" defer></script>
+{% endif %}
 {% endblock %}
