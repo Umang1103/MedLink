@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block title %}Patient lookup - MedLink{% endblock %}
+{% block content %}
+<section class="card narrow">
+  <h1>Open patient</h1>
+  <p class="card-sub">Enter the ID printed on the patient's insurance card.</p>
+  <form method="post">
+    <input type="hidden" name="csrf_token" value="{{ csrf_token }}">
+    <label for="kvnr">Patient ID (KVNR, from health insurance card)</label>
+    <input id="kvnr" name="kvnr" maxlength="10" pattern="[A-Za-z][0-9]{9}"
+           placeholder="A123456780" autocomplete="off" required autofocus>
+    <button type="submit">Open patient</button>
+  </form>
+  <p class="hint">Demo IDs: A123456780, K987654329</p>
+</section>
+{% endblock %}

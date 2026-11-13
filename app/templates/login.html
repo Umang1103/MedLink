@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block title %}HPC Login - MedLink{% endblock %}
+{% block content %}
+<section class="card narrow">
+  <h1>Healthcare Professional Login</h1>
+  <p class="card-sub">Sign in to access patient medication data.</p>
+  <form method="post">
+    <input type="hidden" name="csrf_token" value="{{ csrf_token }}">
+    <label for="username">Username</label>
+    <input id="username" name="username" autocomplete="username" required autofocus>
+    <label for="password">Password</label>
+    <input id="password" name="password" type="password" autocomplete="current-password" required>
+    <button type="submit">Log in</button>
+  </form>
+  <p class="hint">Demo: dr.demo / demo1234</p>
+</section>
+{% endblock %}

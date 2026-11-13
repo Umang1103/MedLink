@@ -1,0 +1,19 @@
+{
+    "ROS2.distro": "humble",
+    "python.autoComplete.extraPaths": [
+        "/home/tri03/Formula-Student-Driverless-Simulator/ros2/install/fs_msgs/local/lib/python3.10/dist-packages",
+        "/home/tri03/galvabob/install/ros2_socketcan_msgs/local/lib/python3.10/dist-packages",
+        "/home/tri03/galvabob/install/octanes_yolo/lib/python3.10/site-packages",
+        "/home/tri03/galvabob/install/octanes_raceline_optimization/lib/python3.10/site-packages",
+        "/home/tri03/galvabob/install/octanes_pathfinder/local/lib/python3.10/dist-packages",
+        "/home/tri03/galvabob/install/octanes_missions/lib/python3.10/site-packages",
+        "/home/tri03/galvabob/install/octanes_longitudinal_pid/local/lib/python3.10/dist-packages",
+        "/home/tri03/galvabob/install/octanes_joystick_control/lib/python3.10/site-packages",
+        "/home/tri03/galvabob/install/octanes_car_interface/lib/python3.10/site-packages",
+        "/home/tri03/galvabob/install/octanes_msgs/local/lib/python3.10/dist-packages",
+        "/home/tri03/galvabob/install/octanes_fsds_adapter/lib/python3.10/site-packages",
+        "/home/tri03/galvabob/install/octanes_depthai/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

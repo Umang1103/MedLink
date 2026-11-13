@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="card patient">
+  <div class="patient-main">
+    <div class="avatar" aria-hidden="true">{{ patient.name.split()[0][0] }}{{ patient.name.split()[-1][0] }}</div>
+    <div>
+      <div class="patient-name">{{ patient.name }}</div>
+      <div class="chips">
+        <span class="chip">Born {{ patient.birth_date }}</span>
+        <span class="chip">ID {{ patient.kvnr }}</span>
+        <span class="chip">{{ patient.insurer }}</span>
+      </div>
+    </div>
+  </div>
+  <form method="post" action="{{ url_for('patient.close') }}" class="inline">
+    <input type="hidden" name="csrf_token" value="{{ csrf_token }}">
+    <button type="submit" class="link">Close patient</button>
+  </form>
+</section>
+
+<nav class="tabs" aria-label="Patient sections">
+  <a href="{{ url_for('medicine_identification.index') }}"
+     {% if active_tab == 'identification' %}class="active" aria-current="page"{% endif %}>Medicine Identification</a>
+  <a href="{{ url_for('medicine_intake.index') }}"
+     {% if active_tab == 'intake' %}class="active" aria-current="page"{% endif %}>Medicine Intake Supervision</a>
+</nav>
+
+<section class="card">
+  {% block tab_content %}{% endblock %}
+</section>
+{% endblock %}
