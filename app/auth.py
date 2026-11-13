@@ -10,9 +10,16 @@ from werkzeug.security import check_password_hash, generate_password_hash
 
 bp = Blueprint("auth", __name__)
 
+# role "nurse": can load the medicine box. role "doctor": read-only view.
 USERS = {
     "dr.demo": {
         "name": "Dr. Demo",
+        "role": "doctor",
+        "password_hash": generate_password_hash("demo1234"),
+    },
+    "nurse.weber": {
+        "name": "M. Weber",
+        "role": "nurse",
         "password_hash": generate_password_hash("demo1234"),
     },
 }
