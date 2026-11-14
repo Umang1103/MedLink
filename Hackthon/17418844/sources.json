@@ -1,0 +1,165 @@
+{
+  "pzn": "17418844",
+  "collection_file": "polypharmacy_collection_list.csv",
+  "page": {
+    "page_title": "Beipackzettel von METAMIZOL Zentiva 500 mg Filmtabletten",
+    "pzn_on_page": "17418844",
+    "pack_size_on_page": "10 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten",
+    "provider_on_page": "Zentiva Pharma GmbH Berlin www.zentiva.de",
+    "substances_on_page": [
+      "Metamizol natrium-1-Wasser 500 mg pro 1 Tablette",
+      "= Metamizol (443,08 mg pro 1 Tablette)",
+      "= Natrium-Ion (32,7 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Maisstärke Macrogol 6000 Povidon K25 Lactose-1-Wasser Kartoffelstärke",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/30/73/147330.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/30/73/147330.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/30/73/147330.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 5,7 mm Breite: 8,2 mm Tiefe: 16,2 mm Masse: 655,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : beidseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metamizol-zentiva-500-mg-filmtabletten-17418844.html?file=aa84932bdb039bad1ec212a0b1b72f5b",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 11.2024"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15",
+    "provider_website": "https://www.zentiva.de"
+  },
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/30/73/147330.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 60613,
+      "saved_as": "17418844_tablet_1.jpg",
+      "sha256": "866261c07dd41c351a68da0d6b5220c7f0490dd1e8822bc705c838841d58cee8",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/76/71/137176.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 246109,
+      "saved_as": "17418844_leaflet.pdf",
+      "sha256": "33ec9a677878c7e97763007b8d4f851400ffccf3d93d0ff4083ff4c3749769fd",
+      "pages": 10,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metamizol-zentiva-500-mg-filmtabletten-17418844.html?file=aa84932bdb039bad1ec212a0b1b72f5b",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 11.2024"
+    }
+  },
+  "issues": [],
+  "photo_review": {},
+  "reviewed_text_corrections": {},
+  "field_sources": {
+    "pzn": {
+      "value": "17418844",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "market": {
+      "value": "DE",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_name": {
+      "value": "METAMIZOL Zentiva 500 mg Filmtabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "active_ingredient": {
+      "value": "Metamizol",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Metamizol natrium-1-Wasser",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "strength_as_stated": {
+      "value": "500 mg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "dosage_form": {
+      "value": "Filmtabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pack_size": {
+      "value": "10",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "brand": {
+      "value": "METAMIZOL Zentiva",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pharmaceutical_company": {
+      "value": "Zentiva Pharma GmbH",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "manufacturer": {
+      "value": "S.C. Zentiva S.A.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "color": {
+      "value": "white to yellow",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "shape": {
+      "value": "oblong",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "imprint": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "score_line": {
+      "value": "single score line on both sides (wedge-shaped)",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "appearance_description_original": {
+      "value": "Weiße bis schwachgelbe, längliche Filmtablette mit Bruchkerbe. Die Filmtabletten sind ca. 8,2 mm breit und 16,2 mm lang.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "tablet_image_1": {
+      "value": "17418844/17418844_tablet_1.jpg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "tablet_image_2": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "package_image": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_path": {
+      "value": "17418844/17418844_leaflet.pdf",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metamizol-zentiva-500-mg-filmtabletten-17418844.html",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "manufacturer_source_url": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_revision_date": {
+      "value": "2024-11",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "retrieved_at": {
+      "value": "2026-11-14",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "verification_status": {
+      "value": "Product page and leaflet checked; tablet photos reviewed; not pharmacist verified.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "notes": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    }
+  }
+}

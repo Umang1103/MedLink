@@ -1,0 +1,173 @@
+{
+  "pzn": "03399824",
+  "collection_file": "polypharmacy_collection_list.csv",
+  "page": {
+    "page_title": "Beipackzettel von ALLOPURINOL AL 300 Tabletten",
+    "pzn_on_page": "03399824",
+    "pack_size_on_page": "20 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "ALIUD Pharma GmbH Laichingen www.aliud.de",
+    "substances_on_page": [
+      "Allopurinol 300 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Cellulose, mikrokristalline Maisstärke Talkum Croscarmellose natrium Povidon K25",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/69/03/30369.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/69/03/30369.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/69/03/30369.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/70/03/30370.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 11,1 mm Höhe: 5,1 mm Masse: 446,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/allopurinol-al-300-tabletten-3399824.html?file=73e7f9731568f312d2df47901e7471a7",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 11.2024"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27",
+    "provider_website": "https://www.aliud.de"
+  },
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/69/03/30369.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 94049,
+      "saved_as": "03399824_tablet_1.jpg",
+      "sha256": "670e8e05cafbce6c5dc027cb9abfe4091368fcd1eff646f668f8bf8dd8490b7d",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/70/03/30370.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 87194,
+      "saved_as": "03399824_tablet_2.jpg",
+      "sha256": "8832a43ca89a1136ef6280682667e66611d961b8e9bdc5977e2673d8c625e2ed",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/90/87/78790.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 109633,
+      "saved_as": "03399824_leaflet.pdf",
+      "sha256": "181241cb47d788fcf15e23c6a307f41ec74c58dac47ee892c5d47dbb38a6ac92",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/allopurinol-al-300-tabletten-3399824.html?file=73e7f9731568f312d2df47901e7471a7",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 11.2024"
+    }
+  },
+  "issues": [],
+  "photo_review": {},
+  "reviewed_text_corrections": {},
+  "field_sources": {
+    "pzn": {
+      "value": "03399824",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "market": {
+      "value": "DE",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_name": {
+      "value": "ALLOPURINOL AL 300 Tabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "active_ingredient": {
+      "value": "Allopurinol",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Allopurinol",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "strength_as_stated": {
+      "value": "300 mg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "dosage_form": {
+      "value": "Tabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pack_size": {
+      "value": "20",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "brand": {
+      "value": "ALLOPURINOL AL",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pharmaceutical_company": {
+      "value": "ALIUD PHARMA GmbH",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "manufacturer": {
+      "value": "STADA Arzneimittel AG",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "color": {
+      "value": "white",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "shape": {
+      "value": "round, biconvex",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "imprint": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "score_line": {
+      "value": "single score line on one side (wedge-shaped)",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "appearance_description_original": {
+      "value": "Weiße, runde, bikonvexe Tabletten mit einseitiger Bruchkerbe.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "tablet_image_1": {
+      "value": "03399824/03399824_tablet_1.jpg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "tablet_image_2": {
+      "value": "03399824/03399824_tablet_2.jpg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "package_image": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_path": {
+      "value": "03399824/03399824_leaflet.pdf",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/allopurinol-al-300-tabletten-3399824.html",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "manufacturer_source_url": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_revision_date": {
+      "value": "2024-11",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "retrieved_at": {
+      "value": "2026-11-14",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "verification_status": {
+      "value": "Product page and leaflet checked; tablet photos reviewed; not pharmacist verified.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "notes": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    }
+  }
+}

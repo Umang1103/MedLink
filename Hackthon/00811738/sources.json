@@ -1,0 +1,174 @@
+{
+  "pzn": "00811738",
+  "collection_file": "polypharmacy_collection_list.csv",
+  "page": {
+    "page_title": "Beipackzettel von L-THYROX HEXAL 100 Mikrogramm Tabletten",
+    "pzn_on_page": "00811738",
+    "pack_size_on_page": "50 Stück (N2)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "Hexal AG Holzkirchen www.hexal.de",
+    "substances_on_page": [
+      "Levothyroxin natrium 0,1 mg pro 1 Tablette",
+      "= Levothyroxin (0,097 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Carboxymethylstärke, Natrium Typ A Cellulose, mikrokristalline Magnesiumoxid, schweres Magnesium stearat (pflanzlich) Mannitol",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/01/60/176001.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/01/60/176001.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/01/60/176001.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/02/60/176002.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 7,0 mm Höhe: 2,9 mm Masse: 121,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"100\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/l-thyrox-hexal-100-mikrogramm-tabletten-811738.html?file=2bb6179a34b1f95a7eef9369732e2103",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 06.2023"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15",
+    "provider_website": "https://www.hexal.de"
+  },
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/01/60/176001.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 101296,
+      "saved_as": "00811738_tablet_1.jpg",
+      "sha256": "d4740c1ed129a2e578ece61b7cf66034e901a2c96e68188e96079fbf2b819c59",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/02/60/176002.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 103492,
+      "saved_as": "00811738_tablet_2.jpg",
+      "sha256": "a4d868b85a936887e43c586a54824afd9b83e0febae84d0d54444b8a221dabd7",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/68/32/23268.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 274967,
+      "saved_as": "00811738_leaflet.pdf",
+      "sha256": "d22f58252099c9abd0e936ee8836e5430e791295bb0196e0466ac16ecd891e95",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/l-thyrox-hexal-100-mikrogramm-tabletten-811738.html?file=2bb6179a34b1f95a7eef9369732e2103",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 06.2023"
+    }
+  },
+  "issues": [],
+  "photo_review": {},
+  "reviewed_text_corrections": {},
+  "field_sources": {
+    "pzn": {
+      "value": "00811738",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "market": {
+      "value": "DE",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_name": {
+      "value": "L-THYROX HEXAL 100 Mikrogramm Tabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "active_ingredient": {
+      "value": "Levothyroxin",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Levothyroxin natrium",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "strength_as_stated": {
+      "value": "100 µg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "dosage_form": {
+      "value": "Tabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pack_size": {
+      "value": "50",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "brand": {
+      "value": "L-THYROX HEXAL",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pharmaceutical_company": {
+      "value": "Hexal AG",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "manufacturer": {
+      "value": "Salutas Pharma GmbH",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "color": {
+      "value": "white",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "shape": {
+      "value": "round",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "imprint": {
+      "value": "100",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "score_line": {
+      "value": "single score line on one side (wedge-shaped)",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "appearance_description_original": {
+      "value": "L-Thyrox HEXAL ist eine weiße, runde Tablette mit einer Prägung „100“ auf der einen und einer Bruchkerbe auf der anderen Seite. Die Tablette kann in gleiche Dosen geteilt werden.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "tablet_image_1": {
+      "value": "00811738/00811738_tablet_1.jpg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "tablet_image_2": {
+      "value": "00811738/00811738_tablet_2.jpg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "package_image": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_path": {
+      "value": "00811738/00811738_leaflet.pdf",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/l-thyrox-hexal-100-mikrogramm-tabletten-811738.html",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "manufacturer_source_url": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_revision_date": {
+      "value": "2023-06",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "retrieved_at": {
+      "value": "2026-11-14",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "verification_status": {
+      "value": "Product page and leaflet checked; tablet photos reviewed; not pharmacist verified.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "notes": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    }
+  }
+}

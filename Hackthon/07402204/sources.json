@@ -1,0 +1,182 @@
+{
+  "pzn": "07402204",
+  "collection_file": "polypharmacy_collection_list.csv",
+  "page": {
+    "page_title": "Beipackzettel von ASS 100 mg HEXAL Tabletten",
+    "pzn_on_page": "07402204",
+    "pack_size_on_page": "50 Stück (N2)",
+    "dispensing_status": "Apothekenpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "Hexal AG Holzkirchen www.hexal.de",
+    "substances_on_page": [
+      "Acetylsalicylsäure 100 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Cellulose, mikrokristalline Maisstärke, vorverkleistert Siliciumdioxid, hochdisperses Stearinsäure",
+    "primary_image_url": "https://cdn8.apopixx.de/250/web_schraeg_png/110/07402204.png",
+    "packshot_url": "https://cdn8.apopixx.de/250/web_schraeg_png/110/07402204.png",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/36/48/184836.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/37/48/184837.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 7,1 mm Höhe: 3,7 mm Masse: 157,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ass-100-mg-hexal-tabletten-7402204.html?file=630a05f57d9a75f1e682e379f4ad8c7f",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 12.2024"
+      }
+    ],
+    "page_last_reviewed": "2026-10-27",
+    "provider_website": "https://www.hexal.de"
+  },
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/36/48/184836.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 122071,
+      "saved_as": "07402204_tablet_1.jpg",
+      "sha256": "3b882d2e9b86ea1810d659119b145893178884f810e82ab791beca9f6c2fde7e",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/37/48/184837.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 110778,
+      "saved_as": "07402204_tablet_2.jpg",
+      "sha256": "69e5e1af010b0c0166be6ec79cd2accbe60b18cfa77e3449ad9b7ee1443e3ccd",
+      "pixels": "600x600"
+    },
+    "package": {
+      "url": "https://cdn8.apopixx.de/250/web_schraeg_png/110/07402204.png",
+      "ok": true,
+      "kind": "png",
+      "bytes": 88914,
+      "saved_as": "07402204_package.png",
+      "sha256": "3ed77d60e8e71c76731df096b2dfe1ec526e36f4d14432da6837d45da62e9856",
+      "pixels": "250x250"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/31/43/24331.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 68843,
+      "saved_as": "07402204_leaflet.pdf",
+      "sha256": "0037e93d6b25b933cc5c556380036b9f278ea168abb521fb685735d6b50d7937",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ass-100-mg-hexal-tabletten-7402204.html?file=630a05f57d9a75f1e682e379f4ad8c7f",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 12.2024"
+    }
+  },
+  "issues": [],
+  "photo_review": {},
+  "reviewed_text_corrections": {},
+  "field_sources": {
+    "pzn": {
+      "value": "07402204",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "market": {
+      "value": "DE",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_name": {
+      "value": "ASS 100 mg HEXAL Tabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "active_ingredient": {
+      "value": "Acetylsalicylsäure",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Acetylsalicylsäure",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "strength_as_stated": {
+      "value": "100 mg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "dosage_form": {
+      "value": "Tabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pack_size": {
+      "value": "50",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "brand": {
+      "value": "ASS HEXAL",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pharmaceutical_company": {
+      "value": "Hexal AG",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "manufacturer": {
+      "value": "Salutas Pharma GmbH",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "color": {
+      "value": "white",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "shape": {
+      "value": "round, convex",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "imprint": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "score_line": {
+      "value": "single score line on one side (wedge-shaped)",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "appearance_description_original": {
+      "value": "ASS 100 mg HEXAL sind weiße, runde, auf einer Seite gewölbte Tabletten mit einseitiger Bruchkerbe.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "tablet_image_1": {
+      "value": "07402204/07402204_tablet_1.jpg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "tablet_image_2": {
+      "value": "07402204/07402204_tablet_2.jpg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "package_image": {
+      "value": "07402204/07402204_package.png",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_path": {
+      "value": "07402204/07402204_leaflet.pdf",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ass-100-mg-hexal-tabletten-7402204.html",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "manufacturer_source_url": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_revision_date": {
+      "value": "2024-12",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "retrieved_at": {
+      "value": "2026-11-14",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "verification_status": {
+      "value": "Product page and leaflet checked; tablet photos reviewed; not pharmacist verified.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "notes": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    }
+  }
+}

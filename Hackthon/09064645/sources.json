@@ -1,0 +1,172 @@
+{
+  "pzn": "09064645",
+  "collection_file": "polypharmacy_collection_list.csv",
+  "page": {
+    "page_title": "Beipackzettel von ASS Dexcel 100 mg Tabletten",
+    "pzn_on_page": "09064645",
+    "pack_size_on_page": "50 Stück (N2)",
+    "dispensing_status": "Apothekenpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "Dexcel Pharma GmbH Alzenau www.dexcel-pharma.de",
+    "substances_on_page": [
+      "Acetylsalicylsäure 100 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Maisstärke Cellulosepulver",
+    "primary_image_url": "https://cdn8.apopixx.de/250/web_schraeg_png/110/09064645.png",
+    "packshot_url": "https://cdn8.apopixx.de/250/web_schraeg_png/110/09064645.png",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/58/42/94258.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 7,0 mm Höhe: 3,0 mm Masse: 120,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Anordnung : ohne Kerbe Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ass-dexcel-100-mg-tabletten-9064645.html?file=60eaddf8277eb7b5e8b78fadfe9987be",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 02.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-10-27",
+    "provider_website": "https://www.dexcel-pharma.de"
+  },
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/58/42/94258.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 84896,
+      "saved_as": "09064645_tablet_1.jpg",
+      "sha256": "f684b9dc99b2e02a579df866ee53084f04abf6627699243e36c004aa88ba45e1",
+      "pixels": "600x600"
+    },
+    "package": {
+      "url": "https://cdn8.apopixx.de/250/web_schraeg_png/110/09064645.png",
+      "ok": true,
+      "kind": "png",
+      "bytes": 70333,
+      "saved_as": "09064645_package.png",
+      "sha256": "907b9bae3a8ebb1e503e2fb986b8c48eaf8b3099c7772760daa123319c4d0a1e",
+      "pixels": "250x250"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/32/70/87032.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 587379,
+      "saved_as": "09064645_leaflet.pdf",
+      "sha256": "3de82137510f76cc645e5981b8db3dd996dbb35c67542aadea94fa5a82bc9c2d",
+      "pages": 7,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ass-dexcel-100-mg-tabletten-9064645.html?file=60eaddf8277eb7b5e8b78fadfe9987be",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 02.2025"
+    }
+  },
+  "issues": [],
+  "photo_review": {},
+  "reviewed_text_corrections": {},
+  "field_sources": {
+    "pzn": {
+      "value": "09064645",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "market": {
+      "value": "DE",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_name": {
+      "value": "ASS Dexcel 100 mg Tabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "active_ingredient": {
+      "value": "Acetylsalicylsäure",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Acetylsalicylsäure",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "strength_as_stated": {
+      "value": "100 mg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "dosage_form": {
+      "value": "Tabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pack_size": {
+      "value": "50",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "brand": {
+      "value": "ASS Dexcel",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pharmaceutical_company": {
+      "value": "Dexcel Pharma GmbH",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "manufacturer": {
+      "value": "Dexcel Pharma GmbH",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "color": {
+      "value": "white to cream",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "shape": {
+      "value": "round",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "imprint": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "score_line": {
+      "value": "none",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "appearance_description_original": {
+      "value": "Weiße bis cremefarbene, runde Tablette.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "tablet_image_1": {
+      "value": "09064645/09064645_tablet_1.jpg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "tablet_image_2": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "package_image": {
+      "value": "09064645/09064645_package.png",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_path": {
+      "value": "09064645/09064645_leaflet.pdf",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ass-dexcel-100-mg-tabletten-9064645.html",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "manufacturer_source_url": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_revision_date": {
+      "value": "2025-02",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "retrieved_at": {
+      "value": "2026-11-14",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "verification_status": {
+      "value": "Product page and leaflet checked; tablet photos reviewed; not pharmacist verified.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "notes": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    }
+  }
+}

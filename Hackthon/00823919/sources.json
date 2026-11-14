@@ -1,0 +1,176 @@
+{
+  "pzn": "00823919",
+  "collection_file": "polypharmacy_collection_list.csv",
+  "page": {
+    "page_title": "Beipackzettel von METFORMIN-ratiopharm 1.000 mg Filmtabletten",
+    "pzn_on_page": "00823919",
+    "pack_size_on_page": "120 Stück (N2)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten",
+    "provider_on_page": "ratiopharm GmbH Ulm www.ratiopharm.de",
+    "substances_on_page": [
+      "Metformin hydrochlorid 1000 mg pro 1 Tablette",
+      "= Metformin (779,86 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Povidon K30 Siliciumdioxid, hochdisperses Magnesium stearat (pflanzlich) Hypromellose Titandioxid",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/72/35/53572.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/72/35/53572.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/72/35/53572.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/73/35/53573.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 9,0 mm Breite: 9,5 mm Tiefe: 18,9 mm Masse: 1.083,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : rinnenförmig Anordnung : beidseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"93\", \"7214\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metformin-ratiopharm-1000-mg-filmtabletten-823919.html?file=ec3cc7dc6d9435fe9fe4f749a3dbb8c4",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 01.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15",
+    "provider_website": "https://www.ratiopharm.de"
+  },
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/72/35/53572.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 84141,
+      "saved_as": "00823919_tablet_1.jpg",
+      "sha256": "142170b42331ea570e2b947919cbe1eecb8449bb7c85103cabdabdb5d37795c6",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/73/35/53573.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 85817,
+      "saved_as": "00823919_tablet_2.jpg",
+      "sha256": "4b677bd497634c303f0a9ad61c106acf6576c97557efcf741660e7106f3dd993",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/32/23/42332.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 112612,
+      "saved_as": "00823919_leaflet.pdf",
+      "sha256": "5ebdd8b0ad624eb990edc1d3f323eff33988153e20e36e8065693ae378d13724",
+      "pages": 7,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metformin-ratiopharm-1000-mg-filmtabletten-823919.html?file=ec3cc7dc6d9435fe9fe4f749a3dbb8c4",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 01.2025"
+    }
+  },
+  "issues": [],
+  "photo_review": {},
+  "reviewed_text_corrections": {
+    "imprint": "9/3; 72/14"
+  },
+  "field_sources": {
+    "pzn": {
+      "value": "00823919",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "market": {
+      "value": "DE",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_name": {
+      "value": "METFORMIN-ratiopharm 1.000 mg Filmtabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "active_ingredient": {
+      "value": "Metformin",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Metformin hydrochlorid",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "strength_as_stated": {
+      "value": "1000 mg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "dosage_form": {
+      "value": "Filmtabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pack_size": {
+      "value": "120",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "brand": {
+      "value": "METFORMIN-ratiopharm",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pharmaceutical_company": {
+      "value": "ratiopharm GmbH",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "manufacturer": {
+      "value": "Pharmachemie B.V.; Teva Pharmaceutical Works Private Limited Company",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "color": {
+      "value": "white to cream",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "shape": {
+      "value": "oval",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "imprint": {
+      "value": "9/3; 72/14",
+      "source": "downloaded leaflet, reviewed text extract"
+    },
+    "score_line": {
+      "value": "single score line on both sides (groove-shaped)",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "appearance_description_original": {
+      "value": "Weiße bis cremefarbene, ovale Filmtabletten mit Bruchkerbe, der Prägung „9/3“ auf der einen und der Prägung „72/14“ auf der anderen Seite.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "tablet_image_1": {
+      "value": "00823919/00823919_tablet_1.jpg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "tablet_image_2": {
+      "value": "00823919/00823919_tablet_2.jpg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "package_image": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_path": {
+      "value": "00823919/00823919_leaflet.pdf",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metformin-ratiopharm-1000-mg-filmtabletten-823919.html",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "manufacturer_source_url": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_revision_date": {
+      "value": "2025-01",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "retrieved_at": {
+      "value": "2026-11-14",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "verification_status": {
+      "value": "Product page and leaflet checked; tablet photos reviewed; not pharmacist verified.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "notes": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    }
+  }
+}

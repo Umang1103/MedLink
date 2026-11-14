@@ -1,0 +1,89 @@
+{
+  "pzn": "01896961",
+  "list_row": {
+    "active_ingredient": "Tamsulosin",
+    "category": "α1受体阻滞剂 / Alpha-1 blocker",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/tamsulosin-basics-04-mg-hartkapsretard-1896961.html",
+    "hf_context_zh": "非心衰治疗药；老年男性常见合并用药，与降压药合用时需注意血压下降叠加。",
+    "mechanism_zh": "选择性阻断前列腺和膀胱颈的α1A/α1D受体，松弛平滑肌，改善排尿。",
+    "clinical_role_zh": "缓解良性前列腺增生引起的下尿路症状。",
+    "example_product_name": "TAMSULOSIN BASICS 0,4 mg Hartkaps.retard.",
+    "pzn": "01896961",
+    "example_strength_as_stated": "0,4 mg Tamsulosinhydrochlorid",
+    "pack_size_units": "50",
+    "market": "DE",
+    "collection_order": "22",
+    "collection_status": "pending_extraction",
+    "notes_zh": "缓释硬胶囊；网页仅列1张原图。",
+    "strength_note_zh": "示例产品规格，不是患者每次或每日服药剂量；具体适应证以该产品现行说明书为准",
+    "clinical_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/tamsulosin-basics-04-mg-hartkapsretard-1896961.html",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/tamsulosin-basics-04-mg-hartkapsretard-1896961.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "多药联用（Polypharmacy）常见药物采集清单；每种成分至少选2个产品示例（不同PZN），均已核对产品页面列有药片原图和原始说明书PDF；不穷尽药物、品牌或规格；非患者用药方案；非心衰治疗药的行不代表其获批心衰适应证；图片和PDF待采集核实。"
+  },
+  "retrieved_at": "2026-11-14T09:39:08.923737+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/86/91/29186.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 53978,
+      "saved_as": "01896961_tablet_1.jpg",
+      "sha256": "b8af8bff046071369a99104f03b42d31201bf00d02f64583070106cbea0d63c3",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/86/47/104786.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 1102792,
+      "saved_as": "01896961_leaflet.pdf",
+      "sha256": "bf9600b90024e973cf8ffe2eaffb3458aa496e5749f55fcb9d7732f88d7ba9c4",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/tamsulosin-basics-04-mg-hartkapsretard-1896961.html?file=9a19f56ac2eb8e74dfbf73373a56f49a",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 12.2024"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von TAMSULOSIN BASICS 0,4 mg Hartkaps.retard.",
+    "pzn_on_page": "01896961",
+    "pack_size_on_page": "50 Stück (N2)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Retard-Kapseln",
+    "provider_on_page": "Basics GmbH Leverkusen www.basics.de",
+    "substances_on_page": [
+      "Tamsulosin hydrochlorid 0,4 mg pro 1 Kapsel",
+      "= Tamsulosin (0,367 mg pro 1 Kapsel)"
+    ],
+    "excipients_on_page": "Cellulose, mikrokristalline Magnesium stearat Methacrylsäure-Ethylacrylat-Copolymer (1:1) Dispersion 30% Natriumhydroxid Triacetin",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/86/91/29186.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/86/91/29186.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/86/91/29186.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 6,0 mm Tiefe: 17,5 mm Masse: 338,0 mg 1 Durchschnittswerte, Circa-Angaben Sonstige Merkmale (Prägungen/Aufschrift) \"R\", \"TSN400\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/tamsulosin-basics-04-mg-hartkapsretard-1896961.html?file=9a19f56ac2eb8e74dfbf73373a56f49a",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 12.2024"
+      }
+    ],
+    "page_last_reviewed": "2026-10-09",
+    "provider_website": "https://www.basics.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "TAMSULOSIN BASICS 0,4 mg Hartkapsel, retar- diert sind Kapseln der Größe „2” aus einem hellbraunen Kapseloberteil, das mit einem in schwarzer Lebensmittelfarbe aufgedruckten „R” gekennzeichnet ist, und einem orangefarbenen Kapselunterteil, das mit der Aufschrift „TSN400” bedruckt ist, die ein weißes bis cremefarbenes Granulat enthalten. Es sind Packungen zu 1, 2, 4, 7, 10, 14, 20, 28, 30, 50, 56, 60, 90, 98, 100 oder 200 Hart- kapseln, retardiert erhältlich. Es werden möglicherweise nicht alle Packungs- größen in den Verkehr gebracht.",
+    "company_raw": "Basics GmbH Hemmelrather Weg 201 51377 Leverkusen E-Mail: info@basics.de Internet: www.basics.de Mitvertrieb Sun Pharmaceuticals Germany GmbH Hemmelrather Weg 201 51377 Leverkusen",
+    "manufacturer_raw": "Sun Pharmaceutical Industries Europe B.V. Polarisavenue 87 2132 JH Hoofddorp Niederlande oder Terapia S.A. 124 Fabricii Street 400 632 Cluj Napoca Rumänien",
+    "revision_raw": "Dezember 2024",
+    "wirkstoff_raw": "freisetzung beeinträchtigen würde. Normalerweise wird TAMSULOSIN BASICS über einen längeren Behandlungszeitraum verordnet. Die Wirkungen auf die Blase und das Wasserlas- sen bleiben bei der Langzeitbe",
+    "composition_raw": "Der Wirkstoff ist Tamsulosinhydrochlorid. Jede Hartkapsel, retardiert enthält 0,4 mg Tamsu- losinhydrochlorid. Weitere Bestandteile sind: Kapselinhalt: mikrokristalline Cellulose, Magnesium- stearat (Ph.Eur.), Methacrylsäure-Ethylacrylat- Copolymer (1:1) Dispersion, Natriumhydroxid, Triacetin, Titandioxid (E171), Talkum Kapselunterteil: Gelatine, Gelborange S (E110), Ponceau 4R (E124), Chinolingelb (E104), Brillant- blau (E133), Titandioxid (E171) Kapseloberteil: Gelatine, gelbes Eisenoxid (E172",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

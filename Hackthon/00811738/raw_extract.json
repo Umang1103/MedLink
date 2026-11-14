@@ -1,0 +1,99 @@
+{
+  "pzn": "00811738",
+  "list_row": {
+    "active_ingredient": "Levothyroxin",
+    "category": "甲状腺激素 / Thyroid hormone",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/l-thyrox-hexal-100-mikrogramm-tabletten-811738.html",
+    "hf_context_zh": "非心衰治疗药；甲状腺功能异常可影响心脏，属常见的长期合并用药。",
+    "mechanism_zh": "合成的甲状腺素（T4），在体内转化为T3，替代缺乏的甲状腺激素。",
+    "clinical_role_zh": "治疗甲状腺功能减退及甲状腺术后的激素替代等。",
+    "example_product_name": "L-THYROX HEXAL 100 Mikrogramm Tabletten",
+    "pzn": "00811738",
+    "example_strength_as_stated": "100 µg Levothyroxin-Natrium",
+    "pack_size_units": "50",
+    "market": "DE",
+    "collection_order": "18",
+    "collection_status": "pending_extraction",
+    "notes_zh": "单方Levothyroxin；不要与含碘复方（L-Thyrox Jod / Henning Plus）混淆。",
+    "strength_note_zh": "示例产品规格，不是患者每次或每日服药剂量；具体适应证以该产品现行说明书为准",
+    "clinical_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/l-thyrox-hexal-100-mikrogramm-tabletten-811738.html",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/l-thyrox-hexal-100-mikrogramm-tabletten-811738.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "多药联用（Polypharmacy）常见药物采集清单；每种成分至少选2个产品示例（不同PZN），均已核对产品页面列有药片原图和原始说明书PDF；不穷尽药物、品牌或规格；非患者用药方案；非心衰治疗药的行不代表其获批心衰适应证；图片和PDF待采集核实。"
+  },
+  "retrieved_at": "2026-11-14T09:39:04.169265+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/01/60/176001.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 101296,
+      "saved_as": "00811738_tablet_1.jpg",
+      "sha256": "d4740c1ed129a2e578ece61b7cf66034e901a2c96e68188e96079fbf2b819c59",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/02/60/176002.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 103492,
+      "saved_as": "00811738_tablet_2.jpg",
+      "sha256": "a4d868b85a936887e43c586a54824afd9b83e0febae84d0d54444b8a221dabd7",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/68/32/23268.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 274967,
+      "saved_as": "00811738_leaflet.pdf",
+      "sha256": "d22f58252099c9abd0e936ee8836e5430e791295bb0196e0466ac16ecd891e95",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/l-thyrox-hexal-100-mikrogramm-tabletten-811738.html?file=2bb6179a34b1f95a7eef9369732e2103",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 06.2023"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von L-THYROX HEXAL 100 Mikrogramm Tabletten",
+    "pzn_on_page": "00811738",
+    "pack_size_on_page": "50 Stück (N2)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "Hexal AG Holzkirchen www.hexal.de",
+    "substances_on_page": [
+      "Levothyroxin natrium 0,1 mg pro 1 Tablette",
+      "= Levothyroxin (0,097 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Carboxymethylstärke, Natrium Typ A Cellulose, mikrokristalline Magnesiumoxid, schweres Magnesium stearat (pflanzlich) Mannitol",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/01/60/176001.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/01/60/176001.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/01/60/176001.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/02/60/176002.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 7,0 mm Höhe: 2,9 mm Masse: 121,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"100\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/l-thyrox-hexal-100-mikrogramm-tabletten-811738.html?file=2bb6179a34b1f95a7eef9369732e2103",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 06.2023"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15",
+    "provider_website": "https://www.hexal.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "L-Thyrox HEXAL ist eine weiße, runde Tablette mit einer Prägung „100“ auf der einen und einer Bruchkerbe auf der anderen Seite. Die Tablette kann in gleiche Dosen geteilt werden. L-Thyrox HEXAL ist in Blisterpackungen aus PVC/PVDC/ Aluminiumfolie verpackt. Packungsgrößen: 30, 50, 60 bzw. 100 Tabletten, Kalenderpackungen mit 84 bzw. 98 Tabletten Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "Hexal AG Industriestraße 25 83607 Holzkirchen Telefon: (08024) 908-0 Telefax: (08024) 908-1290 E-Mail: service@hexal.com",
+    "manufacturer_raw": "Salutas Pharma GmbH Otto-von-Guericke-Allee 1 39179 Barleben",
+    "revision_raw": "",
+    "wirkstoff_raw": "Levothyroxin-Natrium Lesen Sie die gesamte Packungsbeilage sorgfältig durch, bevor Sie mit der Einnahme dieses Arzneimittels beginnen, denn sie enthält wichtige Informationen. • Heben Sie die Packungs",
+    "composition_raw": "Der Wirkstoff ist Levothyroxin-Natrium. 1 Tablette enthält 100 Mikrogramm Levothyroxin-Natrium. Die sonstigen Bestandteile sind: Carboxymethylstärke-Natrium (Typ A) (Ph.Eur.), mikrokris- talline Cellulose, schweres Magnesiumoxid, Magnesium- stearat (Ph.Eur.) [pﬂanzlich], Mannitol (Ph.Eur.)Wie L-Thyrox HEXAL aussieht und Inhalt der Packung L-Thyrox HEXAL ist eine weiße, runde Tablette mit einer Prägung „100“ auf der einen und einer Bruchkerbe auf der anderen Seite. Die Tablette kann in gleiche Do",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

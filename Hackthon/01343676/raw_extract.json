@@ -1,0 +1,107 @@
+{
+  "pzn": "01343676",
+  "list_row": {
+    "active_ingredient": "Acetylsalicylsäure",
+    "category": "抗血小板药（低剂量阿司匹林） / Antiplatelet",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ass-ratiopharm-100-mg-tah-tabletten-1343676.html",
+    "hf_context_zh": "非心衰治疗药；低剂量用于冠心病等动脉粥样硬化性疾病的抗血小板治疗。",
+    "mechanism_zh": "不可逆抑制血小板环氧合酶-1（COX-1），减少血栓素A2生成，抑制血小板聚集。",
+    "clinical_role_zh": "100 mg低剂量用于心肌梗死、卒中等的预防（抗血小板），不同于止痛退热剂量。",
+    "example_product_name": "ASS-ratiopharm 100 mg TAH Tabletten",
+    "pzn": "01343676",
+    "example_strength_as_stated": "100 mg Acetylsalicylsäure",
+    "pack_size_units": "50",
+    "market": "DE",
+    "collection_order": "8",
+    "collection_status": "pending_extraction",
+    "notes_zh": "ASS 100；普通片（非肠溶）。",
+    "strength_note_zh": "示例产品规格，不是患者每次或每日服药剂量；具体适应证以该产品现行说明书为准",
+    "clinical_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ass-ratiopharm-100-mg-tah-tabletten-1343676.html",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ass-ratiopharm-100-mg-tah-tabletten-1343676.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "多药联用（Polypharmacy）常见药物采集清单；每种成分至少选2个产品示例（不同PZN），均已核对产品页面列有药片原图和原始说明书PDF；不穷尽药物、品牌或规格；非患者用药方案；非心衰治疗药的行不代表其获批心衰适应证；图片和PDF待采集核实。"
+  },
+  "retrieved_at": "2026-11-14T09:38:52.249802+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/85/98/29885.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 84281,
+      "saved_as": "01343676_tablet_1.jpg",
+      "sha256": "1aab74c7920aa694ba288649d55be9e52facb18d22d8c259e9e435b8636147bf",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/86/98/29886.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 86874,
+      "saved_as": "01343676_tablet_2.jpg",
+      "sha256": "a226b6a0bfa42c3496be2a5c543a92406b9c835cdd580468b540abf866c7ccf4",
+      "pixels": "600x600"
+    },
+    "package": {
+      "url": "https://cdn8.apopixx.de/250/web_schraeg_png/110/01343676.png",
+      "ok": true,
+      "kind": "png",
+      "bytes": 72145,
+      "saved_as": "01343676_package.png",
+      "sha256": "33ab7b0f3eecd2b3a7a63cee6824da2b101db23b14fc79277921b55dec9beee3",
+      "pixels": "250x250"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/09/16/41609.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 143734,
+      "saved_as": "01343676_leaflet.pdf",
+      "sha256": "d52cde6a3b6306dbce86c40ce5f7f0bbd43f15922cd570ec29da85d81e8c7f2a",
+      "pages": 7,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ass-ratiopharm-100-mg-tah-tabletten-1343676.html?file=8288353180a0802c1a3dca665329a525",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 01.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von ASS-ratiopharm 100 mg TAH Tabletten",
+    "pzn_on_page": "01343676",
+    "pack_size_on_page": "50 Stück (N2)",
+    "dispensing_status": "Apothekenpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "ratiopharm GmbH Ulm www.ratiopharm.de",
+    "substances_on_page": [
+      "Acetylsalicylsäure 100 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Maisstärke Cellulose, mikrokristalline Cellulosepulver",
+    "primary_image_url": "https://cdn8.apopixx.de/250/web_schraeg_png/110/01343676.png",
+    "packshot_url": "https://cdn8.apopixx.de/250/web_schraeg_png/110/01343676.png",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/85/98/29885.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/86/98/29886.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 7,0 mm Höhe: 3,4 mm Masse: 132,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Kreuzkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"100\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ass-ratiopharm-100-mg-tah-tabletten-1343676.html?file=8288353180a0802c1a3dca665329a525",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 01.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27",
+    "provider_website": "https://www.ratiopharm.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "ASS-ratiopharm 100 mg TAH® Weiße, runde Tablette mit einseitiger Kreuzbruchkerbe ist in Packungen mit 50 und 100 Tabletten erhältlich. ASS-ratiopharm 100 mg TAH® GEBRAUCHSINFORMATION ASS-ratiopharm 100 mg TAH® 7 ist in Packungen mit 50 und 100 Tabletten erhältlich. ASS-ratiopharm 100 mg TAH® Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "ratiopharm GmbH Graf-Arco-Str. 3 89079 Ulm",
+    "manufacturer_raw": "Merckle GmbH Ludwig-Merckle-Str. 3 89143 Blaubeuren",
+    "revision_raw": "Januar 2025",
+    "wirkstoff_raw": "Acetylsalicylsäure und seine Abbauprodukte gehen in geringen Mengen in die Muttermilch über. Da nachteilige Folgen für den Säugling bisher nicht bekannt geworden sind, wird bei Anwendung einer eine Un",
+    "composition_raw": "— Der Wirkstoff ist Acetylsalicylsäure. Jede Tablette enthält 100 mg Acetylsalicylsäure. — Die sonstigen Bestandteile sind: Maisstärke, Mikrokristalline Cellulose, Cellulosepulver Wie aussieht und Inhalt der PackungASS-ratiopharm 100 mg TAH® Weiße, runde Tablette mit einseitiger Kreuzbruchkerbe ist in Packungen mit 50 und 100 Tabletten erhältlich. ASS-ratiopharm 100 mg TAH® GEBRAUCHSINFORMATION ASS-ratiopharm 100 mg TAH® 7 ist in Packungen mit 50 und 100 Tabletten erhältlich. ASS-ratiopharm 100",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

@@ -1,0 +1,174 @@
+{
+  "pzn": "07018581",
+  "collection_file": "polypharmacy_collection_list.csv",
+  "page": {
+    "page_title": "Beipackzettel von AMLODIPIN HEXAL 5 mg Tabletten",
+    "pzn_on_page": "07018581",
+    "pack_size_on_page": "20 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "Hexal AG Holzkirchen www.hexal.de",
+    "substances_on_page": [
+      "Amlodipin besilat 6,93 mg pro 1 Tablette",
+      "= Amlodipin (5 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Calciumhydrogenphosphat Carboxymethylstärke, Natrium Typ A Cellulose, mikrokristalline Magnesium stearat",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/62/53/175362.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/62/53/175362.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/62/53/175362.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/63/53/175363.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 2,7 mm Breite: 5,9 mm Tiefe: 8,8 mm Masse: 164,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : ja 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"5\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/amlodipin-hexal-5-mg-tabletten-7018581.html?file=0e22a80b06fe4cb3b671294eac09595f",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 06.2022"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27",
+    "provider_website": "https://www.hexal.de"
+  },
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/62/53/175362.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 81641,
+      "saved_as": "07018581_tablet_1.jpg",
+      "sha256": "2af1de1f395df30c8ab14771a8c6604441ee436eace13cfcbe21c3487498afba",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/63/53/175363.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 81627,
+      "saved_as": "07018581_tablet_2.jpg",
+      "sha256": "2f34b2c06ff4aacac87d917c040c6de11ca10f67b4dbf1411a07b47157823d4e",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/96/41/24196.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 258363,
+      "saved_as": "07018581_leaflet.pdf",
+      "sha256": "ee126358d1fb7e91511bc9bd5b8b9bb39d4243581bbd3b2a3622d3cccd6b2b3c",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/amlodipin-hexal-5-mg-tabletten-7018581.html?file=0e22a80b06fe4cb3b671294eac09595f",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 06.2022"
+    }
+  },
+  "issues": [],
+  "photo_review": {},
+  "reviewed_text_corrections": {},
+  "field_sources": {
+    "pzn": {
+      "value": "07018581",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "market": {
+      "value": "DE",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_name": {
+      "value": "AMLODIPIN HEXAL 5 mg Tabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "active_ingredient": {
+      "value": "Amlodipin",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Amlodipin besilat",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "strength_as_stated": {
+      "value": "5 mg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "dosage_form": {
+      "value": "Tabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pack_size": {
+      "value": "20",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "brand": {
+      "value": "AMLODIPIN HEXAL",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pharmaceutical_company": {
+      "value": "Hexal AG",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "manufacturer": {
+      "value": "Lek Pharmaceuticals d.d.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "color": {
+      "value": "white to off-white",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "shape": {
+      "value": "oblong",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "imprint": {
+      "value": "5",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "score_line": {
+      "value": "single score line on one side (wedge-shaped)",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "appearance_description_original": {
+      "value": "Amlodipin HEXAL sind weiße bis gebrochen weiße, oblonge Tabletten mit abgeschrägten Kanten, Bruchkerbe auf einer Seite und Prägung „5“ auf der anderen Seite. Die Tablette kann in gleiche Hälften geteilt werden.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "tablet_image_1": {
+      "value": "07018581/07018581_tablet_1.jpg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "tablet_image_2": {
+      "value": "07018581/07018581_tablet_2.jpg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "package_image": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_path": {
+      "value": "07018581/07018581_leaflet.pdf",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/amlodipin-hexal-5-mg-tabletten-7018581.html",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "manufacturer_source_url": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_revision_date": {
+      "value": "2022-06",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "retrieved_at": {
+      "value": "2026-11-14",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "verification_status": {
+      "value": "Product page and leaflet checked; tablet photos reviewed; not pharmacist verified.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "notes": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    }
+  }
+}

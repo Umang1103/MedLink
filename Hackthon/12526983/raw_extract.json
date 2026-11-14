@@ -1,0 +1,99 @@
+{
+  "pzn": "12526983",
+  "list_row": {
+    "active_ingredient": "Metamizol",
+    "category": "非阿片类镇痛退热药（吡唑酮类） / Non-opioid analgesic",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metamizol-aristo-500-mg-tabletten-12526983.html",
+    "hf_context_zh": "非心衰治疗药；多药联用中常见的镇痛退热药。",
+    "mechanism_zh": "吡唑酮类非阿片镇痛药，具有镇痛、退热和解痉作用。",
+    "clinical_role_zh": "用于其他治疗无效的重度急慢性疼痛和高热（以说明书为准）。",
+    "example_product_name": "METAMIZOL Aristo 500 mg Tabletten",
+    "pzn": "12526983",
+    "example_strength_as_stated": "500 mg Metamizol-Natrium 1 H2O",
+    "pack_size_units": "10",
+    "market": "DE",
+    "collection_order": "32",
+    "collection_status": "pending_extraction",
+    "notes_zh": "标示规格为盐形式Metamizol-Natrium-Monohydrat。",
+    "strength_note_zh": "示例产品规格，不是患者每次或每日服药剂量；具体适应证以该产品现行说明书为准",
+    "clinical_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metamizol-aristo-500-mg-tabletten-12526983.html",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metamizol-aristo-500-mg-tabletten-12526983.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "多药联用（Polypharmacy）常见药物采集清单；每种成分至少选2个产品示例（不同PZN），均已核对产品页面列有药片原图和原始说明书PDF；不穷尽药物、品牌或规格；非患者用药方案；非心衰治疗药的行不代表其获批心衰适应证；图片和PDF待采集核实。"
+  },
+  "retrieved_at": "2026-11-14T09:39:19.248641+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/25/60/76025.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 111441,
+      "saved_as": "12526983_tablet_1.jpg",
+      "sha256": "338a37dc5bb61d368a75e87b468f20f8dcf72e3db5cb756d1e15524530bf3ad0",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/26/60/76026.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 108854,
+      "saved_as": "12526983_tablet_2.jpg",
+      "sha256": "572d6d7912925522fdeb4be71bb018eebc5e01299105ac85e3a0a94380070c7d",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/76/43/104376.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 87385,
+      "saved_as": "12526983_leaflet.pdf",
+      "sha256": "b3ac2a6db6ffbd4ec60605040df830eee948d85cf2d87ca99f6b5853caf94a54",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metamizol-aristo-500-mg-tabletten-12526983.html?file=81e93fc89c29829edc1335ce5063aa01",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 08.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von METAMIZOL Aristo 500 mg Tabletten",
+    "pzn_on_page": "12526983",
+    "pack_size_on_page": "10 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "Aristo Pharma GmbH Berlin",
+    "substances_on_page": [
+      "Metamizol natrium-1-Wasser 500 mg pro 1 Tablette",
+      "= Metamizol (443,08 mg pro 1 Tablette)",
+      "= Natrium-Ion (32,7 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Maisstärke, vorverkleistert Macrogol 6000 Crospovidon Magnesium stearat Siliciumdioxid, hochdisperses",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/25/60/76025.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/25/60/76025.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/25/60/76025.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/26/60/76026.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 12,0 mm Höhe: 4,5 mm Masse: 614,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metamizol-aristo-500-mg-tabletten-12526983.html?file=81e93fc89c29829edc1335ce5063aa01",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 08.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "",
+    "company_raw": "und",
+    "manufacturer_raw": "Aristo Pharma GmbH Wallenroder Straße 8–10 13435 Berlin Deutschland Tel.: + 49 30 71094-4200 Fax: + 49 30 71094-4250 GI549000-12/DE/0825 Code 854",
+    "revision_raw": "August 2025",
+    "wirkstoff_raw": "Metamizol-Natrium 1 H2O Warnhinweis Metamizol Aristo® kann zu einer zu niedrigen Zahl von weißen Blutkörperchen führen (Agranulozytose), was zu schweren und lebensbedrohlichen Infektionen führen kann",
+    "composition_raw": "Der Wirkstoff ist Metamizol-Natrium 1 H2O. Jede Tablette enthält 500 mg Metamizol-Natrium 1 H2O. Die sonstigen Bestandteile sind: Vorverkleisterte Stärke (Mais), Macrogol 6000, Crospovi- don (Type A), Magnesiumstearat (Ph. Eur.), Hochdisperses Siliciumdioxid. Wie Metamizol Aristo ® aussieht und Inhalt der Pa- ckung Metamizol Aristo ® sind weiße bis cremefarbene, runde, ﬂ ache Tabletten, mit einer Bruchkerbe auf einer Seite. Der Durchmesser beträgt ca. 12 mm, die Dicke ca. 4,5 mm. Metamizol Arist",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

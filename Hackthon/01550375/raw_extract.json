@@ -1,0 +1,98 @@
+{
+  "pzn": "01550375",
+  "list_row": {
+    "active_ingredient": "Hydrochlorothiazid",
+    "category": "噻嗪类利尿剂 / Thiazide diuretic",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/hct-ratiopharm-25-mg-tabletten-1550375.html",
+    "hf_context_zh": "噻嗪类利尿剂；主要用于高血压，也可用于水肿；心衰相关适应证以具体产品说明书为准。",
+    "mechanism_zh": "抑制远端肾小管钠-氯共转运体，增加钠和水的排出。",
+    "clinical_role_zh": "治疗高血压及水肿，常与其他降压药联用。",
+    "example_product_name": "HCT-RATIOPHARM 25 mg Tabletten",
+    "pzn": "01550375",
+    "example_strength_as_stated": "25 mg Hydrochlorothiazid",
+    "pack_size_units": "30",
+    "market": "DE",
+    "collection_order": "25",
+    "collection_status": "pending_extraction",
+    "notes_zh": "说明书文档日期较早（2021），需核对是否为现行版本。",
+    "strength_note_zh": "示例产品规格，不是患者每次或每日服药剂量；具体适应证以该产品现行说明书为准",
+    "clinical_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/hct-ratiopharm-25-mg-tabletten-1550375.html",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/hct-ratiopharm-25-mg-tabletten-1550375.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "多药联用（Polypharmacy）常见药物采集清单；每种成分至少选2个产品示例（不同PZN），均已核对产品页面列有药片原图和原始说明书PDF；不穷尽药物、品牌或规格；非患者用药方案；非心衰治疗药的行不代表其获批心衰适应证；图片和PDF待采集核实。"
+  },
+  "retrieved_at": "2026-11-14T09:39:11.031047+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/06/68/46806.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 88289,
+      "saved_as": "01550375_tablet_1.jpg",
+      "sha256": "efd0b7530c0e3b401ac3304ebc8194d92709781eed4f895f3577cb6c970bebf5",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/07/68/46807.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 85880,
+      "saved_as": "01550375_tablet_2.jpg",
+      "sha256": "75e88338d0f53751dc21a7ebd38908efa6fb292230249108ef9eb4f30d26438c",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/16/21/42116.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 146239,
+      "saved_as": "01550375_leaflet.pdf",
+      "sha256": "504987936020c0ecf35830b7856269917b8ce5592509d867fe72b32560619ac2",
+      "pages": 9,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/hct-ratiopharm-25-mg-tabletten-1550375.html?file=31286853926dbe7b7b22164ad39b4261",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 11.2021"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von HCT-RATIOPHARM 25 mg Tabletten",
+    "pzn_on_page": "01550375",
+    "pack_size_on_page": "30 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "ratiopharm GmbH Ulm www.ratiopharm.de",
+    "substances_on_page": [
+      "Hydrochlorothiazid 25 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Maisstärke Lactose-1-Wasser Cellulose, mikrokristalline Siliciumdioxid, hochdisperses Talkum",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/06/68/46806.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/06/68/46806.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/06/68/46806.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/07/68/46807.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 8,1 mm Höhe: 3,7 mm Masse: 198,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/hct-ratiopharm-25-mg-tabletten-1550375.html?file=31286853926dbe7b7b22164ad39b4261",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 11.2021"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15",
+    "provider_website": "https://www.ratiopharm.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Weiße, runde, beiderseits gewölbte Tabletten mit einseitiger Bruchkerbe. ist in Packungen mit 30, 50 und 100 Tabletten erhältlich.HCT-ratiopharm 25 mg®",
+    "company_raw": "ratiopharm GmbH Graf-Arco-Str. 3 89079 Ulm",
+    "manufacturer_raw": "Merckle GmbH Ludwig-Merckle-Str. 3 89143 Blaubeuren",
+    "revision_raw": "November 2021",
+    "wirkstoff_raw": "Hydrochlorothiazid Lesen Sie die gesamte Packungsbeilage sorgfältig durch, bevor Sie mit der Einnahme dieses Arzneimittels beginnen, denn sie enthält wichtige Informationen. — Heben Sie die Packungsbe",
+    "composition_raw": "— Der Wirkstoff ist Hydrochlorothiazid. Jede Tablette enthält 25 mg Hydrochlorothiazid. — Die sonstigen Bestandteile sind: Maisstärke, Lactose-Monohydrat, Mikrokristalline Cellulose, Hochdisperses Siliciumdioxid, Talkum, Poly(O-carboxymethyl)stärke, Natriumsalz, Magnesiumstearat (Ph.Eur.). Wie HCT-ratiopharm® 25 mg aussieht und Inhalt der Packung Weiße, runde, beiderseits gewölbte Tabletten mit einseitiger Bruchkerbe. ist in Packungen mit 30, 50 und 100 Tabletten erhältlich.HCT-ratiopharm 25 mg®",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

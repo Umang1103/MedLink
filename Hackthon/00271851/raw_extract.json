@@ -1,0 +1,98 @@
+{
+  "pzn": "00271851",
+  "list_row": {
+    "active_ingredient": "Hydrochlorothiazid",
+    "category": "噻嗪类利尿剂 / Thiazide diuretic",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/hct-hexal-25-mg-tabletten-271851.html",
+    "hf_context_zh": "噻嗪类利尿剂；主要用于高血压，也可用于水肿；心衰相关适应证以具体产品说明书为准。",
+    "mechanism_zh": "抑制远端肾小管钠-氯共转运体，增加钠和水的排出。",
+    "clinical_role_zh": "治疗高血压及水肿，常与其他降压药联用。",
+    "example_product_name": "HCT HEXAL 25 mg Tabletten",
+    "pzn": "00271851",
+    "example_strength_as_stated": "25 mg Hydrochlorothiazid",
+    "pack_size_units": "30",
+    "market": "DE",
+    "collection_order": "26",
+    "collection_status": "pending_extraction",
+    "notes_zh": "说明书文档日期较早（2021），需核对是否为现行版本。",
+    "strength_note_zh": "示例产品规格，不是患者每次或每日服药剂量；具体适应证以该产品现行说明书为准",
+    "clinical_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/hct-hexal-25-mg-tabletten-271851.html",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/hct-hexal-25-mg-tabletten-271851.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "多药联用（Polypharmacy）常见药物采集清单；每种成分至少选2个产品示例（不同PZN），均已核对产品页面列有药片原图和原始说明书PDF；不穷尽药物、品牌或规格；非患者用药方案；非心衰治疗药的行不代表其获批心衰适应证；图片和PDF待采集核实。"
+  },
+  "retrieved_at": "2026-11-14T09:39:11.705870+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/42/43/174342.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 107345,
+      "saved_as": "00271851_tablet_1.jpg",
+      "sha256": "8be0fc606183410b221baf1d3ae8394fd15cbe2d4c30cd027e3f03899817c393",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/43/43/174343.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 99785,
+      "saved_as": "00271851_tablet_2.jpg",
+      "sha256": "48f840c9c1c1378304f3bd67f0e7a0ed72c82aa3828a4b4052b55a201dcb3c72",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/36/32/23236.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 932544,
+      "saved_as": "00271851_leaflet.pdf",
+      "sha256": "870761d69b2a8ae2ad7e9651cbee15a9e289d128e3c63b999c9fbbd6511734b7",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/hct-hexal-25-mg-tabletten-271851.html?file=f171ad986949e99375919094d7eb9f5b",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 12.2021"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von HCT HEXAL 25 mg Tabletten",
+    "pzn_on_page": "00271851",
+    "pack_size_on_page": "30 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "Hexal AG Holzkirchen www.hexal.de",
+    "substances_on_page": [
+      "Hydrochlorothiazid 25 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Carboxymethylstärke, Natrium Typ A Cellulose, mikrokristalline Lactose-1-Wasser Magnesium stearat Maisstärke",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/42/43/174342.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/42/43/174342.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/42/43/174342.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/43/43/174343.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 8,2 mm Höhe: 2,5 mm Masse: 166,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Kreuzkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/hct-hexal-25-mg-tabletten-271851.html?file=f171ad986949e99375919094d7eb9f5b",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 12.2021"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15",
+    "provider_website": "https://www.hexal.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "HCT HEXAL ist eine weiße bis cremefarbene, runde, flache Tablette mit einseitiger Kreuz- bruchkerbe. Die Tablette kann in zwei gleiche Dosen ge- teilt werden. Packungen mit 30, 50 und 100 Tabletten. Es werden möglicherweise nicht alle Packungs- größen in den Verkehr gebracht.",
+    "company_raw": "Hexal AG Industriestraße 25 83607 Holzkirchen Telefon: (08024) 908-0 Telefax: (08024) 908-1290 E-Mail: service@hexal.com",
+    "manufacturer_raw": "Salutas Pharma GmbH Otto-von-Guericke-Allee 1 39179 Barleben",
+    "revision_raw": "Dezember 2021",
+    "wirkstoff_raw": "Hydrochlorothiazid Lesen Sie die gesamte Packungsbeilage sorgfältig durch, bevor Sie mit der Einnahme dieses Arzneimittels beginnen, denn sie enthält wichtige Informationen. • Heben Sie die Packungsbe",
+    "composition_raw": "Der Wirkstoff ist Hydrochlorothiazid. 1 Tablette enthält 25 mg Hydrochlorothiazid. Die sonstigen Bestandteile sind: Carboxymethylstärke-Natrium (Typ A) (Ph.Eur.), mikrokristalline Cellulose, Lactose-Monohydrat, Magnesiumstearat (Ph.Eur.), Maisstärke, hoch- disperses Siliciumdioxid Wie HCT HEXAL aussieht und Inhalt der Packung HCT HEXAL ist eine weiße bis cremefarbene, runde, flache Tablette mit einseitiger Kreuz- bruchkerbe. Die Tablette kann in zwei gleiche Dosen ge- teilt werden. Packungen mit",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

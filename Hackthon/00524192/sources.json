@@ -1,0 +1,177 @@
+{
+  "pzn": "00524192",
+  "collection_file": "polypharmacy_collection_list.csv",
+  "page": {
+    "page_title": "Beipackzettel von ATORVASTATIN BASICS 10 mg Filmtabletten",
+    "pzn_on_page": "00524192",
+    "pack_size_on_page": "30 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten",
+    "provider_on_page": "Basics GmbH Leverkusen www.basics.de",
+    "substances_on_page": [
+      "Atorvastatin hemicalcium-1,5-Wasser 10,82 mg pro 1 Tablette",
+      "= Atorvastatin (10 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Calciumcarbonat Cellulose, mikrokristalline Lactose-1-Wasser Croscarmellose natrium Polysorbat 80",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/20/82/28220.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/20/82/28220.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/20/82/28220.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/21/82/28221.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 3,7 mm Breite: 5,0 mm Tiefe: 10,0 mm Masse: 155,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Anordnung : ohne Kerbe Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"AS10\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/atorvastatin-basics-10-mg-filmtabletten-524192.html?file=2609217e2b1cda9a1c3e3feddbf6d5c8",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 09.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-10-09",
+    "provider_website": "https://www.basics.de"
+  },
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/20/82/28220.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 75331,
+      "saved_as": "00524192_tablet_1.jpg",
+      "sha256": "7beb1881704851f58811826e2f634d72625dc92c745dc5f4b71b200872bfc672",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/21/82/28221.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 66743,
+      "saved_as": "00524192_tablet_2.jpg",
+      "sha256": "a906d4311da5228d797eb1681f90e02fce9157cd18a1450f6f2fd01e7d264d8a",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/28/20/142028.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 810195,
+      "saved_as": "00524192_leaflet.pdf",
+      "sha256": "bbbe637725304b6f0c83f59c77fdb46428cbec25f260954c7791c0530c7049c7",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/atorvastatin-basics-10-mg-filmtabletten-524192.html?file=2609217e2b1cda9a1c3e3feddbf6d5c8",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 09.2025"
+    }
+  },
+  "issues": [],
+  "photo_review": {},
+  "reviewed_text_corrections": {
+    "shape": "oval",
+    "imprint": "AS 10"
+  },
+  "field_sources": {
+    "pzn": {
+      "value": "00524192",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "market": {
+      "value": "DE",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_name": {
+      "value": "ATORVASTATIN BASICS 10 mg Filmtabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "active_ingredient": {
+      "value": "Atorvastatin",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Atorvastatin hemicalcium-1,5-Wasser",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "strength_as_stated": {
+      "value": "10 mg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "dosage_form": {
+      "value": "Filmtabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pack_size": {
+      "value": "30",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "brand": {
+      "value": "ATORVASTATIN BASICS",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pharmaceutical_company": {
+      "value": "Basics GmbH",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "manufacturer": {
+      "value": "Sun Pharmaceutical Industries Europe B.V.; Terapia S.A.; ALKALOIDA Chemical Company Zrt.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "color": {
+      "value": "white to off-white",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "shape": {
+      "value": "oval",
+      "source": "downloaded leaflet, reviewed text extract"
+    },
+    "imprint": {
+      "value": "AS 10",
+      "source": "downloaded leaflet, reviewed text extract"
+    },
+    "score_line": {
+      "value": "none",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "appearance_description_original": {
+      "value": "ATORVASTATIN BASICS 10 mg Filmtabletten sind weiße bis gebrochen weiße, elliptische Tabletten mit einer Breite von ca. 5 mm und einer Länge von ca. 10 mm mit der Prägung „AS 10“ auf einer Seite und unbedruckt auf der anderen Seite.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "tablet_image_1": {
+      "value": "00524192/00524192_tablet_1.jpg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "tablet_image_2": {
+      "value": "00524192/00524192_tablet_2.jpg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "package_image": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_path": {
+      "value": "00524192/00524192_leaflet.pdf",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/atorvastatin-basics-10-mg-filmtabletten-524192.html",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "manufacturer_source_url": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_revision_date": {
+      "value": "2025-09",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "retrieved_at": {
+      "value": "2026-11-14",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "verification_status": {
+      "value": "Product page and leaflet checked; tablet photos reviewed; not pharmacist verified.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "notes": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    }
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "pzn": "17448940",
+  "collection_file": "polypharmacy_collection_list.csv",
+  "page": {
+    "page_title": "Beipackzettel von METFORMIN Aurobindo 1000 mg Filmtabletten",
+    "pzn_on_page": "17448940",
+    "pack_size_on_page": "120 Stück (N2)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten",
+    "provider_on_page": "PUREN Pharma GmbH & Co. KG München www.puren-pharma.de",
+    "substances_on_page": [
+      "Metformin hydrochlorid 1000 mg pro 1 Tablette",
+      "= Metformin (779,86 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Povidon K90 Magnesium stearat (pflanzlich) Hypromellose Macrogol 400 Macrogol 6000",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/85/31/153185.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/85/31/153185.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/85/31/153185.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/86/31/153186.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 6,8 mm Breite: 8,8 mm Tiefe: 20,7 mm Masse: 1.066,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : beidseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"A90\" Besonderheiten Die Tablette hat auf der Vorderseite eine breite und auf der Rückseite eine schmale keilförmige Kerbe. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metformin-aurobindo-1000-mg-filmtabletten-17448940.html?file=705fc5b2743b1268472a31ccbc910396",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 03.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15",
+    "provider_website": "https://www.puren-pharma.de"
+  },
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/85/31/153185.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 55286,
+      "saved_as": "17448940_tablet_1.jpg",
+      "sha256": "642ca30ee68647c939b81d52546aa046fc4686a2422b191c2b57c1a25c5e1de1",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/86/31/153186.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 54077,
+      "saved_as": "17448940_tablet_2.jpg",
+      "sha256": "3ceaca6acc5a221b6df882fa7ada6f877b15c76930c373b88cd08d81036b2dd7",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/04/33/153304.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 199331,
+      "saved_as": "17448940_leaflet.pdf",
+      "sha256": "d03c95679f7cc0c4ab0d1aa2cdb5b0f73d20e2081bd57360637cf8345fc6e8b9",
+      "pages": 8,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metformin-aurobindo-1000-mg-filmtabletten-17448940.html?file=705fc5b2743b1268472a31ccbc910396",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 03.2025"
+    }
+  },
+  "issues": [],
+  "photo_review": {},
+  "reviewed_text_corrections": {
+    "imprint": "A / 90"
+  },
+  "field_sources": {
+    "pzn": {
+      "value": "17448940",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "market": {
+      "value": "DE",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_name": {
+      "value": "METFORMIN Aurobindo 1000 mg Filmtabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "active_ingredient": {
+      "value": "Metformin",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Metformin hydrochlorid",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "strength_as_stated": {
+      "value": "1000 mg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "dosage_form": {
+      "value": "Filmtabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pack_size": {
+      "value": "120",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "brand": {
+      "value": "METFORMIN Aurobindo",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pharmaceutical_company": {
+      "value": "PUREN Pharma GmbH & Co. KG",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "manufacturer": {
+      "value": "APL Swift Services (Malta) Limited; Merckle GmbH; Generis Farmacêutica, S.A.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "color": {
+      "value": "white",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "shape": {
+      "value": "capsule-shaped, biconvex",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "imprint": {
+      "value": "A / 90",
+      "source": "downloaded leaflet, reviewed text extract"
+    },
+    "score_line": {
+      "value": "single score line on both sides (wedge-shaped)",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "appearance_description_original": {
+      "value": "Weiße, bikonvexe, kapselförmige Filmtabletten mit einer Bruchkerbe auf einer Seite und „A“ und „90“ auf der anderen Seite, getrennt durch eine Bruchkerbe. Die Größe beträgt 20,7 mm x 8,8 mm. Die Tablette kann in gleiche Dosen geteilt werden.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "tablet_image_1": {
+      "value": "17448940/17448940_tablet_1.jpg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "tablet_image_2": {
+      "value": "17448940/17448940_tablet_2.jpg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "package_image": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_path": {
+      "value": "17448940/17448940_leaflet.pdf",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metformin-aurobindo-1000-mg-filmtabletten-17448940.html",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "manufacturer_source_url": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_revision_date": {
+      "value": "2025-03",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "retrieved_at": {
+      "value": "2026-11-14",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "verification_status": {
+      "value": "Product page and leaflet checked; tablet photos reviewed; not pharmacist verified.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "notes": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    }
+  }
+}

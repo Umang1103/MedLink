@@ -1,0 +1,173 @@
+{
+  "pzn": "01686206",
+  "collection_file": "polypharmacy_collection_list.csv",
+  "page": {
+    "page_title": "Beipackzettel von ALLOPURINOL-ratiopharm 300 mg Tabletten",
+    "pzn_on_page": "01686206",
+    "pack_size_on_page": "20 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "ratiopharm GmbH Ulm www.ratiopharm.de",
+    "substances_on_page": [
+      "Allopurinol 300 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Maisstärke Cellulose, mikrokristalline Carboxymethylstärke, Natrium Siliciumdioxid, hochdisperses Talkum",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/88/50/45088.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/88/50/45088.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/88/50/45088.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/89/50/45089.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 12,0 mm Höhe: 4,3 mm Masse: 540,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : wannenförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/allopurinol-ratiopharm-300-mg-tabletten-1686206.html?file=979f9debccb2dbe09324a9682da8b380",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 02.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27",
+    "provider_website": "https://www.ratiopharm.de"
+  },
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/88/50/45088.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 86817,
+      "saved_as": "01686206_tablet_1.jpg",
+      "sha256": "9f2f70b24ad5a779bfa936f366fd662f187ab8a6e47631ad3cc3c0a15b680700",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/89/50/45089.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 85538,
+      "saved_as": "01686206_tablet_2.jpg",
+      "sha256": "7d184f20643152fe031015fd17befc01637e6aa60604cc26a212209994632d2e",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/49/15/41549.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 136186,
+      "saved_as": "01686206_leaflet.pdf",
+      "sha256": "5cd7e1174b6864d1ee96243be6cc87f894111b2ca361db2b81aa3f5745fc9003",
+      "pages": 8,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/allopurinol-ratiopharm-300-mg-tabletten-1686206.html?file=979f9debccb2dbe09324a9682da8b380",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 02.2025"
+    }
+  },
+  "issues": [],
+  "photo_review": {},
+  "reviewed_text_corrections": {},
+  "field_sources": {
+    "pzn": {
+      "value": "01686206",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "market": {
+      "value": "DE",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_name": {
+      "value": "ALLOPURINOL-ratiopharm 300 mg Tabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "active_ingredient": {
+      "value": "Allopurinol",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Allopurinol",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "strength_as_stated": {
+      "value": "300 mg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "dosage_form": {
+      "value": "Tabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pack_size": {
+      "value": "20",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "brand": {
+      "value": "ALLOPURINOL-ratiopharm",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pharmaceutical_company": {
+      "value": "ratiopharm GmbH",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "manufacturer": {
+      "value": "Merckle GmbH",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "color": {
+      "value": "white",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "shape": {
+      "value": "round, convex",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "imprint": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "score_line": {
+      "value": "single score line on one side (wannenförmig)",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "appearance_description_original": {
+      "value": "Weiße, runde, gewölbte Tablette mit Bruchkerbe.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "tablet_image_1": {
+      "value": "01686206/01686206_tablet_1.jpg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "tablet_image_2": {
+      "value": "01686206/01686206_tablet_2.jpg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "package_image": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_path": {
+      "value": "01686206/01686206_leaflet.pdf",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/allopurinol-ratiopharm-300-mg-tabletten-1686206.html",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "manufacturer_source_url": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_revision_date": {
+      "value": "2025-02",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "retrieved_at": {
+      "value": "2026-11-14",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "verification_status": {
+      "value": "Product page and leaflet checked; tablet photos reviewed; not pharmacist verified.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "notes": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    }
+  }
+}

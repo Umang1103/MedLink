@@ -1,0 +1,177 @@
+{
+  "pzn": "13817228",
+  "collection_file": "polypharmacy_collection_list.csv",
+  "page": {
+    "page_title": "Beipackzettel von ATORVASTATIN AXiromed 10 mg Filmtabletten",
+    "pzn_on_page": "13817228",
+    "pack_size_on_page": "50 Stück (N2)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten",
+    "provider_on_page": "Medical Valley Invest AB - AXiromed Höllviken",
+    "substances_on_page": [
+      "Atorvastatin hemicalcium-1,5-Wasser 10,82 mg pro 1 Tablette",
+      "= Atorvastatin (10 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Calciumcarbonat Cellulose, mikrokristalline Lactose-1-Wasser Croscarmellose natrium Copovidon",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/42/70/97042.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/42/70/97042.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/42/70/97042.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/43/70/97043.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 7,0 mm Höhe: 2,6 mm Masse: 113,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"10\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/atorvastatin-axiromed-10-mg-filmtabletten-13817228.html?file=0c80b469de04da7453d10f91f05ffebe",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 11.2023"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27"
+  },
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/42/70/97042.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 108718,
+      "saved_as": "13817228_tablet_1.jpg",
+      "sha256": "d7204fd637503be766cf86be5ac33c75b0fe123a3cf5fec4e9ed25dc595bd45f",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/43/70/97043.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 105682,
+      "saved_as": "13817228_tablet_2.jpg",
+      "sha256": "ecb33804a67c7c6ad3a3be94242569937abddefee57f16b01ca8d43364875348",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/09/10/81009.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 168918,
+      "saved_as": "13817228_leaflet.pdf",
+      "sha256": "5a0a4fa52aa555cbf4ce15ee7c981576d3598134dac42769cfb74c65033388ed",
+      "pages": 8,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/atorvastatin-axiromed-10-mg-filmtabletten-13817228.html?file=0c80b469de04da7453d10f91f05ffebe",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 11.2023"
+    }
+  },
+  "issues": [],
+  "photo_review": {},
+  "reviewed_text_corrections": {
+    "appearance_description_original": "Atorvastatin AXiromed Filmtabletten sind weiße, runde, bikonvexe Tabletten mit einer Bruchkerbe auf einer Seite und der Prägung „10“ auf der anderen Seite. Die Größe der einzelnen Tabletten beträgt circa 7,0 mm.",
+    "color": "white",
+    "shape": "round, biconvex"
+  },
+  "field_sources": {
+    "pzn": {
+      "value": "13817228",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "market": {
+      "value": "DE",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_name": {
+      "value": "ATORVASTATIN AXiromed 10 mg Filmtabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "active_ingredient": {
+      "value": "Atorvastatin",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Atorvastatin hemicalcium-1,5-Wasser",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "strength_as_stated": {
+      "value": "10 mg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "dosage_form": {
+      "value": "Filmtabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pack_size": {
+      "value": "50",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "brand": {
+      "value": "ATORVASTATIN AXiromed",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pharmaceutical_company": {
+      "value": "Medical Valley Invest AB",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "manufacturer": {
+      "value": "Laboratorios Liconsa S.A.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "color": {
+      "value": "white",
+      "source": "downloaded leaflet, reviewed text extract"
+    },
+    "shape": {
+      "value": "round, biconvex",
+      "source": "downloaded leaflet, reviewed text extract"
+    },
+    "imprint": {
+      "value": "10",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "score_line": {
+      "value": "single score line on one side (wedge-shaped)",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "appearance_description_original": {
+      "value": "Atorvastatin AXiromed Filmtabletten sind weiße, runde, bikonvexe Tabletten mit einer Bruchkerbe auf einer Seite und der Prägung „10“ auf der anderen Seite. Die Größe der einzelnen Tabletten beträgt circa 7,0 mm.",
+      "source": "downloaded leaflet, reviewed text extract"
+    },
+    "tablet_image_1": {
+      "value": "13817228/13817228_tablet_1.jpg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "tablet_image_2": {
+      "value": "13817228/13817228_tablet_2.jpg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "package_image": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_path": {
+      "value": "13817228/13817228_leaflet.pdf",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/atorvastatin-axiromed-10-mg-filmtabletten-13817228.html",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "manufacturer_source_url": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_revision_date": {
+      "value": "2023-11",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "retrieved_at": {
+      "value": "2026-11-14",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "verification_status": {
+      "value": "Product page and leaflet checked; tablet photos reviewed; not pharmacist verified.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "notes": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    }
+  }
+}

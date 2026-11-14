@@ -1,0 +1,90 @@
+{
+  "pzn": "17418844",
+  "list_row": {
+    "active_ingredient": "Metamizol",
+    "category": "非阿片类镇痛退热药（吡唑酮类） / Non-opioid analgesic",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metamizol-zentiva-500-mg-filmtabletten-17418844.html",
+    "hf_context_zh": "非心衰治疗药；多药联用中常见的镇痛退热药。",
+    "mechanism_zh": "吡唑酮类非阿片镇痛药，具有镇痛、退热和解痉作用。",
+    "clinical_role_zh": "用于其他治疗无效的重度急慢性疼痛和高热（以说明书为准）。",
+    "example_product_name": "METAMIZOL Zentiva 500 mg Filmtabletten",
+    "pzn": "17418844",
+    "example_strength_as_stated": "500 mg Metamizol-Natrium 1 H2O",
+    "pack_size_units": "10",
+    "market": "DE",
+    "collection_order": "30",
+    "collection_status": "pending_extraction",
+    "notes_zh": "标示规格为盐形式，对应Metamizol约443 mg；网页仅列1张药片原图。",
+    "strength_note_zh": "示例产品规格，不是患者每次或每日服药剂量；具体适应证以该产品现行说明书为准",
+    "clinical_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metamizol-zentiva-500-mg-filmtabletten-17418844.html",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metamizol-zentiva-500-mg-filmtabletten-17418844.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "多药联用（Polypharmacy）常见药物采集清单；每种成分至少选2个产品示例（不同PZN），均已核对产品页面列有药片原图和原始说明书PDF；不穷尽药物、品牌或规格；非患者用药方案；非心衰治疗药的行不代表其获批心衰适应证；图片和PDF待采集核实。"
+  },
+  "retrieved_at": "2026-11-14T09:39:16.082111+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/30/73/147330.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 60613,
+      "saved_as": "17418844_tablet_1.jpg",
+      "sha256": "866261c07dd41c351a68da0d6b5220c7f0490dd1e8822bc705c838841d58cee8",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/76/71/137176.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 246109,
+      "saved_as": "17418844_leaflet.pdf",
+      "sha256": "33ec9a677878c7e97763007b8d4f851400ffccf3d93d0ff4083ff4c3749769fd",
+      "pages": 10,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metamizol-zentiva-500-mg-filmtabletten-17418844.html?file=aa84932bdb039bad1ec212a0b1b72f5b",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 11.2024"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von METAMIZOL Zentiva 500 mg Filmtabletten",
+    "pzn_on_page": "17418844",
+    "pack_size_on_page": "10 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten",
+    "provider_on_page": "Zentiva Pharma GmbH Berlin www.zentiva.de",
+    "substances_on_page": [
+      "Metamizol natrium-1-Wasser 500 mg pro 1 Tablette",
+      "= Metamizol (443,08 mg pro 1 Tablette)",
+      "= Natrium-Ion (32,7 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Maisstärke Macrogol 6000 Povidon K25 Lactose-1-Wasser Kartoffelstärke",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/30/73/147330.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/30/73/147330.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/30/73/147330.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 5,7 mm Breite: 8,2 mm Tiefe: 16,2 mm Masse: 655,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : beidseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metamizol-zentiva-500-mg-filmtabletten-17418844.html?file=aa84932bdb039bad1ec212a0b1b72f5b",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 11.2024"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15",
+    "provider_website": "https://www.zentiva.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "",
+    "company_raw": "Zentiva Pharma GmbH 65927 Frankfurt am Main Telefon: 0800 / 53 53 010 Telefax: 0800 / 53 53 011",
+    "manufacturer_raw": "S.C. Zentiva S.A. B-dul Theodor Pallady Nr. 50 032266, Sektor 3, Bukarest Rumänien",
+    "revision_raw": "November 2024",
+    "wirkstoff_raw": "Metamizol-Natrium-Monohydrat und sind ein schmerzstillendes und fiebersenkendes Arzneimittel aus der Gruppe der Pyrazolone. Metamizol Zentiva 500 mg werden angewendet gegen: − akute starke Schmerzen n",
+    "composition_raw": "",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

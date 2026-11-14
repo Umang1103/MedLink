@@ -1,0 +1,97 @@
+{
+  "pzn": "09064645",
+  "list_row": {
+    "active_ingredient": "Acetylsalicylsäure",
+    "category": "抗血小板药（低剂量阿司匹林） / Antiplatelet",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ass-dexcel-100-mg-tabletten-9064645.html",
+    "hf_context_zh": "非心衰治疗药；低剂量用于冠心病等动脉粥样硬化性疾病的抗血小板治疗。",
+    "mechanism_zh": "不可逆抑制血小板环氧合酶-1（COX-1），减少血栓素A2生成，抑制血小板聚集。",
+    "clinical_role_zh": "100 mg低剂量用于心肌梗死、卒中等的预防（抗血小板），不同于止痛退热剂量。",
+    "example_product_name": "ASS Dexcel 100 mg Tabletten",
+    "pzn": "09064645",
+    "example_strength_as_stated": "100 mg Acetylsalicylsäure",
+    "pack_size_units": "50",
+    "market": "DE",
+    "collection_order": "10",
+    "collection_status": "pending_extraction",
+    "notes_zh": "ASS 100；网页仅列1张药片原图。",
+    "strength_note_zh": "示例产品规格，不是患者每次或每日服药剂量；具体适应证以该产品现行说明书为准",
+    "clinical_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ass-dexcel-100-mg-tabletten-9064645.html",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ass-dexcel-100-mg-tabletten-9064645.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "多药联用（Polypharmacy）常见药物采集清单；每种成分至少选2个产品示例（不同PZN），均已核对产品页面列有药片原图和原始说明书PDF；不穷尽药物、品牌或规格；非患者用药方案；非心衰治疗药的行不代表其获批心衰适应证；图片和PDF待采集核实。"
+  },
+  "retrieved_at": "2026-11-14T09:38:55.553535+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/58/42/94258.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 84896,
+      "saved_as": "09064645_tablet_1.jpg",
+      "sha256": "f684b9dc99b2e02a579df866ee53084f04abf6627699243e36c004aa88ba45e1",
+      "pixels": "600x600"
+    },
+    "package": {
+      "url": "https://cdn8.apopixx.de/250/web_schraeg_png/110/09064645.png",
+      "ok": true,
+      "kind": "png",
+      "bytes": 70333,
+      "saved_as": "09064645_package.png",
+      "sha256": "907b9bae3a8ebb1e503e2fb986b8c48eaf8b3099c7772760daa123319c4d0a1e",
+      "pixels": "250x250"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/32/70/87032.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 587379,
+      "saved_as": "09064645_leaflet.pdf",
+      "sha256": "3de82137510f76cc645e5981b8db3dd996dbb35c67542aadea94fa5a82bc9c2d",
+      "pages": 7,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ass-dexcel-100-mg-tabletten-9064645.html?file=60eaddf8277eb7b5e8b78fadfe9987be",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 02.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von ASS Dexcel 100 mg Tabletten",
+    "pzn_on_page": "09064645",
+    "pack_size_on_page": "50 Stück (N2)",
+    "dispensing_status": "Apothekenpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "Dexcel Pharma GmbH Alzenau www.dexcel-pharma.de",
+    "substances_on_page": [
+      "Acetylsalicylsäure 100 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Maisstärke Cellulosepulver",
+    "primary_image_url": "https://cdn8.apopixx.de/250/web_schraeg_png/110/09064645.png",
+    "packshot_url": "https://cdn8.apopixx.de/250/web_schraeg_png/110/09064645.png",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/58/42/94258.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 7,0 mm Höhe: 3,0 mm Masse: 120,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Anordnung : ohne Kerbe Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ass-dexcel-100-mg-tabletten-9064645.html?file=60eaddf8277eb7b5e8b78fadfe9987be",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 02.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-10-27",
+    "provider_website": "https://www.dexcel-pharma.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Weiße bis cremefarbene, runde Tablette. Packungen mit 20, 50, 100 Tabletten. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "und",
+    "manufacturer_raw": "Dexcel® Pharma GmbH ∙ Carl-Zeiss-Str. 2 ∙ 63755 Alzenau ∙ Telefon: 06023/9480 - 0 ∙ Telefax: 06023/9480 - 50",
+    "revision_raw": "Februar 2025",
+    "wirkstoff_raw": "Acetylsalicylsäure (Ph.Eur.) Lesen Sie die gesamte Packungsbeilage sorgfältig durch, bevor Sie mit der Einnahme dieses Arzneimittels beginnen, denn sie enthält wichtige Informationen.  Nehmen Sie die",
+    "composition_raw": "250226-palde-ass100-1735 Seite 7 von 7 Februar 2025  Der Wirkstoff ist: Acetylsalicylsäure (Ph.Eur.) 1 Tablette enthält 100 mg Acetylsalicylsäure (Ph.Eur.).  Die sonstigen Bestandteile sind: Maisstärke, Cellulosepulver. Wie ASS Dexcel 100 mg aussieht und Inhalt der Packung Weiße bis cremefarbene, runde Tablette. Packungen mit 20, 50, 100 Tabletten. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht. Pharmazeutischer Unternehmer und Hersteller Dexcel® Pharma GmbH ∙ Carl-",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

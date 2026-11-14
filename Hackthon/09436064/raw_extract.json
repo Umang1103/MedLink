@@ -1,0 +1,99 @@
+{
+  "pzn": "09436064",
+  "list_row": {
+    "active_ingredient": "Metamizol",
+    "category": "非阿片类镇痛退热药（吡唑酮类） / Non-opioid analgesic",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metamizol-abz-500-mg-tabletten-9436064.html",
+    "hf_context_zh": "非心衰治疗药；多药联用中常见的镇痛退热药。",
+    "mechanism_zh": "吡唑酮类非阿片镇痛药，具有镇痛、退热和解痉作用。",
+    "clinical_role_zh": "用于其他治疗无效的重度急慢性疼痛和高热（以说明书为准）。",
+    "example_product_name": "METAMIZOL AbZ 500 mg Tabletten",
+    "pzn": "09436064",
+    "example_strength_as_stated": "500 mg Metamizol-Natrium 1 H2O",
+    "pack_size_units": "50",
+    "market": "DE",
+    "collection_order": "31",
+    "collection_status": "pending_extraction",
+    "notes_zh": "标示规格为盐形式Metamizol-Natrium-Monohydrat。",
+    "strength_note_zh": "示例产品规格，不是患者每次或每日服药剂量；具体适应证以该产品现行说明书为准",
+    "clinical_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metamizol-abz-500-mg-tabletten-9436064.html",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metamizol-abz-500-mg-tabletten-9436064.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "多药联用（Polypharmacy）常见药物采集清单；每种成分至少选2个产品示例（不同PZN），均已核对产品页面列有药片原图和原始说明书PDF；不穷尽药物、品牌或规格；非患者用药方案；非心衰治疗药的行不代表其获批心衰适应证；图片和PDF待采集核实。"
+  },
+  "retrieved_at": "2026-11-14T09:39:17.011831+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/38/86/48638.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 103390,
+      "saved_as": "09436064_tablet_1.jpg",
+      "sha256": "e5f10b868e2673deafa5f236cc4bb79a069ca496a977f78fa95a3223b2e6d65e",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/39/86/48639.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 103079,
+      "saved_as": "09436064_tablet_2.jpg",
+      "sha256": "e3760848c4d7cdfa13383e65706e1d61c0695552916a4ad0b914ff17e6a97a04",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/86/06/40686.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 150035,
+      "saved_as": "09436064_leaflet.pdf",
+      "sha256": "49586b4baa7bea2941c2e5de85f75fa679b7524122e6d5a90ea60e4aa716737e",
+      "pages": 9,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metamizol-abz-500-mg-tabletten-9436064.html?file=ea2c496fc27d149dcfa854bd4aed321c",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 11.2024"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von METAMIZOL AbZ 500 mg Tabletten",
+    "pzn_on_page": "09436064",
+    "pack_size_on_page": "50 Stück (N3)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "AbZ-Pharma GmbH Ulm www.abz.de",
+    "substances_on_page": [
+      "Metamizol natrium-1-Wasser 500 mg pro 1 Tablette",
+      "= Metamizol (443,08 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Mannitol Hyprolose Crospovidon Croscarmellose natrium Natrium-Ion",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/38/86/48638.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/38/86/48638.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/38/86/48638.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/39/86/48639.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 12,0 mm Höhe: 7,0 mm Masse: 727,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metamizol-abz-500-mg-tabletten-9436064.html?file=ea2c496fc27d149dcfa854bd4aed321c",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 11.2024"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15",
+    "provider_website": "https://www.abz.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Metamizol AbZ sind weiße bis cremefarbene, runde, bikonvexe Tabletten, auf einer Seite glatt und mit einer Bruchkerbe auf der anderen Seite.Metamizol AbZ Durchmesser: 12 mm, Dicke: ca. 7 mm. Die Bruchkerbe dient nur zum Teilen der Tablette für ein erleichtertes Schlucken und nicht zum Aufteilen in gleiche Dosen. ist in Blisterpackungen (PVC/PVDC-Aluminium) mit 10, 20, 30 und 50 Tabletten erhältlich.Metamizol AbZ Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "b -Pharma GmbH A Z Graf-Arco-Str. 3 89079 Ulm",
+    "manufacturer_raw": "Teva Pharmaceutical Works Private Limited Company Pallagi ut 13 4042 Debrecen Ungarn oder TEVA PHARMA S.L.U. C/ Anabel Segura, 11, Edificio Albatros B, 1 a planta 28108 Alcobendas, Madrid Spanien oder GEBRAUCHSINFORMATION Metamizol AbZ 500 mg Tabletten 9 AWD.pharma GmbH & Co. KG Wasastr. 50 01445 Radebeul Deutschland oder Merckle GmbH Ludwig-Merckle-Str. 3 89143 Blaubeuren Deutschland",
+    "revision_raw": "November 2024",
+    "wirkstoff_raw": "Metamizol-Natrium-Monohydrat. Es ist ein schmerzstillendes und fiebersenkendes Arzneimittel aus der GruppeMetamizol AbZ der Pyrazolone. ist angezeigt für Erwachsene und Jugendliche ab 15 Jahren zur Be",
+    "composition_raw": "den Wirkstoff Metamizol-Natrium-Monohydrat. Es ist ein schmerzstillendes und fiebersenkendes Arzneimittel aus der GruppeMetamizol AbZ der Pyrazolone. ist angezeigt für Erwachsene und Jugendliche ab 15 Jahren zur Behandlung vonMetamizol AbZ — akuten starken Schmerzen nach Verletzungen oder Operationen, — krampfartigem Leibschmerz (Koliken), — Schmerzen bei Krebsleiden (Tumorschmerzen), — sonstigen akuten oder chronischen starken Schmerzen, soweit eine andere Behandlung nicht in Frage kommt, — hoh",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

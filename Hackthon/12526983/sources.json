@@ -1,0 +1,176 @@
+{
+  "pzn": "12526983",
+  "collection_file": "polypharmacy_collection_list.csv",
+  "page": {
+    "page_title": "Beipackzettel von METAMIZOL Aristo 500 mg Tabletten",
+    "pzn_on_page": "12526983",
+    "pack_size_on_page": "10 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "Aristo Pharma GmbH Berlin",
+    "substances_on_page": [
+      "Metamizol natrium-1-Wasser 500 mg pro 1 Tablette",
+      "= Metamizol (443,08 mg pro 1 Tablette)",
+      "= Natrium-Ion (32,7 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Maisstärke, vorverkleistert Macrogol 6000 Crospovidon Magnesium stearat Siliciumdioxid, hochdisperses",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/25/60/76025.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/25/60/76025.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/25/60/76025.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/26/60/76026.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 12,0 mm Höhe: 4,5 mm Masse: 614,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metamizol-aristo-500-mg-tabletten-12526983.html?file=81e93fc89c29829edc1335ce5063aa01",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 08.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15"
+  },
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/25/60/76025.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 111441,
+      "saved_as": "12526983_tablet_1.jpg",
+      "sha256": "338a37dc5bb61d368a75e87b468f20f8dcf72e3db5cb756d1e15524530bf3ad0",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/26/60/76026.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 108854,
+      "saved_as": "12526983_tablet_2.jpg",
+      "sha256": "572d6d7912925522fdeb4be71bb018eebc5e01299105ac85e3a0a94380070c7d",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/76/43/104376.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 87385,
+      "saved_as": "12526983_leaflet.pdf",
+      "sha256": "b3ac2a6db6ffbd4ec60605040df830eee948d85cf2d87ca99f6b5853caf94a54",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metamizol-aristo-500-mg-tabletten-12526983.html?file=81e93fc89c29829edc1335ce5063aa01",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 08.2025"
+    }
+  },
+  "issues": [],
+  "photo_review": {},
+  "reviewed_text_corrections": {
+    "shape": "round, flat"
+  },
+  "field_sources": {
+    "pzn": {
+      "value": "12526983",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "market": {
+      "value": "DE",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_name": {
+      "value": "METAMIZOL Aristo 500 mg Tabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "active_ingredient": {
+      "value": "Metamizol",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Metamizol natrium-1-Wasser",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "strength_as_stated": {
+      "value": "500 mg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "dosage_form": {
+      "value": "Tabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pack_size": {
+      "value": "10",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "brand": {
+      "value": "METAMIZOL Aristo",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pharmaceutical_company": {
+      "value": "Aristo Pharma GmbH",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "manufacturer": {
+      "value": "Aristo Pharma GmbH",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "color": {
+      "value": "white to cream",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "shape": {
+      "value": "round, flat",
+      "source": "downloaded leaflet, reviewed text extract"
+    },
+    "imprint": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "score_line": {
+      "value": "single score line on one side (wedge-shaped)",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "appearance_description_original": {
+      "value": "Metamizol Aristo ® sind weiße bis cremefarbene, runde, fl ache Tabletten, mit einer Bruchkerbe auf einer Seite. Der Durchmesser beträgt ca. 12 mm, die Dicke ca. 4,5 mm.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "tablet_image_1": {
+      "value": "12526983/12526983_tablet_1.jpg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "tablet_image_2": {
+      "value": "12526983/12526983_tablet_2.jpg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "package_image": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_path": {
+      "value": "12526983/12526983_leaflet.pdf",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metamizol-aristo-500-mg-tabletten-12526983.html",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "manufacturer_source_url": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_revision_date": {
+      "value": "2025-08",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "retrieved_at": {
+      "value": "2026-11-14",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "verification_status": {
+      "value": "Product page and leaflet checked; tablet photos reviewed; not pharmacist verified.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "notes": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    }
+  }
+}

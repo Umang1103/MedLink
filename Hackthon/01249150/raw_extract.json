@@ -1,0 +1,89 @@
+{
+  "pzn": "01249150",
+  "list_row": {
+    "active_ingredient": "Pantoprazol",
+    "category": "质子泵抑制剂 / PPI",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/pantoprazol-al-20-mg-magensaftresistente-tabletten-1249150.html",
+    "hf_context_zh": "非心衰治疗药；常作为胃保护药与抗血小板药、抗凝药或NSAID联用。",
+    "mechanism_zh": "不可逆抑制胃壁细胞H+/K+-ATP酶（质子泵），减少胃酸分泌。",
+    "clinical_role_zh": "治疗反流性食管炎、消化性溃疡，并预防药物相关的胃黏膜损伤。",
+    "example_product_name": "PANTOPRAZOL AL 20 mg magensaftresistente Tabletten",
+    "pzn": "01249150",
+    "example_strength_as_stated": "20 mg Pantoprazol",
+    "pack_size_units": "14",
+    "market": "DE",
+    "collection_order": "4",
+    "collection_status": "pending_extraction",
+    "notes_zh": "magensaftresistente Tabletten，不应掰开或嚼碎；网页仅列1张药片原图；该PZN包装无N规格。",
+    "strength_note_zh": "示例产品规格，不是患者每次或每日服药剂量；具体适应证以该产品现行说明书为准",
+    "clinical_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/pantoprazol-al-20-mg-magensaftresistente-tabletten-1249150.html",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/pantoprazol-al-20-mg-magensaftresistente-tabletten-1249150.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "多药联用（Polypharmacy）常见药物采集清单；每种成分至少选2个产品示例（不同PZN），均已核对产品页面列有药片原图和原始说明书PDF；不穷尽药物、品牌或规格；非患者用药方案；非心衰治疗药的行不代表其获批心衰适应证；图片和PDF待采集核实。"
+  },
+  "retrieved_at": "2026-11-14T09:38:46.509298+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/65/39/33965.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 68556,
+      "saved_as": "01249150_tablet_1.jpg",
+      "sha256": "db2cc379358aff1854005ea73b25d56e43fbf49082966d2b198fd8e53b06073b",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/57/95/79557.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 104552,
+      "saved_as": "01249150_leaflet.pdf",
+      "sha256": "7856fccf22b9cc1ebaacf9b51751eb3c96c07f7946c4002446ad3a4ec3e8d525",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/pantoprazol-al-20-mg-magensaftresistente-tabletten-1249150.html?file=dc31ca78201610e96dea1a2708997e82",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 03.2024"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von PANTOPRAZOL AL 20 mg magensaftresistente Tabletten",
+    "pzn_on_page": "01249150",
+    "pack_size_on_page": "14 Stück",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten, magensaftgeschützte",
+    "provider_on_page": "ALIUD Pharma GmbH Laichingen www.aliud.de",
+    "substances_on_page": [
+      "Pantoprazol natrium-1,5-Wasser 22,56 mg pro 1 Tablette",
+      "= Pantoprazol (20 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Calcium(palmitat,stearat) Carmellose natrium Crospovidon Maltitol Natriumcarbonat",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/65/39/33965.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/65/39/33965.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/65/39/33965.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 3,0 mm Breite: 4,7 mm Tiefe: 8,6 mm Masse: 97,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Anordnung : ohne Kerbe Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/pantoprazol-al-20-mg-magensaftresistente-tabletten-1249150.html?file=dc31ca78201610e96dea1a2708997e82",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 03.2024"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27",
+    "provider_website": "https://www.aliud.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Gelbe, ovale Tablette. PANTOPRAZOL AL 20 mg magensaftresistente Tabletten ist in Packungen mit 14, 15, 28, 30, 56, 60, 98 und 100 magensaftresistenten Tabletten erhältlich. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "ALIUD PHARMA® GmbH Gottlieb-Daimler-Straße 19 · D-89150 Laichingen info@aliud.de",
+    "manufacturer_raw": "STADA M&D SRL Str. Sfantul Elefterie, nr 18, Parte A, etaj 1 050525 Bukarest Rumänien",
+    "revision_raw": "März 2024",
+    "wirkstoff_raw": "Pantoprazol. PANTOPRAZOL AL 20 mg ist ein selektiver Protonenpumpenhemmer, ein Arzneimittel, welches die Säureproduktion im Magen reduziert. Es wird zur Behandlung von säurebedingten Magen- und Darmer",
+    "composition_raw": "Der Wirkstoff ist: Pantoprazol. 1 magensaftresistente Tablette enthält 20 mg Pantoprazol als Pantoprazol-Natrium 1,5 H2O. Die sonstigen Bestandteile sind TABLETTENKERN: Calciumstearat (Ph.Eur.), Carmellose- Natrium, Crospovidon (Typ B), Maltitol (E 965), Natriumcarbonat (E 500). TABLETTENÜBERZUG: Macrogol 3350 (E 1521), Methacrylsäure-Ethylacrylat-Copolymer (1:1)-Dispersion 30 % (Ph.Eur.), Natriumcarbonat (E 500), Poly(vinylalkohol), entölte Phospholipide aus Sojabohnen, Talkum (E 553b), Triethy",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

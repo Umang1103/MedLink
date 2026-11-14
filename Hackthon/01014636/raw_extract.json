@@ -1,0 +1,98 @@
+{
+  "pzn": "01014636",
+  "list_row": {
+    "active_ingredient": "Allopurinol",
+    "category": "黄嘌呤氧化酶抑制剂 / Xanthine oxidase inhibitor",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/allopurinol-abz-300-mg-tabletten-1014636.html",
+    "hf_context_zh": "非心衰治疗药；多药联用中常见的痛风/高尿酸长期用药。",
+    "mechanism_zh": "抑制黄嘌呤氧化酶，减少尿酸生成。",
+    "clinical_role_zh": "长期降低尿酸，预防痛风发作及尿酸结石。",
+    "example_product_name": "ALLOPURINOL AbZ 300 mg Tabletten",
+    "pzn": "01014636",
+    "example_strength_as_stated": "300 mg Allopurinol",
+    "pack_size_units": "30",
+    "market": "DE",
+    "collection_order": "21",
+    "collection_status": "pending_extraction",
+    "notes_zh": "",
+    "strength_note_zh": "示例产品规格，不是患者每次或每日服药剂量；具体适应证以该产品现行说明书为准",
+    "clinical_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/allopurinol-abz-300-mg-tabletten-1014636.html",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/allopurinol-abz-300-mg-tabletten-1014636.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "多药联用（Polypharmacy）常见药物采集清单；每种成分至少选2个产品示例（不同PZN），均已核对产品页面列有药片原图和原始说明书PDF；不穷尽药物、品牌或规格；非患者用药方案；非心衰治疗药的行不代表其获批心衰适应证；图片和PDF待采集核实。"
+  },
+  "retrieved_at": "2026-11-14T09:39:06.728432+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/90/83/48390.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 84165,
+      "saved_as": "01014636_tablet_1.jpg",
+      "sha256": "162c8974e945deb4ab3cca96d68ede2618af96f75d39dc451bdb751ab5923a47",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/91/83/48391.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 84432,
+      "saved_as": "01014636_tablet_2.jpg",
+      "sha256": "db9e0659f465d4dceb47ba45cc0bdda425f28530e4685b077b9fe8ee95ff0e45",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/27/04/40427.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 147261,
+      "saved_as": "01014636_leaflet.pdf",
+      "sha256": "bc27e9e123f7a7b473638117d8549613b0655191be0367adeb29e0b966ff3f2f",
+      "pages": 8,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/allopurinol-abz-300-mg-tabletten-1014636.html?file=57b94e6d91cb4d0b382f6c4584ea90d3",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 02.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von ALLOPURINOL AbZ 300 mg Tabletten",
+    "pzn_on_page": "01014636",
+    "pack_size_on_page": "30 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "AbZ-Pharma GmbH Ulm www.abz.de",
+    "substances_on_page": [
+      "Allopurinol 300 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Maisstärke Cellulose, mikrokristalline Carboxymethylstärke, Natrium Siliciumdioxid, hochdisperses Talkum",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/90/83/48390.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/90/83/48390.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/90/83/48390.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/91/83/48391.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 12,0 mm Höhe: 4,2 mm Masse: 548,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/allopurinol-abz-300-mg-tabletten-1014636.html?file=57b94e6d91cb4d0b382f6c4584ea90d3",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 02.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27",
+    "provider_website": "https://www.abz.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Weiße, runde, gewölbte Tablette mit Bruchkerbe. Allopurinol AbZ 300 mg ist in Packungen mit 30, 50 und 100 Tabletten erhältlich. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "b -Pharma GmbH A Z Graf-Arco-Str. 3 89079 Ulm",
+    "manufacturer_raw": "Merckle GmbH Ludwig-Merckle-Str. 3 89143 Blaubeuren",
+    "revision_raw": "Februar 2025",
+    "wirkstoff_raw": ". Blutbildkontrollen sind daher in regelmäßigen Zeitabständen durchzuführen. — Die Verweildauer von Vidarabin-haltigen Arzneimitteln (Arzneimittel gegen Viruserkrankungen) im Körper kann in Gegenwart",
+    "composition_raw": "— Der Wirkstoff ist Allopurinol. Jede Tablette enthält 300 mg Allopurinol. — Die sonstigen Bestandteile sind: Maisstärke; Mikrokristalline Cellulose; Poly( -carboxymethyl)stärke, Natriumsalz; Hochdisperses Siliciumdioxid; Talkum; Gelatine;O Magnesiumstearat (Ph.Eur.). Wie Allopurinol AbZ 300 mg aussieht und Inhalt der Packung Weiße, runde, gewölbte Tablette mit Bruchkerbe. Allopurinol AbZ 300 mg ist in Packungen mit 30, 50 und 100 Tabletten erhältlich. Es werden möglicherweise nicht alle Packung",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

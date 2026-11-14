@@ -1,0 +1,173 @@
+{
+  "pzn": "07202936",
+  "collection_file": "polypharmacy_collection_list.csv",
+  "page": {
+    "page_title": "Beipackzettel von TELMISARTAN AL 40 mg Tabletten",
+    "pzn_on_page": "07202936",
+    "pack_size_on_page": "98 Stück (N3)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "ALIUD Pharma GmbH Laichingen www.aliud.de",
+    "substances_on_page": [
+      "Telmisartan 40 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Carmellose calcium Magnesium stearat (pflanzlich) Maisstärke Mannitol Natriumhydroxid",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/45/94/39445.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/45/94/39445.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/45/94/39445.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/46/94/39446.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 4,2 mm Breite: 6,0 mm Tiefe: 12,2 mm Masse: 243,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/telmisartan-al-40-mg-tabletten-7202936.html?file=1e3bbe8c0c91a2f948294caa15bdf9f2",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 12.2024"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15",
+    "provider_website": "https://www.aliud.de"
+  },
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/45/94/39445.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 59722,
+      "saved_as": "07202936_tablet_1.jpg",
+      "sha256": "8173897f75b756f39daf786de06002b76d6ec315ed0f0d2ad004c22f6f6838ee",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/46/94/39446.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 61294,
+      "saved_as": "07202936_tablet_2.jpg",
+      "sha256": "adb7db70a035584ba4953ac2d15286a2d4c2f47574aefb2315112aacd7150729",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/01/98/79801.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 102188,
+      "saved_as": "07202936_leaflet.pdf",
+      "sha256": "81f298fcfd63ad80d1fa18b9286a1d1ee173d4211f233e90cfdb6118b5a5e4ee",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/telmisartan-al-40-mg-tabletten-7202936.html?file=1e3bbe8c0c91a2f948294caa15bdf9f2",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 12.2024"
+    }
+  },
+  "issues": [],
+  "photo_review": {},
+  "reviewed_text_corrections": {},
+  "field_sources": {
+    "pzn": {
+      "value": "07202936",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "market": {
+      "value": "DE",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_name": {
+      "value": "TELMISARTAN AL 40 mg Tabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "active_ingredient": {
+      "value": "Telmisartan",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Telmisartan",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "strength_as_stated": {
+      "value": "40 mg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "dosage_form": {
+      "value": "Tabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pack_size": {
+      "value": "98",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "brand": {
+      "value": "TELMISARTAN AL",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pharmaceutical_company": {
+      "value": "ALIUD PHARMA GmbH",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "manufacturer": {
+      "value": "STADA Arzneimittel AG",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "color": {
+      "value": "white to cream",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "shape": {
+      "value": "oval",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "imprint": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "score_line": {
+      "value": "single score line on one side (wedge-shaped)",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "appearance_description_original": {
+      "value": "Weiße bis cremefarbene, ovale Tablette mit einer Bruchkerbe auf einer Seite. Die Tablette kann in gleiche Dosen geteilt werden.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "tablet_image_1": {
+      "value": "07202936/07202936_tablet_1.jpg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "tablet_image_2": {
+      "value": "07202936/07202936_tablet_2.jpg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "package_image": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_path": {
+      "value": "07202936/07202936_leaflet.pdf",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/telmisartan-al-40-mg-tabletten-7202936.html",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "manufacturer_source_url": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_revision_date": {
+      "value": "2024-12",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "retrieved_at": {
+      "value": "2026-11-14",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "verification_status": {
+      "value": "Product page and leaflet checked; tablet photos reviewed; not pharmacist verified.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "notes": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    }
+  }
+}

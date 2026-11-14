@@ -1,0 +1,99 @@
+{
+  "pzn": "17448940",
+  "list_row": {
+    "active_ingredient": "Metformin",
+    "category": "双胍类降糖药 / Biguanide",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metformin-aurobindo-1000-mg-filmtabletten-17448940.html",
+    "hf_context_zh": "非心衰治疗药；2型糖尿病是心衰常见合并症。",
+    "mechanism_zh": "减少肝脏葡萄糖生成，提高外周组织对胰岛素的敏感性。",
+    "clinical_role_zh": "2型糖尿病的一线口服降糖药。",
+    "example_product_name": "METFORMIN Aurobindo 1000 mg Filmtabletten",
+    "pzn": "17448940",
+    "example_strength_as_stated": "1000 mg Metforminhydrochlorid",
+    "pack_size_units": "120",
+    "market": "DE",
+    "collection_order": "13",
+    "collection_status": "pending_extraction",
+    "notes_zh": "网页Anbieter为PUREN Pharma，不等于实际生产厂家。",
+    "strength_note_zh": "示例产品规格，不是患者每次或每日服药剂量；具体适应证以该产品现行说明书为准",
+    "clinical_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metformin-aurobindo-1000-mg-filmtabletten-17448940.html",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metformin-aurobindo-1000-mg-filmtabletten-17448940.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "多药联用（Polypharmacy）常见药物采集清单；每种成分至少选2个产品示例（不同PZN），均已核对产品页面列有药片原图和原始说明书PDF；不穷尽药物、品牌或规格；非患者用药方案；非心衰治疗药的行不代表其获批心衰适应证；图片和PDF待采集核实。"
+  },
+  "retrieved_at": "2026-11-14T09:38:58.034361+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/85/31/153185.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 55286,
+      "saved_as": "17448940_tablet_1.jpg",
+      "sha256": "642ca30ee68647c939b81d52546aa046fc4686a2422b191c2b57c1a25c5e1de1",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/86/31/153186.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 54077,
+      "saved_as": "17448940_tablet_2.jpg",
+      "sha256": "3ceaca6acc5a221b6df882fa7ada6f877b15c76930c373b88cd08d81036b2dd7",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/04/33/153304.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 199331,
+      "saved_as": "17448940_leaflet.pdf",
+      "sha256": "d03c95679f7cc0c4ab0d1aa2cdb5b0f73d20e2081bd57360637cf8345fc6e8b9",
+      "pages": 8,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metformin-aurobindo-1000-mg-filmtabletten-17448940.html?file=705fc5b2743b1268472a31ccbc910396",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 03.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von METFORMIN Aurobindo 1000 mg Filmtabletten",
+    "pzn_on_page": "17448940",
+    "pack_size_on_page": "120 Stück (N2)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten",
+    "provider_on_page": "PUREN Pharma GmbH & Co. KG München www.puren-pharma.de",
+    "substances_on_page": [
+      "Metformin hydrochlorid 1000 mg pro 1 Tablette",
+      "= Metformin (779,86 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Povidon K90 Magnesium stearat (pflanzlich) Hypromellose Macrogol 400 Macrogol 6000",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/85/31/153185.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/85/31/153185.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/85/31/153185.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/86/31/153186.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 6,8 mm Breite: 8,8 mm Tiefe: 20,7 mm Masse: 1.066,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : beidseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"A90\" Besonderheiten Die Tablette hat auf der Vorderseite eine breite und auf der Rückseite eine schmale keilförmige Kerbe. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metformin-aurobindo-1000-mg-filmtabletten-17448940.html?file=705fc5b2743b1268472a31ccbc910396",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 03.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15",
+    "provider_website": "https://www.puren-pharma.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Filmtablette. Weiße, bikonvexe, kapselförmige Filmtabletten mit einer Bruchkerbe auf einer Seite und „A“ und „90“ auf der anderen Seite, getrennt durch eine Bruchkerbe. Die Größe beträgt 20,7 mm x 8,8 mm. Die Tablette kann in gleiche Dosen geteilt werden. Metformin Aurobindo 1000 mg Filmtabletten sind in Blisterpackungen mit transparenter PVC/PVDC/Aluminium-Folie oder transparenter PVC/Aluminium-Folie oder weiß-opaken HDPE-Flaschen mit Aktivkohle enthaltendem Polypropylen- Verschluss verpackt. Jede Faltschachtel enthält 20, 30, 40, 50, 60, 70, 80, 90, 100, 120 oder 180 Filmtabletten. Jeder Blister, bestehend aus transparenter PVC/PVDC/Aluminium- Folie oder transparenter PVC/Aluminium-Folie, enthält 10 Filmtabletten. Weiß-opake HDPE-Flasche mit 60, 90, 100 oder 500 Filmtabletten. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "PUREN Pharma GmbH & Co. KG Willy-Brandt-Allee 2 81829 München Telefon: 089/558909 - 0 Telefax: 089/558909 – 240",
+    "manufacturer_raw": "APL Swift Services (Malta) Limited HF26, Hal Far Industrial Estate, Hal Far Birzebbugia, BBG 3000, Malta Merckle GmbH Ludwig-Merckle-Straße 3 89143 Blaubeuren Deutschland Generis Farmacêutica, S.A., Rua João de Deus, n.o 19, Venda Nova, 2700-487 Amadora, Portugal",
+    "revision_raw": "März 2025",
+    "wirkstoff_raw": "ist Metforminhydrochlorid. Jede Filmtablette enthält 1000 mg Metforminhydrochlorid, entsprechend 780 mg Metformin. • Die sonstigen Bestandteile sind: Tablettenkern: Povidon K90, Magnesiumstearat (Ph.E",
+    "composition_raw": "Metformin, einen Arzneistoff aus der Gruppe der so genannten Biguanide, der zur Behandlung von Diabetes eingesetzt wird. Insulin ist ein von der Bauchspeicheldrüse gebildetes Hormon, das für die Aufnahme von Glukose (Zucker) aus dem Blut in die Körperzellen sorgt. Dort wird die Glukose in Energie umgewandelt oder als Vorrat zur späteren Verwendung gespeichert. Wenn Sie an Diabetes leiden, produziert Ihre Bauchspeicheldrüse entweder nicht genug Insulin oder die Körpergewebe sprechen nicht richtig",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

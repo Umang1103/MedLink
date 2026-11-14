@@ -1,0 +1,184 @@
+{
+  "pzn": "01343676",
+  "collection_file": "polypharmacy_collection_list.csv",
+  "page": {
+    "page_title": "Beipackzettel von ASS-ratiopharm 100 mg TAH Tabletten",
+    "pzn_on_page": "01343676",
+    "pack_size_on_page": "50 Stück (N2)",
+    "dispensing_status": "Apothekenpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "ratiopharm GmbH Ulm www.ratiopharm.de",
+    "substances_on_page": [
+      "Acetylsalicylsäure 100 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Maisstärke Cellulose, mikrokristalline Cellulosepulver",
+    "primary_image_url": "https://cdn8.apopixx.de/250/web_schraeg_png/110/01343676.png",
+    "packshot_url": "https://cdn8.apopixx.de/250/web_schraeg_png/110/01343676.png",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/85/98/29885.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/86/98/29886.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 7,0 mm Höhe: 3,4 mm Masse: 132,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Kreuzkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"100\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ass-ratiopharm-100-mg-tah-tabletten-1343676.html?file=8288353180a0802c1a3dca665329a525",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 01.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27",
+    "provider_website": "https://www.ratiopharm.de"
+  },
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/85/98/29885.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 84281,
+      "saved_as": "01343676_tablet_1.jpg",
+      "sha256": "1aab74c7920aa694ba288649d55be9e52facb18d22d8c259e9e435b8636147bf",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/86/98/29886.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 86874,
+      "saved_as": "01343676_tablet_2.jpg",
+      "sha256": "a226b6a0bfa42c3496be2a5c543a92406b9c835cdd580468b540abf866c7ccf4",
+      "pixels": "600x600"
+    },
+    "package": {
+      "url": "https://cdn8.apopixx.de/250/web_schraeg_png/110/01343676.png",
+      "ok": true,
+      "kind": "png",
+      "bytes": 72145,
+      "saved_as": "01343676_package.png",
+      "sha256": "33ab7b0f3eecd2b3a7a63cee6824da2b101db23b14fc79277921b55dec9beee3",
+      "pixels": "250x250"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/09/16/41609.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 143734,
+      "saved_as": "01343676_leaflet.pdf",
+      "sha256": "d52cde6a3b6306dbce86c40ce5f7f0bbd43f15922cd570ec29da85d81e8c7f2a",
+      "pages": 7,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ass-ratiopharm-100-mg-tah-tabletten-1343676.html?file=8288353180a0802c1a3dca665329a525",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 01.2025"
+    }
+  },
+  "issues": [],
+  "photo_review": {},
+  "reviewed_text_corrections": {
+    "appearance_description_original": "Weiße, runde Tablette mit einseitiger Kreuzbruchkerbe"
+  },
+  "field_sources": {
+    "pzn": {
+      "value": "01343676",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "market": {
+      "value": "DE",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_name": {
+      "value": "ASS-ratiopharm 100 mg TAH Tabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "active_ingredient": {
+      "value": "Acetylsalicylsäure",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Acetylsalicylsäure",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "strength_as_stated": {
+      "value": "100 mg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "dosage_form": {
+      "value": "Tabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pack_size": {
+      "value": "50",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "brand": {
+      "value": "ASS-ratiopharm",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pharmaceutical_company": {
+      "value": "ratiopharm GmbH",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "manufacturer": {
+      "value": "Merckle GmbH",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "color": {
+      "value": "white",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "shape": {
+      "value": "round",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "imprint": {
+      "value": "100",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "score_line": {
+      "value": "cross score on one side (wedge-shaped)",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "appearance_description_original": {
+      "value": "Weiße, runde Tablette mit einseitiger Kreuzbruchkerbe",
+      "source": "downloaded leaflet, reviewed text extract"
+    },
+    "tablet_image_1": {
+      "value": "01343676/01343676_tablet_1.jpg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "tablet_image_2": {
+      "value": "01343676/01343676_tablet_2.jpg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "package_image": {
+      "value": "01343676/01343676_package.png",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_path": {
+      "value": "01343676/01343676_leaflet.pdf",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ass-ratiopharm-100-mg-tah-tabletten-1343676.html",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "manufacturer_source_url": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_revision_date": {
+      "value": "2025-01",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "retrieved_at": {
+      "value": "2026-11-14",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "verification_status": {
+      "value": "Product page and leaflet checked; tablet photos reviewed; not pharmacist verified.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "notes": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    }
+  }
+}

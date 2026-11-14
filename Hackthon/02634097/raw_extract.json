@@ -1,0 +1,99 @@
+{
+  "pzn": "02634097",
+  "list_row": {
+    "active_ingredient": "Amlodipin",
+    "category": "二氢吡啶类钙通道阻滞剂 / Calcium channel blocker",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/amlodipin-ratiopharm-5-mg-n-tabletten-2634097.html",
+    "hf_context_zh": "非心衰治疗药；常用于合并高血压或心绞痛的患者。",
+    "mechanism_zh": "阻断血管平滑肌L型钙通道，扩张外周动脉，降低血压。",
+    "clinical_role_zh": "治疗高血压和慢性稳定型心绞痛。",
+    "example_product_name": "AMLODIPIN-ratiopharm 5 mg N Tabletten",
+    "pzn": "02634097",
+    "example_strength_as_stated": "5 mg Amlodipin",
+    "pack_size_units": "20",
+    "market": "DE",
+    "collection_order": "14",
+    "collection_status": "pending_extraction",
+    "notes_zh": "标示规格对应Amlodipin游离碱；网页另列Amlodipinbesilat 6,93 mg。",
+    "strength_note_zh": "示例产品规格，不是患者每次或每日服药剂量；具体适应证以该产品现行说明书为准",
+    "clinical_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/amlodipin-ratiopharm-5-mg-n-tabletten-2634097.html",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/amlodipin-ratiopharm-5-mg-n-tabletten-2634097.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "多药联用（Polypharmacy）常见药物采集清单；每种成分至少选2个产品示例（不同PZN），均已核对产品页面列有药片原图和原始说明书PDF；不穷尽药物、品牌或规格；非患者用药方案；非心衰治疗药的行不代表其获批心衰适应证；图片和PDF待采集核实。"
+  },
+  "retrieved_at": "2026-11-14T09:39:00.086729+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/18/51/45118.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 92107,
+      "saved_as": "02634097_tablet_1.jpg",
+      "sha256": "6b59ad254f7db1674538205029017d332483e0a43a5eeae59558598632566dc3",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/19/51/45119.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 84611,
+      "saved_as": "02634097_tablet_2.jpg",
+      "sha256": "d161c90a71a7376d1787a10bedc03f9459cac2b44b82f860fecebcbacbd5ab16",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/89/15/41589.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 125901,
+      "saved_as": "02634097_leaflet.pdf",
+      "sha256": "f9fface05f154e401d3808034b2878381ebd95827549a735da62137f1bb1ae6d",
+      "pages": 6,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/amlodipin-ratiopharm-5-mg-n-tabletten-2634097.html?file=1859eb6ac1d3a2e230879281283887f1",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 08.2022"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von AMLODIPIN-ratiopharm 5 mg N Tabletten",
+    "pzn_on_page": "02634097",
+    "pack_size_on_page": "20 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "ratiopharm GmbH Ulm www.ratiopharm.de",
+    "substances_on_page": [
+      "Amlodipin besilat 6,93 mg pro 1 Tablette",
+      "= Amlodipin (5 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Cellulose, mikrokristalline Calciumhydrogenphosphat Carboxymethylstärke, Natrium Typ A Magnesium stearat",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/18/51/45118.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/18/51/45118.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/18/51/45118.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/19/51/45119.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 8,1 mm Höhe: 3,4 mm Masse: 201,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"A5\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/amlodipin-ratiopharm-5-mg-n-tabletten-2634097.html?file=1859eb6ac1d3a2e230879281283887f1",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 08.2022"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27",
+    "provider_website": "https://www.ratiopharm.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "® Weiße, runde Tablette. Eine Seite ist leicht konkav, mit einer Bruchrille und der Prägung „A5“. Die andere Seite ist leicht konvex und glatt. ist in PVC/PVDC/Al-Blisterpackungen mit 20, 50, 98 und 100 Tabletten erhältlich.Amlodipin-ratiopharm 5 mg N® ist in HDPE-Flaschen mit 100 Tabletten erhältlich.Amlodipin-ratiopharm 5 mg N® GEBRAUCHSINFORMATION Amlodipin-ratiopharm 5 mg N Tabletten® 6 Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "ratiopharm GmbH Graf-Arco-Str. 3 89079 Ulm",
+    "manufacturer_raw": "Merckle GmbH Ludwig-Merckle-Str. 3 89143 Blaubeuren oder TEVA Pharmaceutical Works Private Limited Company - Teva Gyógyszergyár Zrt. - Pallagi út 13 4042 Debrecen Ungarn",
+    "revision_raw": "August 2022",
+    "wirkstoff_raw": "Amlodipin, der zur Arzneimittelgruppe der sogenannten Calciumantagonisten gehört.Amlodipin-ratiopharm 5 mg N® wird zur Behandlung von hohem Blutdruck (Hypertonie) angewendet oder zur Behandlung einer",
+    "composition_raw": "® — Der Wirkstoff ist Amlodipin. Jede Tablette enthält 5 mg Amlodipin (als Besilat). — Die sonstigen Bestandteile sind: Mikrokristalline Cellulose, Calciumhydrogenphosphat, Carboxymethylstärke-Natrium (Typ A), Magnesiumstearat. Wie Amlodipin-ratiopharm 5 mg N aussieht und Inhalt der Packung® Weiße, runde Tablette. Eine Seite ist leicht konkav, mit einer Bruchrille und der Prägung „A5“. Die andere Seite ist leicht konvex und glatt. ist in PVC/PVDC/Al-Blisterpackungen mit 20, 50, 98 und 100 Tablet",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

@@ -1,0 +1,177 @@
+{
+  "pzn": "08926671",
+  "collection_file": "polypharmacy_collection_list.csv",
+  "page": {
+    "page_title": "Beipackzettel von TELMISARTAN HEXAL 20 mg Tabletten",
+    "pzn_on_page": "08926671",
+    "pack_size_on_page": "28 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "Hexal AG Holzkirchen www.hexal.de",
+    "substances_on_page": [
+      "Telmisartan 20 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Povidon K25 Meglumin Natriumhydroxid Lactose Lactose-1-Wasser",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/31/54/175431.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/31/54/175431.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/31/54/175431.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/32/54/175432.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 7,0 mm Höhe: 2,5 mm Masse: 120,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Anordnung : ohne Kerbe Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"20\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/telmisartan-hexal-20-mg-tabletten-8926671.html?file=dfdbc30e41cbb2d121c6c43d2c60adc1",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 08.2026"
+      }
+    ],
+    "page_last_reviewed": "2026-10-27",
+    "provider_website": "https://www.hexal.de"
+  },
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/31/54/175431.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 105259,
+      "saved_as": "08926671_tablet_1.jpg",
+      "sha256": "60f3a458b1ba29875d60d5cc6d8259710f46634487b3ac875a035274995399aa",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/32/54/175432.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 100214,
+      "saved_as": "08926671_tablet_2.jpg",
+      "sha256": "6a21ac6a756a46830f676193ab4c020d385cee8b2e858c268f3457fa866490e2",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/12/40/24012.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 117904,
+      "saved_as": "08926671_leaflet.pdf",
+      "sha256": "ea9fbd856a7ea130fd6531a76415e67cb8dc2fe8ce9de70928734c5707ff7bb8",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/telmisartan-hexal-20-mg-tabletten-8926671.html?file=dfdbc30e41cbb2d121c6c43d2c60adc1",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 08.2026"
+    }
+  },
+  "issues": [],
+  "photo_review": {},
+  "reviewed_text_corrections": {
+    "color": "white",
+    "shape": "round",
+    "appearance_description_original": "Weiße, runde Tabletten mit einer glatten Oberfläche und der Prägung „20“ auf einer Seite. Die Tabletten haben einen Durchmesser von 6,9-7,2 mm."
+  },
+  "field_sources": {
+    "pzn": {
+      "value": "08926671",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "market": {
+      "value": "DE",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_name": {
+      "value": "TELMISARTAN HEXAL 20 mg Tabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "active_ingredient": {
+      "value": "Telmisartan",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Telmisartan",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "strength_as_stated": {
+      "value": "20 mg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "dosage_form": {
+      "value": "Tabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pack_size": {
+      "value": "28",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "brand": {
+      "value": "TELMISARTAN HEXAL",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pharmaceutical_company": {
+      "value": "Hexal AG",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "manufacturer": {
+      "value": "Lek Pharmaceuticals d.d.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "color": {
+      "value": "white",
+      "source": "downloaded leaflet, reviewed text extract"
+    },
+    "shape": {
+      "value": "round",
+      "source": "downloaded leaflet, reviewed text extract"
+    },
+    "imprint": {
+      "value": "20",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "score_line": {
+      "value": "none",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "appearance_description_original": {
+      "value": "Weiße, runde Tabletten mit einer glatten Oberfläche und der Prägung „20“ auf einer Seite. Die Tabletten haben einen Durchmesser von 6,9-7,2 mm.",
+      "source": "downloaded leaflet, reviewed text extract"
+    },
+    "tablet_image_1": {
+      "value": "08926671/08926671_tablet_1.jpg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "tablet_image_2": {
+      "value": "08926671/08926671_tablet_2.jpg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "package_image": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_path": {
+      "value": "08926671/08926671_leaflet.pdf",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/telmisartan-hexal-20-mg-tabletten-8926671.html",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "manufacturer_source_url": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_revision_date": {
+      "value": "2026-08",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "retrieved_at": {
+      "value": "2026-11-14",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "verification_status": {
+      "value": "Product page and leaflet checked; tablet photos reviewed; not pharmacist verified.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "notes": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "pzn": "08926671",
+  "list_row": {
+    "active_ingredient": "Telmisartan",
+    "category": "血管紧张素II受体阻滞剂 / ARB",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/telmisartan-hexal-20-mg-tabletten-8926671.html",
+    "hf_context_zh": "ARB类降压药；示例产品主要用于高血压，不代表其获批心衰适应证。",
+    "mechanism_zh": "阻断血管紧张素II的AT1受体，扩张血管、降低血压。",
+    "clinical_role_zh": "治疗原发性高血压及降低心血管风险（以产品说明书为准）。",
+    "example_product_name": "TELMISARTAN HEXAL 20 mg Tabletten",
+    "pzn": "08926671",
+    "example_strength_as_stated": "20 mg Telmisartan",
+    "pack_size_units": "28",
+    "market": "DE",
+    "collection_order": "29",
+    "collection_status": "pending_extraction",
+    "notes_zh": "单方Telmisartan，不是Telmisartan/HCT复方。",
+    "strength_note_zh": "示例产品规格，不是患者每次或每日服药剂量；具体适应证以该产品现行说明书为准",
+    "clinical_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/telmisartan-hexal-20-mg-tabletten-8926671.html",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/telmisartan-hexal-20-mg-tabletten-8926671.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "多药联用（Polypharmacy）常见药物采集清单；每种成分至少选2个产品示例（不同PZN），均已核对产品页面列有药片原图和原始说明书PDF；不穷尽药物、品牌或规格；非患者用药方案；非心衰治疗药的行不代表其获批心衰适应证；图片和PDF待采集核实。"
+  },
+  "retrieved_at": "2026-11-14T09:39:15.835223+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/31/54/175431.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 105259,
+      "saved_as": "08926671_tablet_1.jpg",
+      "sha256": "60f3a458b1ba29875d60d5cc6d8259710f46634487b3ac875a035274995399aa",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/32/54/175432.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 100214,
+      "saved_as": "08926671_tablet_2.jpg",
+      "sha256": "6a21ac6a756a46830f676193ab4c020d385cee8b2e858c268f3457fa866490e2",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/12/40/24012.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 117904,
+      "saved_as": "08926671_leaflet.pdf",
+      "sha256": "ea9fbd856a7ea130fd6531a76415e67cb8dc2fe8ce9de70928734c5707ff7bb8",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/telmisartan-hexal-20-mg-tabletten-8926671.html?file=dfdbc30e41cbb2d121c6c43d2c60adc1",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 08.2026"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von TELMISARTAN HEXAL 20 mg Tabletten",
+    "pzn_on_page": "08926671",
+    "pack_size_on_page": "28 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "Hexal AG Holzkirchen www.hexal.de",
+    "substances_on_page": [
+      "Telmisartan 20 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Povidon K25 Meglumin Natriumhydroxid Lactose Lactose-1-Wasser",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/31/54/175431.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/31/54/175431.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/31/54/175431.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/32/54/175432.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 7,0 mm Höhe: 2,5 mm Masse: 120,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Anordnung : ohne Kerbe Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"20\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/telmisartan-hexal-20-mg-tabletten-8926671.html?file=dfdbc30e41cbb2d121c6c43d2c60adc1",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 08.2026"
+      }
+    ],
+    "page_last_reviewed": "2026-10-27",
+    "provider_website": "https://www.hexal.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Telmisartan HEXAL 20 mg Tabletten Weiße, runde Tabletten mit einer glatten Oberﬂäche und der Prägung „20“ auf einer Seite. Die Tabletten haben einen Durchmesser von 6,9-7,2 mm. Telmisartan HEXAL 40 mg Tabletten Weiße, oblonge Tabletten mit einer glatten Oberﬂäche und einer Bruchkerbe auf der einen Seite und der Prä- gung „40“ auf der anderen Seite. Die Tabletten sind 11,5-11,8 mm lang und 6,4-6,8 mm breit. Telmisartan HEXAL 80 mg Tabletten Weiße, oblonge Tabletten mit einer glatten Oberﬂäche und einer Bruchkerbe auf der einen Seite und der Prä- gung „80“ auf der anderen Seite. Die Tabletten sind 14,7-15,0 mm lang und 8,2-8,6 mm breit. Alu/Alu-Blisterpackungen mit 7, 10, 14, 20, 21, 28, 30, 50, 56, 60, 84, 90, 98 und 100 Tabletten Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "Hexal AG Industriestraße 25 83607 Holzkirchen Telefon: (08024) 908-0 Telefax: (08024) 908-1290 E-Mail: service@hexal.com",
+    "manufacturer_raw": "Lek Pharmaceuticals d.d. Verovskova 57 1526 Ljubljana SlowenienDiese Arzneimittel sind in den Mitgliedsstaa- ten des Europäischen Wirtschaftsraumes (EWR) und im Vereinigten Königreich (Nordir- land) unter den folgenden Bezeichnungen zu- gelassen: Deutschland: Telmisartan HEXAL 20 mg Tabletten Telmisartan HEXAL 40 mg Tabletten Telmisartan HEXAL 80 mg Tabletten Niederlande: Telmisartan Hexal 20 mg, tabletten Telmisartan Hexal 40 mg, tabletten Telmisartan Hexal 80 mg, tabletten",
+    "revision_raw": "",
+    "wirkstoff_raw": "ist Telmisartan. Jede Tablette enthält 20 mg Telmisartan. Telmisartan HEXAL 40 mg Tabletten Der Wirkstoff ist Telmisartan. Jede Tablette enthält 40 mg Telmisartan. Telmisartan HEXAL 80 mg Tabletten De",
+    "composition_raw": "Telmisartan HEXAL 20 mg Tabletten Der Wirkstoff ist Telmisartan. Jede Tablette enthält 20 mg Telmisartan. Telmisartan HEXAL 40 mg Tabletten Der Wirkstoff ist Telmisartan. Jede Tablette enthält 40 mg Telmisartan. Telmisartan HEXAL 80 mg Tabletten Der Wirkstoff ist Telmisartan. Jede Tablette enthält 80 mg Telmisartan. Die sonstigen Bestandteile sind: Povidon K 25, Meglumin, Natriumhydroxid, Lactose, Lactose-Monohydrat, Crospovidon (Typ A), Magnesium- stearat (Ph.Eur.) [pﬂanzlich], Povidon K 30 Wie",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}
