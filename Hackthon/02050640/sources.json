@@ -1,0 +1,175 @@
+{
+  "pzn": "02050640",
+  "collection_file": "polypharmacy_collection_list.csv",
+  "page": {
+    "page_title": "Beipackzettel von EUTHYROX 100 Mikrogramm Tabletten",
+    "pzn_on_page": "02050640",
+    "pack_size_on_page": "50 Stück (N2)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "Merck Healthcare Germany GmbH Weiterstadt",
+    "substances_on_page": [
+      "Levothyroxin natrium 0,1 mg pro 1 Tablette",
+      "= Levothyroxin (0,097 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Maisstärke Citronensäure Croscarmellose natrium Gelatine Magnesium stearat (pflanzlich)",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/09/40/34009.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/09/40/34009.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/09/40/34009.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/10/40/34010.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 7,1 mm Höhe: 2,2 mm Masse: 101,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : beidseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"EM 100\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/euthyrox-100-mikrogramm-tabletten-2050640.html?file=9552cc162509fd583dae3ec0d741ae7b",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 11.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15"
+  },
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/09/40/34009.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 89250,
+      "saved_as": "02050640_tablet_1.jpg",
+      "sha256": "c8123b310de6eaf6f96b95551cb69bfd05e6ecf95ba7374fa884a6c46a805b40",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/10/40/34010.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 84588,
+      "saved_as": "02050640_tablet_2.jpg",
+      "sha256": "c89bfd21ea21820c36e1cf7aeea374bb374258a4814179cd38be1e549963edf6",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/73/78/207873.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 249797,
+      "saved_as": "02050640_leaflet.pdf",
+      "sha256": "11c340912cbc66021fbc18176c4ee95d7072a3228f7836a8725e849b283cdd84",
+      "pages": 9,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/euthyrox-100-mikrogramm-tabletten-2050640.html?file=9552cc162509fd583dae3ec0d741ae7b",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 11.2025"
+    }
+  },
+  "issues": [],
+  "photo_review": {},
+  "reviewed_text_corrections": {
+    "appearance_description_original": "Euthyrox Tabletten sind weiß, rund, beiderseits flach mit facettiertem Rand, einer Teilungsrille und einer Prägung […] EM 100 […] auf einer Tablettenseite."
+  },
+  "field_sources": {
+    "pzn": {
+      "value": "02050640",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "market": {
+      "value": "DE",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_name": {
+      "value": "EUTHYROX 100 Mikrogramm Tabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "active_ingredient": {
+      "value": "Levothyroxin",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Levothyroxin natrium",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "strength_as_stated": {
+      "value": "100 µg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "dosage_form": {
+      "value": "Tabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pack_size": {
+      "value": "50",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "brand": {
+      "value": "EUTHYROX",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pharmaceutical_company": {
+      "value": "Merck Healthcare Germany GmbH",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "manufacturer": {
+      "value": "Merck Healthcare KGaA; FAMAR HEALTH CARE SERVICES MADRID, S.A.U",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "color": {
+      "value": "white",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "shape": {
+      "value": "round, flat",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "imprint": {
+      "value": "EM 100",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "score_line": {
+      "value": "single score line on both sides (wedge-shaped)",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "appearance_description_original": {
+      "value": "Euthyrox Tabletten sind weiß, rund, beiderseits flach mit facettiertem Rand, einer Teilungsrille und einer Prägung […] EM 100 […] auf einer Tablettenseite.",
+      "source": "downloaded leaflet, reviewed text extract"
+    },
+    "tablet_image_1": {
+      "value": "02050640/02050640_tablet_1.jpg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "tablet_image_2": {
+      "value": "02050640/02050640_tablet_2.jpg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "package_image": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_path": {
+      "value": "02050640/02050640_leaflet.pdf",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/euthyrox-100-mikrogramm-tabletten-2050640.html",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "manufacturer_source_url": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_revision_date": {
+      "value": "2025-11",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "retrieved_at": {
+      "value": "2026-11-14",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "verification_status": {
+      "value": "Product page and leaflet checked; tablet photos reviewed; not pharmacist verified.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "notes": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    }
+  }
+}

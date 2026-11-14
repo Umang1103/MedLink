@@ -1,0 +1,176 @@
+{
+  "pzn": "00824600",
+  "collection_file": "polypharmacy_collection_list.csv",
+  "page": {
+    "page_title": "Beipackzettel von METFORMIN-CT 1.000 mg Filmtabletten",
+    "pzn_on_page": "00824600",
+    "pack_size_on_page": "120 Stück (N2)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten",
+    "provider_on_page": "AbZ-Pharma GmbH Ulm www.abz.de",
+    "substances_on_page": [
+      "Metformin hydrochlorid 1000 mg pro 1 Tablette",
+      "= Metformin (779,86 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Povidon K30 Siliciumdioxid, hochdisperses Magnesium stearat (pflanzlich) Hypromellose Titandioxid",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/26/36/83626.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/26/36/83626.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/26/36/83626.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/27/36/83627.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 9,0 mm Breite: 9,3 mm Tiefe: 18,6 mm Masse: 1.082,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : rinnenförmig Anordnung : beidseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"93\", \"7214\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metformin-ct-1000-mg-filmtabletten-824600.html?file=9f43d07ad780503abde07f435308c411",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 01.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15",
+    "provider_website": "https://www.abz.de"
+  },
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/26/36/83626.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 87423,
+      "saved_as": "00824600_tablet_1.jpg",
+      "sha256": "2d4af0171fbbd04d8f5c4b41dd267c8ab4f01b9361a657d932a43252e60e7a0d",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/27/36/83627.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 87482,
+      "saved_as": "00824600_tablet_2.jpg",
+      "sha256": "ff4e5ebeca8e3c50640b881c34c494259836970d1e2209bb0f7744267dd29db7",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/69/12/41269.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 139748,
+      "saved_as": "00824600_leaflet.pdf",
+      "sha256": "03e4aa2b8577f501653db47d0447fc96ce680906cade8f7cd6a23a00dd2e0438",
+      "pages": 7,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metformin-ct-1000-mg-filmtabletten-824600.html?file=9f43d07ad780503abde07f435308c411",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 01.2025"
+    }
+  },
+  "issues": [],
+  "photo_review": {},
+  "reviewed_text_corrections": {
+    "imprint": "9/3; 72/14"
+  },
+  "field_sources": {
+    "pzn": {
+      "value": "00824600",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "market": {
+      "value": "DE",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_name": {
+      "value": "METFORMIN-CT 1.000 mg Filmtabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "active_ingredient": {
+      "value": "Metformin",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Metformin hydrochlorid",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "strength_as_stated": {
+      "value": "1000 mg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "dosage_form": {
+      "value": "Filmtabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pack_size": {
+      "value": "120",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "brand": {
+      "value": "METFORMIN-CT",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pharmaceutical_company": {
+      "value": "AbZ-Pharma GmbH",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "manufacturer": {
+      "value": "Merckle GmbH; Teva Gyógyszergyár Zrt.; Teva Nederland B.V.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "color": {
+      "value": "white to cream",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "shape": {
+      "value": "oval",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "imprint": {
+      "value": "9/3; 72/14",
+      "source": "downloaded leaflet, reviewed text extract"
+    },
+    "score_line": {
+      "value": "single score line on both sides (groove-shaped)",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "appearance_description_original": {
+      "value": "Metformin-CT Weiße bis cremefarbene, ovale Filmtabletten mit Bruchkerbe, der Prägung „9/3” auf der einen und „72/14“ auf der anderen Seite und einer Größe von 18,6 mm x 9,3 mm.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "tablet_image_1": {
+      "value": "00824600/00824600_tablet_1.jpg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "tablet_image_2": {
+      "value": "00824600/00824600_tablet_2.jpg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "package_image": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_path": {
+      "value": "00824600/00824600_leaflet.pdf",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metformin-ct-1000-mg-filmtabletten-824600.html",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "manufacturer_source_url": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_revision_date": {
+      "value": "2025-01",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "retrieved_at": {
+      "value": "2026-11-14",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "verification_status": {
+      "value": "Product page and leaflet checked; tablet photos reviewed; not pharmacist verified.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "notes": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    }
+  }
+}

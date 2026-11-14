@@ -1,0 +1,98 @@
+{
+  "pzn": "03399824",
+  "list_row": {
+    "active_ingredient": "Allopurinol",
+    "category": "黄嘌呤氧化酶抑制剂 / Xanthine oxidase inhibitor",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/allopurinol-al-300-tabletten-3399824.html",
+    "hf_context_zh": "非心衰治疗药；多药联用中常见的痛风/高尿酸长期用药。",
+    "mechanism_zh": "抑制黄嘌呤氧化酶，减少尿酸生成。",
+    "clinical_role_zh": "长期降低尿酸，预防痛风发作及尿酸结石。",
+    "example_product_name": "ALLOPURINOL AL 300 Tabletten",
+    "pzn": "03399824",
+    "example_strength_as_stated": "300 mg Allopurinol",
+    "pack_size_units": "20",
+    "market": "DE",
+    "collection_order": "20",
+    "collection_status": "pending_extraction",
+    "notes_zh": "",
+    "strength_note_zh": "示例产品规格，不是患者每次或每日服药剂量；具体适应证以该产品现行说明书为准",
+    "clinical_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/allopurinol-al-300-tabletten-3399824.html",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/allopurinol-al-300-tabletten-3399824.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "多药联用（Polypharmacy）常见药物采集清单；每种成分至少选2个产品示例（不同PZN），均已核对产品页面列有药片原图和原始说明书PDF；不穷尽药物、品牌或规格；非患者用药方案；非心衰治疗药的行不代表其获批心衰适应证；图片和PDF待采集核实。"
+  },
+  "retrieved_at": "2026-11-14T09:39:06.050833+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/69/03/30369.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 94049,
+      "saved_as": "03399824_tablet_1.jpg",
+      "sha256": "670e8e05cafbce6c5dc027cb9abfe4091368fcd1eff646f668f8bf8dd8490b7d",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/70/03/30370.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 87194,
+      "saved_as": "03399824_tablet_2.jpg",
+      "sha256": "8832a43ca89a1136ef6280682667e66611d961b8e9bdc5977e2673d8c625e2ed",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/90/87/78790.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 109633,
+      "saved_as": "03399824_leaflet.pdf",
+      "sha256": "181241cb47d788fcf15e23c6a307f41ec74c58dac47ee892c5d47dbb38a6ac92",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/allopurinol-al-300-tabletten-3399824.html?file=73e7f9731568f312d2df47901e7471a7",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 11.2024"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von ALLOPURINOL AL 300 Tabletten",
+    "pzn_on_page": "03399824",
+    "pack_size_on_page": "20 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "ALIUD Pharma GmbH Laichingen www.aliud.de",
+    "substances_on_page": [
+      "Allopurinol 300 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Cellulose, mikrokristalline Maisstärke Talkum Croscarmellose natrium Povidon K25",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/69/03/30369.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/69/03/30369.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/69/03/30369.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/70/03/30370.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 11,1 mm Höhe: 5,1 mm Masse: 446,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/allopurinol-al-300-tabletten-3399824.html?file=73e7f9731568f312d2df47901e7471a7",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 11.2024"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27",
+    "provider_website": "https://www.aliud.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Weiße, runde, bikonvexe Tabletten mit einseitiger Bruchkerbe. ALLOPURINOL AL 300 ist in Packungen mit 20, 30, 50 und 100 Tabletten erhältlich. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "ALIUD PHARMA® GmbH Gottlieb-Daimler-Straße 19 · D-89150 Laichingen info@aliud.de",
+    "manufacturer_raw": "STADA Arzneimittel AG, Stadastraße 2 – 18, 61118 Bad Vilbel",
+    "revision_raw": "November 2024",
+    "wirkstoff_raw": "gehalts ist ALLOPURINOL AL 300 für Kinder nicht geeignet. Einnahme von ALLOPURINOL AL zusammen mit anderen Arzneimitteln Informieren Sie Ihren Arzt oder Apotheker, wenn Sie andere Arzneimittel anwende",
+    "composition_raw": "Der Wirkstoff ist: Allopurinol. Jede Tablette enthält 300 mg Allopurinol. Die sonstigen Bestandteile sind Mikrokristalline Cellulose (E 460), Maisstärke, Talkum (E 553b), Croscarmellose-Natrium (E 468), Povidon K25 (E 1201), Hochdisperses Siliciumdioxid (E 551), Magnesiumstearat (Ph.Eur.) [pflanzlich] (E 470b). Wie ALLOPURINOL AL 300 aussieht und Inhalt der Packung Weiße, runde, bikonvexe Tabletten mit einseitiger Bruchkerbe. ALLOPURINOL AL 300 ist in Packungen mit 20, 30, 50 und 100 Tabletten e",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

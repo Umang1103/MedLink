@@ -1,0 +1,33 @@
+{
+  "00524192": {"shape": "oval", "imprint": "AS 10"},
+  "13817228": {
+    "appearance_description_original": "Atorvastatin AXiromed Filmtabletten sind weiße, runde, bikonvexe Tabletten mit einer Bruchkerbe auf einer Seite und der Prägung „10“ auf der anderen Seite. Die Größe der einzelnen Tabletten beträgt circa 7,0 mm.",
+    "color": "white", "shape": "round, biconvex"
+  },
+  "01271847": {"appearance_description_original": "ovale, beidseitig gewölbte, gelbe Tabletten"},
+  "01647755": {"pharmaceutical_company": "Bristol-Myers Squibb/Pfizer EEIG", "manufacturer": "Swords Laboratories Unlimited Company"},
+  "08400029": {"pharmaceutical_company": "Bristol-Myers Squibb/Pfizer EEIG", "manufacturer": "Swords Laboratories Unlimited Company", "imprint": "2½ / 893"},
+  "01343676": {"appearance_description_original": "Weiße, runde Tablette mit einseitiger Kreuzbruchkerbe"},
+  "00824600": {"imprint": "9/3; 72/14"},
+  "00823919": {"imprint": "9/3; 72/14"},
+  "17448940": {"imprint": "A / 90"},
+  "02634097": {"shape": "round, concave on one side, convex on the other"},
+  "04342967": {"pharmaceutical_company": "AbZ-Pharma GmbH", "shape": "round, concave on one side, convex on the other"},
+  "02050640": {"appearance_description_original": "Euthyrox Tabletten sind weiß, rund, beiderseits flach mit facettiertem Rand, einer Teilungsrille und einer Prägung […] EM 100 […] auf einer Tablettenseite."},
+  "01896961": {
+    "manufacturer": "Sun Pharmaceutical Industries Europe B.V.; Terapia S.A.",
+    "color": "light brown, orange",
+    "appearance_description_original": "Kapseln der Größe „2” aus einem hellbraunen Kapseloberteil, das mit einem in schwarzer Lebensmittelfarbe aufgedruckten „R” gekennzeichnet ist, und einem orangefarbenen Kapselunterteil, das mit der Aufschrift „TSN400” bedruckt ist"
+  },
+  "14169949": {
+    "color": "orange, olive green",
+    "appearance_description_original": "Gelatinehartkapseln der Größe 3 mit einem orangefarbenen Kapselunterteil und einem olivfarbenen Kapseloberteil"
+  },
+  "07519857": {"pharmaceutical_company": "AbZ-Pharma GmbH", "shape": "round, biconvex"},
+  "01550375": {"shape": "round, biconvex"},
+  "08926671": {
+    "color": "white", "shape": "round",
+    "appearance_description_original": "Weiße, runde Tabletten mit einer glatten Oberfläche und der Prägung „20“ auf einer Seite. Die Tabletten haben einen Durchmesser von 6,9-7,2 mm."
+  },
+  "12526983": {"shape": "round, flat"}
+}

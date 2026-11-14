@@ -1,0 +1,89 @@
+{
+  "pzn": "01271847",
+  "list_row": {
+    "active_ingredient": "Pantoprazol",
+    "category": "质子泵抑制剂 / PPI",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/pantoprazol-ct-40-mg-magensaftresistente-tabletten-1271847.html",
+    "hf_context_zh": "非心衰治疗药；常作为胃保护药与抗血小板药、抗凝药或NSAID联用。",
+    "mechanism_zh": "不可逆抑制胃壁细胞H+/K+-ATP酶（质子泵），减少胃酸分泌。",
+    "clinical_role_zh": "治疗反流性食管炎、消化性溃疡，并预防药物相关的胃黏膜损伤。",
+    "example_product_name": "PANTOPRAZOL-CT 40 mg magensaftresistente Tabletten",
+    "pzn": "01271847",
+    "example_strength_as_stated": "40 mg Pantoprazol",
+    "pack_size_units": "100",
+    "market": "DE",
+    "collection_order": "5",
+    "collection_status": "pending_extraction",
+    "notes_zh": "magensaftresistente Tabletten；网页仅列1张药片原图；20 mg与40 mg为不同规格。",
+    "strength_note_zh": "示例产品规格，不是患者每次或每日服药剂量；具体适应证以该产品现行说明书为准",
+    "clinical_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/pantoprazol-ct-40-mg-magensaftresistente-tabletten-1271847.html",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/pantoprazol-ct-40-mg-magensaftresistente-tabletten-1271847.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "多药联用（Polypharmacy）常见药物采集清单；每种成分至少选2个产品示例（不同PZN），均已核对产品页面列有药片原图和原始说明书PDF；不穷尽药物、品牌或规格；非患者用药方案；非心衰治疗药的行不代表其获批心衰适应证；图片和PDF待采集核实。"
+  },
+  "retrieved_at": "2026-11-14T09:38:49.225352+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/67/59/85967.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 75117,
+      "saved_as": "01271847_tablet_1.jpg",
+      "sha256": "be8d755bdd2a9a84f4fd8a197c7e9d7c5eb06afa60cc2f90acb2c1ed8de8927e",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/35/13/41335.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 137712,
+      "saved_as": "01271847_leaflet.pdf",
+      "sha256": "a71be00841be8e9b09305a5955c32565d9d2bc03b234465da1265d17a08a0b39",
+      "pages": 6,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/pantoprazol-ct-40-mg-magensaftresistente-tabletten-1271847.html?file=136e44973752538aad581b1494b61b2f",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 10.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von PANTOPRAZOL-CT 40 mg magensaftresistente Tabletten",
+    "pzn_on_page": "01271847",
+    "pack_size_on_page": "100 Stück (N3)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten, magensaftgeschützte",
+    "provider_on_page": "AbZ-Pharma GmbH Ulm www.abz.de",
+    "substances_on_page": [
+      "Pantoprazol natrium-1,5-Wasser 45,11 mg pro 1 Tablette",
+      "= Pantoprazol (40 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Mannitol Cellulose, mikrokristalline Croscarmellose natrium Dinatriumhydrogenphosphat Magnesium stearat (pflanzlich)",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/67/59/85967.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/67/59/85967.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/67/59/85967.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 3,9 mm Breite: 6,3 mm Tiefe: 11,9 mm Masse: 237,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Anordnung : ohne Kerbe Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/pantoprazol-ct-40-mg-magensaftresistente-tabletten-1271847.html?file=136e44973752538aad581b1494b61b2f",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 10.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15",
+    "provider_website": "https://www.abz.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "sind ovale, beidseitig gewölbte, gelbe Tabletten, die in Aluminiumblisterpackungen mit 7, 14, 15,Pantoprazol-CT 40 mg magensaftresistente Tabletten 28, 30, 56, 60, 98 und 100 Tabletten erhältlich sind.",
+    "company_raw": "b -Pharma GmbH A Z Graf-Arco-Str. 3 89079 Ulm",
+    "manufacturer_raw": "Merckle GmbH Ludwig-Merckle-Str. 3 89143 Blaubeuren oder TEVA PHARMA, S.L.U. C/ Anabel Segura 11 Edificio Albatros B, 1ª planta 28108 Alcobendas Madrid Spanien",
+    "revision_raw": "Oktober 2025",
+    "wirkstoff_raw": "Pantoprazol. ist ein selektiver Protonenpumpenhemmer, ein Arzneimittel welchesPantoprazol-CT 40 mg Pantoprazol-CT 40 mg die Säureproduktion im Magen reduziert. Es wird zur Behandlung von säurebedingte",
+    "composition_raw": "den Wirkstoff Pantoprazol. ist ein selektiver Protonenpumpenhemmer, ein Arzneimittel welchesPantoprazol-CT 40 mg Pantoprazol-CT 40 mg die Säureproduktion im Magen reduziert. Es wird zur Behandlung von säurebedingten Magen- und Darmerkrankungen angewendet. Pantoprazol-CT 40 mg wird angewendet bei Erwachsenen und Jugendlichen ab 12 Jahren zur Behandlung von: — Refluxösophagitis. Dies ist eine Entzündung der Speiseröhre, verbunden mit dem Rückfluss von Magensäure. Pantoprazol-CT 40 mg wird angewend",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

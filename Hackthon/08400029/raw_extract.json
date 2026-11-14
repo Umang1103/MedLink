@@ -1,0 +1,114 @@
+{
+  "pzn": "08400029",
+  "list_row": {
+    "active_ingredient": "Apixaban",
+    "category": "直接口服抗凝药（Xa因子抑制剂） / DOAC",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eliquis-25-mg-filmtabletten-8400029.html",
+    "hf_context_zh": "非心衰治疗药；心衰患者常合并心房颤动，此时可能使用口服抗凝药。",
+    "mechanism_zh": "直接、选择性抑制凝血因子Xa，减少凝血酶生成和血栓形成。",
+    "clinical_role_zh": "预防非瓣膜性房颤相关卒中，治疗和预防深静脉血栓及肺栓塞。",
+    "example_product_name": "ELIQUIS 2,5 mg Filmtabletten",
+    "pzn": "08400029",
+    "example_strength_as_stated": "2,5 mg Apixaban",
+    "pack_size_units": "20",
+    "market": "DE",
+    "collection_order": "7",
+    "collection_status": "pending_extraction",
+    "notes_zh": "原研产品；2.5 mg规格；未找到带原图和PDF的仿制药页面。",
+    "strength_note_zh": "示例产品规格，不是患者每次或每日服药剂量；具体适应证以该产品现行说明书为准",
+    "clinical_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eliquis-25-mg-filmtabletten-8400029.html",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eliquis-25-mg-filmtabletten-8400029.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "多药联用（Polypharmacy）常见药物采集清单；每种成分至少选2个产品示例（不同PZN），均已核对产品页面列有药片原图和原始说明书PDF；不穷尽药物、品牌或规格；非患者用药方案；非心衰治疗药的行不代表其获批心衰适应证；图片和PDF待采集核实。"
+  },
+  "retrieved_at": "2026-11-14T09:38:51.382258+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/12/29/172912.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 169736,
+      "saved_as": "08400029_tablet_1.jpg",
+      "sha256": "5bb0dbc7a50e1be85518710b181a9ed1e874ea424b348c99c9d9f6f7b30b7eb2",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/13/29/172913.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 167342,
+      "saved_as": "08400029_tablet_2.jpg",
+      "sha256": "d6d83ada58a28349e2aada1435b76880e1c0d62ce178904f25e16a57a9d80b19",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/16/01/140116.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 114220,
+      "saved_as": "08400029_leaflet.pdf",
+      "sha256": "157e8d65939a8e5698bca4bb18d5d682809de05ec567f2c950e9e6e272e288fb",
+      "pages": 14,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eliquis-25-mg-filmtabletten-8400029.html?file=ec6e9ad3cf2ccf781cb674e3f85fa5fa",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 04.2025"
+    },
+    "leaflet_2": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/24/35/73524.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 548558,
+      "saved_as": "08400029_leaflet_2.pdf",
+      "sha256": "eae4a5876430e7e53a1b1dd5a15652a6d2b6a0ade58af5a8c1a18349b0f57e65",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eliquis-25-mg-filmtabletten-8400029.html?file=a1c396416f34aabe26dfb95dabd6df2b",
+      "label": "Schulungsmaterial (Patientenkarte)",
+      "doc_date": "Dokumentdatum: 07.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von ELIQUIS 2,5 mg Filmtabletten",
+    "pzn_on_page": "08400029",
+    "pack_size_on_page": "20 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten",
+    "provider_on_page": "Vertriebsgemeinschaft Bristol-Myers Squibb GmbH & Co. KGaA / Pfizer Pharma GmbH München",
+    "substances_on_page": [
+      "Apixaban 2,5 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Lactose Cellulose, mikrokristalline Croscarmellose natrium Natriumdodecylsulfat Magnesium stearat",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/12/29/172912.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/12/29/172912.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/12/29/172912.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/13/29/172913.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 6,0 mm Höhe: 2,9 mm Masse: 102,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Anordnung : ohne Kerbe Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"21/2\", \"893\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eliquis-25-mg-filmtabletten-8400029.html?file=ec6e9ad3cf2ccf781cb674e3f85fa5fa",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 04.2025"
+      },
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eliquis-25-mg-filmtabletten-8400029.html?file=a1c396416f34aabe26dfb95dabd6df2b",
+        "label": "Schulungsmaterial (Patientenkarte)",
+        "doc_date": "Dokumentdatum: 07.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-10-09"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Die Filmtabletten sind gelb, rund (Durchmesser 6 mm) und mit \"893\" auf der einen und mit \"2½\" auf der anderen Seite versehen. Sie sind in Blisterpackungen in Umkartons zu 10, 20, 60, 168 und 200 Filmtabletten erhältlich. Blisterpackungen zur Abgabe von Einzeldosen in Umkartons zu 60 mal 1 und 100 mal 1 Filmtabletten zur Verwendung in Krankenhäusern sind ebenfalls erhältlich. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht. Patientenausweis: Hinweise zur Benutzung In der Eliquis Packung ist neben der Packungsbeilage ein Patientenausweis enthalten oder Ihr Arzt wird Ihnen möglicherweise einen ähnlichen Ausweis geben. Dieser Patientenausweis enthält wichtige Informationen für Sie und soll andere Ärzte darauf hinweisen, dass Sie Eliquis einnehmen. Tragen Sie diesen Ausweis ständig bei sich. 1. Nehmen Sie den Ausweis aus der Packung. 2. Trennen Sie den Ausweis in deutscher Sprache ab (dies wird durch die Perforation erleichtert) 3. Füllen Sie die folgenden Abschnitte aus oder bitten Sie Ihren Arzt darum: Name: Geburtsdatum: Indikation: Dosierung: ..... mg 2 mal täglich Name des Arztes: Telefonnummer des Arztes: 4. Falten Sie die Karte und tragen Sie diesen Ausweis ständig bei sich",
+    "company_raw": "Bristol-Myers Squibb/Pfizer EEIG Plaza 254 Blanchardstown Corporate Park 2 Dublin 15, D15 T867 Irland",
+    "manufacturer_raw": "Swords Laboratories Unlimited Company T/A Bristol‑Myers Squibb Pharmaceutical Operations, External Manufacturing Plaza 254 Gebrauchsinformation: Information für Anwender Eliquis ® 2,5 mg Filmtabletten Stand der Gebrauchsinformation: April 2025 Dieses PDF wurde von der Rote Liste® Service GmbH/GI 4.0® erzeugt. 14/14 Blanchardstown Corporate Park 2 Dublin 15, D15 T867 Irland",
+    "revision_raw": "April 2025",
+    "wirkstoff_raw": "Apixaban und gehört zu einer Gruppe von Arzneimitteln, die man als Antikoagulanzien bezeichnet. Dieses Arzneimittel hilft der Entstehung von Blutgerinnseln vorzubeugen, indem es Faktor Xa, einen wicht",
+    "composition_raw": "den Wirkstoff Apixaban und gehört zu einer Gruppe von Arzneimitteln, die man als Antikoagulanzien bezeichnet. Dieses Arzneimittel hilft der Entstehung von Blutgerinnseln vorzubeugen, indem es Faktor Xa, einen wichtigen Bestandteil des Blutgerinnungssystems, hemmt. Eliquis wird bei Erwachsenen eingesetzt: um die Bildung von Blutgerinnseln (tiefe Venenthrombose [TVT]) nach einer Hüftgelenks oder Kniegelenksersatzoperation zu verhindern. Nach einer derartigen Operation an Hüfte oder Knie haben Sie",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

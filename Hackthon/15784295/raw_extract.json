@@ -1,0 +1,89 @@
+{
+  "pzn": "15784295",
+  "list_row": {
+    "active_ingredient": "Atorvastatin",
+    "category": "他汀类降脂药 / Statin",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/atorvastatin-zentiva-10-mg-filmtabletten-15784295.html",
+    "hf_context_zh": "非心衰治疗药；多药联用中常见的心血管预防用药。",
+    "mechanism_zh": "抑制HMG-CoA还原酶，减少肝脏胆固醇合成，降低LDL胆固醇。",
+    "clinical_role_zh": "降低LDL胆固醇，用于高胆固醇血症及心血管事件预防。",
+    "example_product_name": "ATORVASTATIN Zentiva 10 mg Filmtabletten",
+    "pzn": "15784295",
+    "example_strength_as_stated": "10 mg Atorvastatin",
+    "pack_size_units": "30",
+    "market": "DE",
+    "collection_order": "3",
+    "collection_status": "pending_extraction",
+    "notes_zh": "网页仅列1张药片原图。",
+    "strength_note_zh": "示例产品规格，不是患者每次或每日服药剂量；具体适应证以该产品现行说明书为准",
+    "clinical_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/atorvastatin-zentiva-10-mg-filmtabletten-15784295.html",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/atorvastatin-zentiva-10-mg-filmtabletten-15784295.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "多药联用（Polypharmacy）常见药物采集清单；每种成分至少选2个产品示例（不同PZN），均已核对产品页面列有药片原图和原始说明书PDF；不穷尽药物、品牌或规格；非患者用药方案；非心衰治疗药的行不代表其获批心衰适应证；图片和PDF待采集核实。"
+  },
+  "retrieved_at": "2026-11-14T09:38:46.508986+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/41/09/120941.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 106996,
+      "saved_as": "15784295_tablet_1.jpg",
+      "sha256": "cd7f3b6954e2d032051368d679709fc4b858c349171f36c7e9e66db75a4b717e",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/08/23/112308.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 235274,
+      "saved_as": "15784295_leaflet.pdf",
+      "sha256": "57da41cf4ac0924158e898d2a2fe4daaddaa507d7ed15620fa92f27980bcf7e8",
+      "pages": 7,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/atorvastatin-zentiva-10-mg-filmtabletten-15784295.html?file=875b0b304650fdaf74b849538453b17a",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 08.2024"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von ATORVASTATIN Zentiva 10 mg Filmtabletten",
+    "pzn_on_page": "15784295",
+    "pack_size_on_page": "30 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten",
+    "provider_on_page": "Zentiva Pharma GmbH Berlin www.zentiva.de",
+    "substances_on_page": [
+      "Atorvastatin hemicalcium-1,5-Wasser 10,82 mg pro 1 Tablette",
+      "= Atorvastatin (10 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Calciumcarbonat Cellulose, mikrokristalline Lactose-1-Wasser Hyprolose Povidon K12",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/41/09/120941.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/41/09/120941.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/41/09/120941.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 6,0 mm Höhe: 3,0 mm Masse: 100,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Anordnung : ohne Kerbe Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/atorvastatin-zentiva-10-mg-filmtabletten-15784295.html?file=875b0b304650fdaf74b849538453b17a",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 08.2024"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27",
+    "provider_website": "https://www.zentiva.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Atorvastatin Zentiva 10 mg Filmtabletten sind weiße bis cremefarbene, runde, bikonvexe Tabletten. Der Durchmesser der Tablette beträgt ungefähr 6 mm. Atorvastatin Zentiva 20 mg sind gelbliche, runde, bikonvexe Tabletten. Der Durchmesser der Tablette beträgt ungefähr 8 mm. Atorvastatin Zentiva 30 mg Filmtabletten sind hellorangefarbene, längliche Filmtabletten mit einer Länge von ungefähr 12,1 ± 0,3 mm und 6,1 ± 0,3 mm Breite. Atorvastatin Zentiva 40 mg Filmtabletten sind orange-gelbe bis gelb-orangefarbene, runde, bikonvexe Filmtabletten. Der Durchmesser der Tablette beträgt ungefähr 10 mm. Atorvastatin Zentiva 60 mg Filmtabletten sind orangefarbene, längliche Filmtabletten mit einer Länge von ungefähr 15,1 ± 0,3 mm und 7,6 ± 0,3 mm Breite. Atorvastatin Zentiva 80 mg Filmtabletten sind gelb-orangefarbene, runde, bikonvexe Tabletten. Der Durchmesser der Tablette beträgt ungefähr 12 mm. Atorvastatin Zentiva Filmtabletten sind in P ackungen mit 28, 30, 50, 60, 90 und 100 Filmtabletten erhältlich. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "Zentiva Pharma GmbH Brüningstr. 50 65926 Frankfurt am Main Telefon: 0800 53 53 010 Telefax: 0800 53 53 011",
+    "manufacturer_raw": "ZENTIVA k.s. U kabelovny 130 Dolní Měcholupy 102 37 Prag 10 Tschechische Republik",
+    "revision_raw": "August 2024",
+    "wirkstoff_raw": "ist Atorvastatin. Jede Filmtablette enthält 10 mg Atorvastatin (als Atorvastatin-Calcium-Trihydrat). Jede Filmtablette enthält 20 mg Atorvastatin (als Atorvastatin-Calcium-Trihydrat). 7 Jede Filmtable",
+    "composition_raw": "- Der Wirkstoff ist Atorvastatin. Jede Filmtablette enthält 10 mg Atorvastatin (als Atorvastatin-Calcium-Trihydrat). Jede Filmtablette enthält 20 mg Atorvastatin (als Atorvastatin-Calcium-Trihydrat). 7 Jede Filmtablette enthält 30 mg Atorvastatin (als Atorvastatin-Calcium-Trihydrat). Jede Filmtablette enthält 40 mg Atorvastatin (als Atorvastatin-Calcium-Trihydrat). Jede Filmtablette enthält 60 mg Atorvastatin (als Atorvastatin-Calcium-Trihydrat). Jede Filmtablette enthält 80 mg Atorvastatin (als",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

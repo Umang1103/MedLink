@@ -1,0 +1,19 @@
+{
+  "total_medicines": 222,
+  "template_columns": 26,
+  "polypharmacy_entries": 32,
+  "all_32_entries_complete": true,
+  "download_counts": {
+    "pill_images": 56,
+    "pdfs": 34,
+    "package_images": 3
+  },
+  "all_page_pzns_verified": true,
+  "all_listed_original_images_downloaded": true,
+  "all_linked_pdfs_downloaded": true,
+  "all_file_hashes_and_formats_valid": true,
+  "csv_xlsx_equal": true,
+  "pzn_leading_zeros_preserved": true,
+  "other_190_records_unchanged": true,
+  "backup": "D:\\Hackthon\\backups\\polypharmacy_assets_20261114_104129"
+}

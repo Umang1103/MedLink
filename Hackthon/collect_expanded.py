@@ -127,11 +127,11 @@ def collect(row):
                                                          f'{pzn}_package', 'image')
                 except Exception as exc:
                     rec['issues'].append(f'package: {exc}')
-            links = [p for p in page['pdf_links'] if 'Gebrauchsinformation' in p['label']]
-            links = links or page['pdf_links'][:1]
+            links = sorted(page['pdf_links'], key=lambda p: 'Gebrauchsinformation' not in p['label'])
+            links = list({p['url']: p for p in links}.values())
             if not links:
                 rec['issues'].append('No leaflet PDF linked on page')
-            for link in links[:1]:
+            for pdf_index, link in enumerate(links, 1):
                 try:
                     response = get(s, link['url'])
                     if legacy.sniff(response.content) == 'pdf':
@@ -141,13 +141,15 @@ def collect(row):
                         if len(urls) != 1:
                             raise ValueError(f'Expected one embedded leaflet PDF, found {len(urls)}')
                         pdf_url = urls.pop()
-                    d = asset(s, pdf_url, folder, f'{pzn}_leaflet', 'pdf')
+                    suffix = '' if pdf_index == 1 else f'_{pdf_index}'
+                    d = asset(s, pdf_url, folder, f'{pzn}_leaflet{suffix}', 'pdf')
                     d.update(viewer_page=link['url'], label=link['label'], doc_date=link['doc_date'])
-                    rec['downloads']['leaflet'] = d
+                    rec['downloads']['leaflet' + suffix] = d
                     path = folder / d['saved_as']
                     text = legacy.pdf_text(path)
-                    (folder / 'leaflet_text.txt').write_text(text, encoding='utf-8')
-                    rec['leaflet_fields'] = legacy.pdf_fields(path)
+                    (folder / f'leaflet_text{suffix}.txt').write_text(text, encoding='utf-8')
+                    if pdf_index == 1:
+                        rec['leaflet_fields'] = legacy.pdf_fields(path)
                 except Exception as exc:
                     rec['issues'].append(f'leaflet: {exc}')
         except Exception as exc:

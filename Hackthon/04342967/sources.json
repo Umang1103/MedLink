@@ -1,0 +1,177 @@
+{
+  "pzn": "04342967",
+  "collection_file": "polypharmacy_collection_list.csv",
+  "page": {
+    "page_title": "Beipackzettel von AMLODIPIN besilat AbZ 5 mg Tabletten",
+    "pzn_on_page": "04342967",
+    "pack_size_on_page": "50 Stück (N2)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "AbZ-Pharma GmbH Ulm www.abz.de",
+    "substances_on_page": [
+      "Amlodipin besilat 6,93 mg pro 1 Tablette",
+      "= Amlodipin (5 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Cellulose, mikrokristalline Calciumhydrogenphosphat Carboxymethylstärke, Natrium Typ A Magnesium stearat",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/85/82/48285.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/85/82/48285.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/85/82/48285.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/86/82/48286.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 8,1 mm Höhe: 3,4 mm Masse: 203,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"A5\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/amlodipin-besilat-abz-5-mg-tabletten-4342967.html?file=00e340713570ea11ad52192627529563",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 08.2022"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27",
+    "provider_website": "https://www.abz.de"
+  },
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/85/82/48285.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 102901,
+      "saved_as": "04342967_tablet_1.jpg",
+      "sha256": "97047ebb27e5f9a4a26e926f3294af476e60663dc5df1df50980d681b231aa9a",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/86/82/48286.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 98107,
+      "saved_as": "04342967_tablet_2.jpg",
+      "sha256": "6e3182162b17287a11c5b8125e11b20d763ad9b7bbe1ad0971b5b29c9c0287b0",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/35/04/40435.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 140243,
+      "saved_as": "04342967_leaflet.pdf",
+      "sha256": "24ee85f7964524efaeea2202d43fc2155cad22107ccd7197fec86d172e017011",
+      "pages": 6,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/amlodipin-besilat-abz-5-mg-tabletten-4342967.html?file=00e340713570ea11ad52192627529563",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 08.2022"
+    }
+  },
+  "issues": [],
+  "photo_review": {},
+  "reviewed_text_corrections": {
+    "pharmaceutical_company": "AbZ-Pharma GmbH",
+    "shape": "round, concave on one side, convex on the other"
+  },
+  "field_sources": {
+    "pzn": {
+      "value": "04342967",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "market": {
+      "value": "DE",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_name": {
+      "value": "AMLODIPIN besilat AbZ 5 mg Tabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "active_ingredient": {
+      "value": "Amlodipin",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Amlodipin besilat",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "strength_as_stated": {
+      "value": "5 mg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "dosage_form": {
+      "value": "Tabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pack_size": {
+      "value": "50",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "brand": {
+      "value": "AMLODIPIN besilat AbZ",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pharmaceutical_company": {
+      "value": "AbZ-Pharma GmbH",
+      "source": "downloaded leaflet, reviewed text extract"
+    },
+    "manufacturer": {
+      "value": "Merckle GmbH; TEVA Pharmaceutical Works Private Limited Company; Teva Gyógyszergyár Zrt.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "color": {
+      "value": "white",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "shape": {
+      "value": "round, concave on one side, convex on the other",
+      "source": "downloaded leaflet, reviewed text extract"
+    },
+    "imprint": {
+      "value": "A5",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "score_line": {
+      "value": "single score line on one side (wedge-shaped)",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "appearance_description_original": {
+      "value": "Weiße, runde Tablette. Eine Seite ist leicht konkav, mit einer Bruchrille und der Prägung „A5“. Die andere Seite ist leicht konvex und glatt.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "tablet_image_1": {
+      "value": "04342967/04342967_tablet_1.jpg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "tablet_image_2": {
+      "value": "04342967/04342967_tablet_2.jpg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "package_image": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_path": {
+      "value": "04342967/04342967_leaflet.pdf",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/amlodipin-besilat-abz-5-mg-tabletten-4342967.html",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "manufacturer_source_url": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_revision_date": {
+      "value": "2022-08",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "retrieved_at": {
+      "value": "2026-11-14",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "verification_status": {
+      "value": "Product page and leaflet checked; tablet photos reviewed; not pharmacist verified.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "notes": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_about": "Visible content of the mock prescription screenshot provided by the user on 2026-11-14, extracted as shown. null = not visible in the screenshot (shown as 'Needs confirmation'). Treatment purposes were shown in Chinese and are translated to English; nothing else was added.",
+  "source": {
+    "type": "Mock screenshot provided by the user (image not stored)",
+    "heading_as_shown": "A mock that can be used directly (translated)",
+    "layout_as_shown": "Medicines ordered like the German BMP: morning / noon / evening / bedtime",
+    "extracted_on": "2026-11-14",
+    "notes": [
+      "Dose columns show the number per time slot; a dash is recorded as 0 (none). The unit (e.g. tablet) is not shown.",
+      "No prescription date, prescriber, dosage form, product name, PZN or quantity is shown.",
+      "No date of birth or patient ID is shown; the patient ID used here is an internal demo ID.",
+      "The screenshot lists 8 medicines; it is unknown whether this is the complete medication plan."
+    ]
+  },
+  "patient": {
+    "patient_id": "DEMO-P-0001",
+    "patient_id_note": "Internal demo ID, not shown on the source",
+    "name": "Anna Müller",
+    "age_as_stated": "72 years",
+    "fictional": true,
+    "date_of_birth": null,
+    "conditions_as_stated": ["HFrEF", "NYHA II", "Atrial fibrillation", "Hypertension"]
+  },
+  "prescription": {
+    "rx_id": "RX-0001",
+    "prescription_date": null,
+    "prescriber": null,
+    "items": [
+      {"no": 1, "ingredient": "Bisoprolol",    "strength": "5 mg",  "dose": {"morning": "1", "noon": "0", "evening": "0", "bedtime": "0"}, "purpose": "Heart rate"},
+      {"no": 2, "ingredient": "Ramipril",      "strength": "5 mg",  "dose": {"morning": "1", "noon": "0", "evening": "0", "bedtime": "0"}, "purpose": "Blood pressure / heart protection"},
+      {"no": 3, "ingredient": "Spironolacton", "strength": "25 mg", "dose": {"morning": "1", "noon": "0", "evening": "0", "bedtime": "0"}, "purpose": "Heart protection"},
+      {"no": 4, "ingredient": "Empagliflozin", "strength": "10 mg", "dose": {"morning": "1", "noon": "0", "evening": "0", "bedtime": "0"}, "purpose": "Heart protection"},
+      {"no": 5, "ingredient": "Torasemid",     "strength": "10 mg", "dose": {"morning": "1", "noon": "0", "evening": "0", "bedtime": "0"}, "purpose": "Removes excess water"},
+      {"no": 6, "ingredient": "Apixaban",      "strength": "5 mg",  "dose": {"morning": "1", "noon": "0", "evening": "1", "bedtime": "0"}, "purpose": "Prevents blood clots"},
+      {"no": 7, "ingredient": "Atorvastatin",  "strength": "20 mg", "dose": {"morning": "0", "noon": "0", "evening": "1", "bedtime": "0"}, "purpose": "Cholesterol"},
+      {"no": 8, "ingredient": "Pantoprazol",   "strength": "40 mg", "dose": {"morning": "1", "noon": "0", "evening": "0", "bedtime": "0"}, "purpose": "Stomach protection"}
+    ]
+  },
+  "card_scope_note": "This card is based on one mock prescription with 8 medicines. It may not list every medicine the patient takes. Always check with your doctor or pharmacist."
+}

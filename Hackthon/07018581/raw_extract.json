@@ -1,0 +1,99 @@
+{
+  "pzn": "07018581",
+  "list_row": {
+    "active_ingredient": "Amlodipin",
+    "category": "二氢吡啶类钙通道阻滞剂 / Calcium channel blocker",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/amlodipin-hexal-5-mg-tabletten-7018581.html",
+    "hf_context_zh": "非心衰治疗药；常用于合并高血压或心绞痛的患者。",
+    "mechanism_zh": "阻断血管平滑肌L型钙通道，扩张外周动脉，降低血压。",
+    "clinical_role_zh": "治疗高血压和慢性稳定型心绞痛。",
+    "example_product_name": "AMLODIPIN HEXAL 5 mg Tabletten",
+    "pzn": "07018581",
+    "example_strength_as_stated": "5 mg Amlodipin",
+    "pack_size_units": "20",
+    "market": "DE",
+    "collection_order": "15",
+    "collection_status": "pending_extraction",
+    "notes_zh": "标示规格对应Amlodipin游离碱。",
+    "strength_note_zh": "示例产品规格，不是患者每次或每日服药剂量；具体适应证以该产品现行说明书为准",
+    "clinical_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/amlodipin-hexal-5-mg-tabletten-7018581.html",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/amlodipin-hexal-5-mg-tabletten-7018581.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "多药联用（Polypharmacy）常见药物采集清单；每种成分至少选2个产品示例（不同PZN），均已核对产品页面列有药片原图和原始说明书PDF；不穷尽药物、品牌或规格；非患者用药方案；非心衰治疗药的行不代表其获批心衰适应证；图片和PDF待采集核实。"
+  },
+  "retrieved_at": "2026-11-14T09:39:00.443274+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/62/53/175362.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 81641,
+      "saved_as": "07018581_tablet_1.jpg",
+      "sha256": "2af1de1f395df30c8ab14771a8c6604441ee436eace13cfcbe21c3487498afba",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/63/53/175363.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 81627,
+      "saved_as": "07018581_tablet_2.jpg",
+      "sha256": "2f34b2c06ff4aacac87d917c040c6de11ca10f67b4dbf1411a07b47157823d4e",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/96/41/24196.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 258363,
+      "saved_as": "07018581_leaflet.pdf",
+      "sha256": "ee126358d1fb7e91511bc9bd5b8b9bb39d4243581bbd3b2a3622d3cccd6b2b3c",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/amlodipin-hexal-5-mg-tabletten-7018581.html?file=0e22a80b06fe4cb3b671294eac09595f",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 06.2022"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von AMLODIPIN HEXAL 5 mg Tabletten",
+    "pzn_on_page": "07018581",
+    "pack_size_on_page": "20 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "Hexal AG Holzkirchen www.hexal.de",
+    "substances_on_page": [
+      "Amlodipin besilat 6,93 mg pro 1 Tablette",
+      "= Amlodipin (5 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Calciumhydrogenphosphat Carboxymethylstärke, Natrium Typ A Cellulose, mikrokristalline Magnesium stearat",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/62/53/175362.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/62/53/175362.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/62/53/175362.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/63/53/175363.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 2,7 mm Breite: 5,9 mm Tiefe: 8,8 mm Masse: 164,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : ja 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"5\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/amlodipin-hexal-5-mg-tabletten-7018581.html?file=0e22a80b06fe4cb3b671294eac09595f",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 06.2022"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27",
+    "provider_website": "https://www.hexal.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Amlodipin HEXAL sind weiße bis gebrochen weiße, ob- longe Tabletten mit abgeschrägten Kanten, Bruchkerbe auf einer Seite und Prägung „5“ auf der anderen Seite. Die Tablette kann in gleiche Hälften geteilt werden. Amlodipin HEXAL ist in Blisterpackungen (Alu/PVC Blis- ter oder Alu /OPA/Alu/PVC Blister ) und in einer Falt - schachtel m it 20 , 50 , 98 un d 100 Tabletten o der in HDPE-Flaschen mit Schraubverschluss (manipulations- sicher) mit 100 und 250 Tabletten verpackt. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "Hexal AG Industriestraße 25 83607 Holzkirchen Telefon: (08024) 908-0 Telefax: (08024) 908-1290 E-Mail: service@hexal.com",
+    "manufacturer_raw": "Lek Pharmaceuticals d.d. Verovskova ulica 57 1526 Ljubljana Slowenien",
+    "revision_raw": "",
+    "wirkstoff_raw": "s Amlodipin erhöht werden kann, was möglicherweise zu einem un- kontrollierten Anstieg der blutdrucksenkenden Wirkung von Amlodipin HEXAL führt. Schwangerschaft und Stillzeit Wenn Sie schwan ger sind",
+    "composition_raw": "",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

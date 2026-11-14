@@ -1,0 +1,99 @@
+{
+  "pzn": "00524192",
+  "list_row": {
+    "active_ingredient": "Atorvastatin",
+    "category": "他汀类降脂药 / Statin",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/atorvastatin-basics-10-mg-filmtabletten-524192.html",
+    "hf_context_zh": "非心衰治疗药；多药联用中常见的心血管预防用药。",
+    "mechanism_zh": "抑制HMG-CoA还原酶，减少肝脏胆固醇合成，降低LDL胆固醇。",
+    "clinical_role_zh": "降低LDL胆固醇，用于高胆固醇血症及心血管事件预防。",
+    "example_product_name": "ATORVASTATIN BASICS 10 mg Filmtabletten",
+    "pzn": "00524192",
+    "example_strength_as_stated": "10 mg Atorvastatin",
+    "pack_size_units": "30",
+    "market": "DE",
+    "collection_order": "1",
+    "collection_status": "pending_extraction",
+    "notes_zh": "标示规格对应Atorvastatin游离酸；网页另列盐形式Atorvastatin-Hemicalcium-1,5-Wasser 10,82 mg。",
+    "strength_note_zh": "示例产品规格，不是患者每次或每日服药剂量；具体适应证以该产品现行说明书为准",
+    "clinical_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/atorvastatin-basics-10-mg-filmtabletten-524192.html",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/atorvastatin-basics-10-mg-filmtabletten-524192.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "多药联用（Polypharmacy）常见药物采集清单；每种成分至少选2个产品示例（不同PZN），均已核对产品页面列有药片原图和原始说明书PDF；不穷尽药物、品牌或规格；非患者用药方案；非心衰治疗药的行不代表其获批心衰适应证；图片和PDF待采集核实。"
+  },
+  "retrieved_at": "2026-11-14T09:38:46.508566+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/20/82/28220.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 75331,
+      "saved_as": "00524192_tablet_1.jpg",
+      "sha256": "7beb1881704851f58811826e2f634d72625dc92c745dc5f4b71b200872bfc672",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/21/82/28221.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 66743,
+      "saved_as": "00524192_tablet_2.jpg",
+      "sha256": "a906d4311da5228d797eb1681f90e02fce9157cd18a1450f6f2fd01e7d264d8a",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/28/20/142028.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 810195,
+      "saved_as": "00524192_leaflet.pdf",
+      "sha256": "bbbe637725304b6f0c83f59c77fdb46428cbec25f260954c7791c0530c7049c7",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/atorvastatin-basics-10-mg-filmtabletten-524192.html?file=2609217e2b1cda9a1c3e3feddbf6d5c8",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 09.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von ATORVASTATIN BASICS 10 mg Filmtabletten",
+    "pzn_on_page": "00524192",
+    "pack_size_on_page": "30 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten",
+    "provider_on_page": "Basics GmbH Leverkusen www.basics.de",
+    "substances_on_page": [
+      "Atorvastatin hemicalcium-1,5-Wasser 10,82 mg pro 1 Tablette",
+      "= Atorvastatin (10 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Calciumcarbonat Cellulose, mikrokristalline Lactose-1-Wasser Croscarmellose natrium Polysorbat 80",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/20/82/28220.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/20/82/28220.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/20/82/28220.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/21/82/28221.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 3,7 mm Breite: 5,0 mm Tiefe: 10,0 mm Masse: 155,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Anordnung : ohne Kerbe Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"AS10\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/atorvastatin-basics-10-mg-filmtabletten-524192.html?file=2609217e2b1cda9a1c3e3feddbf6d5c8",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 09.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-10-09",
+    "provider_website": "https://www.basics.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "ATORVASTATIN BASICS 10 mg Filmtabletten sind weiße bis gebrochen weiße, elliptische Tabletten mit einer Breite von ca. 5 mm und einer Länge von ca. 10 mm mit der Prägung „AS 10“ auf einer Seite und unbedruckt auf der anderen Seite. ATORVASTATIN BASICS 20 mg Filmtabletten sind weiße bis gebrochen weiße, elliptische Tabletten mit einer Breite von ca. 6 mm und einer Länge von ca. 12 mm mit der Prägung „AS 20“ auf einer Seite und unbedruckt auf der anderen Seite. ATORVASTATIN BASICS 40 mg Filmtabletten sind weiße bis gebrochen weiße, elliptische Tabletten mit einer Breite von ca. 8 mm und einer Länge von ca. 15 mm mit der Prägung „AS 40“ auf einer Seite und unbedruckt auf der anderen Seite. ATORVASTATIN BASICS 80 mg Filmtabletten sind weiße bis gebrochen weiße, elliptische Tabletten mit einer Breite von ca. 10 mm und einer Länge von ca. 19 mm mit der Prägung „AS 80“ auf einer Seite und unbedruckt auf der anderen Seite. ATORVASTATIN BASICS ist in folgenden Packungen erhältlich: Kaltgeformte Packungen: Aluminiumfolie/PVC/Polyamid beschichtet mit Heißsiegellack-überzogener Aluminiumfolie auf der Innenseite. Feuchtigkeit absorbierende kaltgeformte Packungen: Polyamid/Aluminiumfolie/Polyethylen/HDPE-Beschichtung mit Aluminiumver- bunddeckel. Packungsgrößen mit 30, 50 oder 100 Filmtabletten. Anzahl der Tabletten pro Blisterpackung: 10 Anzahl der Blisterpackungen in der Umverpackung: mehrere 10er HDPE-Flasche: Weiß-opake HDPE-Flasche mit kindersicherem Schraubver- schluss und Trockenmittel. Trockenmittel bitte NICHT ESSEN! Packungen mit 100 Filmtabletten. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "Basics GmbH Hemmelrather Weg 201 51377 Leverkusen E-Mail: info@basics.de Internet: www.basics.de Mitvertrieb Sun Pharmaceuticals Germany GmbH Hemmelrather Weg 201 51377 Leverkusen",
+    "manufacturer_raw": "Sun Pharmaceutical Industries Europe B.V. Polarisavenue 87 2132 JH Hoofddorp Niederlande oder Terapia S.A. 124 Fabricii Street 400 632 Cluj Napoca Rumänien oder ALKALOIDA Chemical Company Zrt. Kabay János u. 29. 4440, Tiszavasvári Ungarn",
+    "revision_raw": "September 2025",
+    "wirkstoff_raw": "ist Atorvastatin. Jede 10-mg-Filmtablette enthält 10 mg Atorvastatin als Atorvastatin-Hemicalcium 1,5 H2O. Jede 20-mg-Filmtablette enthält 20 mg Atorvastatin als Atorvastatin-Hemicalcium 1,5 H2O. Jede",
+    "composition_raw": "Der Wirkstoff ist Atorvastatin. Jede 10-mg-Filmtablette enthält 10 mg Atorvastatin als Atorvastatin-Hemicalcium 1,5 H2O. Jede 20-mg-Filmtablette enthält 20 mg Atorvastatin als Atorvastatin-Hemicalcium 1,5 H2O. Jede 40-mg-Filmtablette enthält 40 mg Atorvastatin als Atorvastatin-Hemicalcium 1,5 H2O. Jede 80-mg-Filmtablette enthält 80 mg Atorvastatin als Atorvastatin-Hemicalcium 1,5 H2O. Die sonstigen Bestandteile sind: Tablettenkern: Calciumcarbonat, mikrokristalline Cellulose, Lactose-Monohy- dra",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

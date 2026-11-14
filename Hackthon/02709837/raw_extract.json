@@ -1,0 +1,88 @@
+{
+  "pzn": "02709837",
+  "list_row": {
+    "active_ingredient": "Telmisartan",
+    "category": "血管紧张素II受体阻滞剂 / ARB",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/telmisartan-ratiopharm-20-mg-tabletten-2709837.html",
+    "hf_context_zh": "ARB类降压药；示例产品主要用于高血压，不代表其获批心衰适应证。",
+    "mechanism_zh": "阻断血管紧张素II的AT1受体，扩张血管、降低血压。",
+    "clinical_role_zh": "治疗原发性高血压及降低心血管风险（以产品说明书为准）。",
+    "example_product_name": "TELMISARTAN-ratiopharm 20 mg Tabletten",
+    "pzn": "02709837",
+    "example_strength_as_stated": "20 mg Telmisartan",
+    "pack_size_units": "28",
+    "market": "DE",
+    "collection_order": "27",
+    "collection_status": "pending_extraction",
+    "notes_zh": "单方Telmisartan，不是Telmisartan/HCT复方；网页仅列1张药片原图。",
+    "strength_note_zh": "示例产品规格，不是患者每次或每日服药剂量；具体适应证以该产品现行说明书为准",
+    "clinical_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/telmisartan-ratiopharm-20-mg-tabletten-2709837.html",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/telmisartan-ratiopharm-20-mg-tabletten-2709837.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "多药联用（Polypharmacy）常见药物采集清单；每种成分至少选2个产品示例（不同PZN），均已核对产品页面列有药片原图和原始说明书PDF；不穷尽药物、品牌或规格；非患者用药方案；非心衰治疗药的行不代表其获批心衰适应证；图片和PDF待采集核实。"
+  },
+  "retrieved_at": "2026-11-14T09:39:12.209398+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/60/90/29060.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 84287,
+      "saved_as": "02709837_tablet_1.jpg",
+      "sha256": "e4731ebaad9228d2498fa01fff404f5d40af62b38d64fd86c64c1a46bfb9aec6",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/87/26/42687.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 131131,
+      "saved_as": "02709837_leaflet.pdf",
+      "sha256": "f206f2586a2edf6e2076d07b22db739e35ac07324807e9cc0d8ce9a05fd2bf99",
+      "pages": 6,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/telmisartan-ratiopharm-20-mg-tabletten-2709837.html?file=44b5b6bb046d8a4101839f7da6603396",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 03.2026"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von TELMISARTAN-ratiopharm 20 mg Tabletten",
+    "pzn_on_page": "02709837",
+    "pack_size_on_page": "28 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "ratiopharm GmbH Ulm www.ratiopharm.de",
+    "substances_on_page": [
+      "Telmisartan 20 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Mannitol Meglumin Sorbitol Povidon K90 Natriumhydroxid",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/60/90/29060.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/60/90/29060.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/60/90/29060.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 7,1 mm Höhe: 2,6 mm Masse: 120,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Anordnung : ohne Kerbe Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/telmisartan-ratiopharm-20-mg-tabletten-2709837.html?file=44b5b6bb046d8a4101839f7da6603396",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 03.2026"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15",
+    "provider_website": "https://www.ratiopharm.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Telmisartan-ratiopharm® Weiße bis gebrochen weiße, runde, flache Tabletten mit abgeschrägten Kanten. ist in Packungen mit 28, 56 und 98 Tabletten erhältlich.Telmisartan-ratiopharm ®",
+    "company_raw": "ratiopharm GmbH Graf-Arco-Str. 3 89079 Ulm Deutschland GEBRAUCHSINFORMATION Telmisartan-ratiopharm 20 mg Tabletten® 6",
+    "manufacturer_raw": "Merckle GmbH Ludwig-Merckle-Str. 3 89143 Blaubeuren Deutschland oder TEVA Pharmaceutical Works Private Limited Company - Teva Gyógyszergyár Zrt. – Pallagi út 13 4042 DEBRECEN Ungarn oder Actavis Ltd BLB 015-016, Bulebel Industrial Estate Zejtun ZTN3000 Malta",
+    "revision_raw": "März 2026",
+    "wirkstoff_raw": "ist Telmisartan. Jede Tablette enthält 20 mg Telmisartan. — Die sonstigen Bestandteile sind: Mannitol, Meglumin, Sorbitol (E 420), Povidon (K90), Natriumhydroxid, Hypromellose, Magnesiumstearat (Ph.Eu",
+    "composition_raw": "Telmisartan-ratiopharm® — Der Wirkstoff ist Telmisartan. Jede Tablette enthält 20 mg Telmisartan. — Die sonstigen Bestandteile sind: Mannitol, Meglumin, Sorbitol (E 420), Povidon (K90), Natriumhydroxid, Hypromellose, Magnesiumstearat (Ph.Eur.). Wie aussieht und Inhalt der PackungTelmisartan-ratiopharm® Weiße bis gebrochen weiße, runde, flache Tabletten mit abgeschrägten Kanten. ist in Packungen mit 28, 56 und 98 Tabletten erhältlich.Telmisartan-ratiopharm ® Pharmazeutischer Unternehmer ratiophar",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

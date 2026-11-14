@@ -1,0 +1,99 @@
+{
+  "pzn": "00824600",
+  "list_row": {
+    "active_ingredient": "Metformin",
+    "category": "双胍类降糖药 / Biguanide",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metformin-ct-1000-mg-filmtabletten-824600.html",
+    "hf_context_zh": "非心衰治疗药；2型糖尿病是心衰常见合并症。",
+    "mechanism_zh": "减少肝脏葡萄糖生成，提高外周组织对胰岛素的敏感性。",
+    "clinical_role_zh": "2型糖尿病的一线口服降糖药。",
+    "example_product_name": "METFORMIN-CT 1.000 mg Filmtabletten",
+    "pzn": "00824600",
+    "example_strength_as_stated": "1000 mg Metforminhydrochlorid",
+    "pack_size_units": "120",
+    "market": "DE",
+    "collection_order": "11",
+    "collection_status": "pending_extraction",
+    "notes_zh": "标示规格为盐形式Metforminhydrochlorid，对应Metformin约779,86 mg。",
+    "strength_note_zh": "示例产品规格，不是患者每次或每日服药剂量；具体适应证以该产品现行说明书为准",
+    "clinical_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metformin-ct-1000-mg-filmtabletten-824600.html",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metformin-ct-1000-mg-filmtabletten-824600.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "多药联用（Polypharmacy）常见药物采集清单；每种成分至少选2个产品示例（不同PZN），均已核对产品页面列有药片原图和原始说明书PDF；不穷尽药物、品牌或规格；非患者用药方案；非心衰治疗药的行不代表其获批心衰适应证；图片和PDF待采集核实。"
+  },
+  "retrieved_at": "2026-11-14T09:38:56.428655+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/26/36/83626.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 87423,
+      "saved_as": "00824600_tablet_1.jpg",
+      "sha256": "2d4af0171fbbd04d8f5c4b41dd267c8ab4f01b9361a657d932a43252e60e7a0d",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/27/36/83627.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 87482,
+      "saved_as": "00824600_tablet_2.jpg",
+      "sha256": "ff4e5ebeca8e3c50640b881c34c494259836970d1e2209bb0f7744267dd29db7",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/69/12/41269.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 139748,
+      "saved_as": "00824600_leaflet.pdf",
+      "sha256": "03e4aa2b8577f501653db47d0447fc96ce680906cade8f7cd6a23a00dd2e0438",
+      "pages": 7,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metformin-ct-1000-mg-filmtabletten-824600.html?file=9f43d07ad780503abde07f435308c411",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 01.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von METFORMIN-CT 1.000 mg Filmtabletten",
+    "pzn_on_page": "00824600",
+    "pack_size_on_page": "120 Stück (N2)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten",
+    "provider_on_page": "AbZ-Pharma GmbH Ulm www.abz.de",
+    "substances_on_page": [
+      "Metformin hydrochlorid 1000 mg pro 1 Tablette",
+      "= Metformin (779,86 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Povidon K30 Siliciumdioxid, hochdisperses Magnesium stearat (pflanzlich) Hypromellose Titandioxid",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/26/36/83626.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/26/36/83626.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/26/36/83626.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/27/36/83627.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 9,0 mm Breite: 9,3 mm Tiefe: 18,6 mm Masse: 1.082,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : rinnenförmig Anordnung : beidseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"93\", \"7214\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metformin-ct-1000-mg-filmtabletten-824600.html?file=9f43d07ad780503abde07f435308c411",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 01.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15",
+    "provider_website": "https://www.abz.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Metformin-CT Weiße bis cremefarbene, ovale Filmtabletten mit Bruchkerbe, der Prägung „9/3” auf der einen und „72/14“ auf der anderen Seite und einer Größe von 18,6 mm x 9,3 mm. ist in Blisterpackungen mit 30, 120 und 180 Filmtabletten und in Dosen mit 60, 100 und 180 Filmtabletten erhältlichMetformin-CT 1000 mg Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "b -Pharma GmbH A Z Graf-Arco-Str. 3 89079 Ulm",
+    "manufacturer_raw": "Merckle GmbH Ludwig-Merckle-Str. 3 89143 Blaubeuren oder Teva Gyógyszergyár Zrt. Pallagi út 13 4042 Debrecen Ungarn oder Teva Nederland B.V. Swensweg 5 2031 GA Haarlem Niederlande oder GEBRAUCHSINFORMATION Metformin-CT 1000 mg Filmtabletten 7 Teva Czech Industries s.r.o. Ostravská 305/29 747 70 Opava-Komárov Tschechische Republik",
+    "revision_raw": "Januar 2025",
+    "wirkstoff_raw": "ist Metforminhydrochlorid. Jede Tablette enthält 1.000 mg Metforminhydrochlorid entsprechend 780 mg Metformin. — Die sonstigen Bestandteile sind: Tablettenkern: Povidon (K30), Hochdisperses Siliciumdi",
+    "composition_raw": "Metformin, einen Arzneistoff aus der Gruppe der sogenannten Biguanide, der zur Behandlung von Diabetes eingesetzt wird.Metformin-CT Insulin ist ein von der Bauchspeicheldrüse gebildetes Hormon, das für die Aufnahme von Glukose (Zucker) aus dem Blut in die Körperzellen sorgt. Dort wird die Glukose in Energie umgewandelt oder als Vorrat zur späteren Verwendung gespeichert. Wenn Sie an Diabetes leiden, produziert Ihre Bauchspeicheldrüse entweder nicht genug Insulin oder die Körpergewebe sprechen ni",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

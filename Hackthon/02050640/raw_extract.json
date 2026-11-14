@@ -1,0 +1,98 @@
+{
+  "pzn": "02050640",
+  "list_row": {
+    "active_ingredient": "Levothyroxin",
+    "category": "甲状腺激素 / Thyroid hormone",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/euthyrox-100-mikrogramm-tabletten-2050640.html",
+    "hf_context_zh": "非心衰治疗药；甲状腺功能异常可影响心脏，属常见的长期合并用药。",
+    "mechanism_zh": "合成的甲状腺素（T4），在体内转化为T3，替代缺乏的甲状腺激素。",
+    "clinical_role_zh": "治疗甲状腺功能减退及甲状腺术后的激素替代等。",
+    "example_product_name": "EUTHYROX 100 Mikrogramm Tabletten",
+    "pzn": "02050640",
+    "example_strength_as_stated": "100 µg Levothyroxin-Natrium",
+    "pack_size_units": "50",
+    "market": "DE",
+    "collection_order": "17",
+    "collection_status": "pending_extraction",
+    "notes_zh": "规格单位为微克；不同品牌Levothyroxin换用需医生评估。",
+    "strength_note_zh": "示例产品规格，不是患者每次或每日服药剂量；具体适应证以该产品现行说明书为准",
+    "clinical_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/euthyrox-100-mikrogramm-tabletten-2050640.html",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/euthyrox-100-mikrogramm-tabletten-2050640.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "多药联用（Polypharmacy）常见药物采集清单；每种成分至少选2个产品示例（不同PZN），均已核对产品页面列有药片原图和原始说明书PDF；不穷尽药物、品牌或规格；非患者用药方案；非心衰治疗药的行不代表其获批心衰适应证；图片和PDF待采集核实。"
+  },
+  "retrieved_at": "2026-11-14T09:39:02.062077+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/09/40/34009.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 89250,
+      "saved_as": "02050640_tablet_1.jpg",
+      "sha256": "c8123b310de6eaf6f96b95551cb69bfd05e6ecf95ba7374fa884a6c46a805b40",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/10/40/34010.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 84588,
+      "saved_as": "02050640_tablet_2.jpg",
+      "sha256": "c89bfd21ea21820c36e1cf7aeea374bb374258a4814179cd38be1e549963edf6",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/73/78/207873.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 249797,
+      "saved_as": "02050640_leaflet.pdf",
+      "sha256": "11c340912cbc66021fbc18176c4ee95d7072a3228f7836a8725e849b283cdd84",
+      "pages": 9,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/euthyrox-100-mikrogramm-tabletten-2050640.html?file=9552cc162509fd583dae3ec0d741ae7b",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 11.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von EUTHYROX 100 Mikrogramm Tabletten",
+    "pzn_on_page": "02050640",
+    "pack_size_on_page": "50 Stück (N2)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "Merck Healthcare Germany GmbH Weiterstadt",
+    "substances_on_page": [
+      "Levothyroxin natrium 0,1 mg pro 1 Tablette",
+      "= Levothyroxin (0,097 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Maisstärke Citronensäure Croscarmellose natrium Gelatine Magnesium stearat (pflanzlich)",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/09/40/34009.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/09/40/34009.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/09/40/34009.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/10/40/34010.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 7,1 mm Höhe: 2,2 mm Masse: 101,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : beidseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"EM 100\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/euthyrox-100-mikrogramm-tabletten-2050640.html?file=9552cc162509fd583dae3ec0d741ae7b",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 11.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Euthyrox Tabletten sind weiß, rund, beiderseits flach mit facettiertem Rand, einer Teilungsrille und einer Prägung EM 25, EM 38, EM 50, EM 63, EM 75, EM 88, EM 100, EM 112, EM 125, EM 137, EM 150, EM 175 oder EM 200 auf einer Tablettenseite. Euthyrox ist in Packungen mit 20, 25, 30, 50, 60, 90, 100 oder 500 Tabletten oder in Kalenderpackungen zu 28 bzw. 84 Tabletten erhältlich. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "und",
+    "manufacturer_raw": "Pharmazeutischer Unternehmer Merck Healthcare Germany GmbH Waldstraße 3 64331 Weiterstadt E-Mail: Medwiss.Service@merckgroup.com Kostenfreie Servicenummer: Tel.: 0800 42 88 373 Telefax: (06151) 6285-816 Hersteller Merck Healthcare KGaA Frankfurter Straße 250 64293 Darmstadt FAMAR HEALTH CARE SERVICES MADRID, S.A.U Avda. Leganés, 62 Alcorcón, 28923 Madrid Spanien",
+    "revision_raw": "November 2025",
+    "wirkstoff_raw": "in Euthyrox, ist ein synthetisch hergestelltes Schilddrüsenhormon, das zur Behandlung von Erkrankungen und Funktionsstörungen der Schilddrüse eingesetzt wird. Es hat die gleiche Wirkung wie die natürl",
+    "composition_raw": "“). Allergische Reaktionen können sich äußern als Ausschlag, Urtikaria und Gesichts- und Rachenschwellungen (Angioödem). Wenden Sie sich in diesem Fall unverzüglich an Ihren Arzt. Meldung von Nebenwirkungen Wenn Sie Nebenwirkungen bemerken, wenden Sie sich an Ihren Arzt oder Apotheker. Dies gilt auch für Nebenwirkungen, die nicht in dieser Packungsbeilage angegeben sind. Sie können Nebenwirkungen auch direkt über das nationale Meldesystem anzeigen. Deutschland Bundesinstitut für Arzneimittel und",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

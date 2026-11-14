@@ -1,0 +1,176 @@
+{
+  "pzn": "07519857",
+  "collection_file": "polypharmacy_collection_list.csv",
+  "page": {
+    "page_title": "Beipackzettel von HCT-CT 25 mg Tabletten",
+    "pzn_on_page": "07519857",
+    "pack_size_on_page": "50 Stück (N2)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "AbZ-Pharma GmbH Ulm www.abz.de",
+    "substances_on_page": [
+      "Hydrochlorothiazid 25 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Maisstärke Lactose-1-Wasser Cellulose, mikrokristalline Siliciumdioxid, hochdisperses Talkum",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/01/35/83501.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/01/35/83501.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/01/35/83501.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/02/35/83502.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 8,1 mm Höhe: 3,8 mm Masse: 198,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/hct-ct-25-mg-tabletten-7519857.html?file=39b615ddf1af95717d98bcd3ba98e75f",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 11.2021"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15",
+    "provider_website": "https://www.abz.de"
+  },
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/01/35/83501.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 95494,
+      "saved_as": "07519857_tablet_1.jpg",
+      "sha256": "6f4283964f9ad2855ecb3d47d4786b972bcb8e7a1b810ecfc445bf4a8a94d572",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/02/35/83502.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 89603,
+      "saved_as": "07519857_tablet_2.jpg",
+      "sha256": "a207defc4aa78f05c0e527e4fdcdec19f4843358892b460c97ea08f0bba4fe2f",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/54/11/41154.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 163583,
+      "saved_as": "07519857_leaflet.pdf",
+      "sha256": "6234c3e5b38691717c2ceeb7671ade6e494cee4d07aa5bb2ded4a9c7a170398c",
+      "pages": 11,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/hct-ct-25-mg-tabletten-7519857.html?file=39b615ddf1af95717d98bcd3ba98e75f",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 11.2021"
+    }
+  },
+  "issues": [],
+  "photo_review": {},
+  "reviewed_text_corrections": {
+    "pharmaceutical_company": "AbZ-Pharma GmbH",
+    "shape": "round, biconvex"
+  },
+  "field_sources": {
+    "pzn": {
+      "value": "07519857",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "market": {
+      "value": "DE",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_name": {
+      "value": "HCT-CT 25 mg Tabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "active_ingredient": {
+      "value": "Hydrochlorothiazid",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Hydrochlorothiazid",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "strength_as_stated": {
+      "value": "25 mg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "dosage_form": {
+      "value": "Tabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pack_size": {
+      "value": "50",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "brand": {
+      "value": "HCT-CT",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pharmaceutical_company": {
+      "value": "AbZ-Pharma GmbH",
+      "source": "downloaded leaflet, reviewed text extract"
+    },
+    "manufacturer": {
+      "value": "Merckle GmbH",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "color": {
+      "value": "white",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "shape": {
+      "value": "round, biconvex",
+      "source": "downloaded leaflet, reviewed text extract"
+    },
+    "imprint": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "score_line": {
+      "value": "single score line on one side (wedge-shaped)",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "appearance_description_original": {
+      "value": "HCT-CT 25 mg Weiße, runde, beiderseits gewölbte Tabletten mit einseitiger Bruchkerbe.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "tablet_image_1": {
+      "value": "07519857/07519857_tablet_1.jpg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "tablet_image_2": {
+      "value": "07519857/07519857_tablet_2.jpg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "package_image": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_path": {
+      "value": "07519857/07519857_leaflet.pdf",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/hct-ct-25-mg-tabletten-7519857.html",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "manufacturer_source_url": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_revision_date": {
+      "value": "2021-11",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "retrieved_at": {
+      "value": "2026-11-14",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "verification_status": {
+      "value": "Product page and leaflet checked; tablet photos reviewed; not pharmacist verified.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "notes": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    }
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "pzn": "01647755",
+  "collection_file": "polypharmacy_collection_list.csv",
+  "page": {
+    "page_title": "Beipackzettel von ELIQUIS 5 mg Filmtabletten",
+    "pzn_on_page": "01647755",
+    "pack_size_on_page": "20 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten",
+    "provider_on_page": "Vertriebsgemeinschaft Bristol-Myers Squibb GmbH & Co. KGaA / Pfizer Pharma GmbH München",
+    "substances_on_page": [
+      "Apixaban 5 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Lactose Cellulose, mikrokristalline Croscarmellose natrium Natriumdodecylsulfat Magnesium stearat",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/14/29/172914.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/14/29/172914.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/14/29/172914.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/15/29/172915.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 4,0 mm Breite: 5,0 mm Tiefe: 10,0 mm Masse: 208,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Anordnung : ohne Kerbe Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"5\", \"894\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eliquis-5-mg-filmtabletten-1647755.html?file=80895436e2128f506b0a14e4c4bddf21",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 04.2025"
+      },
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eliquis-5-mg-filmtabletten-1647755.html?file=a1c396416f34aabe26dfb95dabd6df2b",
+        "label": "Schulungsmaterial (Patientenkarte)",
+        "doc_date": "Dokumentdatum: 07.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-10-09"
+  },
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/14/29/172914.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 104116,
+      "saved_as": "01647755_tablet_1.jpg",
+      "sha256": "19e98a9282de9b7d1298ab7cfebd07f949eb7d79392df39ccf8ffe326b2ec517",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/15/29/172915.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 107196,
+      "saved_as": "01647755_tablet_2.jpg",
+      "sha256": "1f370babb9da793873d1d410c780ea0c336a7660c1cc42554edf63db7328d220",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/17/01/140117.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 110447,
+      "saved_as": "01647755_leaflet.pdf",
+      "sha256": "fd8fdd809b3cfea55197dcc234efb6d46d7d24b5e814cb2a96bfb0b37286b0c3",
+      "pages": 12,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eliquis-5-mg-filmtabletten-1647755.html?file=80895436e2128f506b0a14e4c4bddf21",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 04.2025"
+    },
+    "leaflet_2": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/24/35/73524.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 548558,
+      "saved_as": "01647755_leaflet_2.pdf",
+      "sha256": "eae4a5876430e7e53a1b1dd5a15652a6d2b6a0ade58af5a8c1a18349b0f57e65",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eliquis-5-mg-filmtabletten-1647755.html?file=a1c396416f34aabe26dfb95dabd6df2b",
+      "label": "Schulungsmaterial (Patientenkarte)",
+      "doc_date": "Dokumentdatum: 07.2025"
+    }
+  },
+  "issues": [],
+  "photo_review": {},
+  "reviewed_text_corrections": {
+    "pharmaceutical_company": "Bristol-Myers Squibb/Pfizer EEIG",
+    "manufacturer": "Swords Laboratories Unlimited Company"
+  },
+  "field_sources": {
+    "pzn": {
+      "value": "01647755",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "market": {
+      "value": "DE",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_name": {
+      "value": "ELIQUIS 5 mg Filmtabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "active_ingredient": {
+      "value": "Apixaban",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Apixaban",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "strength_as_stated": {
+      "value": "5 mg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "dosage_form": {
+      "value": "Filmtabletten",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pack_size": {
+      "value": "20",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "brand": {
+      "value": "ELIQUIS",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "pharmaceutical_company": {
+      "value": "Bristol-Myers Squibb/Pfizer EEIG",
+      "source": "downloaded leaflet, reviewed text extract"
+    },
+    "manufacturer": {
+      "value": "Swords Laboratories Unlimited Company",
+      "source": "downloaded leaflet, reviewed text extract"
+    },
+    "color": {
+      "value": "pink",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "shape": {
+      "value": "oval",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "imprint": {
+      "value": "5 / 894",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "score_line": {
+      "value": "none",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "appearance_description_original": {
+      "value": "Die Filmtabletten sind pink, oval (10 mm mal 5 mm) und mit \"894\" auf der einen und mit \"5\" auf der anderen Seite versehen.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "tablet_image_1": {
+      "value": "01647755/01647755_tablet_1.jpg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "tablet_image_2": {
+      "value": "01647755/01647755_tablet_2.jpg",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "package_image": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_path": {
+      "value": "01647755/01647755_leaflet.pdf",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eliquis-5-mg-filmtabletten-1647755.html",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "manufacturer_source_url": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "leaflet_revision_date": {
+      "value": "2025-04",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "retrieved_at": {
+      "value": "2026-11-14",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "verification_status": {
+      "value": "Product page and leaflet checked; tablet photos reviewed; not pharmacist verified.",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    },
+    "notes": {
+      "value": "",
+      "source": "product page / leaflet; original collection fields retained where verified"
+    }
+  }
+}
