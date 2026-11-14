@@ -1,0 +1,103 @@
+{
+  "pzn": "05977165",
+  "list_row": {
+    "active_ingredient": "Ramipril",
+    "category": "血管紧张素转换酶抑制剂 / ACE inhibitor",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ramipril-1a-pharma-75-mg-tabletten-5977165.html",
+    "hf_context_zh": "有症状的心衰，主要关联HFrEF；也可用于特定心梗后心衰。",
+    "mechanism_zh": "减少血管紧张素II生成，降低血管阻力及醛固酮作用。",
+    "clinical_role_zh": "HFrEF中肾素-血管紧张素系统治疗的选择。",
+    "example_product_name": "RAMIPRIL-1A Pharma 7,5 mg Tabletten",
+    "pzn": "05977165",
+    "example_strength_as_stated": "7,5 mg",
+    "pack_size_units": "50",
+    "market": "DE",
+    "collection_order": "128",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ramipril-1a-pharma-75-mg-tabletten-5977165.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "1A Pharma GmbH",
+    "ingredient_content_as_listed": "Ramipril 7,5 mg pro 1 Tablette",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:43:52.994603+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/80/82/178280.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 75361,
+      "saved_as": "05977165_tablet_1.jpg",
+      "sha256": "7ec83dc7615f4bae6ea243329fcb1c1138affb680901beca9ddf84925129b800",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/81/82/178281.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 75849,
+      "saved_as": "05977165_tablet_2.jpg",
+      "sha256": "84d11e7f51411cfcb918e137207378a335ecf5bce7dc937b762375e37b088ec8",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/42/65/26542.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 954498,
+      "saved_as": "05977165_leaflet.pdf",
+      "sha256": "cea7d7f8d1824da26da36e846b724127f8b2a2df626adc3818c030da4959e7f9",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ramipril-1a-pharma-75-mg-tabletten-5977165.html?file=61fc41077c28431fb65bb0ff453dda8b",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 02.2022"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von RAMIPRIL-1A Pharma 7,5 mg Tabletten",
+    "pzn_on_page": "05977165",
+    "pack_size_on_page": "50 Stück (N2)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "1A Pharma GmbH Holzkirchen",
+    "substances_on_page": [
+      "Ramipril 7,5 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Hypromellose Cellulose, mikrokristalline Maisstärke, vorverkleistert Natriumhydrogencarbonat Natriumstearylfumarat",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/80/82/178280.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/80/82/178280.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/80/82/178280.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/81/82/178281.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 3,6 mm Breite: 4,6 mm Tiefe: 11,1 mm Masse: 177,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : 2-Parallelkerbe Form : keilförmig Anordnung : beidseitig Spaltung 2 : ja 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"R\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ramipril-1a-pharma-75-mg-tabletten-5977165.html?file=61fc41077c28431fb65bb0ff453dda8b",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 02.2022"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Ramipril - 1 A Pharma sind weiße, längliche, beidseitig flache, facettierte Tabletten, 2 Bruchkerben (ununterbro- chene Kerben auf jeder Seite der Tablette) und der Mar- kierung „R“ im mittleren Teil auf einer Seite. Die Tablette kann in 3 gleiche Dosen geteilt werden. Die Tabletten sind verpackt in Aluminium/Aluminium-Blis- ter in einen Umkarton eingeschoben. Ramipril - 1 A Pharma ist in Packungen mit 20, 28, 30, 50, 98, 100 und 250 Tabletten erhältlich. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "1 A Pharma GmbH Industriestraße 18 83607 Holzkirchen Telefon: (08024) 908-3030",
+    "manufacturer_raw": "Lek S.A. Ul. Podlipie 16 Stryków 95-010 Polen",
+    "revision_raw": "",
+    "wirkstoff_raw": "Ramipril. Dieser gehört zur Wirkstoffklasse der ACE-Hemmer (ACE = Angiotensin-Converting-Enzyme / Angiotensinkonver- sionsenzym). Ramipril - 1 A Pharma wirkt, indem es • die körpereigene Produktion vo",
+    "composition_raw": "Der Wirkstoff ist Ramipril. Jede Tablette enthält 7,5 mg Ramipril. Die sonstigen Bestandteile sind: Hypromellose, mikro- kristalline Cellulose, vorverkleisterte Stärke (Mais), Natrium- hydrogencarbonat, Natriumstearylfumarat (Ph.Eur.) Wie Ramipril - 1 A Pharma aussieht und Inhalt der Packung Ramipril - 1 A Pharma sind weiße, längliche, beidseitig flache, facettierte Tabletten, 2 Bruchkerben (ununterbro- chene Kerben auf jeder Seite der Tablette) und der Mar- kierung „R“ im mittleren Teil auf ein",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

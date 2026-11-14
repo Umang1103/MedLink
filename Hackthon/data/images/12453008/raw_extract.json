@@ -1,0 +1,80 @@
+{
+  "pzn": "12453008",
+  "list_row": {
+    "active_ingredient": "Sacubitril / Valsartan",
+    "category": "血管紧张素受体-脑啡肽酶抑制剂 / ARNI",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/entresto-24-mg26-mg-filmtabletten-12453008.html",
+    "hf_context_zh": "成人有症状的慢性HFrEF。",
+    "mechanism_zh": "Sacubitril增强有利的利钠肽作用；Valsartan阻断血管紧张素II作用，减轻心脏负荷。",
+    "clinical_role_zh": "HFrEF中作用于肾素-血管紧张素系统的基础治疗选择。",
+    "example_product_name": "ENTRESTO 24 mg/26 mg Filmtabletten",
+    "pzn": "12453008",
+    "example_strength_as_stated": "24 mg / 26 mg (label strength)",
+    "pack_size_units": "28",
+    "market": "DE",
+    "collection_order": "5",
+    "collection_status": "pending_extraction",
+    "notes_zh": "复方药，必须保留两个成分和对应规格；不可与ACE抑制剂或另一个ARB重复使用；此PZN为FD Pharma供应产品。",
+    "strength_note_zh": "示例产品规格，不是患者每次或每日服药剂量；具体适应证以该产品现行说明书为准",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/entresto-24-mg26-mg-filmtabletten-12453008.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "心衰相关药物采集起始清单；每种成分/复方选一个产品示例，不穷尽药物、品牌或规格；非患者用药方案；图片和PDF待采集核实。"
+  },
+  "retrieved_at": "2026-11-13T11:35:55.571524+00:00",
+  "downloads": {
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/82/20/152082.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 150958,
+      "saved_as": "12453008_leaflet.pdf",
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/entresto-24-mg26-mg-filmtabletten-12453008.html?file=bc5f925b16b75d0ac5551fb2fff6b6c1",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 06.2021"
+    }
+  },
+  "issues": [
+    "no product images listed on page"
+  ],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von ENTRESTO 24 mg/26 mg Filmtabletten",
+    "pzn_on_page": "12453008",
+    "pack_size_on_page": "28 Stück",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten Dosierung & Anwendung Nebenwirkungen Wechselwirkungen alle Kapitel anzeigen Wirkung Anwendungsgebiete Gegenanzeigen & Hinweise Aufbewahrung Lagerungshinweise PDF-Dokumente",
+    "provider_on_page": "FD Pharma GmbH Kehl",
+    "substances_on_page": [
+      "Sacubitril 24,29 mg pro 1 Tablette",
+      "Valsartan 25,71 mg pro 1 Tablette",
+      "= Sacubitril natrium-Valsartan dinatrium (1:1)-2,5-Wasser (56,55 mg pro 1 Tablette)",
+      "= Sacubitril-Valsartan (1:1) (50 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Cellulose, mikrokristalline Hyprolose, niedersubstituiert Crospovidon Magnesium stearat (pflanzlich) Talkum",
+    "primary_image_url": "",
+    "packshot_url": "",
+    "original_image_urls": [],
+    "physical_block_raw": "",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/entresto-24-mg26-mg-filmtabletten-12453008.html?file=bc5f925b16b75d0ac5551fb2fff6b6c1",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 06.2021"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "",
+    "company_raw": "",
+    "manufacturer_raw": "",
+    "revision_raw": "Juni 2021",
+    "wirkstoff_raw": "Sacubitril und Valsartan. Entresto wird angewendet zur Behandlung einer Art von chronischer Herzschwäche bei Erwachsenen. Zu dieser Art von Herzschwäche kommt es, wenn das Herz schwach ist und nicht g",
+    "composition_raw": "• Die Wirkstoffe sind: Sacubitril und Valsartan. o Jede 24 mg/26 mg -Filmtablette enthält 24,3 mg Sacubitril und 25,7 mg Valsartan (als Sacubitril-Natrium–Valsartan-Dinatrium (1:1) 2,5 H2O). o Jede 49 mg/51 mg -Filmtablette enthält 48,6 mg Sacubitril und 51,4 mg Valsartan (als Sacubitril-Natrium–Valsartan-Dinatrium (1:1) 2,5 H2O). o Jede 97 mg/103 mg-Filmtablette enthält 97,2 mg Sacubitril und 102,8 mg Valsartan (als Sacubitril-Natrium–Valsartan-Dinatrium (1:1) 2,5 H2O). • Die sonstigen Bestandt",
+    "pdf_title": ""
+  }
+}

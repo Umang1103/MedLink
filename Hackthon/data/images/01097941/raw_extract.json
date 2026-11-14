@@ -1,0 +1,104 @@
+{
+  "pzn": "01097941",
+  "list_row": {
+    "active_ingredient": "Ramipril",
+    "category": "血管紧张素转换酶抑制剂 / ACE inhibitor",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/delix-25-mg-tabletten-1097941.html",
+    "hf_context_zh": "有症状的心衰，主要关联HFrEF；也可用于特定心梗后心衰。",
+    "mechanism_zh": "减少血管紧张素II生成，降低血管阻力及醛固酮作用。",
+    "clinical_role_zh": "HFrEF中肾素-血管紧张素系统治疗的选择。",
+    "example_product_name": "DELIX 2,5 mg Tabletten",
+    "pzn": "01097941",
+    "example_strength_as_stated": "2,5 mg",
+    "pack_size_units": "100",
+    "market": "DE",
+    "collection_order": "115",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/delix-25-mg-tabletten-1097941.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "Sanofi-Aventis Deutschland GmbH",
+    "ingredient_content_as_listed": "Ramipril 2,5 mg pro 1 Tablette",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:43:39.057332+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/26/21/52126.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 79752,
+      "saved_as": "01097941_tablet_1.jpg",
+      "sha256": "cac8c997a9b3ff5e21cb1f4959c4427ea29f65ec9ddab562609076c9acb48122",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/27/21/52127.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 78218,
+      "saved_as": "01097941_tablet_2.jpg",
+      "sha256": "f2e6895af29a6daf5260f142ed8a41368c2f6bdc48567818beca4123235af27e",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/65/76/47665.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 175351,
+      "saved_as": "01097941_leaflet.pdf",
+      "sha256": "9746d167b23a8ca914616e118746fdec417844056a643c40d18f4266f7f87ebc",
+      "pages": 9,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/delix-25-mg-tabletten-1097941.html?file=eca251e3c1fbcb40b80ed31816c6e196",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 11.2020"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von DELIX 2,5 mg Tabletten",
+    "pzn_on_page": "01097941",
+    "pack_size_on_page": "100 Stück (N3)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "Sanofi-Aventis Deutschland GmbH Frankfurt am Main www.sanofi.com",
+    "substances_on_page": [
+      "Ramipril 2,5 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Hypromellose Maisstärke, vorverkleistert Cellulose, mikrokristalline Natriumstearylfumarat Eisen(III)-oxidhydrat, gelb",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/26/21/52126.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/26/21/52126.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/26/21/52126.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/27/21/52127.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 3,0 mm Breite: 4,0 mm Tiefe: 8,0 mm Masse: 104,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : beidseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"2,5HMR\", \"2,5 Hoechster Logo\" Besonderheiten Die Tablette ist marmoriert. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/delix-25-mg-tabletten-1097941.html?file=eca251e3c1fbcb40b80ed31816c6e196",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 11.2020"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27",
+    "provider_website": "https://www.sanofi.com"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "",
+    "company_raw": "Sanofi-Aventis Deutschland GmbH 65926 Frankfurt am Main Postanschrift: Postfach 80 08 60 65908 Frankfurt am Main Telefon: 0800 52 52 010",
+    "manufacturer_raw": "S.C. Zentiva S.A. B-dul Theodor Pallady nr. 50, sector 3, 032266 Bukarest Rumänien oder Sanofi S.r.l. Strada Statale 17, km 22 67019 Scoppito (L’Aquila) Italien 9 oder Delpharm Dijon 6 Boulevard de l´Europe 21800 Quetigny Frankreich oder Sanofi-Aventis Deutschland GmbH 65926 Frankfurt am Main",
+    "revision_raw": "November 2020",
+    "wirkstoff_raw": "Ramipril. Dieser gehört zur Wirkstoffklasse der ACE-Hemmer (ACE = Angiotensin Converting Enzyme/Angiotensinkonversionsenzym). Delix wirkt, indem es − die körpereigene Produktion von Substanzen reduzie",
+    "composition_raw": "den Wirkstoff Ramipril. Dieser gehört zur Wirkstoffklasse der ACE-Hemmer (ACE = Angiotensin Converting Enzyme/Angiotensinkonversionsenzym). Delix wirkt, indem es − die körpereigene Produktion von Substanzen reduziert, die den Blutdruck steigen lassen, − Ihre Blutgefäße entspannt und weiter stellt, − es dem Herzen erleichtert, Blut durch den Körper zu pumpen. Delix wird angewendet zur − Behandlung von Bluthochdruck (Hypertonie), − Senkung des Risikos, einen Herzinfarkt oder Schlaganfall zu erleid",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

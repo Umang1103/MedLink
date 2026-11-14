@@ -1,0 +1,77 @@
+{
+  "pzn": "00660274",
+  "list_row": {
+    "active_ingredient": "Torasemid",
+    "category": "袢利尿剂 / Loop diuretic",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/torasemid-stada-200-mg-tabletten-660274.html",
+    "hf_context_zh": "伴心衰相关水肿或体液潴留的患者。",
+    "mechanism_zh": "促进肾脏排钠、排水，减轻循环液体负荷。",
+    "clinical_role_zh": "主要用于缓解淤血和水肿。",
+    "example_product_name": "TORASEMID STADA 200 mg Tabletten",
+    "pzn": "00660274",
+    "example_strength_as_stated": "200 mg",
+    "pack_size_units": "30",
+    "market": "DE",
+    "collection_order": "76",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/torasemid-stada-200-mg-tabletten-660274.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "STADAPHARM GmbH",
+    "ingredient_content_as_listed": "Torasemid 200 mg pro 1 Tablette",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:43:01.314308+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/65/13/31365.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 105288,
+      "saved_as": "00660274_tablet_1.jpg",
+      "sha256": "f0066910de3ebb48f98cd57fd87ffc7a01d68ce220c66ac8d1696bed76be80dd",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/66/13/31366.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 97523,
+      "saved_as": "00660274_tablet_2.jpg",
+      "sha256": "fcb55e132bb410a4bf2134264057184c6dbf96a91fb7e38bc67cc3deb27657b7",
+      "pixels": "600x600"
+    }
+  },
+  "issues": [
+    "No leaflet PDF linked on page"
+  ],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von TORASEMID STADA 200 mg Tabletten",
+    "pzn_on_page": "00660274",
+    "pack_size_on_page": "30 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "STADAPHARM GmbH Bad Vilbel",
+    "substances_on_page": [
+      "Torasemid 200 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Cellulose, mikrokristalline Cellulosepulver Croscarmellose natrium Magnesium stearat (pflanzlich) Siliciumdioxid, hochdisperses",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/65/13/31365.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/65/13/31365.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/65/13/31365.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/66/13/31366.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 12,1 mm Höhe: 3,8 mm Masse: 408,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Kreuzkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [],
+    "page_last_reviewed": "2026-08-15"
+  },
+  "expanded_collection_complete": false
+}

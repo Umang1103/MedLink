@@ -1,0 +1,100 @@
+{% extends 'base.html' %}
+{% block title %}Dispense prescription #{{ prescription.id }}{% endblock %}
+{% block content %}
+<section class="card">
+  <h1>Prescription #{{ prescription.id }}</h1>
+  <p>{{ prescription.patient_name }} · {{ prescription.birth_date }} · {{ prescription.kvnr }}</p>
+  <p class="card-sub">Prescribed by {{ prescription.doctor_name }}. Medicine numbers stay the same on doctor and patient lists.</p>
+</section>
+{% if state and state.completed_at %}
+<section class="card">
+  <h2>Dispensing complete</h2>
+  <p>{{ state.completed_at }} · {{ state.pharmacy_username }}</p>
+  <img class="patient-qr" src="{{ url_for('pharmacy.patient_qr', token=state.patient_token) }}" alt="QR code for the patient's final medication list">
+  <p><a href="{{ patient_url }}">Open patient medication list</a></p>
+  <p class="card-sub">Anyone with this QR/link can view the final medicines. It shows substitution marks, but no patient name, KVNR or original medicine details.</p>
+  <div class="print-actions">
+    <a class="button-link" target="_blank" rel="noopener" href="{{ url_for('pharmacy.print_dispensing', prescription_id=prescription.id, kind='qr') }}">Print QR</a>
+    <a class="button-link" target="_blank" rel="noopener" href="{{ url_for('pharmacy.print_dispensing', prescription_id=prescription.id, kind='list') }}">Print list</a>
+  </div>
+  <form method="post" action="{{ url_for('pharmacy.refill', prescription_id=prescription.id) }}">
+    <input type="hidden" name="csrf_token" value="{{ csrf_token }}">
+    <button type="submit">Refill · start new dispensing</button>
+    <p class="card-sub">Previous dispensing and its patient QR remain available. The refill requires confirming every medicine again.</p>
+  </form>
+</section>
+{% endif %}
+{% for item in items %}
+{% set actual = confirmed.get(item.id) %}
+{% set draft = drafts.get(item.id) %}
+{% set editing = draft is not none %}
+{% set form_values = draft.fields if draft else {} %}
+<section class="card" id="medicine-{{ loop.index }}">
+  <h2><span class="medicine-number">{{ '%02d'|format(loop.index) }}</span> {{ item.product_name }}</h2>
+  <p>PZN {{ item.pzn }} · {{ item.active_ingredient }} · {{ item.strength }} · {{ item.dosage_form }}</p>
+  <p>{{ item.units_per_dose }} unit(s) per dose · {{ item.times_per_day }} time(s) per day</p>
+  {% if actual %}
+    <div class="dispensed-summary">
+      <strong>{{ 'Substituted' if actual.substituted else 'Confirmed' }}: {{ actual.product_name }} · PZN {{ actual.pzn }}</strong>
+      {% if actual.substituted %}<p>Reason: {{ actual.replacement_reason }}</p>{% endif %}
+      {% if actual.description %}<p>{{ actual.description }}</p>{% endif %}
+      {% if actual.indication %}<p>Indication: {{ actual.indication }} (pharmacy supplied)</p>{% endif %}
+      {% if actual.photo %}<img class="dispensing-photo" src="{{ url_for('pharmacy.media', item_id=item.id, index=0) }}" alt="Pharmacy photo of {{ actual.product_name }}">{% endif %}
+      {% for img in actual.images %}<img class="dispensing-photo" src="{{ url_for('pharmacy.media', item_id=item.id, index=loop.index) }}" alt="{{ actual.product_name }}">{% endfor %}
+    </div>
+  {% endif %}
+  {% if not (state and state.completed_at) %}
+  <form method="post" enctype="multipart/form-data" class="dispense-form">
+    <input type="hidden" name="csrf_token" value="{{ csrf_token }}">
+    <input type="hidden" name="action" value="confirm">
+    <input type="hidden" name="item_id" value="{{ item.id }}">
+    <label for="pzn-{{ item.id }}">Actual dispensed PZN / scanned barcode</label>
+    <input id="pzn-{{ item.id }}" name="pzn" required autocomplete="off" placeholder="Enter PZN or scan the package" value="{{ form_values.get('pzn', '') if editing else actual.pzn if actual else '' }}">
+    <div class="scanner-tools">
+      <button type="button" class="scan-barcode" data-input="pzn-{{ item.id }}">Scan with camera</button>
+      <button type="button" class="stop-camera" hidden>Stop camera</button>
+      <p class="scanner-status" role="status">USB/Bluetooth scanners can type directly into the PZN field.</p>
+      <video class="barcode-video" playsinline muted hidden></video>
+    </div>
+    <div class="pill-camera">
+      <button type="button" class="take-pill-photo" data-input="photo-{{ item.id }}">📷 Take pill photo</button>
+      <button type="button" class="capture-pill" hidden>Capture photo</button>
+      <button type="button" class="cancel-pill-camera" hidden>Close camera</button>
+      <video class="pill-video" playsinline muted hidden></video>
+      <img class="pill-preview dispensing-photo" alt="Captured pill photo" {% if draft and draft.photo %}src="{{ url_for('pharmacy.draft_photo', item_id=item.id) }}"{% else %}hidden{% endif %}>
+      {% if draft and draft.photo %}<p class="card-sub">Photo retained. You can submit again without taking or uploading it again.</p>{% endif %}
+      <p class="pill-camera-status" role="status"></p>
+    </div>
+    <details {% if editing %}open{% endif %}>
+      <summary>Substitution / missing medicine information</summary>
+      <p class="card-sub">For an unknown PZN, enter the name and a description or photo. Catalogue fields are used when available. Supplementary data does not change the base catalogue.</p>
+      <div class="prescribe-grid">
+        {% for field, label in [('product_name','Medicine name'), ('active_ingredient','Active ingredient'), ('strength','Strength'), ('dosage_form','Dosage form'), ('description','Shape, colour and appearance'), ('indication','Indication / purpose (optional)')] %}
+        <div><label for="{{ field }}-{{ item.id }}">{{ label }}</label><input id="{{ field }}-{{ item.id }}" name="{{ field }}" maxlength="2000" value="{{ form_values.get(field, '') if editing else actual[field] if actual else '' }}"></div>
+        {% endfor %}
+      </div>
+      <label for="photo-{{ item.id }}">Take a medicine photo or upload one</label>
+      <input id="photo-{{ item.id }}" name="photo" type="file" accept="image/jpeg,image/png,image/webp" capture="environment">
+      <p class="card-sub">On supported phones this opens the camera. Photos remain private to this prescription and its final patient link.</p>
+      <label for="reason-{{ item.id }}">Substitution reason (required when PZN differs)</label>
+      <input id="reason-{{ item.id }}" name="reason" maxlength="2000" placeholder="e.g. prescribed brand unavailable" value="{{ form_values.get('reason', '') if editing else actual.replacement_reason if actual else '' }}">
+      <label class="checkbox-label"><input type="checkbox" name="equivalence_confirmed" value="yes" {% if form_values.get('equivalence_confirmed') == 'yes' %}checked{% endif %}> I have checked the same active ingredient, strength, formulation and dosing suitability for this substitute.</label>
+      <p class="card-sub">Ingredient names must match. This software records the pharmacist's check; it does not determine clinical interchangeability.</p>
+    </details>
+    <button type="submit">{{ 'Update confirmation' if actual else 'Confirm medicine dispensed' }}</button>
+  </form>
+  {% endif %}
+</section>
+{% endfor %}
+{% if not (state and state.completed_at) %}
+<section class="card">
+  <p>{{ confirmed|length }} / {{ items|length }} medicines confirmed</p>
+  <form method="post">
+    <input type="hidden" name="csrf_token" value="{{ csrf_token }}">
+    <input type="hidden" name="action" value="finalize">
+    <button type="submit" {% if confirmed|length != items|length %}disabled{% endif %}>Complete dispensing & generate patient QR</button>
+  </form>
+</section>
+{% endif %}
+<script src="{{ url_for('static', filename='pharmacy.js') }}" defer></script>
+{% endblock %}

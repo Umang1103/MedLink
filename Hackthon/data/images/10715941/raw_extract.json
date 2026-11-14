@@ -1,0 +1,104 @@
+{
+  "pzn": "10715941",
+  "list_row": {
+    "active_ingredient": "Carvedilol",
+    "category": "β受体阻滞剂（兼α1阻断） / Beta-blocker",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/carvedilol-ratiopharm-125-mg-tabletten-10715941.html",
+    "hf_context_zh": "HFrEF：射血分数降低的心衰（心脏泵血能力减弱）",
+    "mechanism_zh": "阻断β受体并扩张外周血管，减轻心脏负担。",
+    "clinical_role_zh": "稳定慢性HFrEF的基础治疗选择。",
+    "example_product_name": "CARVEDILOL-ratiopharm 12,5 mg Tabletten",
+    "pzn": "10715941",
+    "example_strength_as_stated": "12,5 mg",
+    "pack_size_units": "50",
+    "market": "DE",
+    "collection_order": "108",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/carvedilol-ratiopharm-125-mg-tabletten-10715941.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "ratiopharm GmbH",
+    "ingredient_content_as_listed": "Carvedilol 12,5 mg pro 1 Tablette",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:43:32.762744+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/84/94/29484.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 63931,
+      "saved_as": "10715941_tablet_1.jpg",
+      "sha256": "093ffd3badac1a8119d9faf6f9ecc1f54d8ec972c0aab7c1ef3303dd3a9017b1",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/85/94/29485.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 61938,
+      "saved_as": "10715941_tablet_2.jpg",
+      "sha256": "5bbf2c6b7ce1f90cc25afc360caf51d10bd95bfdebb0d43678ce197a1860ab50",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/05/17/41705.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 183196,
+      "saved_as": "10715941_leaflet.pdf",
+      "sha256": "1c6057ff9c55053929e57fc6f80d0dcf824ff01d69e9dccf862486f4647c7be7",
+      "pages": 8,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/carvedilol-ratiopharm-125-mg-tabletten-10715941.html?file=4143f2fee3abcaef449fdb4f86d636ad",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 10.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von CARVEDILOL-ratiopharm 12,5 mg Tabletten",
+    "pzn_on_page": "10715941",
+    "pack_size_on_page": "50 Stück (N2)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "ratiopharm GmbH Ulm www.ratiopharm.de",
+    "substances_on_page": [
+      "Carvedilol 12,5 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Cellulose, mikrokristalline Lactose-1-Wasser Crospovidon Povidon K30 Siliciumdioxid, hochdisperses",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/84/94/29484.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/84/94/29484.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/84/94/29484.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/85/94/29485.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 3,3 mm Breite: 4,5 mm Tiefe: 9,6 mm Masse: 130,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"C3\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/carvedilol-ratiopharm-125-mg-tabletten-10715941.html?file=4143f2fee3abcaef449fdb4f86d636ad",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 10.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-02-13",
+    "provider_website": "https://www.ratiopharm.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Weiße, beidseitig gewölbte, kapselförmige Tablette mit einer Bruchkerbe und der Prägung „C“ und „3“ auf der einen Seite und glatt auf der anderen Seite. ist in Packungen mit 30, 50 und 100 Tabletten erhältlich.Carvedilol-ratiopharm 12,5 mg ®",
+    "company_raw": "ratiopharm GmbH Graf-Arco-Str. 3 89079 Ulm",
+    "manufacturer_raw": "Merckle GmbH Ludwig-Merckle-Str. 3 89143 Blaubeuren oder TEVA Pharmaceutical Works Private Limited Company - Teva Gyógyszergyár Zrt. – Pallagi út 13 4042 DEBRECEN UNGARN",
+    "revision_raw": "Okotber 2025",
+    "wirkstoff_raw": "s Carvedilol im Blut und nicht vorhersehbaren Nebenwirkungen führen. Der Genuss von Alkohol während der Einnahme von sollte begrenzt werden, weil AlkoholCarvedilol-ratiopharm 12,5 mg® die Wirkung von",
+    "composition_raw": "— Der Wirkstoff ist: Carvedilol. Jede Tablette enthält 12,5 mg Carvedilol. — Die sonstigen Bestandteile sind: Mikrokristalline Cellulose, Lactose-Monohydrat, Crospovidon (Typ A) (Ph.Eur.), Povidon K30, Hochdisperses Siliciumdioxid, Magnesiumstearat (Ph.Eur.). Wie Carvedilol-ratiopharm® 12,5 mg aussieht und Inhalt der Packung Weiße, beidseitig gewölbte, kapselförmige Tablette mit einer Bruchkerbe und der Prägung „C“ und „3“ auf der einen Seite und glatt auf der anderen Seite. ist in Packungen mit",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

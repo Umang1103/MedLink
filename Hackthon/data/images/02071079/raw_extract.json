@@ -1,0 +1,104 @@
+{
+  "pzn": "02071079",
+  "list_row": {
+    "active_ingredient": "Spironolacton",
+    "category": "盐皮质激素受体拮抗剂 / MRA",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/spironolacton-ratiopharm-50-mg-tabletten-2071079.html",
+    "hf_context_zh": "HFrEF：射血分数降低的心衰（心脏泵血能力减弱）；该产品页面还列有心衰相关水肿、NYHA III心衰。",
+    "mechanism_zh": "阻断醛固酮作用，减少钠水潴留及对心脏的不利重塑，同时保钾。",
+    "clinical_role_zh": "HFrEF基础治疗之一。",
+    "example_product_name": "SPIRONOLACTON-ratiopharm 50 mg Tabletten",
+    "pzn": "02071079",
+    "example_strength_as_stated": "50 mg",
+    "pack_size_units": "20",
+    "market": "DE",
+    "collection_order": "53",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/spironolacton-ratiopharm-50-mg-tabletten-2071079.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "ratiopharm GmbH",
+    "ingredient_content_as_listed": "Spironolacton 50 mg pro 1 Tablette",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:42:33.017568+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/51/97/49751.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 93433,
+      "saved_as": "02071079_tablet_1.jpg",
+      "sha256": "ad0123693976d5f567e20c2b77e7ef77d3dff19299e66a7a7ceee2f084db9151",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/52/97/49752.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 91326,
+      "saved_as": "02071079_tablet_2.jpg",
+      "sha256": "c7f10f7dcadf5fcad4aab776c0ce5c28170d5d819d1f1c4b7eb9f74df5c92704",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/65/26/42665.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 128910,
+      "saved_as": "02071079_leaflet.pdf",
+      "sha256": "93114938a5052c6d552a4b463d23704be4e5f9bdb850262d47e5f7f461a35b9a",
+      "pages": 7,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/spironolacton-ratiopharm-50-mg-tabletten-2071079.html?file=78f903232caa750bb39be8a86ff28e05",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 03.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von SPIRONOLACTON-ratiopharm 50 mg Tabletten",
+    "pzn_on_page": "02071079",
+    "pack_size_on_page": "20 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "ratiopharm GmbH Ulm www.ratiopharm.de",
+    "substances_on_page": [
+      "Spironolacton 50 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Lactose-1-Wasser Cellulose, mikrokristalline Carboxymethylstärke, Natrium Typ A Maisstärke Talkum",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/51/97/49751.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/51/97/49751.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/51/97/49751.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/52/97/49752.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 9,2 mm Höhe: 3,9 mm Masse: 202,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/spironolacton-ratiopharm-50-mg-tabletten-2071079.html?file=78f903232caa750bb39be8a86ff28e05",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 03.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27",
+    "provider_website": "https://www.ratiopharm.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Weiße, runde, beiderseits gewölbte Tablette mit einer Bruchkerbe auf einer Seite ist in Packungen mit 20, 50 und 100 Tabletten erhältlich.Spironolacton-ratiopharm ® Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "ratiopharm GmbH Graf-Arco-Str. 3 89079 Ulm",
+    "manufacturer_raw": "Merckle GmbH Ludwig-Merckle-Str. 3 89143 Blaubeuren",
+    "revision_raw": "März 2025",
+    "wirkstoff_raw": "von Spironolacton-ratiopharm ® , zu Störungen des Hormonhaushaltes bei weiblichen und männlichen Nachkommen führen kann.Spironolacton-ratiopharm® Verkehrstüchtigkeit und Fähigkeit zum Bedienen von Mas",
+    "composition_raw": "— Der Wirkstoff ist Spironolacton. Jede Tablette enthält 50 mg Spironolacton. — Die sonstigen Bestandteile sind: Lactose-Monohydrat, Mikrokristalline Cellulose, Carboxymethylstärke-Natrium (Typ A) (Ph.Eur.), Maisstärke, Talkum, Copovidon, Natriumdodecylsulfat, Hochdisperses Siliciumdioxid, Magnesiumstearat (Ph.Eur.) Wie Spironolacton-ratiopharm® aussieht und Inhalt der Packung Weiße, runde, beiderseits gewölbte Tablette mit einer Bruchkerbe auf einer Seite ist in Packungen mit 20, 50 und 100 Tab",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

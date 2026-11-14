@@ -1,0 +1,198 @@
+{
+  "pzn": "19397460",
+  "generated_at": "2026-11-13T11:47:45.866880+00:00",
+  "retrieved_at": "2026-11-13T11:37:06.556093+00:00",
+  "product_page": {
+    "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ramipril-089pharm-5-mg-tabletten-19397460.html",
+    "http_status": 200,
+    "pzn_on_page": "19397460",
+    "pack_size_on_page": "20 Stück (N1)",
+    "provider_on_page (Anbieter)": "089PHARM GmbH München-Flughafen 089pharm.de",
+    "substances_on_page": [
+      "Ramipril 5 mg pro 1 Tablette"
+    ],
+    "physical_data_on_page": "Abmessungen und Gewicht 1 Höhe: 2,9 mm Breite: 4,5 mm Tiefe: 8,9 mm Masse: 129,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : ja 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"R3\" Besonderheiten Die Tablette ist marmoriert und gesprenkelt. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "page_last_reviewed": "2026-10-09",
+    "data_provider": "ABDATA Pharma-Daten-Service"
+  },
+  "files": {
+    "tablet_image_1": {
+      "local_path": "19397460/19397460_tablet_1.jpg",
+      "download_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/97/06/190697.jpg",
+      "viewer_page": null,
+      "download_ok": true,
+      "verified_type": "jpeg",
+      "bytes": 104244,
+      "pixels": "600x600",
+      "document_date_on_page": null
+    },
+    "tablet_image_2": {
+      "local_path": "19397460/19397460_tablet_2.jpg",
+      "download_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/98/06/190698.jpg",
+      "viewer_page": null,
+      "download_ok": true,
+      "verified_type": "jpeg",
+      "bytes": 102380,
+      "pixels": "600x600",
+      "document_date_on_page": null
+    },
+    "leaflet_path": {
+      "local_path": "19397460/19397460_leaflet.pdf",
+      "download_url": "https://image.wub-service.de/resources/static/drugexpert/261101/72/32/193272.pdf",
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ramipril-089pharm-5-mg-tabletten-19397460.html?file=2482cb040c9de798366e3f9eb24b50d4",
+      "download_ok": true,
+      "verified_type": "pdf",
+      "bytes": 211826,
+      "pixels": null,
+      "document_date_on_page": "Dokumentdatum: 12.2025"
+    }
+  },
+  "image_classification": {
+    "result": "both files are tablet photographs (front and back) with mm scale and '© ABDATA | Dosing' watermark; pink speckled capsule-shaped tablet, 'R | 3' with score on one side, plain other side; consistent with page and leaflet",
+    "method": "visual review of each file",
+    "package_image": "none available"
+  },
+  "field_sources": {
+    "pzn": {
+      "value": "19397460",
+      "source": "product_page (verified equal to list)"
+    },
+    "market": {
+      "value": "DE",
+      "source": "derived (German PZN)"
+    },
+    "product_name": {
+      "value": "Ramipril 089PHARM 5 mg Tabletten",
+      "source": "leaflet_pdf title (German, preserved)"
+    },
+    "active_ingredient": {
+      "value": "Ramipril",
+      "source": "leaflet_pdf section 6"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Ramipril",
+      "source": "leaflet_pdf section 6"
+    },
+    "strength_as_stated": {
+      "value": "5 mg",
+      "source": "product_name / leaflet_pdf section 6 (label strength, not converted)"
+    },
+    "dosage_form": {
+      "value": "Tabletten",
+      "source": "product_page Darreichungsform + leaflet_pdf"
+    },
+    "pack_size": {
+      "value": "20",
+      "source": "product_page Packungsgröße (verified for this PZN)"
+    },
+    "brand": {
+      "value": "Ramipril 089PHARM",
+      "source": "product_name"
+    },
+    "pharmaceutical_company": {
+      "value": "089PHARM GmbH, Terminalstraße Mitte 18, 85356 München",
+      "source": "leaflet_pdf section 6 (Pharmazeutischer Unternehmer / Zulassungsinhaber)"
+    },
+    "manufacturer": {
+      "value": "Farmaprojects S.A.U., Calle Provença 392, 6 Planta, 08025 Barcelona, Spanien",
+      "source": "leaflet_pdf section 6 (Hersteller)"
+    },
+    "color": {
+      "value": "pink",
+      "source": "leaflet_pdf section 6, normalised to English"
+    },
+    "shape": {
+      "value": "capsule-shaped, flat, with flat side walls",
+      "source": "leaflet_pdf section 6, normalised to English"
+    },
+    "imprint": {
+      "value": "R3",
+      "source": "product_page 'Sonstige Merkmale' + leaflet_pdf"
+    },
+    "score_line": {
+      "value": "score groove on one side",
+      "source": "product_page 'Angaben zu Kerben' + leaflet_pdf"
+    },
+    "appearance_description_original": {
+      "value": "Pinkfarbene, kapselförmige und flache Tablette mit Bruchrille auf einer Seite und flachen Seitenwänden. Auf einer Seite mit der Prägung “R3”.",
+      "source": "leaflet_pdf section 6 (German, verbatim)"
+    },
+    "tablet_image_1": {
+      "value": "19397460/19397460_tablet_1.jpg",
+      "source": "product_page 'Originalbilder des Präparats'"
+    },
+    "tablet_image_2": {
+      "value": "19397460/19397460_tablet_2.jpg",
+      "source": "product_page 'Originalbilder des Präparats'"
+    },
+    "package_image": {
+      "value": "",
+      "source": "none available"
+    },
+    "leaflet_path": {
+      "value": "19397460/19397460_leaflet.pdf",
+      "source": "product_page 'PDF-Dokumente' link"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ramipril-089pharm-5-mg-tabletten-19397460.html",
+      "source": "heart_failure_collection_list.csv"
+    },
+    "manufacturer_source_url": {
+      "value": "",
+      "source": "not cross-checked"
+    },
+    "leaflet_revision_date": {
+      "value": "2025-12",
+      "source": "leaflet_pdf 'zuletzt überarbeitet im …'"
+    },
+    "retrieved_at": {
+      "value": "2026-11-13",
+      "source": "collection run date"
+    },
+    "verification_status": {
+      "value": "Extracted from product page and leaflet PDF; images visually confirmed as tablet photos; not clinically or pharmacist verified.",
+      "source": "workflow status"
+    },
+    "notes": {
+      "value": "Leaflet covers 5 mg (pink, 'R3') and 10 mg (white, 'R4'); only the 5 mg description is used. Product page adds 'marmoriert und gesprenkelt'. ABDATA average: 8.9 x 4.5 x 2.9 mm, mass 129.0 mg. Leaflet packs 20, 50, 100; this PZN = 20 (N1). Leaflet names a manufacturer info page (https://089pharm.de/ramipril/); not visited, so manufacturer_source_url left blank.",
+      "source": "collector notes"
+    }
+  },
+  "unresolved_issues": [],
+  "reuse_permission": "unverified - image XMP: creator 'Dosing GmbH Heidelberg', rights 'ABDATA Pharma-Daten-Service', usage terms 'Verwendung nach Lizenzbestimmungen'. No explicit open licence found. Do not publish or deploy.",
+  "attribution": {
+    "product_page": "ABDATA Pharma-Daten-Service via apotheken-umschau.de",
+    "images": "© ABDATA | Dosing (watermark preserved, files unmodified)",
+    "leaflet_pdf": "marketing authorisation holder's patient leaflet, hosted by image.wub-service.de"
+  },
+  "expanded_catalogue": {
+    "input_file": "heart_failure_collection_list_expanded.csv",
+    "row": {
+      "active_ingredient": "Ramipril",
+      "category": "血管紧张素转换酶抑制剂 / ACE inhibitor",
+      "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ramipril-089pharm-5-mg-tabletten-19397460.html",
+      "hf_context_zh": "有症状的心衰，主要关联HFrEF；也可用于特定心梗后心衰。",
+      "mechanism_zh": "减少血管紧张素II生成，降低血管阻力及醛固酮作用。",
+      "clinical_role_zh": "HFrEF中肾素-血管紧张素系统治疗的选择。",
+      "example_product_name": "RAMIPRIL 089PHARM 5 mg Tabletten",
+      "pzn": "19397460",
+      "example_strength_as_stated": "5 mg",
+      "pack_size_units": "20",
+      "market": "DE",
+      "collection_order": "10",
+      "collection_status": "check_existing_record",
+      "notes_zh": "原清单已有产品；按 market+pzn 检查已有记录。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+      "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+      "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+      "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ramipril-089pharm-5-mg-tabletten-19397460.html",
+      "checked_on": "2026-11-13",
+      "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+      "dosage_form_as_listed": "Tabletten",
+      "pharmaceutical_company_as_listed": "089PHARM GmbH",
+      "ingredient_content_as_listed": "Ramipril 5 mg pro 1 Tablette",
+      "pill_photo_status": "listed_on_product_page_not_visually_verified",
+      "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+      "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+    }
+  }
+}

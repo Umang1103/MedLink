@@ -1,0 +1,19 @@
+{% extends 'patient_base.html' %}
+{% block title %}Patient version · MedLink{% endblock %}
+{% block tab_content %}
+<h2>Patient version</h2>
+<p class="card-sub">The same final medicine cards the patient sees, for the latest completed dispensing of each prescription.</p>
+{% for record in records %}
+<section class="medicine-selection">
+  <h3>Prescription #{{ record.prescription.id }} · {{ record.prescription.created_at }}</h3>
+  {% if record.completed %}
+    <p class="card-sub">Dispensed {{ record.completed.completed_at }}{% if record.refill %} · Refill in progress; showing the last collected medicines.{% endif %}</p>
+    {% with items=record.medicines, token=record.completed.patient_token %}
+      {% include '_patient_medicine_list.html' %}
+    {% endwith %}
+  {% else %}
+    <p>No final patient list yet. {{ 'Dispensing is in progress.' if record.refill else 'Not yet dispensed.' }}</p>
+  {% endif %}
+</section>
+{% else %}<p>No prescriptions from your account for this patient yet.</p>{% endfor %}
+{% endblock %}

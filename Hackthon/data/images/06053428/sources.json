@@ -1,0 +1,234 @@
+{
+  "pzn": "06053428",
+  "input_file": "heart_failure_collection_list_expanded.csv",
+  "collection_row": {
+    "active_ingredient": "Enalapril",
+    "category": "血管紧张素转换酶抑制剂 / ACE inhibitor",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/enalapril-1a-pharma-30-mg-tabletten-6053428.html",
+    "hf_context_zh": "有症状的HFrEF；某些无症状左室功能不全患者用于预防症状性心衰。",
+    "mechanism_zh": "抑制ACE，减少血管收缩和钠水潴留相关激素作用。",
+    "clinical_role_zh": "HFrEF中肾素-血管紧张素系统治疗的选择。",
+    "example_product_name": "ENALAPRIL-1A Pharma 30 mg Tabletten",
+    "pzn": "06053428",
+    "example_strength_as_stated": "30 mg",
+    "pack_size_units": "100",
+    "market": "DE",
+    "collection_order": "137",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/enalapril-1a-pharma-30-mg-tabletten-6053428.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "1A Pharma GmbH",
+    "ingredient_content_as_listed": "Enalapril maleat 30 mg pro 1 Tablette; = Enalapril (22,93 mg pro 1 Tablette)",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "product_page": {
+    "page_title": "Beipackzettel von ENALAPRIL-1A Pharma 30 mg Tabletten",
+    "pzn_on_page": "06053428",
+    "pack_size_on_page": "100 Stück (N3)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "1A Pharma GmbH Holzkirchen",
+    "substances_on_page": [
+      "Enalapril maleat 30 mg pro 1 Tablette",
+      "= Enalapril (22,93 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Natriumhydrogencarbonat Lactose-1-Wasser Lactose Maisstärke Talkum",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/18/90/179018.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/18/90/179018.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/18/90/179018.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 3,6 mm Breite: 5,1 mm Tiefe: 14,1 mm Masse: 245,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : 2-Parallelkerbe Form : keilförmig Anordnung : beidseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"EN30\", \"EN30\" Besonderheiten Die Tablette ist marmoriert. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/enalapril-1a-pharma-30-mg-tabletten-6053428.html?file=13ebb9f34e8344fe0db7223228332a6a",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 01.2019"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15"
+  },
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/18/90/179018.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 80985,
+      "saved_as": "06053428_tablet_1.jpg",
+      "sha256": "e985407f39f829b26945ccf5bdd17fb4b0f322f88c631333ead4c9fd11a30e6a",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/52/61/26152.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 49292,
+      "saved_as": "06053428_leaflet.pdf",
+      "sha256": "380d75542030825e3030417bcb004736b23bd7e9331ea533972cb476cd590d26",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/enalapril-1a-pharma-30-mg-tabletten-6053428.html?file=13ebb9f34e8344fe0db7223228332a6a",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 01.2019"
+    }
+  },
+  "unresolved_issues": [],
+  "field_sources": {
+    "pzn": {
+      "value": "06053428",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "market": {
+      "value": "DE",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "product_name": {
+      "value": "ENALAPRIL-1A Pharma 30 mg Tabletten",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "active_ingredient": {
+      "value": "Enalapril",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Enalapril maleat 30 mg pro 1 Tablette",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "strength_as_stated": {
+      "value": "30 mg",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "dosage_form": {
+      "value": "Tabletten",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "pack_size": {
+      "value": "100",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "pharmaceutical_company": {
+      "value": "1 A Pharma GmbH Keltenring 1 + 3 82041 Oberhaching Telefon: (089) 6138825-0",
+      "source": "leaflet PDF, automatic extract; requires review"
+    },
+    "manufacturer": {
+      "value": "Salutas Pharma GmbH Otto-von-Guericke-Allee 1 39179 Barleben",
+      "source": "leaflet PDF, automatic extract; requires review"
+    },
+    "color": {
+      "value": "orange",
+      "source": "leaflet PDF, automatic extract; requires review"
+    },
+    "shape": {
+      "value": "oblong",
+      "source": "leaflet PDF, automatic extract; requires review"
+    },
+    "imprint": {
+      "value": "EN 30",
+      "source": "leaflet PDF, automatic extract; requires review"
+    },
+    "score_line": {
+      "value": "Lage : 2-Parallelkerbe Form : keilförmig Anordnung : beidseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird.",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "appearance_description_original": {
+      "value": "Die Tabletten sind länglich, gewölbt, orangefarben mit zwei Bruchkerben und einer Prägung „EN 30“ auf beiden Seiten. Die Tablette kann in 3 gleiche Dosen geteilt werden. Die Tabletten sind verpackt in Aluminium/Aluminium-Blisterpa- ckungen mit 20, 30, 50, 60 und 100 Tabletten.",
+      "source": "leaflet PDF, automatic extract; requires review"
+    },
+    "tablet_image_1": {
+      "value": "06053428/06053428_tablet_1.jpg",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "leaflet_path": {
+      "value": "06053428/06053428_leaflet.pdf",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/enalapril-1a-pharma-30-mg-tabletten-6053428.html",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "leaflet_revision_date": {
+      "value": "2019-01",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "retrieved_at": {
+      "value": "2026-11-13T15:44:01.828576+00:00",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "verification_status": {
+      "value": "PZN verified against product page; assets file-validated; automatically extracted; appearance and clinical details require review.",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "notes": {
+      "value": "Source catalogue strength preserved verbatim. Provider is recorded separately from manufacturer. Appearance/company details are automatically extracted from the leaflet; ambiguous multi-strength appearance fields are left blank. Leaflet document date is taken from the product page. ",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "category": {
+      "value": "血管紧张素转换酶抑制剂 / ACE inhibitor",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "hf_context_zh": {
+      "value": "有症状的HFrEF；某些无症状左室功能不全患者用于预防症状性心衰。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "mechanism_zh": {
+      "value": "抑制ACE，减少血管收缩和钠水潴留相关激素作用。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "clinical_role_zh": {
+      "value": "HFrEF中肾素-血管紧张素系统治疗的选择。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "strength_note_zh": {
+      "value": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "clinical_source_url": {
+      "value": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "mechanism_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/enalapril-1a-pharma-30-mg-tabletten-6053428.html",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "dosage_form_as_listed": {
+      "value": "Tabletten",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "pharmaceutical_company_as_listed": {
+      "value": "1A Pharma GmbH",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "ingredient_content_as_listed": {
+      "value": "Enalapril maleat 30 mg pro 1 Tablette; = Enalapril (22,93 mg pro 1 Tablette)",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "product_hf_indication_status": {
+      "value": "not_reviewed_check_product_leaflet",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "scope_note_zh": {
+      "value": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "notes_zh": {
+      "value": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "checked_on": {
+      "value": "2026-11-13",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "brand": {
+      "value": "ENALAPRIL-1A Pharma",
+      "source": "Derived from product_name: strength, dosage form and pack descriptors removed; existing brand capitalization reused where available.",
+      "product_name": "ENALAPRIL-1A Pharma 30 mg Tabletten"
+    }
+  },
+  "reuse_permission": "Not checked; original downloaded files and watermarks preserved."
+}

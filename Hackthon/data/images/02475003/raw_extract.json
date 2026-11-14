@@ -1,0 +1,94 @@
+{
+  "pzn": "02475003",
+  "list_row": {
+    "active_ingredient": "Spironolacton",
+    "category": "盐皮质激素受体拮抗剂 / MRA",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/aldactone-25-ueberzogene-tabletten-2475003.html",
+    "hf_context_zh": "HFrEF：射血分数降低的心衰（心脏泵血能力减弱）；该产品页面还列有心衰相关水肿、NYHA III心衰。",
+    "mechanism_zh": "阻断醛固酮作用，减少钠水潴留及对心脏的不利重塑，同时保钾。",
+    "clinical_role_zh": "HFrEF基础治疗之一。",
+    "example_product_name": "ALDACTONE 25 überzogene Tabletten",
+    "pzn": "02475003",
+    "example_strength_as_stated": "Spironolacton 25 mg pro 1 Tablette",
+    "pack_size_units": "50",
+    "market": "DE",
+    "collection_order": "54",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/aldactone-25-ueberzogene-tabletten-2475003.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Überzogene Tabletten",
+    "pharmaceutical_company_as_listed": "Esteve Pharmaceuticals GmbH",
+    "ingredient_content_as_listed": "Spironolacton 25 mg pro 1 Tablette",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:42:33.325656+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/73/01/30173.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 96528,
+      "saved_as": "02475003_tablet_1.jpg",
+      "sha256": "3a13e3e8f0b2739af3d0345f18de5e701db8a41cf8b3fdb1664b1089f9bb338c",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/76/41/14176.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 277284,
+      "saved_as": "02475003_leaflet.pdf",
+      "sha256": "f4d07dafc2020c48260de96b23c2e349dffad05525ae060307f06b299366d4e3",
+      "pages": 13,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/aldactone-25-ueberzogene-tabletten-2475003.html?file=bc91bdf2979d80fd3df685043a2afb44",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 03.2022"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von ALDACTONE 25 überzogene Tabletten",
+    "pzn_on_page": "02475003",
+    "pack_size_on_page": "50 Stück (N2)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Überzogene Tabletten",
+    "provider_on_page": "Esteve Pharmaceuticals GmbH Berlin www.esteve.com/de",
+    "substances_on_page": [
+      "Spironolacton 25 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Glucose-Sirup Lactose-1-Wasser Macrogol 35000 Magnesium stearat Maisstärke, vorverkleistert",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/73/01/30173.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/73/01/30173.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/73/01/30173.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 10,2 mm Höhe: 5,1 mm Masse: 413,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Anordnung : ohne Kerbe Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/aldactone-25-ueberzogene-tabletten-2475003.html?file=bc91bdf2979d80fd3df685043a2afb44",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 03.2022"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27",
+    "provider_website": "https://www.esteve.com/de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": ": Blaue, runde überzogene Tabletten Originalpackung mit 50 oder 100 überzogenen Tabletten Klinikpackung",
+    "company_raw": "und",
+    "manufacturer_raw": "Pharmazeutischer Unternehmer Esteve Pharmaceuticals GmbH Hohenzollerndamm 150-151 14199 Berlin Deutschland Phone +49 30 338427-0 e-mail info.germany@esteve.com Hersteller Kern Pharma, SL Polígon Industrial Colón II, Venus, 72 08228 Terrassa (Barcelona), Spanien Advance Pharma GmbH Wallenroder Str. 8-14 13435 Berlin",
+    "revision_raw": "März 2022",
+    "wirkstoff_raw": "Spironolacton Lesen Sie die gesamte Packungsbeilage sorgfältig durch, bevor Sie mit der Einnahme dieses Arzneimittels beginnen, denn sie enthält wichtige Informationen.  Heben Sie die Packungsbeilage",
+    "composition_raw": ": Der Wirkstoff ist: 25 mg Spironolacton Seite 12 von 13 1 überzogene Tablette Aldactone 25 enthält 25 mg Spironolacton. Die sonstigen Bestandteile sind: Glucosesirup; Lactose-Monohydrat; Macrogol 35000; Magnesiumstearat (Ph.Eur.); Maisquellstärke; Montanglykolwachs; Natriumdodecylsulfat; Poly(O-carboxymethyl)stärke-Natriumsalz; Povidon K 25; Sucrose; hochdisperses Siliciumdioxid; Talkum; Weißer Ton und Farbstoffe Indigocarmin (E 132), Titandioxid (E 171). Wie Aldactone 25 aussieht und Inhalt de",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

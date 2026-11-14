@@ -1,0 +1,103 @@
+{
+  "pzn": "02950881",
+  "list_row": {
+    "active_ingredient": "Furosemid",
+    "category": "袢利尿剂 / Loop diuretic",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/furosemid-250-1a-pharma-tabletten-2950881.html",
+    "hf_context_zh": "伴液体潴留的心衰：如腿肿、肺淤血；可见于不同射血分数类型。",
+    "mechanism_zh": "抑制肾脏对钠盐的重吸收，增加盐和水的排出。",
+    "clinical_role_zh": "主要缓解水肿和淤血症状；不等同于改善生存的基础药。",
+    "example_product_name": "FUROSEMID 250-1A Pharma Tabletten",
+    "pzn": "02950881",
+    "example_strength_as_stated": "Furosemid 250 mg pro 1 Tablette",
+    "pack_size_units": "20",
+    "market": "DE",
+    "collection_order": "36",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/furosemid-250-1a-pharma-tabletten-2950881.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "1A Pharma GmbH",
+    "ingredient_content_as_listed": "Furosemid 250 mg pro 1 Tablette",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:42:13.624524+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/29/44/174429.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 116314,
+      "saved_as": "02950881_tablet_1.jpg",
+      "sha256": "31cc608cc60ecab28b899b9c93203aafefe009b007350198f16f13cedc03e584",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/30/44/174430.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 107472,
+      "saved_as": "02950881_tablet_2.jpg",
+      "sha256": "f51efa4d80b37295449eedfc5f4b8f9190846f1dcde239545ff21cff1d0590c8",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/91/55/25591.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 952267,
+      "saved_as": "02950881_leaflet.pdf",
+      "sha256": "4e0070fd2755fb46b5620a6f42c222f869bafba1a3e4ad0352e0218f2ae6ada6",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/furosemid-250-1a-pharma-tabletten-2950881.html?file=b21d361f98d1939c25b287e2a82767e2",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 12.2022"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von FUROSEMID 250-1A Pharma Tabletten",
+    "pzn_on_page": "02950881",
+    "pack_size_on_page": "20 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "1A Pharma GmbH Holzkirchen",
+    "substances_on_page": [
+      "Furosemid 250 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Cellulose, mikrokristalline Magnesium stearat (pflanzlich) Maisstärke Carboxymethylstärke, Natrium Typ A Hyprolose",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/29/44/174429.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/29/44/174429.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/29/44/174429.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/30/44/174430.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 11,1 mm Höhe: 4,3 mm Masse: 454,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Kreuzkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/furosemid-250-1a-pharma-tabletten-2950881.html?file=b21d361f98d1939c25b287e2a82767e2",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 12.2022"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Weiß­gelbliche, runde Tabletten mit einseitiger Kreuzbruch­ kerbe. Die Tablette kann in gleiche Dosen geviertelt werden. Furosemid 250 ­ 1 A Pharma ist in Packungen mit 20, 30, 50, 60 und 100 Tabletten erhältlich. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "1 A Pharma GmbH Industriestraße 18 83607 Holzkirchen Telefon: (08024) 908­3030",
+    "manufacturer_raw": "Salutas Pharma GmbH Otto­von­Guericke­Allee 1 39179 Barleben",
+    "revision_raw": "",
+    "wirkstoff_raw": "spiegeln im Blut und einem größeren Nebenwirkungsrisiko führen. • Die Wirkung von Theophyllin (Asthmamittel) oder Curare­ artigen Mitteln, die eine Muskelentspannung herbeifüh ­ ren (Muskelrelaxanzien",
+    "composition_raw": "Der Wirkstoff ist Furosemid. 1 Tablette enthält 250 mg Furosemid. Die sonstigen Bestandteile sind: Mikrokristalline Cellulose, Hyprolose, Magnesiumstearat (Ph.Eur.) [pflanzlich], Maisstärke, Carboxymethylstärke­ Natrium (Typ A) (Ph.Eur.), hochdisperses Siliciumdioxid Wie Furosemid 250 - 1 A Pharma aussieht und Inhalt der Packung Weiß­gelbliche, runde Tabletten mit einseitiger Kreuzbruch­ kerbe. Die Tablette kann in gleiche Dosen geviertelt werden. Furosemid 250 ­ 1 A Pharma ist in Packungen mit",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

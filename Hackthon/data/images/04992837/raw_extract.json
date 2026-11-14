@@ -1,0 +1,104 @@
+{
+  "pzn": "04992837",
+  "list_row": {
+    "active_ingredient": "Torasemid",
+    "category": "袢利尿剂 / Loop diuretic",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/torasemid-al-200-mg-tabletten-4992837.html",
+    "hf_context_zh": "伴心衰相关水肿或体液潴留的患者。",
+    "mechanism_zh": "促进肾脏排钠、排水，减轻循环液体负荷。",
+    "clinical_role_zh": "主要用于缓解淤血和水肿。",
+    "example_product_name": "TORASEMID AL 200 mg Tabletten",
+    "pzn": "04992837",
+    "example_strength_as_stated": "200 mg",
+    "pack_size_units": "30",
+    "market": "DE",
+    "collection_order": "82",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/torasemid-al-200-mg-tabletten-4992837.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "ALIUD Pharma GmbH",
+    "ingredient_content_as_listed": "Torasemid 200 mg pro 1 Tablette",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:43:09.325848+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/32/56/35632.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 99020,
+      "saved_as": "04992837_tablet_1.jpg",
+      "sha256": "ea3f4a112d1a4754f1a6e46887b3ec6c8392954f0dad68df2c96e16e6502f527",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/33/56/35633.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 92335,
+      "saved_as": "04992837_tablet_2.jpg",
+      "sha256": "54bf19d75d12b3381ef448b4ce608c42a9a268cc7dcf052e695e1a0e2197b5fd",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/35/98/79835.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 97054,
+      "saved_as": "04992837_leaflet.pdf",
+      "sha256": "6b2fd71e7c1b7a0b9258c09b9b7ad7e980ab33343ede501791abd6093b0082e3",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/torasemid-al-200-mg-tabletten-4992837.html?file=dd98eaed743b4ada25e4d0df812c0cea",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 07.2020"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von TORASEMID AL 200 mg Tabletten",
+    "pzn_on_page": "04992837",
+    "pack_size_on_page": "30 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "ALIUD Pharma GmbH Laichingen www.aliud.de",
+    "substances_on_page": [
+      "Torasemid 200 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Cellulose, mikrokristalline Cellulosepulver Croscarmellose natrium Magnesium stearat Siliciumdioxid, hochdisperses",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/32/56/35632.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/32/56/35632.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/32/56/35632.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/33/56/35633.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 12,1 mm Höhe: 4,0 mm Masse: 413,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Kreuzkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/torasemid-al-200-mg-tabletten-4992837.html?file=dd98eaed743b4ada25e4d0df812c0cea",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 07.2020"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15",
+    "provider_website": "https://www.aliud.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Weiße, runde Tablette mit einseitiger Kreuzbruchkerbe. Die Tablette kann in gleiche Dosen geteilt werden. TORASEMID AL 200 mg ist in Packungen mit 30 , 50 und 100 Tabletten erhältlich.",
+    "company_raw": "",
+    "manufacturer_raw": "",
+    "revision_raw": "Juli 2020",
+    "wirkstoff_raw": "Torasemid Lesen Sie die gesamte Gebrauchsinformation sorgfältig durch, bevor Sie mit der Einnahme dieses Arzneimittels beginnen. • Heben Sie die Gebrauchsinformation auf. Vielleicht möchten Sie diese",
+    "composition_raw": "Der Wirkstoff ist Torasemid. 1 Tablette enthält 200 mg Torasemid. Die sonstigen Bestandteile sind: Mikrokristalline Cellulose, Cellulosepulver, Croscarmellose-Natrium, Magnesiumstearat (Ph. Eur.), hochdisperses Siliciumdioxid. Wie TORASEMID AL 200 mg aussieht und Inhalt der Packung Weiße, runde Tablette mit einseitiger Kreuzbruchkerbe. Die Tablette kann in gleiche Dosen geteilt werden. TORASEMID AL 200 mg ist in Packungen mit 30 , 50 und 100 Tabletten erhältlich. Pharmazeutischer Unternehmer ALI",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

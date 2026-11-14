@@ -150,3 +150,73 @@ form.inline { display: inline; }
   .card.patient { flex-direction: column; align-items: flex-start; }
   .tabs a { padding: .6rem .8rem; font-size: .9rem; }
 }
+
+.doctor-nav { display: flex; flex-wrap: wrap; gap: 1rem; }
+.doctor-nav a { color: white; }
+.prescribe-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; }
+.medicine-heading { margin-top: 2rem; }
+.medicine-selection { min-width: 0; border: 1px solid var(--line); border-radius: 8px; margin: 1rem 0; padding: 1rem; }
+.medicine-selection legend { font-weight: 700; padding: 0 .4rem; }
+.medicine-selection h2 { font-size: 1.1rem; }
+.medicine-selection .link { margin-top: 1rem; }
+.medicine-thumbnail { width: 100px; height: 70px; object-fit: contain; }
+.search-results { max-height: 320px; overflow-y: auto; }
+form:not(.inline) .medicine-result { display: block; width: 100%; margin: .3rem 0; background: var(--green-50); color: var(--green-900); text-align: left; border: 1px solid var(--line); }
+.medicine-result:hover { background: var(--green-100); }
+button:disabled { opacity: .5; cursor: default; }
+.prescription-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 1rem; }
+@media (max-width: 700px) {
+  .prescribe-grid { grid-template-columns: 1fr; gap: 0; }
+  .topbar { flex-wrap: wrap; gap: 1rem; }
+}
+@media print {
+  .topbar, .prescription-actions, .flash { display: none; }
+  body { background: white; }
+  main { margin: 0; max-width: none; }
+  .card { box-shadow: none; }
+  .medicine-selection { break-inside: avoid; }
+}
+
+.medicine-number { display: inline-block; padding: .2rem .6rem; border-radius: 6px; background: var(--green-100); color: var(--green-900); margin-right: .5rem; }
+.dispensed-summary { border-left: 4px solid var(--green-600); padding: 1rem; margin: 1rem 0; background: var(--green-50); }
+.dispensing-photo { width: 180px; height: 150px; object-fit: contain; margin: .5rem; border: 1px solid var(--line); border-radius: 8px; }
+.patient-qr { width: 230px; height: 230px; background: white; }
+.checkbox-label { display: flex; align-items: flex-start; gap: .6rem; }
+.checkbox-label input { width: auto; margin-top: .35rem; }
+.scanner-tools button { width: auto !important; margin: .5rem .4rem .5rem 0; }
+.barcode-video { width: min(100%, 480px); max-height: 320px; }
+.dispense-form details { border: 1px solid var(--line); border-radius: 8px; padding: 1rem; margin-top: 1rem; }
+.dispense-form summary { cursor: pointer; font-weight: 600; }
+@media print { .scanner-tools, .dispense-form { display: none; } }
+
+.status-substituted, .is-substituted .dispensing-status { color: #b42318; font-weight: 700; }
+.status-prescribed, .is-prescribed .dispensing-status { color: #17663f; font-weight: 700; }
+.dispensed-summary.is-substituted { border-left-color: #b42318; background: #fff1f0; }
+.dispensed-summary.is-prescribed { border-left-color: #17663f; }
+.pill-camera button { width: auto !important; margin-right: .5rem; }
+.pill-video { display: block; width: min(100%, 480px); max-height: 360px; margin-top: 1rem; }
+.pill-video[hidden] { display: none; }
+@media print { .pill-camera { display: none; } }
+
+.print-actions { display: flex; gap: .75rem; flex-wrap: wrap; margin: 1rem 0; }
+.button-link { display: inline-block; background: var(--green-600); color: white; padding: .7rem 1.2rem; border-radius: 8px; text-decoration: none; font-weight: 600; }
+.button-link:hover { background: var(--green-700); }
+.qr-print-sheet { text-align: center; }
+.qr-link { overflow-wrap: anywhere; }
+@media print { .print-actions { display: none; } }
+
+.medicine-facts { display: grid; grid-template-columns: minmax(140px, 1fr) 3fr; gap: .45rem 1rem; }
+.medicine-facts dt { font-weight: 600; }
+.medicine-facts dd { margin: 0; overflow-wrap: anywhere; white-space: pre-line; }
+@media (max-width: 600px) {
+  .medicine-facts { grid-template-columns: 1fr; gap: .2rem; }
+  .medicine-facts dd { margin-bottom: .55rem; }
+}
+
+.doctor-home-actions { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.25rem; margin-top: 1.5rem; }
+.home-action { display: flex; flex-direction: column; gap: .75rem; padding: 1.75rem; border: 1px solid var(--line); border-radius: var(--radius); background: var(--green-50); color: var(--green-900); text-decoration: none; }
+.home-action strong { font-size: 1.4rem; }
+.home-action span { color: var(--muted); }
+.home-action:hover { border-color: var(--green-600); background: var(--green-100); }
+.tabs { flex-wrap: wrap; }
+@media (max-width: 600px) { .doctor-home-actions { grid-template-columns: 1fr; } }

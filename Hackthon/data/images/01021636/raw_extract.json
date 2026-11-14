@@ -1,0 +1,104 @@
+{
+  "pzn": "01021636",
+  "list_row": {
+    "active_ingredient": "Carvedilol",
+    "category": "β受体阻滞剂（兼α1阻断） / Beta-blocker",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/carvedilol-teva-3125-mg-tabletten-1021636.html",
+    "hf_context_zh": "HFrEF：射血分数降低的心衰（心脏泵血能力减弱）",
+    "mechanism_zh": "阻断β受体并扩张外周血管，减轻心脏负担。",
+    "clinical_role_zh": "稳定慢性HFrEF的基础治疗选择。",
+    "example_product_name": "CARVEDILOL Teva 3,125 mg Tabletten",
+    "pzn": "01021636",
+    "example_strength_as_stated": "3,125 mg",
+    "pack_size_units": "30",
+    "market": "DE",
+    "collection_order": "106",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/carvedilol-teva-3125-mg-tabletten-1021636.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "Teva GmbH",
+    "ingredient_content_as_listed": "Carvedilol 3,125 mg pro 1 Tablette",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:43:29.761153+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/94/84/48494.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 156842,
+      "saved_as": "01021636_tablet_1.jpg",
+      "sha256": "4446a4b1ec984498b5683b0150b271d0a20500632234debdc605c9dbe1847694",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/95/84/48495.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 160330,
+      "saved_as": "01021636_tablet_2.jpg",
+      "sha256": "cc42b51298ed1196570c2db0fcac5ace77edf527a2c08b425a619626c1a3e328",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/28/29/42928.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 110275,
+      "saved_as": "01021636_leaflet.pdf",
+      "sha256": "c1382ff98205036395b74c4bc278d670911b6ebb76358591d5a9021021281859",
+      "pages": 8,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/carvedilol-teva-3125-mg-tabletten-1021636.html?file=cd1724aaf791aa0b8d3cce7a39297455",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 10.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von CARVEDILOL Teva 3,125 mg Tabletten",
+    "pzn_on_page": "01021636",
+    "pack_size_on_page": "30 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "Teva GmbH Ulm an der Donau www.teva.de",
+    "substances_on_page": [
+      "Carvedilol 3,125 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Lactose-1-Wasser Povidon K30 Crospovidon Siliciumdioxid, hochdisperses Magnesium stearat",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/94/84/48494.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/94/84/48494.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/94/84/48494.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/95/84/48495.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 6,6 mm Höhe: 2,4 mm Masse: 98,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"CVL T1\" Besonderheiten Die Tablette ist marmoriert. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/carvedilol-teva-3125-mg-tabletten-1021636.html?file=cd1724aaf791aa0b8d3cce7a39297455",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 10.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-02-13",
+    "provider_website": "https://www.teva.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "",
+    "company_raw": "TEVA GmbH Graf-Arco-Str. 3 89079 Ulm",
+    "manufacturer_raw": "Pharmachemie B.V. Swensweg 5, Postbus 552 2003 RN Haarlem Niederlande Telefon: (31) 235 147 147 Telefax: (31) 235 312 879 oder TEVA Pharmaceutical Works Private Limited Company Pallagi ùt 13 4042 Debrecen Ungarn Telefon: (36) 52 515 100 Telefax: (36) 52 416 399 oder GEBRAUCHSINFORMATION Carvedilol-Teva 3,125 mg Tabletten® 8 TEVA Operations Poland Sp. z o.o., Mogilska 80 Str. 31-546 Kraków Polen",
+    "revision_raw": "Oktober 2025",
+    "wirkstoff_raw": "s Carvedilol im Blut und nicht vorhersehbaren Nebenwirkungen führen. Der zeitgleiche oder zeitnahe Genuss von Alkohol sollte ebenfalls vermieden werden, weil Alkohol die Wirkung von Carvedilol-Teva 3,",
+    "composition_raw": "",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

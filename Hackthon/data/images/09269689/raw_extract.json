@@ -1,0 +1,104 @@
+{
+  "pzn": "09269689",
+  "list_row": {
+    "active_ingredient": "Valsartan",
+    "category": "血管紧张素II受体阻滞剂 / ARB",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/valsacor-320-mg-filmtabletten-9269689.html",
+    "hf_context_zh": "特定有症状的HFrEF患者；也用于特定心梗后左室功能不全/心衰。",
+    "mechanism_zh": "阻断AT1受体，减轻血管收缩、钠水潴留和心脏负荷。",
+    "clinical_role_zh": "HFrEF中肾素-血管紧张素系统治疗的替代选择。",
+    "example_product_name": "VALSACOR 320 mg Filmtabletten",
+    "pzn": "09269689",
+    "example_strength_as_stated": "320 mg",
+    "pack_size_units": "28",
+    "market": "DE",
+    "collection_order": "158",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/valsacor-320-mg-filmtabletten-9269689.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Filmtabletten",
+    "pharmaceutical_company_as_listed": "TAD Pharma GmbH",
+    "ingredient_content_as_listed": "Valsartan 320 mg pro 1 Tablette",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:44:23.156398+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/78/19/31978.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 104629,
+      "saved_as": "09269689_tablet_1.jpg",
+      "sha256": "0ee2bf6d571316c1a2da95370b3e11d6aceb70dabb80d8413a1285c6000033e4",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/79/19/31979.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 100630,
+      "saved_as": "09269689_tablet_2.jpg",
+      "sha256": "b1d0bb3780a9a6ae6a4a6065429beb2ab8e8a15d279388059846960ee05f0e5b",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/27/78/77827.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 128978,
+      "saved_as": "09269689_leaflet.pdf",
+      "sha256": "717cf404edc87cb1687cc568752867bc08075db96494eedad53a1bacfcb184e4",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/valsacor-320-mg-filmtabletten-9269689.html?file=46aa5123991f0baf8a4dcfa6b02596b4",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 10.2021"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von VALSACOR 320 mg Filmtabletten",
+    "pzn_on_page": "09269689",
+    "pack_size_on_page": "28 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten",
+    "provider_on_page": "TAD Pharma GmbH Cuxhaven www.tad.de",
+    "substances_on_page": [
+      "Valsartan 320 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Lactose-1-Wasser Lactose Cellulose, mikrokristalline Povidon K25 Croscarmellose natrium",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/78/19/31978.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/78/19/31978.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/78/19/31978.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/79/19/31979.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 6,7 mm Breite: 8,7 mm Tiefe: 16,2 mm Masse: 662,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/valsacor-320-mg-filmtabletten-9269689.html?file=46aa5123991f0baf8a4dcfa6b02596b4",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 10.2021"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27",
+    "provider_website": "https://www.tad.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Die 320 mg Filmtabletten sind hellbraune, kapselförmige, bikonvexe Filmtabletten mit einer Bruchrille auf einer Seite. Valsacor ist in Packungsgrößen mit 14, 20, 28, 30, 56, 60, 84, 90, 98 Filmtabletten in Blisterpackungen erhältlich. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "TAD Pharma GmbH Heinz-Lohmann-Straße 5 27472 Cuxhaven Telefon: (04721)606-0 Telefax: (04721)606-333 E-Mail: info@tad.de",
+    "manufacturer_raw": "KRKA, d.d., Novo mesto, Šmarješka cesta 6, 8501 Novo mesto, Slowenien Für jede Information zu diesem Arzneimittel, wenden Sie sich bitte an die lokale Vertretung des pharmazeutischen Unternehmers.",
+    "revision_raw": "Oktober 2021",
+    "wirkstoff_raw": "ist: Valsartan. Jede Filmtablette enthält 320 mg Valsartan. • Die sonstigen Bestandteile sind: Lactose-Monohydrat, mikrokristalline Cellulose, Povidon K 25, Croscarmellose- Natrium, hochdisperses Sili",
+    "composition_raw": "• Der Wirkstoff ist: Valsartan. Jede Filmtablette enthält 320 mg Valsartan. • Die sonstigen Bestandteile sind: Lactose-Monohydrat, mikrokristalline Cellulose, Povidon K 25, Croscarmellose- Natrium, hochdisperses Siliciumdioxid und Magnesiumstearat (Ph.Eur.) im Tablettenkern und Hypromellose, Titandioxid (E171), Macrogol 4000, Eisen(III)-hydroxid-oxid x H2O (E 172) und Eisen(III)-oxid (E 172) im Überzug. Siehe Abschnitt 2 „Valsacor enthält Lactose“ und „Valsacor enthält Natrium“. Wie Valsacor aus",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

@@ -1,0 +1,98 @@
+{
+  "pzn": "10715935",
+  "list_row": {
+    "active_ingredient": "Carvedilol",
+    "category": "β受体阻滞剂（兼α1阻断） / Beta-blocker",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/carvedilol-ratiopharm-625-mg-tabletten-10715935.html",
+    "hf_context_zh": "HFrEF：射血分数降低的心衰（心脏泵血能力减弱）",
+    "mechanism_zh": "阻断β受体并扩张外周血管，减轻心脏负担。",
+    "clinical_role_zh": "稳定慢性HFrEF的基础治疗选择。",
+    "example_product_name": "CARVEDILOL-ratiopharm 6,25 mg Tabletten",
+    "pzn": "10715935",
+    "example_strength_as_stated": "6.25 mg",
+    "pack_size_units": "100",
+    "market": "DE",
+    "collection_order": "10",
+    "collection_status": "pending_extraction",
+    "notes_zh": "与其他β受体阻滞剂是不同产品和治疗选择，不是默认一起服用。",
+    "strength_note_zh": "示例产品规格，不是患者每次或每日服药剂量；具体适应证以该产品现行说明书为准",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/carvedilol-ratiopharm-625-mg-tabletten-10715935.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "心衰相关药物采集起始清单；每种成分/复方选一个产品示例，不穷尽药物、品牌或规格；非患者用药方案；图片和PDF待采集核实。"
+  },
+  "retrieved_at": "2026-11-13T11:36:45.124285+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/44/39/33944.jpg",
+      "http_status": 200,
+      "content_type": "image/jpeg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 59210,
+      "saved_as": "10715935_original_image_1.jpg",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/45/39/33945.jpg",
+      "http_status": 200,
+      "content_type": "image/jpeg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 56899,
+      "saved_as": "10715935_original_image_2.jpg",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/09/17/41709.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 183559,
+      "saved_as": "10715935_leaflet.pdf",
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/carvedilol-ratiopharm-625-mg-tabletten-10715935.html?file=4a4e1fcbe9e279c307b674d0a44f72d9",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 10.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von CARVEDILOL-ratiopharm 6,25 mg Tabletten",
+    "pzn_on_page": "10715935",
+    "pack_size_on_page": "100 Stück (N3)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten Dosierung & Anwendung Nebenwirkungen Wechselwirkungen alle Kapitel anzeigen Wirkung Originalbilder Anwendungsgebiete Gegenanzeigen & Hinweise Aufbewahrung Lagerungshinweise PDF-Dokumente",
+    "provider_on_page": "ratiopharm GmbH Ulm www.ratiopharm.de",
+    "substances_on_page": [
+      "Carvedilol 6,25 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Cellulose, mikrokristalline Lactose-1-Wasser Crospovidon Povidon K30 Siliciumdioxid, hochdisperses",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/44/39/33944.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/44/39/33944.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/44/39/33944.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/45/39/33945.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 3,3 mm Breite: 4,6 mm Tiefe: 9,6 mm Masse: 133,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"C2\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/carvedilol-ratiopharm-625-mg-tabletten-10715935.html?file=4a4e1fcbe9e279c307b674d0a44f72d9",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 10.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-02-13"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Weiße, beidseitig gewölbte, kapselförmige Tablette mit einer Bruchkerbe und der Prägung „C“ und „2“ auf der einen Seite und glatt auf der anderen Seite. ist in Packungen mit 30 und 100 Tabletten erhältlich.Carvedilol-ratiopharm 6,25 mg ®",
+    "company_raw": "ratiopharm GmbH Graf-Arco-Str. 3 89079 Ulm",
+    "manufacturer_raw": "Merckle GmbH Ludwig-Merckle-Str. 3 89143 Blaubeuren oder TEVA Pharmaceutical Works Private Limited Company - Teva Gyógyszergyár Zrt. – Pallagi út 13 4042 DEBRECEN UNGARN GEBRAUCHSINFORMATION Carvedilol-ratiopharm 6,25 mg Tabletten® 8",
+    "revision_raw": "Oktober 2025",
+    "wirkstoff_raw": "s Carvedilol im Blut und nicht vorhersehbaren Nebenwirkungen führen. Der Genuss von Alkohol während der Einnahme von sollte begrenzt werden, weil AlkoholCarvedilol-ratiopharm 6,25 mg® die Wirkung von",
+    "composition_raw": "— Der Wirkstoff ist: Carvedilol Jede Tablette enthält 6,25 mg Carvedilol. — Die sonstigen Bestandteile sind: Mikrokristalline Cellulose, Lactose-Monohydrat, Crospovidon (Typ A) (Ph.Eur.), Povidon K30, Hochdisperses Siliciumdioxid, Magnesiumstearat (Ph.Eur.). Wie Carvedilol-ratiopharm® 6,25 mg aussieht und Inhalt der Packung Weiße, beidseitig gewölbte, kapselförmige Tablette mit einer Bruchkerbe und der Prägung „C“ und „2“ auf der einen Seite und glatt auf der anderen Seite. ist in Packungen mit",
+    "pdf_title": ""
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "pzn": "10142066",
+  "list_row": {
+    "active_ingredient": "Candesartan",
+    "category": "血管紧张素II受体阻滞剂 / ARB",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/candesartan-aurobindo-4-mg-tabletten-10142066.html",
+    "hf_context_zh": "HFrEF：射血分数降低的心衰（心脏泵血能力减弱）；特别是在ACE抑制剂不耐受等情况下的选择。",
+    "mechanism_zh": "阻断血管紧张素II的AT1受体，减少血管收缩和醛固酮作用。",
+    "clinical_role_zh": "HFrEF中肾素-血管紧张素系统治疗的替代选择。",
+    "example_product_name": "CANDESARTAN Aurobindo 4 mg Tabletten",
+    "pzn": "10142066",
+    "example_strength_as_stated": "4 mg",
+    "pack_size_units": "28",
+    "market": "DE",
+    "collection_order": "143",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/candesartan-aurobindo-4-mg-tabletten-10142066.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "PUREN Pharma GmbH & Co. KG",
+    "ingredient_content_as_listed": "Candesartan cilexetil 4 mg pro 1 Tablette; = Candesartan (2,89 mg pro 1 Tablette)",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:44:07.723946+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/46/52/65246.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 92805,
+      "saved_as": "10142066_tablet_1.jpg",
+      "sha256": "f45576d59aa70fe1e886685eb206ec0f5a86f758839388032132c40b0de794fa",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/47/52/65247.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 87757,
+      "saved_as": "10142066_tablet_2.jpg",
+      "sha256": "a46f97544f51814b4a2ce38382643f9ccb943988b804dd9cc3fc6714d5b50931",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/33/61/86133.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 130491,
+      "saved_as": "10142066_leaflet.pdf",
+      "sha256": "9e2fccb97456c80e2128982f0ae56deaeadec3dcd689551ff2bdfbe688aeb4a7",
+      "pages": 8,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/candesartan-aurobindo-4-mg-tabletten-10142066.html?file=631ac0faae2208357fa4a94edfbee8c8",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 12.2024"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von CANDESARTAN Aurobindo 4 mg Tabletten",
+    "pzn_on_page": "10142066",
+    "pack_size_on_page": "28 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "PUREN Pharma GmbH & Co. KG München www.puren-pharma.de",
+    "substances_on_page": [
+      "Candesartan cilexetil 4 mg pro 1 Tablette",
+      "= Candesartan (2,89 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Lactose-1-Wasser Hyprolose Carmellose calcium Magnesium-aluminosilicat-hydrat Propylenglycol",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/46/52/65246.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/46/52/65246.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/46/52/65246.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/47/52/65247.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 7,3 mm Höhe: 3,2 mm Masse: 164,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"CN 4\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/candesartan-aurobindo-4-mg-tabletten-10142066.html?file=631ac0faae2208357fa4a94edfbee8c8",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 12.2024"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27",
+    "provider_website": "https://www.puren-pharma.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Candesartan Aurobindo 4 mg Tabletten: Weiße bis weißliche, bikonvexe, unbeschichtete, runde Tabletten mit einer Bruchkerbe zwischen der Prägung „CN“ und „4“ auf der einen Seite, und ohne Prägung auf der anderen Seite. Die Tablette kann in gleiche Dosen geteilt werden. Candesartan Aurobindo 8 mg Tabletten: Hellrosafarbene, bikonvexe, unbeschichtete, runde Tabletten mit einer Bruchkerbe zwischen der Prägung „CN“ und „8“ auf der einen Seite, und ohne Prägung auf der anderen Seite. Die Tablette kann in gleiche Dosen geteilt werden. Candesartan Aurobindo 16 mg Tabletten: Gelbe, bikonvexe, unbeschichtete, runde Tabletten mit einer Bruchkerbe zwischen der Prägung „CN“ und „16“ auf der einen Seite, und ohne Prägung auf der anderen Seite. Die Tablette kann in gleiche Dosen geteilt werden. 8 Candesartan Aurobindo 32 mg Tabletten: Gelbe, bikonvexe, unbeschichtete, runde Tabletten mit einer Bruchkerbe zwischen der Prägung „CN“ und „32“ auf der einen Seite, und ohne Prägung auf der anderen Seite. Die Tablette kann in gleiche Dosen geteilt werden. Candesartan Aurobindo ist in PVC/PVdC-Aluminiumblisterpackungen und im HDPE- Tablettenbehältnis mit Propylenverschluss erhältlich. Packungsgrößen: Blisterpackung: 7, 14, 28, 30, 50, 56, 90, 98 und 500 Tabletten. HDPE-Tablettenbehältnis: 30, 90 und 500 Tabletten. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "PUREN Pharma GmbH & Co. KG Willy-Brandt-Allee 2 81829 München Telefon: 089/558909 - 0 Telefax: 089/558909 - 240",
+    "manufacturer_raw": "APL Swift Services (Malta) Limited HF26, Hal Far Industrial Estate, Hal Far Birzebbugia, BBG 3000 Malta Generis Farmacȇutica, S.A. Rua João de Deus, no 19, Venda Nova Amadora 2700-487 Portugal Diese Arzneimittel sind in den Mitgliedsstaaten des Europäischen Wirtschaftsraumes (EWR) unter den folgenden Bezeichnungen zugelassen: Frankreich: CANDESARTAN ARROW LAB 4 mg / 8 mg / 16 mg / 32 mg comprimés sécable Deutschland: Candesartan Aurobindo 4 mg / 8 mg / 16 mg / 32 mg Tabletten Malta: Candesartan cilexetil 4 mg / 8 mg / 16 mg / 32 mg tablets Niederlande: Candesartan cilexetil Aurobindo 4 mg / 8 mg / 16 mg / 32 mg tabletten",
+    "revision_raw": "Dezember 2024",
+    "wirkstoff_raw": "ist Candesartancilexetil. Es gehört zu einer Gruppe von Arzneimitteln, die Angiotensin-II- Rezeptor-Antagonisten genannt werden. Es wirkt, indem es Ihre Blutgefäße entspannt und erweitert. Dies hilft,",
+    "composition_raw": "• Der Wirkstoff ist: Candesartancilexetil. Candesartan Aurobindo 4 mg Tabletten Jede Tablette enthält 4 mg Candesartancilexetil. Candesartan Aurobindo 8 mg Tabletten Jede Tablette enthält 8 mg Candesartancilexetil. Candesartan Aurobindo 16 mg Tabletten Jede Tablette enthält 16 mg Candesartancilexetil. Candesartan Aurobindo 32 mg Tabletten Jede Tablette enthält 32 mg Candesartancilexetil. • Die sonstigen Bestandteile sind: Candesartan Aurobindo 4 mg Tabletten: Lactose-Monohydrat, Hyprolose, Carme",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

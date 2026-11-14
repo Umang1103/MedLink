@@ -1,0 +1,105 @@
+{
+  "pzn": "14043148",
+  "list_row": {
+    "active_ingredient": "Bisoprolol",
+    "category": "β受体阻滞剂 / Beta-blocker",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-puren-375-mg-filmtabletten-14043148.html",
+    "hf_context_zh": "HFrEF：射血分数降低的心衰（心脏泵血能力减弱）",
+    "mechanism_zh": "减弱交感神经对心脏的刺激，降低心率和心肌耗氧。",
+    "clinical_role_zh": "稳定慢性HFrEF的基础治疗之一，改善长期结局。",
+    "example_product_name": "BISOPROLOL PUREN 3,75 mg Filmtabletten",
+    "pzn": "14043148",
+    "example_strength_as_stated": "3,75 mg",
+    "pack_size_units": "100",
+    "market": "DE",
+    "collection_order": "23",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-puren-375-mg-filmtabletten-14043148.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Filmtabletten",
+    "pharmaceutical_company_as_listed": "PUREN Pharma GmbH & Co. KG",
+    "ingredient_content_as_listed": "Bisoprolol fumarat 3,75 mg pro 1 Tablette; = Bisoprolol (3,18 mg pro 1 Tablette)",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:42:02.161597+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/38/42/94238.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 106903,
+      "saved_as": "14043148_tablet_1.jpg",
+      "sha256": "09b972e9a058b86bd6b711660b4b19fdbcfa3d2211b3923daa4d43922504034c",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/39/42/94239.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 106242,
+      "saved_as": "14043148_tablet_2.jpg",
+      "sha256": "8dd3281215948b60d95c36ab0a40bdbd22334fb2b55ef78834114ca2d6456a91",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/72/24/92472.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 148940,
+      "saved_as": "14043148_leaflet.pdf",
+      "sha256": "4231e4729cb43d54986ee21cc2fca5d5303094197ed71e165d8d01d13212125f",
+      "pages": 9,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-puren-375-mg-filmtabletten-14043148.html?file=186e3de152175e1ea6eadc2947757aae",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 04.2026"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von BISOPROLOL PUREN 3,75 mg Filmtabletten",
+    "pzn_on_page": "14043148",
+    "pack_size_on_page": "100 Stück (N3)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten",
+    "provider_on_page": "PUREN Pharma GmbH & Co. KG München www.puren-pharma.de",
+    "substances_on_page": [
+      "Bisoprolol fumarat 3,75 mg pro 1 Tablette",
+      "= Bisoprolol (3,18 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Cellulose, mikrokristalline Calciumhydrogenphosphat Siliciumdioxid, hochdisperses Crospovidon Magnesium stearat (pflanzlich)",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/38/42/94238.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/38/42/94238.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/38/42/94238.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/39/42/94239.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 6,3 mm Höhe: 2,4 mm Masse: 94,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"P\", \"3\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-puren-375-mg-filmtabletten-14043148.html?file=186e3de152175e1ea6eadc2947757aae",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 04.2026"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27",
+    "provider_website": "https://www.puren-pharma.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Bisoprolol PUREN 2,5 mg Filmtabletten sind weiß, rund, bikonvex mit der Prägung „P“ und einer Bruchkerbe auf der einen und der Prägung „2“ auf der anderen Seite. Die Tablette kann in gleiche Dosen geteilt werden. Bisoprolol PUREN 3,75 mg Filmtabletten sind weiß, rund, bikonvex mit der Prägung „P“ und einer Bruchkerbe auf der einen und der Prägung „3“ auf der anderen Seite. Die Tablette kann in gleiche Dosen geteilt werden. Bisoprolol PUREN 5 mg Filmtabletten sind weiß, rund, bikonvex mit der Prägung „P“ und einer Bruchkerbe auf der einen und der Prägung „5“ auf der anderen Seite. Die Tablette kann in gleiche Dosen geteilt werden. Bisoprolol PUREN 7,5 mg Filmtabletten sind weiß, rund, bikonvex mit der Prägung „P“ und einer Bruchkerbe auf der einen und der Prägung „7“ auf der anderen Seite. Die Tablette kann in gleiche Dosen geteilt werden. Bisoprolol PUREN 10 mg Filmtabletten sind weiß, rund, bikonvex mit der Prägung „P“ und einer Bruchkerbe auf der einen und der Prägung „10“ auf der anderen Seite. Die GI-S-2179630-all-1.0 Tablette kann in gleiche Dosen geteilt werden. Bisoprolol PUREN Filmtabletten sind in kaltgeformten Polyamid/Aluminium/PVC- Aluminium-Blisterpackungen und in HDPE-Flaschen erhältlich. Packungsgrößen: Blisterpackungen mit 30, 50 oder 100 Filmtabletten HDPE-Flaschen mit 30 und 500 Filmtabletten Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "PUREN Pharma GmbH & Co. KG Willy-Brandt-Allee 2 81829 München Telefon: 089/558909 – 0 Telefax: 089/558909 – 240",
+    "manufacturer_raw": "APL Swift Services (Malta) Limited HF26, Hal Far Industrial Estate, Hal Far Birzebbugia, BBG 3000 Malta oder Generis Farmacêutica S.A. Rua Joao de Deus, nº 19, Venda Nova 2700-487 Amadora Portugal",
+    "revision_raw": "April 2026",
+    "wirkstoff_raw": "dieses Arzneimittels ist Bisoprololfumarat. Bisoprolol gehört zur Arzneimittelgruppe der Beta-Rezeptorenblocker. Beta-Rezeptorenblocker verhindern eine übermäßige Aktivität des Herzens. Dieses Arzneim",
+    "composition_raw": "•Der Wirkstoff ist: Bisoprololfumarat (Ph.Eur.) Bisoprolol PUREN 2,5 mg Filmtabletten: Jede Tablette enthält 2,5 mg Bisoprololfumarat (Ph.Eur.). Bisoprolol PUREN 3,75 mg Filmtabletten: Jede Tablette enthält 3,75 mg Bisoprololfumarat (Ph.Eur.). Bisoprolol PUREN 5 mg Filmtabletten: Jede Tablette enthält 5 mg Bisoprololfumarat (Ph.Eur.). Bisoprolol PUREN 7,5 mg Filmtabletten: Jede Tablette enthält 7,5 mg Bisoprololfumarat (Ph.Eur.). Bisoprolol PUREN 10 mg Filmtabletten: Jede Tablette enthält 10 mg",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

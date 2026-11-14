@@ -1,0 +1,94 @@
+{
+  "pzn": "18437039",
+  "list_row": {
+    "active_ingredient": "Enalapril",
+    "category": "血管紧张素转换酶抑制剂 / ACE inhibitor",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/aqumeldi-1-mg-schmelztabletten-18437039.html",
+    "hf_context_zh": "有症状的HFrEF；某些无症状左室功能不全患者用于预防症状性心衰。",
+    "mechanism_zh": "抑制ACE，减少血管收缩和钠水潴留相关激素作用。",
+    "clinical_role_zh": "HFrEF中肾素-血管紧张素系统治疗的选择。",
+    "example_product_name": "AQUMELDI 1 mg Schmelztabletten",
+    "pzn": "18437039",
+    "example_strength_as_stated": "1 mg",
+    "pack_size_units": "50",
+    "market": "DE",
+    "collection_order": "129",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/aqumeldi-1-mg-schmelztabletten-18437039.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Schmelztabletten",
+    "pharmaceutical_company_as_listed": "Proveca Pharma Ltd.",
+    "ingredient_content_as_listed": "Enalapril maleat 1 mg pro 1 Tablette; = Enalapril (0,76 mg pro 1 Tablette)",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:43:53.132019+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/59/05/200559.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 100462,
+      "saved_as": "18437039_tablet_1.jpg",
+      "sha256": "eca7440067a6fb3a414d4e763dd03fbe64018acbad69c265552a69aaa90769f3",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/81/70/177081.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 778978,
+      "saved_as": "18437039_leaflet.pdf",
+      "sha256": "3e36c0948232251b622ebc9cdd8b64542dd76b68f285b1188c6459f4c058d84a",
+      "pages": 11,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/aqumeldi-1-mg-schmelztabletten-18437039.html?file=c320a9f2d3011dbe0f5ff7c0e6f5f373",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 04.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von AQUMELDI 1 mg Schmelztabletten",
+    "pzn_on_page": "18437039",
+    "pack_size_on_page": "50 Stück (N2)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Schmelztabletten",
+    "provider_on_page": "Proveca Pharma Ltd. Dublin 1",
+    "substances_on_page": [
+      "Enalapril maleat 1 mg pro 1 Tablette",
+      "= Enalapril (0,76 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Mannitol Crospovidon Poly(vinylacetat) Povidon Natriumdodecylsulfat",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/59/05/200559.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/59/05/200559.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/59/05/200559.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 2,0 mm Höhe: 1,9 mm Masse: 6,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Anordnung : ohne Kerbe Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Besonderheiten Die Tablette ist marmoriert. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/aqumeldi-1-mg-schmelztabletten-18437039.html?file=c320a9f2d3011dbe0f5ff7c0e6f5f373",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 04.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-10-27"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Aqumeldi 0,25 mg Schmelztabletten sind weiße, runde, bikonvexe Tabletten mit einem Durchmesser von 2 mm. Aqumeldi 1 mg Schmelztabletten sind gelbliche bis gelbe, runde, bikonvexe Tabletten mit einem Durchmesser von 2 mm. Beide sind in einer Kunststoffflasche mit kindersicherem Originalitätsverschluss in einem Umkarton erhältlich. Jeder Umkarton enthält eine Flasche und einen blauen Löffel. Verfügbar sind Packungen von 0,25 mg oder 1 mg mit jeweils 50, 100 oder 200 Schmelztabletten pro Flasche. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht. Beim ersten Öffnen der Flasche muss die Versiegelung aufgebrochen werden:  Halten Sie die Flasche mit einer Hand fest.  Drücken Sie die Schutzkappe mit der anderen Hand kräftig nach unten, während Sie die Kappe gegen den Uhrzeigersinn drehen.  Drehen Sie weiter, bis die Versiegelung aufgebrochen ist.",
+    "company_raw": "Proveca Pharma Limited 2 Dublin Landings North Wall Quay Dublin 1 Irland",
+    "manufacturer_raw": "Pharbil Waltrop GmbH Im Wirrigen 25 45731 Waltrop Deutschland",
+    "revision_raw": "April 2025",
+    "wirkstoff_raw": "Enalaprilmaleat. Es wird bei Kindern und Jugendlichen von der Geburt bis zum Alter von 17 Jahren zur Behandlung von Herzinsuffizienz (Unvermögen des Herzens, genug Blut durch den Körper zu pumpen) ang",
+    "composition_raw": "den Wirkstoff Enalaprilmaleat. Es wird bei Kindern und Jugendlichen von der Geburt bis zum Alter von 17 Jahren zur Behandlung von Herzinsuffizienz (Unvermögen des Herzens, genug Blut durch den Körper zu pumpen) angewendet. Enalaprilmaleat gehört zu einer Gruppe von Arzneimitteln, die als Angiotensin-Converting-Enzym- Hemmer (ACE-Hemmer) bezeichnet werden. Dies bedeutet, dass es ein Enzym (Protein) im Körper daran hindert, das Hormon Angiotensin II zu bilden. Durch Verengung der Blutgefäße kann A",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

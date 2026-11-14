@@ -1,0 +1,104 @@
+{
+  "pzn": "03125676",
+  "list_row": {
+    "active_ingredient": "Losartan",
+    "category": "血管紧张素II受体阻滞剂 / ARB",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/lorzaar-protect-50-mg-filmtabletten-3125676.html",
+    "hf_context_zh": "ACE抑制剂不适合或不耐受的特定成人慢性HFrEF患者。",
+    "mechanism_zh": "阻断AT1受体，减轻血管紧张素II导致的血管收缩和醛固酮作用。",
+    "clinical_role_zh": "HFrEF中肾素-血管紧张素系统治疗的替代选择。",
+    "example_product_name": "LORZAAR Protect 50 mg Filmtabletten",
+    "pzn": "03125676",
+    "example_strength_as_stated": "50 mg",
+    "pack_size_units": "28",
+    "market": "DE",
+    "collection_order": "183",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/lorzaar-protect-50-mg-filmtabletten-3125676.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Filmtabletten",
+    "pharmaceutical_company_as_listed": "Organon Healthcare GmbH",
+    "ingredient_content_as_listed": "Losartan kalium 50 mg pro 1 Tablette; = Losartan (45,87 mg pro 1 Tablette)",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:44:47.885291+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/19/97/69719.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 66220,
+      "saved_as": "03125676_tablet_1.jpg",
+      "sha256": "39d6d7dcfede0702d57a69da2f092572a195b7f570be4077658f64d44b03724e",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/20/97/69720.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 71576,
+      "saved_as": "03125676_tablet_2.jpg",
+      "sha256": "d6ab2769744c24f94b33da7393dcdd9cac98ca4d4cb2b3db4066ade493a94dba",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/81/74/67481.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 181698,
+      "saved_as": "03125676_leaflet.pdf",
+      "sha256": "b0df3208d87e108beb6f20ad4adc1f4e761b3122725e47d4474a201cc5db7310",
+      "pages": 7,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/lorzaar-protect-50-mg-filmtabletten-3125676.html?file=a7d399cb7e35ec4ce6f3a9c6b3ef0086",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 03.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von LORZAAR Protect 50 mg Filmtabletten",
+    "pzn_on_page": "03125676",
+    "pack_size_on_page": "28 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten",
+    "provider_on_page": "Organon Healthcare GmbH München",
+    "substances_on_page": [
+      "Losartan kalium 50 mg pro 1 Tablette",
+      "= Losartan (45,87 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Cellulose, mikrokristalline Lactose-1-Wasser Lactose Maisstärke, vorverkleistert Magnesium stearat",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/19/97/69719.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/19/97/69719.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/19/97/69719.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/20/97/69720.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 3,3 mm Breite: 5,7 mm Tiefe: 10,5 mm Masse: 155,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"952\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/lorzaar-protect-50-mg-filmtabletten-3125676.html?file=a7d399cb7e35ec4ce6f3a9c6b3ef0086",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 03.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "LORZAAR START 12,5 mg Filmtabletten stehen als Filmtabletten mit 12,5 mg Losartan-Kalium ohne Bruchrille zur Verf ügung. LORZAAR START 12,5 mg Filmtabletten sind in folgen- den Packungen erhältlich: PVC/PE/PVDC-Durchdr ückpackungen (Blisterpackun- gen) mit Aluminiumfolie beschichtet mit 28 Filmtabletten. LORZAAR PROTECT 50 mg Filmtabletten stehen als Filmtabletten mit 50 mg Losartan-Kalium mit Bruchrill e zur Verf ügung. Die Bruchrille dient nicht zum T eilen der T ablette. LORZAAR PROTECT 50 mg Filmtabletten sind in folgenden Packungen erhältlich: PVC/PE/PVDC-Durchdr ückpackungen (Blisterpackun- gen) mit Aluminiumfolie beschichtet mit 28 oder 98 Film- tabletten. LORZAAR PROTECT 100 mg Filmtabletten stehen als Filmtabletten mit 100 mg Losartan-Kalium ohne Bruchri lle zur Verf ügung. LORZAAR PROTECT 100 mg Filmtabletten sind in folgenden Packungen erhältlich: PVC/PE/PVDC-Durchdr ückpackungen (Blisterpackun- gen) mit Aluminiumfolie beschichtet mit 98 Filmtabletten. –",
+    "company_raw": "und",
+    "manufacturer_raw": "LORZAAR START 12,5 mg Filmtabletten LORZAAR PROTECT 50 mg Filmtabletten und 100 mg Film- tabletten Pharmazeutischer Unternehmer: Organon Healthcare GmbH Pestalozzistr. 31 80469 M ünchen E-Mail: dpoc.germany@organon.com Hersteller: Organon Heist bv Industriepark 30 2220 Heist-op-den-Berg Belgien",
+    "revision_raw": "März 2025",
+    "wirkstoff_raw": "",
+    "composition_raw": ": Jede LORZAAR START 12,5 mg Filmtablette enthält 12,5 mg Losartan-Kalium. Der Wirksto ﬀ ist Losartan-Kalium. Die sonstigen Bestandteile sind: Mikrokristalline Cellulose (E 460), Lactose-Monohydra t (siehe Abschnitt 2 „LORZAAR enthält Milchzucker (Lac- tose) “), Vorverkleisterte Maisstärke, Magnesiumstearat (E 572), Hyprolose (E 463), Hypromellose (E 464). LORZAAR START 12,5 mg enthält Kalium in den folgen- den Mengen: 1,06 mg (0,027 mEq). Die LORZAAR START 12,5 mg T abletten enthalten auch Carn",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

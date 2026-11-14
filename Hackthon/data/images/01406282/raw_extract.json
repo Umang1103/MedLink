@@ -1,0 +1,77 @@
+{
+  "pzn": "01406282",
+  "list_row": {
+    "active_ingredient": "Spironolacton",
+    "category": "盐皮质激素受体拮抗剂 / MRA",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/spironolacton-stada-100-mg-tabletten-1406282.html",
+    "hf_context_zh": "HFrEF：射血分数降低的心衰（心脏泵血能力减弱）；该产品页面还列有心衰相关水肿、NYHA III心衰。",
+    "mechanism_zh": "阻断醛固酮作用，减少钠水潴留及对心脏的不利重塑，同时保钾。",
+    "clinical_role_zh": "HFrEF基础治疗之一。",
+    "example_product_name": "SPIRONOLACTON STADA 100 mg Tabletten",
+    "pzn": "01406282",
+    "example_strength_as_stated": "100 mg",
+    "pack_size_units": "50",
+    "market": "DE",
+    "collection_order": "51",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/spironolacton-stada-100-mg-tabletten-1406282.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "STADAPHARM GmbH",
+    "ingredient_content_as_listed": "Spironolacton 100 mg pro 1 Tablette",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:42:31.186164+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/90/01/30190.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 88576,
+      "saved_as": "01406282_tablet_1.jpg",
+      "sha256": "f28a795c561ae075d667ca79693ab517bd7a6665462a16e1cce548d87efbfa78",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/91/01/30191.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 87450,
+      "saved_as": "01406282_tablet_2.jpg",
+      "sha256": "56bf98e16187625b4986490258f16bce1ba5cae7df19381466ac4604743bbe3a",
+      "pixels": "600x600"
+    }
+  },
+  "issues": [
+    "No leaflet PDF linked on page"
+  ],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von SPIRONOLACTON STADA 100 mg Tabletten",
+    "pzn_on_page": "01406282",
+    "pack_size_on_page": "50 Stück (N2)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "STADAPHARM GmbH Bad Vilbel",
+    "substances_on_page": [
+      "Spironolacton 100 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Calciumhydrogenphosphat-2-Wasser Magnesium stearat Maisstärke Natriumdodecylsulfat Povidon K25",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/90/01/30190.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/90/01/30190.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/90/01/30190.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/91/01/30191.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 9,0 mm Höhe: 2,9 mm Masse: 248,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [],
+    "page_last_reviewed": "2026-07-27"
+  },
+  "expanded_collection_complete": false
+}

@@ -1,0 +1,153 @@
+{
+  "pzn": "10167391",
+  "generated_at": "2026-11-13T11:47:45.864414+00:00",
+  "retrieved_at": "2026-11-13T11:35:47.739996+00:00",
+  "product_page": {
+    "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/forxiga-10-mg-filmtabletten-10167391.html",
+    "http_status": 200,
+    "pzn_on_page": "10167391",
+    "pack_size_on_page": "98 Stück (N3)",
+    "provider_on_page (Anbieter)": "Kohlpharma GmbH Merzig www.kohlpharma.com",
+    "substances_on_page": [
+      "Dapagliflozin-[(2 S )-Propan-1,2-diol] (1:1)-1-Wasser 12,3 mg pro 1 Tablette",
+      "= Dapagliflozin (10 mg pro 1 Tablette)"
+    ],
+    "physical_data_on_page": "",
+    "page_last_reviewed": "2026-10-27",
+    "data_provider": "ABDATA Pharma-Daten-Service"
+  },
+  "files": {
+    "leaflet_path": {
+      "local_path": "10167391/10167391_leaflet.pdf",
+      "download_url": "https://image.wub-service.de/resources/static/drugexpert/261101/49/57/145749.pdf",
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/forxiga-10-mg-filmtabletten-10167391.html?file=9876fbdbcd9433040c8c869e39684cf3",
+      "download_ok": true,
+      "verified_type": "pdf",
+      "bytes": 544988,
+      "pixels": null,
+      "document_date_on_page": "Dokumentdatum: 03.2026"
+    }
+  },
+  "image_classification": {
+    "result": "no images listed on product page",
+    "package_image": "none available"
+  },
+  "field_sources": {
+    "pzn": {
+      "value": "10167391",
+      "source": "product_page (verified equal to list)"
+    },
+    "market": {
+      "value": "DE",
+      "source": "derived (German PZN)"
+    },
+    "product_name": {
+      "value": "Forxiga 10 mg Filmtabletten",
+      "source": "leaflet_pdf title (German, preserved)"
+    },
+    "active_ingredient": {
+      "value": "Dapagliflozin",
+      "source": "leaflet_pdf section 6"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Dapagliflozin-(2S)-Propan-1,2-diol (1:1) 1 H2O",
+      "source": "leaflet_pdf section 6"
+    },
+    "strength_as_stated": {
+      "value": "10 mg",
+      "source": "product_name / leaflet_pdf section 6 (label strength, not converted)",
+      "note": "10 mg dapagliflozin equivalent; solvate mass not used."
+    },
+    "dosage_form": {
+      "value": "Filmtabletten",
+      "source": "product_page Darreichungsform + leaflet_pdf"
+    },
+    "pack_size": {
+      "value": "98",
+      "source": "product_page Packungsgröße (verified for this PZN)"
+    },
+    "brand": {
+      "value": "Forxiga",
+      "source": "product_name"
+    },
+    "pharmaceutical_company": {
+      "value": "AstraZeneca AB, SE-151 85 Södertälje, Schweden",
+      "source": "leaflet_pdf section 6 (Pharmazeutischer Unternehmer / Zulassungsinhaber)",
+      "note": "Zulassungsinhaber per leaflet; parallel distributor kohlpharma GmbH recorded in notes."
+    },
+    "manufacturer": {
+      "value": "AstraZeneca AB, Gärtunavägen, SE-152 57 Södertälje, Schweden",
+      "source": "leaflet_pdf section 6 (Hersteller)"
+    },
+    "color": {
+      "value": "yellow",
+      "source": "leaflet_pdf section 6, normalised to English"
+    },
+    "shape": {
+      "value": "diamond-shaped (approx. 1.1 x 0.8 cm diagonal)",
+      "source": "leaflet_pdf section 6, normalised to English"
+    },
+    "imprint": {
+      "value": "\"10\" on one side; \"1428\" on the other side",
+      "source": "product_page 'Sonstige Merkmale' + leaflet_pdf"
+    },
+    "score_line": {
+      "value": "",
+      "source": "product_page 'Angaben zu Kerben' + leaflet_pdf"
+    },
+    "appearance_description_original": {
+      "value": "Forxiga 10 mg Filmtabletten sind gelb und rautenförmig, ca. 1,1 x 0,8 cm diagonal. Sie haben eine „10“ auf der einen und „1428“ auf der anderen Seite.",
+      "source": "leaflet_pdf section 6 (German, verbatim)"
+    },
+    "tablet_image_1": {
+      "value": "",
+      "source": "product_page 'Originalbilder des Präparats'"
+    },
+    "tablet_image_2": {
+      "value": "",
+      "source": "product_page 'Originalbilder des Präparats'"
+    },
+    "package_image": {
+      "value": "",
+      "source": "none available"
+    },
+    "leaflet_path": {
+      "value": "10167391/10167391_leaflet.pdf",
+      "source": "product_page 'PDF-Dokumente' link"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/forxiga-10-mg-filmtabletten-10167391.html",
+      "source": "heart_failure_collection_list.csv"
+    },
+    "manufacturer_source_url": {
+      "value": "",
+      "source": "not cross-checked"
+    },
+    "leaflet_revision_date": {
+      "value": "2026-03",
+      "source": "leaflet_pdf 'zuletzt überarbeitet im …'"
+    },
+    "retrieved_at": {
+      "value": "2026-11-13",
+      "source": "collection run date"
+    },
+    "verification_status": {
+      "value": "Extracted from product page and leaflet PDF; no images available; not clinically or pharmacist verified.",
+      "source": "workflow status"
+    },
+    "notes": {
+      "value": "PARALLEL IMPORT: leaflet states 'Parallel vertrieben und umgepackt von kohlpharma GmbH, Im Holzhau 8, D-66663 Merzig' (= product page Anbieter). kohlpharma is the repackager/distributor, not the manufacturer; pharmaceutical_company is the Zulassungsinhaber (marketing authorisation holder) per leaflet. Label strength 10 mg refers to dapagliflozin; the leaflet states the solvate form 'entsprechend 10 mg Dapagliflozin' and the product page gives 12.3 mg solvate. No product images on the product page; appearance comes from leaflet text only. Score line not mentioned in sources (left blank).",
+      "source": "collector notes"
+    }
+  },
+  "unresolved_issues": [
+    "No tablet or package images available on the product page.",
+    "no product images listed on page"
+  ],
+  "reuse_permission": "unverified - image XMP: creator 'Dosing GmbH Heidelberg', rights 'ABDATA Pharma-Daten-Service', usage terms 'Verwendung nach Lizenzbestimmungen'. No explicit open licence found. Do not publish or deploy.",
+  "attribution": {
+    "product_page": "ABDATA Pharma-Daten-Service via apotheken-umschau.de",
+    "images": "© ABDATA | Dosing (watermark preserved, files unmodified)",
+    "leaflet_pdf": "marketing authorisation holder's patient leaflet, hosted by image.wub-service.de"
+  }
+}

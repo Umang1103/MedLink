@@ -1,0 +1,78 @@
+{
+  "pzn": "10167391",
+  "list_row": {
+    "active_ingredient": "Dapagliflozin",
+    "category": "SGLT2抑制剂 / SGLT2 inhibitor",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/forxiga-10-mg-filmtabletten-10167391.html",
+    "hf_context_zh": "成人有症状的慢性心衰：包括HFrEF及射血分数保留/轻度降低的类型；不要求同时患糖尿病。",
+    "mechanism_zh": "抑制肾脏SGLT2，促进葡萄糖及部分钠水排出；心衰获益涉及多种机制。",
+    "clinical_role_zh": "降低心衰恶化/住院风险；也用于2型糖尿病和慢性肾病。",
+    "example_product_name": "FORXIGA 10 mg Filmtabletten",
+    "pzn": "10167391",
+    "example_strength_as_stated": "10 mg Dapagliflozin",
+    "pack_size_units": "98",
+    "market": "DE",
+    "collection_order": "4",
+    "collection_status": "pending_extraction",
+    "notes_zh": "此PZN页面供应商为Kohlpharma，不能自动把原研公司填写为实际制造商；页面可能没有药片图片。",
+    "strength_note_zh": "示例产品规格，不是患者每次或每日服药剂量；具体适应证以该产品现行说明书为准",
+    "clinical_source_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/forxiga",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/forxiga-10-mg-filmtabletten-10167391.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "心衰相关药物采集起始清单；每种成分/复方选一个产品示例，不穷尽药物、品牌或规格；非患者用药方案；图片和PDF待采集核实。"
+  },
+  "retrieved_at": "2026-11-13T11:35:47.739996+00:00",
+  "downloads": {
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/49/57/145749.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 544988,
+      "saved_as": "10167391_leaflet.pdf",
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/forxiga-10-mg-filmtabletten-10167391.html?file=9876fbdbcd9433040c8c869e39684cf3",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 03.2026"
+    }
+  },
+  "issues": [
+    "no product images listed on page"
+  ],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von FORXIGA 10 mg Filmtabletten",
+    "pzn_on_page": "10167391",
+    "pack_size_on_page": "98 Stück (N3)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten Dosierung & Anwendung Nebenwirkungen Wechselwirkungen alle Kapitel anzeigen Wirkung Anwendungsgebiete Gegenanzeigen & Hinweise Lagerungshinweise PDF-Dokumente",
+    "provider_on_page": "Kohlpharma GmbH Merzig www.kohlpharma.com",
+    "substances_on_page": [
+      "Dapagliflozin-[(2 S )-Propan-1,2-diol] (1:1)-1-Wasser 12,3 mg pro 1 Tablette",
+      "= Dapagliflozin (10 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Cellulose, mikrokristalline Lactose Crospovidon Siliciumdioxid Magnesium stearat (pflanzlich)",
+    "primary_image_url": "",
+    "packshot_url": "",
+    "original_image_urls": [],
+    "physical_block_raw": "",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/forxiga-10-mg-filmtabletten-10167391.html?file=9876fbdbcd9433040c8c869e39684cf3",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 03.2026"
+      }
+    ],
+    "page_last_reviewed": "2026-10-27"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "",
+    "company_raw": "",
+    "manufacturer_raw": "",
+    "revision_raw": "März 2026",
+    "wirkstoff_raw": "Dapagliflozin. Er gehört zu einer Gruppe von Arzneimitteln, die man Natrium-Glucose-Cotrans- porter-2-(SGLT-2)-Inhibitoren nennt. Sie wirken, indem sie das SGLT-2-Protein in der Niere blockieren. Durc",
+    "composition_raw": "den Wirkstoff Dapagliflozin. Er gehört zu einer Gruppe von Arzneimitteln, die man Natrium-Glucose-Cotrans- porter-2-(SGLT-2)-Inhibitoren nennt. Sie wirken, indem sie das SGLT-2-Protein in der Niere blockieren. Durch die Blockade dieses Proteins werden Blutzucker (Glucose), Salz (Natrium) und Wasser mit dem Urin aus dem Körper ausgeschieden. Wofür Forxiga angewendet wird Forxiga wird angewendet zur Behandlung von: • Typ-2-Diabetes - Bei Erwachsenen und Kindern im Alter von 10 Jahren und älter. -",
+    "pdf_title": ""
+  }
+}

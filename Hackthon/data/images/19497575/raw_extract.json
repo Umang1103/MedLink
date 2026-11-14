@@ -1,0 +1,104 @@
+{
+  "pzn": "19497575",
+  "list_row": {
+    "active_ingredient": "Torasemid",
+    "category": "袢利尿剂 / Loop diuretic",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/torasemid-hexal-5-mg-tabletten-dose-19497575.html",
+    "hf_context_zh": "伴心衰相关水肿或体液潴留的患者。",
+    "mechanism_zh": "促进肾脏排钠、排水，减轻循环液体负荷。",
+    "clinical_role_zh": "主要用于缓解淤血和水肿。",
+    "example_product_name": "TORASEMID HEXAL 5 mg Tabletten Dose",
+    "pzn": "19497575",
+    "example_strength_as_stated": "5 mg",
+    "pack_size_units": "100",
+    "market": "DE",
+    "collection_order": "83",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/torasemid-hexal-5-mg-tabletten-dose-19497575.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "Hexal AG",
+    "ingredient_content_as_listed": "Torasemid 5 mg pro 1 Tablette",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:43:10.255107+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/34/53/175334.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 123139,
+      "saved_as": "19497575_tablet_1.jpg",
+      "sha256": "27ac6252265706c0fa92cfa854f40a5b19d76e19752b83e2d321a994489c730b",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/35/53/175335.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 110516,
+      "saved_as": "19497575_tablet_2.jpg",
+      "sha256": "e5b26061de8e01cc4f293a430a7ba22ccdcf5cb5737bb4cc4a28dac014ce1bdb",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/23/35/23523.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 113374,
+      "saved_as": "19497575_leaflet.pdf",
+      "sha256": "28af7b3a448978dc5edf27f2ae1a652e4f7f7499f8710c6fa0b5a325b70b280e",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/torasemid-hexal-5-mg-tabletten-dose-19497575.html?file=3ed835aab05245fc2daff707abaa120f",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 11.2024"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von TORASEMID HEXAL 5 mg Tabletten Dose",
+    "pzn_on_page": "19497575",
+    "pack_size_on_page": "100 Stück (N3)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "Hexal AG Holzkirchen www.hexal.de",
+    "substances_on_page": [
+      "Torasemid 5 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Cellulose, mikrokristalline Lactose-1-Wasser Lactose Magnesium stearat (pflanzlich) Maisstärke",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/34/53/175334.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/34/53/175334.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/34/53/175334.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/35/53/175335.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 6,0 mm Höhe: 2,5 mm Masse: 79,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/torasemid-hexal-5-mg-tabletten-dose-19497575.html?file=3ed835aab05245fc2daff707abaa120f",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 11.2024"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15",
+    "provider_website": "https://www.hexal.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Torasemid HEXAL ist eine runde, weiße bis cremefarbene Tablette mit einer Bruchker- be. Die Tabletten sind in PVC/COC/PVDC/Al- Blister oder Al/Al-Blister verpackt und in einen Umkarton eingeschoben. Packungsgrößen: 30, 50 und 100 Tabletten Die Tabletten sind in HDPE-Behältnisse mit Schraubverschluss aus Polypropylen verpackt. Packungsgrößen: 100 Tabletten Es werden möglicherweise nicht alle Pa- ckungsgrößen in den Verkehr gebracht.",
+    "company_raw": "Hexal AG Industriestraße 25 83607 Holzkirchen Telefon: (08024) 908 0 Telefax: (08024) 908-1290 E-Mail: service@hexal.com",
+    "manufacturer_raw": "Lek Pharmaceuticals d.d. Verovskova ulica 57 1526 Ljubljana Slowenien",
+    "revision_raw": "November 2024",
+    "wirkstoff_raw": "Torasemid Lesen Sie die gesamte Packungsbeilage sorgfältig durch, bevor Sie mit der Ein- nahme dieses Arzneimittels beginnen, denn sie enthält wichtige Informationen. • Heben Sie die Packungsbeilage a",
+    "composition_raw": "• Der Wirsktoff ist Torasemid. 1 Tablette enthält 5 mg Torasemid. • Die sonstigen Bestandteile sind: mikro- kristalline Cellulose, Lactose-Monohydrat, Magnesiumstearat (Ph.Eur.) [pﬂanzlich], Maisstärke, hochdisperses Siliciumdioxid. Wie Torasemid HEXAL aussieht und Inhalt der Packung Torasemid HEXAL ist eine runde, weiße bis cremefarbene Tablette mit einer Bruchker- be. Die Tabletten sind in PVC/COC/PVDC/Al- Blister oder Al/Al-Blister verpackt und in einen Umkarton eingeschoben. Packungsgrößen:",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

@@ -1,0 +1,94 @@
+{
+  "pzn": "02592364",
+  "list_row": {
+    "active_ingredient": "Torasemid",
+    "category": "袢利尿剂 / Loop diuretic",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/torasemid-aaa-pharma-25-mg-tabletten-2592364.html",
+    "hf_context_zh": "伴心衰相关水肿或体液潴留的患者。",
+    "mechanism_zh": "促进肾脏排钠、排水，减轻循环液体负荷。",
+    "clinical_role_zh": "主要用于缓解淤血和水肿。",
+    "example_product_name": "TORASEMID AAA-Pharma 2,5 mg Tabletten",
+    "pzn": "02592364",
+    "example_strength_as_stated": "2,5 mg",
+    "pack_size_units": "100",
+    "market": "DE",
+    "collection_order": "72",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/torasemid-aaa-pharma-25-mg-tabletten-2592364.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "AAA - Pharma GmbH",
+    "ingredient_content_as_listed": "Torasemid 2,5 mg pro 1 Tablette",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:42:54.146537+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/32/26/32632.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 92146,
+      "saved_as": "02592364_tablet_1.jpg",
+      "sha256": "3e7d8e25c2e1702fc78eb715f2012a855b41c9d51c7d3146d8ce1ab27449ba3b",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/74/21/62174.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 241580,
+      "saved_as": "02592364_leaflet.pdf",
+      "sha256": "af24f5e143f8a083212657af45f53d8f06d3440b444673f95fe83db04c137086",
+      "pages": 6,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/torasemid-aaa-pharma-25-mg-tabletten-2592364.html?file=66f061a9fbd9dba00eb6955ad4247af7",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 06.2023"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von TORASEMID AAA-Pharma 2,5 mg Tabletten",
+    "pzn_on_page": "02592364",
+    "pack_size_on_page": "100 Stück (N3)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "AAA - Pharma GmbH Böblingen www.aaa-Pharma.de",
+    "substances_on_page": [
+      "Torasemid 2,5 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Cellulose, mikrokristalline Maisstärke Croscarmellose natrium Siliciumdioxid, hochdisperses Magnesium stearat (pflanzlich)",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/32/26/32632.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/32/26/32632.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/32/26/32632.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 6,0 mm Höhe: 3,2 mm Masse: 80,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Anordnung : ohne Kerbe Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/torasemid-aaa-pharma-25-mg-tabletten-2592364.html?file=66f061a9fbd9dba00eb6955ad4247af7",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 06.2023"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15",
+    "provider_website": "https://www.aaa-Pharma.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "",
+    "company_raw": "und",
+    "manufacturer_raw": "AAA-Pharma GmbH Flugfeld-Allee 24 71034 Böblingen Deutschland E-Mail: info@aaa-pharma.de Hersteller Artesan Pharma GmbH & Co. KG Wendlandstr.1 D-29439 Lüchow oder Medis International a.s. Karlovo náměstí 3 12000 Prag 2 Tschechische Republik",
+    "revision_raw": "Juni 2023",
+    "wirkstoff_raw": "enthalten, deren Bezeichnungen meistens auf „-mid“ enden • an einer Niereninsuffizienz mit unzureichender Urinproduktion leiden • an einer schweren Lebererkrankung mit Bewusstseinsverlust leiden • ein",
+    "composition_raw": "",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

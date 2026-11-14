@@ -1,0 +1,99 @@
+{
+  "pzn": "01015676",
+  "list_row": {
+    "active_ingredient": "Enalapril",
+    "category": "血管紧张素转换酶抑制剂 / ACE inhibitor",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/enalapril-abz-5-mg-tabletten-1015676.html",
+    "hf_context_zh": "有症状的HFrEF；某些无症状左室功能不全患者用于预防症状性心衰。",
+    "mechanism_zh": "抑制ACE，减少血管收缩和钠水潴留相关激素作用。",
+    "clinical_role_zh": "HFrEF中肾素-血管紧张素系统治疗的选择。",
+    "example_product_name": "ENALAPRIL AbZ 5 mg Tabletten",
+    "pzn": "01015676",
+    "example_strength_as_stated": "5 mg Enalaprilmaleat",
+    "pack_size_units": "100",
+    "market": "DE",
+    "collection_order": "13",
+    "collection_status": "pending_extraction",
+    "notes_zh": "5 mg标示对应盐形式；记录原文，不要把游离成分换算量误写为产品标示规格。",
+    "strength_note_zh": "示例产品规格，不是患者每次或每日服药剂量；具体适应证以该产品现行说明书为准",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/enalapril-abz-5-mg-tabletten-1015676.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "心衰相关药物采集起始清单；每种成分/复方选一个产品示例，不穷尽药物、品牌或规格；非患者用药方案；图片和PDF待采集核实。"
+  },
+  "retrieved_at": "2026-11-13T11:37:17.314715+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/15/84/48415.jpg",
+      "http_status": 200,
+      "content_type": "image/jpeg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 86210,
+      "saved_as": "01015676_original_image_1.jpg",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/16/84/48416.jpg",
+      "http_status": 200,
+      "content_type": "image/jpeg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 80414,
+      "saved_as": "01015676_original_image_2.jpg",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/49/05/40549.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 595477,
+      "saved_as": "01015676_leaflet.pdf",
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/enalapril-abz-5-mg-tabletten-1015676.html?file=521109ba99d1576028f079138034335b",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 07.2020"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von ENALAPRIL AbZ 5 mg Tabletten",
+    "pzn_on_page": "01015676",
+    "pack_size_on_page": "100 Stück (N3)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten Dosierung & Anwendung Nebenwirkungen Wechselwirkungen alle Kapitel anzeigen Wirkung Originalbilder Anwendungsgebiete Gegenanzeigen & Hinweise Aufbewahrung Lagerungshinweise PDF-Dokumente",
+    "provider_on_page": "AbZ-Pharma GmbH Ulm www.abz.de",
+    "substances_on_page": [
+      "Enalapril maleat 5 mg pro 1 Tablette",
+      "= Enalapril (3,82 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Natriumhydrogencarbonat Lactose-1-Wasser Maisstärke Hyprolose Talkum",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/15/84/48415.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/15/84/48415.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/15/84/48415.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/16/84/48416.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 7,1 mm Höhe: 3,7 mm Masse: 170,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/enalapril-abz-5-mg-tabletten-1015676.html?file=521109ba99d1576028f079138034335b",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 07.2020"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Weiße, runde, beidseits gewölbte Tablette mit einer Bruchkerbe auf einer Seite. Enalapril AbZ 5 mg ist in Packungen mit 50 und 100 Tabletten erhältlich. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "AbZ-Pharma GmbH Graf-Arco-Str. 3 89079 Ulm Deutschland 11",
+    "manufacturer_raw": "Merckle GmbH Ludwig-Merckle-Str. 3 89143 Blaubeuren Deutschland oder Teva Operations Poland Sp. z o.o. UL. Emilii Plater 53 00-113 WARSZAWA POLEN",
+    "revision_raw": "Juli 2020",
+    "wirkstoff_raw": "Enalaprilmaleat Lesen Sie die gesamte Packungsbeilage sorgfältig durch, bevor Sie mit der Einnahme dieses Arzneimittels beginnen, denn sie enthält wichtige Informationen. - Heben Sie die Packungsbeila",
+    "composition_raw": "Der Wirkstoff ist Enalaprilmaleat. Jede Tablette enthält 5 mg Enalaprilmaleat. Die sonstigen Bestandteile sind: Natriumhydrogencarbonat, Lactose-Monohydrat, Maisstärke, Hyprolose, Talkum, Magnesiumstearat (Ph.Eur.). Wie Enalapril AbZ aussieht und Inhalt der Packung Weiße, runde, beidseits gewölbte Tablette mit einer Bruchkerbe auf einer Seite. Enalapril AbZ 5 mg ist in Packungen mit 50 und 100 Tabletten erhältlich. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht. Pharm",
+    "pdf_title": ""
+  }
+}

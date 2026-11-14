@@ -1,0 +1,33 @@
+{% for item in items %}
+<article class="card">
+  <h2><span class="medicine-number">{{ '%02d'|format(loop.index) }}</span> {{ item.product_name }}</h2>
+  {% if item.substituted %}<p class="status-substituted"><strong>SUBSTITUTED</strong></p>{% else %}<p class="status-prescribed">Dispensed as prescribed</p>{% endif %}
+  <dl class="medicine-facts">
+    <dt>PZN</dt><dd>{{ item.pzn }}</dd>
+    <dt>Medicine name</dt><dd>{{ item.product_name }}</dd>
+    {% if item.active_ingredient %}<dt>Active ingredient</dt><dd>{{ item.active_ingredient }}</dd>{% endif %}
+    {% if item.details.get('ingredient_form_as_stated') %}<dt>Ingredient form (as stated)</dt><dd>{{ item.details.ingredient_form_as_stated }}</dd>{% endif %}
+    {% if item.strength %}<dt>Medicine strength (as stated)</dt><dd>{{ item.strength }}</dd>{% endif %}
+    {% if item.dosage_form %}<dt>Dosage form</dt><dd>{{ item.dosage_form }}</dd>{% endif %}
+    {% for key, label in [('brand','Brand'), ('pack_size','Pack size (as stated)'), ('manufacturer','Manufacturer'), ('pharmaceutical_company','Pharmaceutical company')] %}
+      {% if item.details.get(key) %}<dt>{{ label }}</dt><dd>{{ item.details[key] }}</dd>{% endif %}
+    {% endfor %}
+  </dl>
+  {% if item.photo %}<img class="dispensing-photo" src="{{ url_for('pharmacy.media', token=token, item_id=item.item_id, index=0) }}" alt="{{ item.product_name }}">{% endif %}
+  {% for img in item.images %}<img class="dispensing-photo" src="{{ url_for('pharmacy.media', token=token, item_id=item.item_id, index=loop.index) }}" alt="{{ item.product_name }}">{% endfor %}
+  {% if not item.photo and not item.images %}<p class="card-sub">No photo available.</p>{% endif %}
+  {% if item.description or item.details.get('color') or item.details.get('shape') or item.details.get('imprint') or item.details.get('score_line') or item.details.get('size_description') or item.details.get('appearance_description_original') %}
+  <h3>Appearance and identification</h3>
+  <dl class="medicine-facts">
+    {% for key, label in [('color','Colour'), ('shape','Shape'), ('size_description','Size'), ('imprint','Imprint / markings'), ('score_line','Score line'), ('appearance_description_original','Original appearance / size description')] %}
+      {% if item.details.get(key) %}<dt>{{ label }}</dt><dd>{{ item.details[key] }}</dd>{% endif %}
+    {% endfor %}
+    {% if item.description %}<dt>Pharmacy description</dt><dd>{{ item.description }}</dd>{% endif %}
+  </dl>
+  {% endif %}
+  {% if item.indication %}<p>Indication: {{ item.indication }} (pharmacy supplied)</p>{% endif %}
+  <h3>Your prescribed use</h3>
+  <p><strong>{{ item.units_per_dose }} unit(s) per dose · {{ item.times_per_day }} time(s) per day</strong></p>
+  {% if item.instructions %}<p>{{ item.instructions }}</p>{% endif %}
+</article>
+{% endfor %}

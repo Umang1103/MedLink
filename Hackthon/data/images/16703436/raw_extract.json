@@ -1,0 +1,103 @@
+{
+  "pzn": "16703436",
+  "list_row": {
+    "active_ingredient": "Torasemid",
+    "category": "袢利尿剂 / Loop diuretic",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/torasemid-denk-10-mg-tabletten-16703436.html",
+    "hf_context_zh": "伴心衰相关水肿或体液潴留的患者。",
+    "mechanism_zh": "促进肾脏排钠、排水，减轻循环液体负荷。",
+    "clinical_role_zh": "主要用于缓解淤血和水肿。",
+    "example_product_name": "TORASEMID Denk 10 mg Tabletten",
+    "pzn": "16703436",
+    "example_strength_as_stated": "10 mg",
+    "pack_size_units": "100",
+    "market": "DE",
+    "collection_order": "74",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/torasemid-denk-10-mg-tabletten-16703436.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "Denk Pharma GmbH & Co. KG",
+    "ingredient_content_as_listed": "Torasemid 10 mg pro 1 Tablette",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:42:55.935576+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/50/32/103250.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 102756,
+      "saved_as": "16703436_tablet_1.jpg",
+      "sha256": "92cdcb1ccd403e59b552837b7ac3876929914483acd2abbac7cff3afd8da63bb",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/51/32/103251.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 104053,
+      "saved_as": "16703436_tablet_2.jpg",
+      "sha256": "de1a92799628710e35051f84487ff05c097ff149ae1343f3b715bb89679d456c",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/20/83/188320.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 197118,
+      "saved_as": "16703436_leaflet.pdf",
+      "sha256": "fd0184d3a6a61972375a8e9a768714eb9ddc6c5d9e2c7eef388f12ec38c47acc",
+      "pages": 7,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/torasemid-denk-10-mg-tabletten-16703436.html?file=4f3d4dc70e39c8b91e52716944a31383",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 06.2023"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von TORASEMID Denk 10 mg Tabletten",
+    "pzn_on_page": "16703436",
+    "pack_size_on_page": "100 Stück (N3)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "Denk Pharma GmbH & Co. KG München",
+    "substances_on_page": [
+      "Torasemid 10 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Lactose-1-Wasser Lactose Cellulose, mikrokristalline Carboxymethylstärke, Natrium Typ A Magnesium stearat (pflanzlich)",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/50/32/103250.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/50/32/103250.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/50/32/103250.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/51/32/103251.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 8,1 mm Höhe: 3,8 mm Masse: 200,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"10\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/torasemid-denk-10-mg-tabletten-16703436.html?file=4f3d4dc70e39c8b91e52716944a31383",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 06.2023"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Weiße bis cremefarbene, runde Tabletten mit Prägung “10” auf der einen Seite und Bruchkerbe auf der anderen Seite. Die Tablette kann in gleiche Hälften geteilt werden. Torasemid Denk 10 mg ist in Packungen mit 30, 50, 100 Tabletten erhältlich. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "DENK PHARMA GmbH & Co. KG Prinzregentenstr. 79 81675 München",
+    "manufacturer_raw": "DENK PHARMA GmbH & Co. KG Göllstr. 1 84529 Tittmoning",
+    "revision_raw": "Juni 2023",
+    "wirkstoff_raw": "von Torasemid Denk, zeigten keine fruchtschädigenden Wirkungen. Nach Gabe von hohen Dosen des Wirkstoffs wurden jedoch schädliche Wirkungen auf das ungeborene Tier und das Muttertier beobachtet. Solan",
+    "composition_raw": "Der Wirkstoff ist Torasemid. 1 Tablette Torasemid Denk 10 mg enthält 10 mg Torasemid. Die sonstigen Bestandteile sind: Lactose-Monohydrat, Mikrokristalline Cellulose, Carboxymethylstärke- Natrium (Typ A) (Ph. Eur.), Magnesiumstearat (Ph. Eur. ) [pflanzlich], Hochdisperses Siliciumdioxid. Wie Torasemid Denk 10 mg aussieht und Inhalt der Packung Weiße bis cremefarbene, runde Tabletten mit Prägung “10” auf der einen Seite und Bruchkerbe auf der anderen Seite. Die Tablette kann in gleiche Hälften ge",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

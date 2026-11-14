@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+{% block title %}Prescription #{{ prescription.id }} - MedLink{% endblock %}
+{% block content %}
+{% include '_doctor_prescription.html' %}
+<section class="card prescription-actions">
+    <button type="button" onclick="window.print()">Print prescription</button>
+    <a href="{{ url_for('medicine_intake.index') }}">Open patient</a>
+    <a href="{{ url_for('prescriptions.index') }}">New prescription</a>
+    <a href="{{ url_for('prescriptions.history') }}">Prescription history</a>
+</section>
+{% endblock %}

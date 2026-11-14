@@ -1,0 +1,104 @@
+{
+  "pzn": "17420605",
+  "list_row": {
+    "active_ingredient": "Carvedilol",
+    "category": "β受体阻滞剂（兼α1阻断） / Beta-blocker",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/carvedilol-hexal-125-mg-tabletten-dose-17420605.html",
+    "hf_context_zh": "HFrEF：射血分数降低的心衰（心脏泵血能力减弱）",
+    "mechanism_zh": "阻断β受体并扩张外周血管，减轻心脏负担。",
+    "clinical_role_zh": "稳定慢性HFrEF的基础治疗选择。",
+    "example_product_name": "CARVEDILOL HEXAL 12,5 mg Tabletten Dose",
+    "pzn": "17420605",
+    "example_strength_as_stated": "12,5 mg",
+    "pack_size_units": "100",
+    "market": "DE",
+    "collection_order": "104",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/carvedilol-hexal-125-mg-tabletten-dose-17420605.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "Hexal AG",
+    "ingredient_content_as_listed": "Carvedilol 12,5 mg pro 1 Tablette",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:43:28.853239+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/42/53/175342.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 182478,
+      "saved_as": "17420605_tablet_1.jpg",
+      "sha256": "d9f3bd55962c90c74632f34e903dac1be6aa1415be9c67fc0ae76049a84d69ba",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/43/53/175343.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 178729,
+      "saved_as": "17420605_tablet_2.jpg",
+      "sha256": "cee1545187cfc4251c8a2c2b4fb8a40b49953befdf2699fdcb5ac38aeeb13acb",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/99/30/23099.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 127481,
+      "saved_as": "17420605_leaflet.pdf",
+      "sha256": "caec3c84365d48b788af86df09ced0a69358110dcdf90f0fa6749aa12e3321d2",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/carvedilol-hexal-125-mg-tabletten-dose-17420605.html?file=082bac0effaac2b26722a657ad8821e1",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 10.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von CARVEDILOL HEXAL 12,5 mg Tabletten Dose",
+    "pzn_on_page": "17420605",
+    "pack_size_on_page": "100 Stück (N3)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "Hexal AG Holzkirchen www.hexal.de",
+    "substances_on_page": [
+      "Carvedilol 12,5 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Lactose-1-Wasser Lactose Cellulose, mikrokristalline Crospovidon Povidon K30",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/42/53/175342.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/42/53/175342.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/42/53/175342.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/43/53/175343.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 7,1 mm Höhe: 2,5 mm Masse: 101,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : beidseitig Spaltung 2 : ja 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"C3\" Besonderheiten Die Tablette ist marmoriert und hat auf der Vorderseite eine breite und auf der Rückseite eine schmale keilförmige Kerbe. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/carvedilol-hexal-125-mg-tabletten-dose-17420605.html?file=082bac0effaac2b26722a657ad8821e1",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 10.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-03-10",
+    "provider_website": "https://www.hexal.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "",
+    "company_raw": "Hexal AG Industriestraße 25 83607 Holzkirchen Telefon: (08024) 908-0 Telefax: (08024) 908-1290 E-Mail: service@hexal.com",
+    "manufacturer_raw": "Salutas Pharma GmbH Otto-von-Guericke-Allee 1 39179 Barleben",
+    "revision_raw": "Oktober 2025",
+    "wirkstoff_raw": "s Carvedilol im Blut und zu unvorhersehbaren Nebenwirkungen führen. Der übermäßige und zeitgleiche bzw. zeitnahe Genuss von Alkohol sollte ebenfalls vermieden werden, weil Alkohol die Wirkung von Carv",
+    "composition_raw": "• Der Wirkstoff ist Carvedilol. Jede Tablette enthält 12,5 mg Carvedilol. • Die sonstigen Bestandteile sind: Lactose-Mo- nohydrat, mikrokristalline Cellulose, Crospovi- don, Povidon K30, hochdisperses Siliciumdi- oxid, Magnesiumstearat (Ph.Eur.), Eisen(III)-oxid (E 172), Eisen(III)-hydroxid-oxid x H2O Wie Carvedilol HEXAL aussieht und In- halt der Packung Altrosa, runde, konvexe Tablette mit einer Bruch- kerbe und der Markierung C3 auf einer Seite. Packungsgrößen: Polyethylen (PE-HD) Behälter mi",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

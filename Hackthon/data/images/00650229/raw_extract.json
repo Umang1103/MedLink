@@ -1,0 +1,104 @@
+{
+  "pzn": "00650229",
+  "list_row": {
+    "active_ingredient": "Ramipril",
+    "category": "血管紧张素转换酶抑制剂 / ACE inhibitor",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ramipril-ct-25-mg-tabletten-650229.html",
+    "hf_context_zh": "有症状的心衰，主要关联HFrEF；也可用于特定心梗后心衰。",
+    "mechanism_zh": "减少血管紧张素II生成，降低血管阻力及醛固酮作用。",
+    "clinical_role_zh": "HFrEF中肾素-血管紧张素系统治疗的选择。",
+    "example_product_name": "RAMIPRIL-CT 2,5 mg Tabletten",
+    "pzn": "00650229",
+    "example_strength_as_stated": "2,5 mg",
+    "pack_size_units": "100",
+    "market": "DE",
+    "collection_order": "126",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ramipril-ct-25-mg-tabletten-650229.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "AbZ-Pharma GmbH",
+    "ingredient_content_as_listed": "Ramipril 2,5 mg pro 1 Tablette",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:43:50.251177+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/08/60/86008.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 137348,
+      "saved_as": "00650229_tablet_1.jpg",
+      "sha256": "add0f956d56ef0a7af520a91a366a12e43fee9aa78c599bef495fdb7713eb51a",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/09/60/86009.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 129609,
+      "saved_as": "00650229_tablet_2.jpg",
+      "sha256": "1ef32c49dd1fa7304dedeffc802fdf72b5390f69ae29e868abb5ff7740563568",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/51/13/41351.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 178845,
+      "saved_as": "00650229_leaflet.pdf",
+      "sha256": "657cd9d1e92b296ea78515e436283babb5381c547fc62a97b35ef4ac3f10a5ed",
+      "pages": 8,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ramipril-ct-25-mg-tabletten-650229.html?file=2987722e806893559384c9cb4ae0fa65",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 09.2024"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von RAMIPRIL-CT 2,5 mg Tabletten",
+    "pzn_on_page": "00650229",
+    "pack_size_on_page": "100 Stück (N3)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "AbZ-Pharma GmbH Ulm www.abz.de",
+    "substances_on_page": [
+      "Ramipril 2,5 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Natriumhydrogencarbonat Lactose-1-Wasser Croscarmellose natrium Maisstärke, vorverkleistert Natriumstearylfumarat",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/08/60/86008.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/08/60/86008.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/08/60/86008.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/09/60/86009.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 8,0 mm Höhe: 3,5 mm Masse: 206,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Besonderheiten Die Tablette ist gesprenkelt. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/ramipril-ct-25-mg-tabletten-650229.html?file=2987722e806893559384c9cb4ae0fa65",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 09.2024"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27",
+    "provider_website": "https://www.abz.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Tabletten Hellgelbe mit gelben bis gelb-orangenen Punkten, runde, bikonvexe Tabletten mit einseitiger Bruchkerbe und einem Durchmesser von 8,0 mm. Die Tablette kann in gleiche Hälften geteilt werden. ist in Packungen mit 20, 50 und 100 Tabletten erhältlich.Ramipril-CT Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "AbZ-Pharma GmbH Graf-Arco-Str. 3 89079 Ulm",
+    "manufacturer_raw": "Merckle GmbH Ludwig-Merckle-Str. 3 89143 Blaubeuren",
+    "revision_raw": "September 2024",
+    "wirkstoff_raw": "Ramipril. Dieser gehört zur Wirkstoffklasse der ACE-Hemmer (ACE = Angiotensin Converting Enzyme/ Ramipril-CT Angiotensinkonversionsenzym). wirkt, indem es:Ramipril-CT — die körpereigene Produktion von",
+    "composition_raw": "den Wirkstoff Ramipril. Dieser gehört zur Wirkstoffklasse der ACE-Hemmer (ACE = Angiotensin Converting Enzyme/ Ramipril-CT Angiotensinkonversionsenzym). wirkt, indem es:Ramipril-CT — die körpereigene Produktion von Substanzen reduziert, die den Blutdruck steigen lassen, — Ihre Blutgefäße entspannt und weiter stellt, — dem Herzen erleichtert, Blut durch den Körper zu pumpen. wird angewendet zur:Ramipril-CT — Behandlung von Bluthochdruck (Hypertonie), — Senkung des Risikos, einen Herzinfarkt oder",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

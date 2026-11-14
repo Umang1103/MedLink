@@ -20,7 +20,9 @@
 
 <nav class="tabs" aria-label="Patient sections">
   <a href="{{ url_for('medicine_identification.index') }}"
-     {% if active_tab == 'identification' %}class="active" aria-current="page"{% endif %}>Medicine Identification</a>
+     {% if active_tab == 'identification' %}class="active" aria-current="page"{% endif %}>Prescription</a>
+  <a href="{{ url_for('patient.patient_version') }}"
+     {% if active_tab == 'patient_version' %}class="active" aria-current="page"{% endif %}>Patient version</a>
   <a href="{{ url_for('medicine_intake.index') }}"
      {% if active_tab == 'intake' %}class="active" aria-current="page"{% endif %}>Medicine Intake Supervision</a>
 </nav>

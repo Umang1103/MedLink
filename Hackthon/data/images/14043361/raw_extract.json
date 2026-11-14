@@ -1,0 +1,105 @@
+{
+  "pzn": "14043361",
+  "list_row": {
+    "active_ingredient": "Nebivolol",
+    "category": "β受体阻滞剂 / Beta-blocker",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/nebivolol-puren-5-mg-tabletten-14043361.html",
+    "hf_context_zh": "≥70岁患者的稳定、轻至中度慢性心衰，作为标准治疗的补充。",
+    "mechanism_zh": "阻断β1受体，降低心率；另有一氧化氮相关血管舒张作用。",
+    "clinical_role_zh": "特定老年心衰患者的治疗选择。",
+    "example_product_name": "NEBIVOLOL PUREN 5 mg Tabletten",
+    "pzn": "14043361",
+    "example_strength_as_stated": "5 mg",
+    "pack_size_units": "30",
+    "market": "DE",
+    "collection_order": "113",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/nebivolol-puren-5-mg-tabletten-14043361.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "PUREN Pharma GmbH & Co. KG",
+    "ingredient_content_as_listed": "Nebivolol hydrochlorid 5,45 mg pro 1 Tablette; = Nebivolol (5 mg pro 1 Tablette)",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:43:36.766433+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/80/23/102380.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 102013,
+      "saved_as": "14043361_tablet_1.jpg",
+      "sha256": "70eeae4cce029c9f7de9886b3375ed19010f69badd53b42d23bfff0447629f7c",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/81/23/102381.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 101108,
+      "saved_as": "14043361_tablet_2.jpg",
+      "sha256": "bf33f29f165a41333ac591d0ab673f1ec57131704daaf63a460cfd78378aa871",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/23/59/95923.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 280184,
+      "saved_as": "14043361_leaflet.pdf",
+      "sha256": "766ee26060910a6c9426608ecc925147cd0f3332e46983a4aac9ba17e4ca9e84",
+      "pages": 8,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/nebivolol-puren-5-mg-tabletten-14043361.html?file=61610d13f218963ea3b1f4fa5f0ef0fb",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 03.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von NEBIVOLOL PUREN 5 mg Tabletten",
+    "pzn_on_page": "14043361",
+    "pack_size_on_page": "30 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "PUREN Pharma GmbH & Co. KG München www.puren-pharma.de",
+    "substances_on_page": [
+      "Nebivolol hydrochlorid 5,45 mg pro 1 Tablette",
+      "= Nebivolol (5 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Lactose-1-Wasser Maisstärke Croscarmellose natrium Hypromellose (15 mPa·s) Polysorbat 80",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/80/23/102380.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/80/23/102380.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/80/23/102380.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/81/23/102381.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 9,1 mm Höhe: 3,2 mm Masse: 236,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Kreuzkerbe Form : keil-/rinnenförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"N L5\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/nebivolol-puren-5-mg-tabletten-14043361.html?file=61610d13f218963ea3b1f4fa5f0ef0fb",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 03.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15",
+    "provider_website": "https://www.puren-pharma.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Tablette. Weiße bis weißgraue, runde (Durchmesser: 9,1 mm), bikonvexe, unbeschichtete Tabletten, bei denen auf einer Seite „N“, „L“ und „5“ eingeprägt und durch eine Kreuzbruchkerbe voneinander getrennt sind, während die andere Seite glatt ist. Die Tablette kann in gleiche Dosen (Hälften und Viertel) geteilt werden. Nebivolol PUREN Tabletten sind erhältlich in Blisterpackungen und Flaschen aus HDPE mit Polypropylen-Verschluss. Packungsgrößen: Blisterpackungen: 14, 28, 30, 50, 60, 90 und 100 Tabletten HDPE-Packungen: 250 Tabletten Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "PUREN Pharma GmbH & Co.KG Willy-Brandt-Allee 2 81829 München Telefon: 089/558909 - 0 Telefax: 089/558909 - 240",
+    "manufacturer_raw": "APL Swift Services (Malta) Limited HF26, Hal Far Industrial Estate, Hal Far, Birzebbugia, BBG 3000 Malta Generis Farmacêutica, S.A., Rua João de Deus, 19, 2700-487 Amadora, Portugal",
+    "revision_raw": "März 2025",
+    "wirkstoff_raw": "ist: Nebivolol. Jede Tablette enthält 5,45 mg Nebivololhydrochlorid entsprechend 5 mg Nebivolol. • Die sonstigen Bestandteile sind: Lactose-Monohydrat, Maisstärke, Croscarmellose- Seite 8 von 8 Natriu",
+    "composition_raw": "• Der Wirkstoff ist: Nebivolol. Jede Tablette enthält 5,45 mg Nebivololhydrochlorid entsprechend 5 mg Nebivolol. • Die sonstigen Bestandteile sind: Lactose-Monohydrat, Maisstärke, Croscarmellose- Seite 8 von 8 Natrium, Hypromellose 15 cP, Polysorbat 80, hochdisperses Siliciumdioxid, mikrokristalline Cellulose (PH 102), Magnesiumstearat (Ph. Eur.) [pflanzlich]. Wie Nebivolol PUREN aussieht und Inhalt der Packung Tablette. Weiße bis weißgraue, runde (Durchmesser: 9,1 mm), bikonvexe, unbeschichtete",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}
