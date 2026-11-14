@@ -1,0 +1,104 @@
+{
+  "pzn": "01499579",
+  "list_row": {
+    "active_ingredient": "Valsartan",
+    "category": "血管紧张素II受体阻滞剂 / ARB",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/diovan-80-mg-filmtabletten-1499579.html",
+    "hf_context_zh": "特定有症状的HFrEF患者；也用于特定心梗后左室功能不全/心衰。",
+    "mechanism_zh": "阻断AT1受体，减轻血管收缩、钠水潴留和心脏负荷。",
+    "clinical_role_zh": "HFrEF中肾素-血管紧张素系统治疗的替代选择。",
+    "example_product_name": "DIOVAN 80 mg Filmtabletten",
+    "pzn": "01499579",
+    "example_strength_as_stated": "80 mg",
+    "pack_size_units": "98",
+    "market": "DE",
+    "collection_order": "165",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/diovan-80-mg-filmtabletten-1499579.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Filmtabletten",
+    "pharmaceutical_company_as_listed": "Novartis Pharma GmbH",
+    "ingredient_content_as_listed": "Valsartan 80 mg pro 1 Tablette",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:44:31.246219+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/23/47/154723.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 177812,
+      "saved_as": "01499579_tablet_1.jpg",
+      "sha256": "123a92d7d57a0b4f19bc8a27699fb950782358e46b8ab3082f4d2a09566bd226",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/24/47/154724.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 176849,
+      "saved_as": "01499579_tablet_2.jpg",
+      "sha256": "4988b7c5d94e75561e88559231dfd3976562a3f4b57f1d815ebe767e29063d4f",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/42/55/135542.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 215077,
+      "saved_as": "01499579_leaflet.pdf",
+      "sha256": "183d7218f11eec7a9aeb5f3d528e0ff1911fc37644f6dd7e25a4cb50e949f64b",
+      "pages": 12,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/diovan-80-mg-filmtabletten-1499579.html?file=62fa78633217e1fa0024f881306b3c28",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 05.2026"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von DIOVAN 80 mg Filmtabletten",
+    "pzn_on_page": "01499579",
+    "pack_size_on_page": "98 Stück (N3)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten",
+    "provider_on_page": "Novartis Pharma GmbH Nürnberg www.novartis.de",
+    "substances_on_page": [
+      "Valsartan 80 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Cellulose, mikrokristalline Crospovidon Siliciumdioxid, hochdisperses Magnesium stearat Hypromellose",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/23/47/154723.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/23/47/154723.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/23/47/154723.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/24/47/154724.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 7,3 mm Höhe: 3,5 mm Masse: 160,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"DV\", \"NVR\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/diovan-80-mg-filmtabletten-1499579.html?file=62fa78633217e1fa0024f881306b3c28",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 05.2026"
+      }
+    ],
+    "page_last_reviewed": "2026-10-27",
+    "provider_website": "https://www.novartis.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Diovan 40 mg Filmtabletten sind gelbe, ovaloide, leicht konvexe Filmtabletten mit abgeschrägten Kanten und Bruchrille auf einer Seite. Auf der einen Seite der Bruchrille ist „D“ und auf der anderen Seite der Bruchrille „O“ sowie auf der Rückseite der Tablette „NVR“ eingeprägt. Die Tablette kann in zwei gleiche Hälften geteilt werden. Diovan 80 mg Filmtabletten sind runde, blassrot, leicht konvexe Filmtabletten mit abgeschrägten Kanten und Bruchrille auf einer Seite. Auf der einen Seite der Bruchrille ist „D“ und auf der anderen Seite der Bruchrille „V“ sowie auf der Rückseite der Tablette „NVR“ eingeprägt. Die Bruchrille dient nur zum Teilen der Tablette für ein erleichtertes Schlucken und nicht zum Aufteilen in gleiche Dosen. Diovan 160 mg protect Filmtabletten sind ovale, grauorange, leicht konvexe Filmtabletten mit Bruchrille auf einer Seite. Auf einer Seite ist beidseits der Bruchrille jeweils „DX“ und auf der Rückseite der Tablette „NVR“ eingeprägt. Die Bruchrille dient nur zum Teilen der Tablette für ein erleichtertes Schlucken und nicht zum Aufteilen in gleiche Dosen. Gebrauchsinformation: Information für Patienten DIOVAN® 40 mg Filmtabletten DIOVAN® 80 mg Filmtabletten DIOVAN® 160 mg protect Filmtabletten DIOVAN® 320 mg forte Filmtabletten Stand: Mai 2026 11 Diovan 320 mg forte Filmtabletten sind dunkelgrauviolett, ovale, leicht konvexe Filmtabletten mit abgeschrägten Kanten und Bruchrille auf einer Seite. Auf einer Seite ist beidseits der Bruchrille jeweils „DC“ und auf der Rückseite der Tablette „NVR“ eingeprägt. Die Bruchrille dient nur zum Teilen der Tablette für ein erleichtertes Schlucken und nicht zum Aufteilen in gleiche Dosen. Diovan wird in den folgenden Blisterpackungen bereitgestellt: Diovan 40 mg: 14 Filmtabletten, 14 Filmtabletten als Kalenderpackung, 28 Filmtabletten, 28 Filmtabletten als Kalenderpackung, 30 Filmtabletten, 84 Filmtabletten und 90 Filmtabletten. Diovan 80 mg: 14 Filmtabletten, 14 Filmtabletten als Kalenderpackung, 28 Filmtabletten, 28 Filmtabletten als Kalenderpackung, 30 Filmtabletten, 56 Filmtabletten als Kalenderpackung, 84 Filmtabletten, 90 Filmtabletten, 98 Filmtabletten und 98 Filmtabletten als Kalenderpackung. Diovan 160 mg: 14 Filmtabletten als Kalenderpackung, 28 Filmtabletten, 28 Filmtabletten als Kalenderpackung, 30 Filmtabletten, 56 Filmtabletten, 56 Filmtabletten als Kalenderpackung, 84 Filmtabletten, 90 Filmtabletten und 98 Filmtabletten als Kalenderpackung. Diovan 320 mg: 14 Filmtabletten als Kalenderpackung, 28 Filmtabletten als Kalenderpackung und 98 Filmtabletten als Kalenderpackung. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "Novartis Pharma GmbH Sophie-Germain-Straße 10 90443 Nürnberg Telefon: (09 11) 273-0",
+    "manufacturer_raw": "Novartis Pharma GmbH Sophie-Germain-Straße 10 90443 Nürnberg Deutschland Falls Sie weitere Informationen über das Arzneimittel wünschen, setzen Sie sich bitte mit dem Pharmazeutischen Unternehmer in Verbindung. Gebrauchsinformation: Information für Patienten DIOVAN® 40 mg Filmtabletten DIOVAN® 80 mg Filmtabletten DIOVAN® 160 mg protect Filmtabletten DIOVAN® 320 mg forte Filmtabletten Stand: Mai 2026 12",
+    "revision_raw": "Mai 2026",
+    "wirkstoff_raw": "Valsartan und gehört zu einer Klasse von Arzneimitteln, die als Angiotensin-II-Rezeptor-Antagonisten bekannt sind und helfen, einen hohen Blutdruck zu kontrollieren. Angiotensin II ist eine körpereige",
+    "composition_raw": "den Wirkstoff Valsartan und gehört zu einer Klasse von Arzneimitteln, die als Angiotensin-II-Rezeptor-Antagonisten bekannt sind und helfen, einen hohen Blutdruck zu kontrollieren. Angiotensin II ist eine körpereigene Substanz, welche die Blutgefäße verengt und damit bewirkt, dass Ihr Blutdruck ansteigt. Diovan wirkt durch eine Blockade des Effekts von Angiotensin II. Dadurch werden die Blutgefäße erweitert und der Blutdruck gesenkt. Gebrauchsinformation: Information für Patienten DIOVAN® 40 mg F",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

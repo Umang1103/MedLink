@@ -1,0 +1,99 @@
+{
+  "pzn": "03879429",
+  "list_row": {
+    "active_ingredient": "Metoprolol",
+    "category": "β受体阻滞剂 / Beta-blocker",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/beloc-zok-mite-475-mg-retardtabletten-3879429.html",
+    "hf_context_zh": "HFrEF：射血分数降低的心衰（心脏泵血能力减弱）；使用有心衰证据的琥珀酸盐缓释制剂。",
+    "mechanism_zh": "阻断心脏β1受体，减慢心率并减轻交感神经长期过度刺激。",
+    "clinical_role_zh": "稳定慢性HFrEF的基础治疗选择。",
+    "example_product_name": "BELOC-ZOK mite 47,5 mg Retardtabletten",
+    "pzn": "03879429",
+    "example_strength_as_stated": "47.5 mg Metoprololsuccinat",
+    "pack_size_units": "30",
+    "market": "DE",
+    "collection_order": "9",
+    "collection_status": "pending_extraction",
+    "notes_zh": "必须保留Metoprololsuccinat和Retard信息；不要与酒石酸盐普通片合并为同一产品。",
+    "strength_note_zh": "示例产品规格，不是患者每次或每日服药剂量；具体适应证以该产品现行说明书为准",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/beloc-zok-mite-475-mg-retardtabletten-3879429.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "心衰相关药物采集起始清单；每种成分/复方选一个产品示例，不穷尽药物、品牌或规格；非患者用药方案；图片和PDF待采集核实。"
+  },
+  "retrieved_at": "2026-11-13T11:36:34.352858+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/95/71/57195.jpg",
+      "http_status": 200,
+      "content_type": "image/jpeg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 81293,
+      "saved_as": "03879429_original_image_1.jpg",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/96/71/57196.jpg",
+      "http_status": 200,
+      "content_type": "image/jpeg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 79210,
+      "saved_as": "03879429_original_image_2.jpg",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/37/18/41837.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 196915,
+      "saved_as": "03879429_leaflet.pdf",
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/beloc-zok-mite-475-mg-retardtabletten-3879429.html?file=17e07c76edf0a420cd2695138e259301",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 02.2022"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von BELOC-ZOK mite 47,5 mg Retardtabletten",
+    "pzn_on_page": "03879429",
+    "pack_size_on_page": "30 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Retard-Tabletten Dosierung & Anwendung Nebenwirkungen Wechselwirkungen alle Kapitel anzeigen Wirkung Originalbilder Anwendungsgebiete Gegenanzeigen & Hinweise Aufbewahrung Lagerungshinweise PDF-Dokumente",
+    "provider_on_page": "Recordati Pharma GmbH Ulm www.recordati.de",
+    "substances_on_page": [
+      "Metoprolol succinat 47,5 mg pro 1 Tablette",
+      "= Metoprolol (38,91 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Siliciumdioxid Cellulose, mikrokristalline Ethylcellulose Hyprolose Hypromellose",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/95/71/57195.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/95/71/57195.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/95/71/57195.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/96/71/57196.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 3,8 mm Breite: 6,7 mm Tiefe: 12,7 mm Masse: 223,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : beidseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"A MO\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/beloc-zok-mite-475-mg-retardtabletten-3879429.html?file=17e07c76edf0a420cd2695138e259301",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 02.2022"
+      }
+    ],
+    "page_last_reviewed": "2026-10-27"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Beloc-Zok mite 47,5 mg sind ovale weiße bis weißliche Retardtabletten mit einer Bruchkerbe auf beiden Seiten und der Markierung A/mO auf einer Seite. Die Bruchkerbe dient nur zum Teilen der Tablette, um das Schlucken zu erleichtern, und nicht zum Teilen in gleiche Dosen. Beloc-Zok mite 47,5 mg ist in Packungen mit 30 Retardtabletten, 50 Retardtabletten, 90 Retardtabletten und 100 Retardtabletten erhältlich. 6.3",
+    "company_raw": "und",
+    "manufacturer_raw": "Pharmazeutischer Unternehmer: RECORDATI Industria Chimica e Farmaceutica S.p.A. Via Matteo Civitali 1 20148 Mailand Italien Hersteller: SAVIO Industrial S.r.l. Via Emilia 21 27100 Pavia Italien Oder: Recordati Industria Chimica e Farmaceutica S.p.A. Via Matteo Civitali 1 20148 Mailand Italien Seite 14 von 14 Gebrauchsinformation Beloc-Zok mite 47,5 mg, Retardtabletten (Zul.-Nr.: 48563.01.00) Mitvertrieb: Recordati Pharma GmbH Eberhard-Finckh-Str. 55 89075 Ulm Deutschland",
+    "revision_raw": "Februar 2022",
+    "wirkstoff_raw": "Hydralazin enthalten, • bestimmte Arzneimittel gegen allergische Reaktionen, wie z. B. Heuschnupfen, • bestimmte Arzneimittel gegen Magen-Darm-Erkrankungen (Histamin-2-Rezeptorantagonisten), • bestimm",
+    "composition_raw": "• Der Wirkstoff ist: Metoprololsuccinat (Ph.Eur.). 1 Retardtablette enthält 47,5 mg Metoprololsuccinat (Ph.Eur.). • Die sonstigen Bestandteile sind: Siliciumdioxid, mikrokristalline Cellulose, Ethylcellulose, Hyprolose, Hypromellose, Natriumstearylfumarat (Ph.Eur.), Macrogol 6000, Hartparaffin, Titandioxid. 6.2 Wie Beloc-Zok mite 47,5 mg aussieht und Inhalt der Packung Beloc-Zok mite 47,5 mg sind ovale weiße bis weißliche Retardtabletten mit einer Bruchkerbe auf beiden Seiten und der Markierung",
+    "pdf_title": ""
+  }
+}

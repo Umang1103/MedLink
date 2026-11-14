@@ -1,0 +1,104 @@
+{
+  "pzn": "09269577",
+  "list_row": {
+    "active_ingredient": "Valsartan",
+    "category": "血管紧张素II受体阻滞剂 / ARB",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/valsacor-40-mg-filmtabletten-9269577.html",
+    "hf_context_zh": "特定有症状的HFrEF患者；也用于特定心梗后左室功能不全/心衰。",
+    "mechanism_zh": "阻断AT1受体，减轻血管收缩、钠水潴留和心脏负荷。",
+    "clinical_role_zh": "HFrEF中肾素-血管紧张素系统治疗的替代选择。",
+    "example_product_name": "VALSACOR 40 mg Filmtabletten",
+    "pzn": "09269577",
+    "example_strength_as_stated": "40 mg",
+    "pack_size_units": "28",
+    "market": "DE",
+    "collection_order": "166",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/valsacor-40-mg-filmtabletten-9269577.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Filmtabletten",
+    "pharmaceutical_company_as_listed": "TAD Pharma GmbH",
+    "ingredient_content_as_listed": "Valsartan 40 mg pro 1 Tablette",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:44:31.470492+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/96/23/32396.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 128667,
+      "saved_as": "09269577_tablet_1.jpg",
+      "sha256": "5fb8984931635795c60e08a8d40a7c2439a980516bac5cdb0093f107224b2b02",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/97/23/32397.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 125484,
+      "saved_as": "09269577_tablet_2.jpg",
+      "sha256": "59da30943fde8fd02088107aaad19254a59c0ca0f1050e36ece3356ef69952bb",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/24/78/77824.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 153527,
+      "saved_as": "09269577_leaflet.pdf",
+      "sha256": "bac849f32be0656ae974f89feb7f6d5e0156365c15f3df95e29c1c675966cac5",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/valsacor-40-mg-filmtabletten-9269577.html?file=45ae67173614ac8bbb9aee2eae92fbf7",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 10.2021"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von VALSACOR 40 mg Filmtabletten",
+    "pzn_on_page": "09269577",
+    "pack_size_on_page": "28 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten",
+    "provider_on_page": "TAD Pharma GmbH Cuxhaven www.tad.de",
+    "substances_on_page": [
+      "Valsartan 40 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Lactose-1-Wasser Lactose Cellulose, mikrokristalline Povidon K25 Croscarmellose natrium",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/96/23/32396.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/96/23/32396.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/96/23/32396.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/97/23/32397.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 6,1 mm Höhe: 2,9 mm Masse: 84,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/valsacor-40-mg-filmtabletten-9269577.html?file=45ae67173614ac8bbb9aee2eae92fbf7",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 10.2021"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27",
+    "provider_website": "https://www.tad.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Die 40 mg Filmtabletten sind gelb-braune, runde, leicht bikonvexe Filmtabletten mit einer Bruchrille auf einer Seite. Valsacor ist in Packungsgrößen mit 14, 28, 30, 50, 56, 60, 84, 90, 98, 120 und 180 Filmtabletten in Blisterpackungen erhältlich. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "TAD Pharma GmbH Heinz-Lohmann-Straße 5 27472 Cuxhaven Tel.: (04721) 606-0 Fax: (04721) 606-333 E-Mail: info@tad.de",
+    "manufacturer_raw": "KRKA, d.d., Novo mesto, Šmarješka cesta 6, 8501 Novo mesto, Slowenien Für jede Information zu diesem Arzneimittel, wenden Sie sich bitte an die lokale Vertretung des pharmazeutischen Unternehmers.",
+    "revision_raw": "Oktober 2021",
+    "wirkstoff_raw": "ist: Valsartan. Jede Filmtablette enthält 40 mg Valsartan. • Die sonstigen Bestandteile im Tablettenkern sind: Lactose- Monohydrat, mikrokristalline Cellulose, Povidon K 25, Croscarmellose-Natrium, ho",
+    "composition_raw": "• Der Wirkstoff ist: Valsartan. Jede Filmtablette enthält 40 mg Valsartan. • Die sonstigen Bestandteile im Tablettenkern sind: Lactose- Monohydrat, mikrokristalline Cellulose, Povidon K 25, Croscarmellose-Natrium, hochdisperses Siliciumdioxid und Magnesiumstearat (Ph.Eur.) • Die sonstigen Bestandteile im Überzug sind: Hypromellose, Titandioxid (E171), Macrogol 4000 und Eisen(III)-hydroxid-oxid x H2O (E 172). Siehe Abschnitt 2 „Valsacor enthält Lactose“ und „Valsacor enthält Natrium“. Wie Valsaco",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

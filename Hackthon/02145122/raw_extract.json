@@ -1,0 +1,98 @@
+{
+  "pzn": "02145122",
+  "list_row": {
+    "active_ingredient": "Furosemid",
+    "category": "袢利尿剂 / Loop diuretic",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/furosemid-ratiopharm-40-mg-tabletten-2145122.html",
+    "hf_context_zh": "伴液体潴留的心衰：如腿肿、肺淤血；可见于不同射血分数类型。",
+    "mechanism_zh": "抑制肾脏对钠盐的重吸收，增加盐和水的排出。",
+    "clinical_role_zh": "主要缓解水肿和淤血症状；不等同于改善生存的基础药。",
+    "example_product_name": "FUROSEMID-ratiopharm 40 mg Tabletten",
+    "pzn": "02145122",
+    "example_strength_as_stated": "40 mg",
+    "pack_size_units": "50",
+    "market": "DE",
+    "collection_order": "2",
+    "collection_status": "pending_extraction",
+    "notes_zh": "可作为下一种采集药物；不要从外观或规格推断患者剂量。",
+    "strength_note_zh": "示例产品规格，不是患者每次或每日服药剂量；具体适应证以该产品现行说明书为准",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/furosemid-ratiopharm-40-mg-tabletten-2145122.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "心衰相关药物采集起始清单；每种成分/复方选一个产品示例，不穷尽药物、品牌或规格；非患者用药方案；图片和PDF待采集核实。"
+  },
+  "retrieved_at": "2026-11-13T11:35:25.607062+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/45/34/53445.jpg",
+      "http_status": 200,
+      "content_type": "image/jpeg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 100152,
+      "saved_as": "02145122_original_image_1.jpg",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/46/34/53446.jpg",
+      "http_status": 200,
+      "content_type": "image/jpeg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 94306,
+      "saved_as": "02145122_original_image_2.jpg",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/67/20/42067.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 163146,
+      "saved_as": "02145122_leaflet.pdf",
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/furosemid-ratiopharm-40-mg-tabletten-2145122.html?file=5163065675f12f1c8e81c4b269177703",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 05.2026"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von FUROSEMID-ratiopharm 40 mg Tabletten",
+    "pzn_on_page": "02145122",
+    "pack_size_on_page": "50 Stück (N2)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten Dosierung & Anwendung Nebenwirkungen Wechselwirkungen alle Kapitel anzeigen Wirkung Originalbilder Anwendungsgebiete Gegenanzeigen & Hinweise Aufbewahrung Lagerungshinweise PDF-Dokumente",
+    "provider_on_page": "ratiopharm GmbH Ulm www.ratiopharm.de",
+    "substances_on_page": [
+      "Furosemid 40 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Lactose-1-Wasser Cellulose, mikrokristalline Carboxymethylstärke, Natrium Typ A Povidon K25 Siliciumdioxid, hochdisperses",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/45/34/53445.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/45/34/53445.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/45/34/53445.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/46/34/53446.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 7,0 mm Höhe: 3,2 mm Masse: 146,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/furosemid-ratiopharm-40-mg-tabletten-2145122.html?file=5163065675f12f1c8e81c4b269177703",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 05.2026"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Weiße bis leicht gelbliche, runde, beidseits gewölbte Tablette mit einseitiger breiter Bruchkerbe. Packungsgrößen: Blister: 20, 50, 100 Tabletten Flaschen: 100 Tabletten",
+    "company_raw": "ratiopharm GmbH Graf-Arco-Str. 3 89079 Ulm Deutschland GEBRAUCHSINFORMATION Furosemid-ratiopharm 40 mg Tabletten® 9",
+    "manufacturer_raw": "Teva Operations Poland Sp. z o.o. Ul. Emilii Plater 53 00-113 Warszawa Polen",
+    "revision_raw": "Mai 2026",
+    "wirkstoff_raw": "spiegeln im Blut und einem größeren Nebenwirkungsrisiko führen. — Die Wirkung von Theophyllin (Asthmamittel) oder curareartigen Arzneimitteln, die eine Muskelentspannung herbeiführen (Muskelrelaxanzie",
+    "composition_raw": "— Der Wirkstoff ist Furosemid. Jede Tablette enthält 40 mg Furosemid. — Die sonstigen Bestandteile sind: Mikrokristalline Cellulose, Lactose-Monohydrat, Carboxymethylstärke-Natrium (Typ A) (Ph.Eur.), Povidon K25, Hochdisperses Siliciumdioxid, Magnesiumstearat (Ph.Eur) Wie Furosemid-ratiopharm® aussieht und Inhalt der Packung Weiße bis leicht gelbliche, runde, beidseits gewölbte Tablette mit einseitiger breiter Bruchkerbe. Packungsgrößen: Blister: 20, 50, 100 Tabletten Flaschen: 100 Tabletten Pha",
+    "pdf_title": ""
+  }
+}

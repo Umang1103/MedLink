@@ -1,0 +1,98 @@
+{
+  "pzn": "11851959",
+  "list_row": {
+    "active_ingredient": "Spironolacton",
+    "category": "盐皮质激素受体拮抗剂 / MRA",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/spironolacton-accord-25-mg-filmtabletten-11851959.html",
+    "hf_context_zh": "HFrEF：射血分数降低的心衰（心脏泵血能力减弱）；该产品页面还列有心衰相关水肿、NYHA III心衰。",
+    "mechanism_zh": "阻断醛固酮作用，减少钠水潴留及对心脏的不利重塑，同时保钾。",
+    "clinical_role_zh": "HFrEF基础治疗之一。",
+    "example_product_name": "SPIRONOLACTON Accord 25 mg Filmtabletten",
+    "pzn": "11851959",
+    "example_strength_as_stated": "25 mg",
+    "pack_size_units": "50",
+    "market": "DE",
+    "collection_order": "3",
+    "collection_status": "pending_extraction",
+    "notes_zh": "不能把所有螺内酯品牌的适应证视作完全相同；需核对产品说明书。",
+    "strength_note_zh": "示例产品规格，不是患者每次或每日服药剂量；具体适应证以该产品现行说明书为准",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/spironolacton-accord-25-mg-filmtabletten-11851959.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "心衰相关药物采集起始清单；每种成分/复方选一个产品示例，不穷尽药物、品牌或规格；非患者用药方案；图片和PDF待采集核实。"
+  },
+  "retrieved_at": "2026-11-13T11:35:36.770753+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/59/93/129359.jpg",
+      "http_status": 200,
+      "content_type": "image/jpeg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 141495,
+      "saved_as": "11851959_original_image_1.jpg",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/60/93/129360.jpg",
+      "http_status": 200,
+      "content_type": "image/jpeg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 136343,
+      "saved_as": "11851959_original_image_2.jpg",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/98/23/122398.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 1140908,
+      "saved_as": "11851959_leaflet.pdf",
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/spironolacton-accord-25-mg-filmtabletten-11851959.html?file=3a93dc330e6aba7404996c6f27e69e84",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 05.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von SPIRONOLACTON Accord 25 mg Filmtabletten",
+    "pzn_on_page": "11851959",
+    "pack_size_on_page": "50 Stück (N2)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten Dosierung & Anwendung Nebenwirkungen Wechselwirkungen alle Kapitel anzeigen Wirkung Originalbilder Anwendungsgebiete Gegenanzeigen & Hinweise Aufbewahrung Lagerungshinweise PDF-Dokumente",
+    "provider_on_page": "Accord Healthcare GmbH München www.accord-healthcare.de",
+    "substances_on_page": [
+      "Spironolacton 25 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Lactose-1-Wasser Maisstärke, vorverkleistert Calciumhydrogenphosphat Povidon K25 Pfefferminzöl",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/59/93/129359.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/59/93/129359.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/59/93/129359.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/60/93/129360.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 8,1 mm Höhe: 3,2 mm Masse: 165,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Anordnung : ohne Kerbe Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"AD\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/spironolacton-accord-25-mg-filmtabletten-11851959.html?file=3a93dc330e6aba7404996c6f27e69e84",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 05.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Spironolacton Accord 25 mg Filmtabletten sind weiße bis blass-weiße, runde, bikonvexe Tabletten mit Prägung „AD“ auf einer Seite. Der Durchmesser der 25 mg-Tablette beträgt ca. 8,1 mm. Spironolacton Accord 50 mg Filmtabletten sind weiße bis blass-weiße, runde, bikonvexe Tabletten mit Prägung „AE“ auf einer Seite. Der Durchmesser der 50 mg-Tablette beträgt ca. 10,1 mm. Spironolacton Accord 100 mg Filmtabletten sind weiße bis blass-weiße, runde, bikonvexe Tabletten mit Prägung „AF“ auf einer Seite. Der Durchmesser der 100 mg-Tablette beträgt ca. 11,2 mm. Spironolacton Accord ist in PVC-Alu-Blisterpackungen sowie in HDPE-Flaschen erhältlich. Packungsgrößen: Blisterpackungen: 20, 28, 30, 50, 60, 90 oder 100 Tabletten. HDPE-Flaschen: 250, 500 oder 1000 Tabletten (nur Klinik- oder Großpackungen). Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "und",
+    "manufacturer_raw": "Pharmazeutischer Unternehmer Accord Healthcare B.V. Winthontlaan 200 3526KV Utrecht Niederlande Hersteller Accord Healthcare Polska Sp.z o.o. ul. Lutomierska 50 95-200 Pabianice Polen oder Accord Healthcare B.V. Winthontlaan 200 3526 KV Utrecht Niederlande oder Accord Healthcare Single Member S.A. 64th Km National Road Athens, Lamia, Schimatari, 32009, Griechenland",
+    "revision_raw": "Mai 2025",
+    "wirkstoff_raw": ". Spironolacton gehört zu einer bestimmten Gruppe von Medikamenten, die als Aldosteronantagonisten bezeichnet werden und die die Wirkung des Hormons Aldosteron hemmen. Eine der Funktionen von Aldoster",
+    "composition_raw": "Der Wirkstoff ist: Spironolacton. Spironolacton Accord enthält 25 mg, 50 mg oder 100 mg Spironolacton. Die sonstigen Bestandteile sind: Tablettenkern: Lactose-Monohydrat, vorverkleisterte Stärke (Mais), Calciumhydrogenphosphat, Povidon K25, Pfefferminzöl, Talkum, hochdisperses Siliciumdioxid, Magnesiumstearat (Ph. Eur.) [pflanzlich]; Filmüberzug: Hypromellose, Macrogol, Titandioxid (E171). Wie Spironolacton Accord aussieht und Inhalt der Packung Spironolacton Accord 25 mg Filmtabletten sind weiß",
+    "pdf_title": ""
+  }
+}

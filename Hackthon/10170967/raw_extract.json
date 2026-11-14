@@ -1,0 +1,104 @@
+{
+  "pzn": "10170967",
+  "list_row": {
+    "active_ingredient": "Eplerenon",
+    "category": "盐皮质激素受体拮抗剂 / MRA",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eplerenon-abz-25-mg-filmtabletten-10170967.html",
+    "hf_context_zh": "特定慢性HFrEF；也用于心肌梗死后伴左室功能不全和心衰的特定患者。",
+    "mechanism_zh": "选择性阻断醛固酮受体，减少醛固酮引起的不利心脏重塑并保钾。",
+    "clinical_role_zh": "HFrEF基础治疗中的MRA选择。",
+    "example_product_name": "EPLERENON AbZ 25 mg Filmtabletten",
+    "pzn": "10170967",
+    "example_strength_as_stated": "25 mg",
+    "pack_size_units": "20",
+    "market": "DE",
+    "collection_order": "59",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eplerenon-abz-25-mg-filmtabletten-10170967.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Filmtabletten",
+    "pharmaceutical_company_as_listed": "AbZ-Pharma GmbH",
+    "ingredient_content_as_listed": "Eplerenon 25 mg pro 1 Tablette",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:42:37.037876+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/20/13/31320.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 104412,
+      "saved_as": "10170967_tablet_1.jpg",
+      "sha256": "931ac904abf8888e5ac00d0eb8d4ec5b5e0855555940d4890f56c952e44e2115",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/21/13/31321.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 101611,
+      "saved_as": "10170967_tablet_2.jpg",
+      "sha256": "d849023161cc26209edc23a50c0a55e8c61c4f1749d9308e5d3c934d26274b10",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/51/05/40551.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 540444,
+      "saved_as": "10170967_leaflet.pdf",
+      "sha256": "eb9e1cd6656e5b796646140ac22c1fe3e22c9e30af1e478d90f4be584e7cfb99",
+      "pages": 7,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eplerenon-abz-25-mg-filmtabletten-10170967.html?file=f13802b4888ff565f4487714f4afaa4d",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 08.2020"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von EPLERENON AbZ 25 mg Filmtabletten",
+    "pzn_on_page": "10170967",
+    "pack_size_on_page": "20 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten",
+    "provider_on_page": "AbZ-Pharma GmbH Ulm www.abz.de",
+    "substances_on_page": [
+      "Eplerenon 25 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Lactose-1-Wasser Lactose Cellulose, mikrokristalline Crospovidon Natriumdodecylsulfat",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/20/13/31320.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/20/13/31320.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/20/13/31320.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/21/13/31321.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 2,8 mm Breite: 6,4 mm Tiefe: 7,4 mm Masse: 94,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Anordnung : ohne Kerbe Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"E25\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eplerenon-abz-25-mg-filmtabletten-10170967.html?file=f13802b4888ff565f4487714f4afaa4d",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 08.2020"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27",
+    "provider_website": "https://www.abz.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Filmtablette Eplerenon AbZ 25 mg Filmtabletten sind gelbe diamantenförmige beidseitig gewölbte Filmtabletten, ungefähr 6,4 mm breit und 7,4 mm lang, mit Prägung „E25“ auf einer Seite und ohne Prägung auf der anderen Seite. Eplerenon AbZ 50 mg Filmtabletten sind gelbe diamantenförmige beidseitig gewölbte Filmtabletten, ungefähr 8,0 mm breit und 9,5 mm lang, mit Prägung „E50“ auf einer Seite und ohne Prägung auf der anderen Seite. Eplerenon AbZ 25 mg und 50 mg Filmtabletten sind in undurchsichtigen PVC/PVdC/Aluminium- Blisterpackungen mit 20, 50 und 100 Tabletten erhältlich. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "AbZ-Pharma GmbH Graf-Arco-Str. 3 89079 Ulm",
+    "manufacturer_raw": "Merckle GmbH Ludwig-Merckle-Str. 3 89143 Blaubeuren oder TEVA Pharmaceutical Works Private Limited Company - Teva Gyógyszergyár Zrt. – Pallagi út 13 4042 DEBRECEN UNGARN",
+    "revision_raw": "August 2020",
+    "wirkstoff_raw": "ist Eplerenon. Jede Filmtablette enthält 25 mg oder 50 mg Eplerenon. - Die sonstigen Bestandteile sind: Lactose-Monohydrat, mikrokristalline Cellulose, Crospovidon (Typ A), Natriumdodecylsulfat, Talku",
+    "composition_raw": "- Der Wirkstoff ist Eplerenon. Jede Filmtablette enthält 25 mg oder 50 mg Eplerenon. - Die sonstigen Bestandteile sind: Lactose-Monohydrat, mikrokristalline Cellulose, Crospovidon (Typ A), Natriumdodecylsulfat, Talkum und Magnesiumstearat (Ph. Eur) [pflanzlich]. Der Filmüberzug enthält Poly(vinylalkohol), Titandioxid (E171), Macrogol 3350, Talkum, Eisen(III)-hydroxid-oxid x H2O (E172), Eisen(III)-oxid (E172). Wie Eplerenon AbZ aussieht und Inhalt der Packung Filmtablette Eplerenon AbZ 25 mg Film",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

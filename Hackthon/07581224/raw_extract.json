@@ -1,0 +1,103 @@
+{
+  "pzn": "07581224",
+  "list_row": {
+    "active_ingredient": "Valsartan",
+    "category": "血管紧张素II受体阻滞剂 / ARB",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/valsartan-1a-pharma-40-mg-filmtabletten-7581224.html",
+    "hf_context_zh": "特定有症状的HFrEF患者；也用于特定心梗后左室功能不全/心衰。",
+    "mechanism_zh": "阻断AT1受体，减轻血管收缩、钠水潴留和心脏负荷。",
+    "clinical_role_zh": "HFrEF中肾素-血管紧张素系统治疗的替代选择。",
+    "example_product_name": "VALSARTAN-1A Pharma 40 mg Filmtabletten",
+    "pzn": "07581224",
+    "example_strength_as_stated": "40 mg",
+    "pack_size_units": "28",
+    "market": "DE",
+    "collection_order": "164",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/valsartan-1a-pharma-40-mg-filmtabletten-7581224.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Filmtabletten",
+    "pharmaceutical_company_as_listed": "1A Pharma GmbH",
+    "ingredient_content_as_listed": "Valsartan 40 mg pro 1 Tablette",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:44:29.152794+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/81/27/202781.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 85647,
+      "saved_as": "07581224_tablet_1.jpg",
+      "sha256": "c9a3831deb160589662cf5f023927ff22772f674e21d8774c0464ed4ee07707a",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/82/27/202782.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 84255,
+      "saved_as": "07581224_tablet_2.jpg",
+      "sha256": "62d35585dcf8929e35d4138260363a6c825bef8c328348e03f0f3c30e86b2e2c",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/09/57/25709.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 127707,
+      "saved_as": "07581224_leaflet.pdf",
+      "sha256": "ab375523f2af7cf729949198157cae50881a84b0291dc29c105d35e050b5b5b5",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/valsartan-1a-pharma-40-mg-filmtabletten-7581224.html?file=9a2e88a2f98165d8df5d9c7faeb14757",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 10.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von VALSARTAN-1A Pharma 40 mg Filmtabletten",
+    "pzn_on_page": "07581224",
+    "pack_size_on_page": "28 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten",
+    "provider_on_page": "1A Pharma GmbH Holzkirchen",
+    "substances_on_page": [
+      "Valsartan 40 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Cellulose, mikrokristalline Crospovidon Siliciumdioxid, hochdisperses Magnesium stearat Hypromellose",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/81/27/202781.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/81/27/202781.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/81/27/202781.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/82/27/202782.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 3,1 mm Breite: 3,5 mm Tiefe: 9,1 mm Masse: 82,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"DO\", \"NVR\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/valsartan-1a-pharma-40-mg-filmtabletten-7581224.html?file=9a2e88a2f98165d8df5d9c7faeb14757",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 10.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "",
+    "company_raw": "1 A Pharma GmbH Industriestraße 18 83607 Holzkirchen Telefon: (08024) 908-3030",
+    "manufacturer_raw": "Lek Pharmaceuticals d.d. Verovskova 57 1526 Ljubljana Slowenien",
+    "revision_raw": "",
+    "wirkstoff_raw": "Valsartan und gehört zu einer Klasse von Arzneimitteln, die als Angiotensin-II-Rezeptor-Antagonisten bekannt sind und helfen, einen hohen Blutdruck zu kontrollieren. Angio- tensin II ist eine körperei",
+    "composition_raw": "Der Wirkstoff ist Valsartan. Jede Filmtablette enthält 40 mg Valsartan. Jede Filmtablette enthält 80 mg Valsartan. Jede Filmtablette enthält 160 mg Valsartan. Jede Filmtablette enthält 320 mg Valsartan. Die sonstigen Bestandteile sind: Tablettenkern: mikrokristalline Cellulose, Crospovidon (Typ A), hochdis- perses Siliciumdioxid, Magnesiumstearat (Ph.Eur.) [pflanzlich] Filmüberzug: Hypromellose, Titandioxid (E 171), Macrogol 8000, Ei- sen(III)-oxid (E 172, rot), Eisen(III)-hydroxid-oxid x H 2O (",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

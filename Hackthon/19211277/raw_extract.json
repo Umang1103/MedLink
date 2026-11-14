@@ -1,0 +1,105 @@
+{
+  "pzn": "19211277",
+  "list_row": {
+    "active_ingredient": "Candesartan",
+    "category": "血管紧张素II受体阻滞剂 / ARB",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/candesartan-beta-4-mg-tabletten-19211277.html",
+    "hf_context_zh": "HFrEF：射血分数降低的心衰（心脏泵血能力减弱）；特别是在ACE抑制剂不耐受等情况下的选择。",
+    "mechanism_zh": "阻断血管紧张素II的AT1受体，减少血管收缩和醛固酮作用。",
+    "clinical_role_zh": "HFrEF中肾素-血管紧张素系统治疗的替代选择。",
+    "example_product_name": "CANDESARTAN beta 4 mg Tabletten",
+    "pzn": "19211277",
+    "example_strength_as_stated": "4 mg",
+    "pack_size_units": "28",
+    "market": "DE",
+    "collection_order": "145",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/candesartan-beta-4-mg-tabletten-19211277.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "betapharm Arzneimittel GmbH",
+    "ingredient_content_as_listed": "Candesartan cilexetil 4 mg pro 1 Tablette; = Candesartan (2,89 mg pro 1 Tablette)",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:44:09.115764+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/54/57/205754.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 86428,
+      "saved_as": "19211277_tablet_1.jpg",
+      "sha256": "7a4e821f17beb828e0af3ffac6df95b8e89766b0bc8e05aa2575e549ff39e574",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/55/57/205755.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 83579,
+      "saved_as": "19211277_tablet_2.jpg",
+      "sha256": "c5e099dc5e2cbf7eede3ac0b85d46943c3cb228bca1fa3233fb3ba6d8074c5f2",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/24/57/195724.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 123509,
+      "saved_as": "19211277_leaflet.pdf",
+      "sha256": "68516d304d579e74a354ddd57d8eb44cf668de7d8547a28315b9ec694fa4490d",
+      "pages": 8,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/candesartan-beta-4-mg-tabletten-19211277.html?file=13873da67effd6a87976ae42166665f2",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 03.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von CANDESARTAN beta 4 mg Tabletten",
+    "pzn_on_page": "19211277",
+    "pack_size_on_page": "28 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "betapharm Arzneimittel GmbH Augsburg www.betapharm.de",
+    "substances_on_page": [
+      "Candesartan cilexetil 4 mg pro 1 Tablette",
+      "= Candesartan (2,89 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Lactose-1-Wasser Lactose Maisstärke Carmellose calcium Macrogol 6000",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/54/57/205754.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/54/57/205754.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/54/57/205754.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/55/57/205755.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 2,1 mm Breite: 5,0 mm Tiefe: 7,0 mm Masse: 65,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"C4\" Besonderheiten Die Tablette ist taillenförmig. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/candesartan-beta-4-mg-tabletten-19211277.html?file=13873da67effd6a87976ae42166665f2",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 03.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27",
+    "provider_website": "https://www.betapharm.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Candesartan beta 4 mg Tabletten: Weiße bis gebrochen weiße, hantelförmige Tabletten von ca. 7 mm x 5 mm mit einer Kerbe und der Aufschrift \"C/4\" auf der einen Seite und glatt auf der anderen Seite Candesartan beta 8 mg Tabletten: Weiße bis gebrochen weiße, runde Tabletten von ca. 7 mm mit einer Kerbe und der Aufschrift \"C/8\" auf der einen Seite und glatt auf der anderen Seite 8 Candesartan beta 16 mg Tabletten: Rosafarbene bis hellrosafarbene, gesprenkelte, runde Tabletten von ca. 7 mm mit einer Kerbe und der Aufschrift \"C/16\" auf der einen Seite und glatt auf der anderen Seite Candesartan beta 32 mg Tabletten: Rosafarbene bis hellrosafarbene, gesprenkelte, runde Tabletten von ca. 10 mm mit einer Kerbe und der Aufschrift \"C/32\" auf der einen Seite und glatt auf der anderen Seite Es sind Blisterpackungen mit 28, 56 und 98 Tabletten erhältlich. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "betapharm Arzneimittel GmbH Kobelweg 95 86156 Augsburg Tel.: 0821 748810 Fax: 0821 74881420 E-Mail: info@betapharm.de",
+    "manufacturer_raw": "betapharm Arzneimittel GmbH Kobelweg 95 86156 Augsburg oder Pharmadox Healthcare Limited KW20A Kordin Industrial Park PLA 3000 PAOLA Malta oder Rual Laboratories S.R.L. Str. Iovita nr. 12, Bl.P.14, Scara 1, etaj 3, ap.14, sector 5 050686 BUCURESTI Rumänien",
+    "revision_raw": "März 2025",
+    "wirkstoff_raw": "ist Candesartancilexetil. Es gehört zu einer Gruppe von Arzneimitteln, die Angiotensin-II-Rezeptor-Antagonisten genannt werden. Es wirkt, indem es Ihre Blutgefäße entspannt und erweitert. Dies hilft,",
+    "composition_raw": "• Der Wirkstoff ist: Candesartancilexetil. Eine Tablette enthält: 4 mg, 8 mg, 16 mg oder 32 mg Candesartancilexetil. • Die sonstigen Bestandteile sind: Lactose-Monohydrat, Maisstärke, Carmellose-Calcium, Macrogol 6000, Hydroxypropylcellulose (Ph.Eur.) und Magnesiumstearat (Ph.Eur.) [pflanzlich]. Die 16-mg- und 32-mg- Tabletten enthalten zusätzlich Eisen(III)-oxid (E 172). Wie Candesartan beta aussieht und Inhalt der Packung Candesartan beta 4 mg Tabletten: Weiße bis gebrochen weiße, hantelförmig",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

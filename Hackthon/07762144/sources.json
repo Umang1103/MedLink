@@ -1,0 +1,199 @@
+{
+  "pzn": "07762144",
+  "generated_at": "2026-11-13T11:47:45.863127+00:00",
+  "retrieved_at": "2026-11-13T11:37:39.024172+00:00",
+  "product_page": {
+    "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/valsartan-basics-80-mg-filmtabletten-7762144.html",
+    "http_status": 200,
+    "pzn_on_page": "07762144",
+    "pack_size_on_page": "56 Stück (N2)",
+    "provider_on_page (Anbieter)": "Basics GmbH Leverkusen www.basics.de",
+    "substances_on_page": [
+      "Valsartan 80 mg pro 1 Tablette"
+    ],
+    "physical_data_on_page": "Abmessungen und Gewicht 1 Höhe: 3,8 mm Breite: 6,6 mm Tiefe: 12,1 mm Masse: 254,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : beidseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"V2\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "page_last_reviewed": "2026-10-09",
+    "data_provider": "ABDATA Pharma-Daten-Service"
+  },
+  "files": {
+    "tablet_image_1": {
+      "local_path": "07762144/07762144_tablet_1.jpg",
+      "download_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/37/94/29437.jpg",
+      "viewer_page": null,
+      "download_ok": true,
+      "verified_type": "jpeg",
+      "bytes": 112499,
+      "pixels": "600x600",
+      "document_date_on_page": null
+    },
+    "tablet_image_2": {
+      "local_path": "07762144/07762144_tablet_2.jpg",
+      "download_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/38/94/29438.jpg",
+      "viewer_page": null,
+      "download_ok": true,
+      "verified_type": "jpeg",
+      "bytes": 110311,
+      "pixels": "600x600",
+      "document_date_on_page": null
+    },
+    "leaflet_path": {
+      "local_path": "07762144/07762144_leaflet.pdf",
+      "download_url": "https://image.wub-service.de/resources/static/drugexpert/261101/89/47/104789.pdf",
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/valsartan-basics-80-mg-filmtabletten-7762144.html?file=972b94032aabb2e33d7a561c9bb96433",
+      "download_ok": true,
+      "verified_type": "pdf",
+      "bytes": 1480825,
+      "pixels": null,
+      "document_date_on_page": "Dokumentdatum: 01.2025"
+    }
+  },
+  "image_classification": {
+    "result": "both files are tablet photographs (front and back) with mm scale and '© ABDATA | Dosing' watermark; oval orange tablet, scored both sides, 'V | 2' on one side; consistent with page and leaflet",
+    "method": "visual review of each file",
+    "package_image": "none available"
+  },
+  "field_sources": {
+    "pzn": {
+      "value": "07762144",
+      "source": "product_page (verified equal to list)"
+    },
+    "market": {
+      "value": "DE",
+      "source": "derived (German PZN)"
+    },
+    "product_name": {
+      "value": "VALSARTAN BASICS 80 mg Filmtabletten",
+      "source": "leaflet_pdf title (German, preserved)"
+    },
+    "active_ingredient": {
+      "value": "Valsartan",
+      "source": "leaflet_pdf section 6"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Valsartan",
+      "source": "leaflet_pdf section 6"
+    },
+    "strength_as_stated": {
+      "value": "80 mg",
+      "source": "product_name / leaflet_pdf section 6 (label strength, not converted)"
+    },
+    "dosage_form": {
+      "value": "Filmtabletten",
+      "source": "product_page Darreichungsform + leaflet_pdf"
+    },
+    "pack_size": {
+      "value": "56",
+      "source": "product_page Packungsgröße (verified for this PZN)"
+    },
+    "brand": {
+      "value": "VALSARTAN BASICS",
+      "source": "product_name"
+    },
+    "pharmaceutical_company": {
+      "value": "Basics GmbH, Hemmelrather Weg 201, 51377 Leverkusen",
+      "source": "leaflet_pdf section 6 (Pharmazeutischer Unternehmer / Zulassungsinhaber)"
+    },
+    "manufacturer": {
+      "value": "Sun Pharmaceutical Industries Europe B.V., Polarisavenue 87, 2132 JH Hoofddorp, Niederlande; oder Terapia S.A., 124 Fabricii Street, 400632 Cluj Napoca, Rumänien",
+      "source": "leaflet_pdf section 6 (Hersteller)"
+    },
+    "color": {
+      "value": "orange",
+      "source": "leaflet_pdf section 6, normalised to English"
+    },
+    "shape": {
+      "value": "oval",
+      "source": "leaflet_pdf section 6, normalised to English"
+    },
+    "imprint": {
+      "value": "V2",
+      "source": "product_page 'Sonstige Merkmale' + leaflet_pdf"
+    },
+    "score_line": {
+      "value": "score line on both sides; for easier swallowing only, not for dividing into equal doses (per leaflet)",
+      "source": "product_page 'Angaben zu Kerben' + leaflet_pdf"
+    },
+    "appearance_description_original": {
+      "value": "VALSARTAN BASICS 80 mg Filmtabletten sind orangefarbene, ovale Filmtabletten mit beidseitiger Bruchkerbe. Auf einer Seite der Filmtablette ist in der einen Hälfte ein „V“ und in der anderen eine „2“ eingeprägt. Die Bruchkerbe dient nur zum Teilen der Tablette für ein erleichtertes Schlucken und nicht zum Aufteilen in gleiche Dosen.",
+      "source": "leaflet_pdf section 6 (German, verbatim)",
+      "note": "PDF line-break hyphens removed; wording unchanged."
+    },
+    "tablet_image_1": {
+      "value": "07762144/07762144_tablet_1.jpg",
+      "source": "product_page 'Originalbilder des Präparats'"
+    },
+    "tablet_image_2": {
+      "value": "07762144/07762144_tablet_2.jpg",
+      "source": "product_page 'Originalbilder des Präparats'"
+    },
+    "package_image": {
+      "value": "",
+      "source": "none available"
+    },
+    "leaflet_path": {
+      "value": "07762144/07762144_leaflet.pdf",
+      "source": "product_page 'PDF-Dokumente' link"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/valsartan-basics-80-mg-filmtabletten-7762144.html",
+      "source": "heart_failure_collection_list.csv"
+    },
+    "manufacturer_source_url": {
+      "value": "",
+      "source": "not cross-checked"
+    },
+    "leaflet_revision_date": {
+      "value": "2025-01",
+      "source": "leaflet_pdf 'zuletzt überarbeitet im …'"
+    },
+    "retrieved_at": {
+      "value": "2026-11-13",
+      "source": "collection run date"
+    },
+    "verification_status": {
+      "value": "Extracted from product page and leaflet PDF; images visually confirmed as tablet photos; not clinically or pharmacist verified.",
+      "source": "workflow status"
+    },
+    "notes": {
+      "value": "Single-ingredient valsartan; a different product from Entresto (sacubitril/valsartan). Imprint as listed on product page ('V2'); leaflet describes 'V' and '2' in the two halves of one side. ABDATA average: 12.1 x 6.6 x 3.8 mm, mass 254.0 mg. Leaflet packs 14, 28, 56, 98; this PZN = 56 (N2). Line-break hyphenation in the PDF text was removed in the original-language description.",
+      "source": "collector notes"
+    }
+  },
+  "unresolved_issues": [],
+  "reuse_permission": "unverified - image XMP: creator 'Dosing GmbH Heidelberg', rights 'ABDATA Pharma-Daten-Service', usage terms 'Verwendung nach Lizenzbestimmungen'. No explicit open licence found. Do not publish or deploy.",
+  "attribution": {
+    "product_page": "ABDATA Pharma-Daten-Service via apotheken-umschau.de",
+    "images": "© ABDATA | Dosing (watermark preserved, files unmodified)",
+    "leaflet_pdf": "marketing authorisation holder's patient leaflet, hosted by image.wub-service.de"
+  },
+  "expanded_catalogue": {
+    "input_file": "heart_failure_collection_list_expanded.csv",
+    "row": {
+      "active_ingredient": "Valsartan",
+      "category": "血管紧张素II受体阻滞剂 / ARB",
+      "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/valsartan-basics-80-mg-filmtabletten-7762144.html",
+      "hf_context_zh": "特定有症状的HFrEF患者；也用于特定心梗后左室功能不全/心衰。",
+      "mechanism_zh": "阻断AT1受体，减轻血管收缩、钠水潴留和心脏负荷。",
+      "clinical_role_zh": "HFrEF中肾素-血管紧张素系统治疗的替代选择。",
+      "example_product_name": "VALSARTAN BASICS 80 mg Filmtabletten",
+      "pzn": "07762144",
+      "example_strength_as_stated": "80 mg",
+      "pack_size_units": "56",
+      "market": "DE",
+      "collection_order": "13",
+      "collection_status": "check_existing_record",
+      "notes_zh": "原清单已有产品；按 market+pzn 检查已有记录。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+      "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+      "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+      "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/valsartan-basics-80-mg-filmtabletten-7762144.html",
+      "checked_on": "2026-11-13",
+      "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+      "dosage_form_as_listed": "Filmtabletten",
+      "pharmaceutical_company_as_listed": "Basics GmbH",
+      "ingredient_content_as_listed": "Valsartan 80 mg pro 1 Tablette",
+      "pill_photo_status": "listed_on_product_page_not_visually_verified",
+      "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+      "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+    }
+  }
+}

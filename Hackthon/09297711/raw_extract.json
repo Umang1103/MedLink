@@ -1,0 +1,105 @@
+{
+  "pzn": "09297711",
+  "list_row": {
+    "active_ingredient": "Candesartan",
+    "category": "血管紧张素II受体阻滞剂 / ARB",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/candesartan-al-4-mg-tabletten-9297711.html",
+    "hf_context_zh": "HFrEF：射血分数降低的心衰（心脏泵血能力减弱）；特别是在ACE抑制剂不耐受等情况下的选择。",
+    "mechanism_zh": "阻断血管紧张素II的AT1受体，减少血管收缩和醛固酮作用。",
+    "clinical_role_zh": "HFrEF中肾素-血管紧张素系统治疗的替代选择。",
+    "example_product_name": "CANDESARTAN AL 4 mg Tabletten",
+    "pzn": "09297711",
+    "example_strength_as_stated": "4 mg",
+    "pack_size_units": "98",
+    "market": "DE",
+    "collection_order": "156",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/candesartan-al-4-mg-tabletten-9297711.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "ALIUD Pharma GmbH",
+    "ingredient_content_as_listed": "Candesartan cilexetil 4 mg pro 1 Tablette; = Candesartan (2,89 mg pro 1 Tablette)",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:44:21.256387+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/38/71/217138.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 102065,
+      "saved_as": "09297711_tablet_1.jpg",
+      "sha256": "fc8a6b5fa05658ba5e3d8fddb18b1cf6b8649a29e4774e44eec63992d67bacff",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/39/71/217139.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 100944,
+      "saved_as": "09297711_tablet_2.jpg",
+      "sha256": "3fffebe7ac4b97f1880ce7daf2c25459f58e0b86fb157d58821fecb19b98a99f",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/53/13/71353.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 54444,
+      "saved_as": "09297711_leaflet.pdf",
+      "sha256": "4a0a533b1d4690153bd49f77dd01ddc12e9f7d2633fdacce73e68527cbd17b70",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/candesartan-al-4-mg-tabletten-9297711.html?file=c1918a29d50746ce80eaba016175e473",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 11.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von CANDESARTAN AL 4 mg Tabletten",
+    "pzn_on_page": "09297711",
+    "pack_size_on_page": "98 Stück (N3)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "ALIUD Pharma GmbH Laichingen www.aliud.de",
+    "substances_on_page": [
+      "Candesartan cilexetil 4 mg pro 1 Tablette",
+      "= Candesartan (2,89 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Lactose-1-Wasser Lactose Maisstärke Hyprolose Carmellose calcium",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/38/71/217138.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/38/71/217138.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/38/71/217138.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/39/71/217139.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 7,0 mm Höhe: 3,1 mm Masse: 130,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"4\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/candesartan-al-4-mg-tabletten-9297711.html?file=c1918a29d50746ce80eaba016175e473",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 11.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-09-01",
+    "provider_website": "https://www.aliud.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Candesartan AL 4 mg Tabletten sind runde weiße bis gebrochen weiße Tabletten mit einem Durchmesser von ungefähr 7 mm, einer Bruchkerbe auf der einen Seite und einer „4“ auf der anderen Seite. Candesartan AL 4 mg Tabletten sind erhältlich in folgenden Packungsgrößen: Blisterpackungen mit 10, 14, 28, 30, 50, 56, 90, 98 und 100 Tabletten. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "ALIUD PHARMA GmbH Gottlieb-Daimler-Str. 19 · 89150 Laichingen info@aliud.de",
+    "manufacturer_raw": "Laboratorios Liconsa S.A. C/Dulcinea S/N 28805 Alcala de Henares, Madrid Spanien",
+    "revision_raw": "November 2025",
+    "wirkstoff_raw": "ist Candesartancilexetil. Es gehört zu einer Gruppe von Arzneimitteln, die Angiotensin-II-Rezeptor- Antagonisten genannt werden. Es wirkt, indem es Ihre Blutgefäße entspannt und erweitert. Dies hilft,",
+    "composition_raw": "Der Wirkstoff ist: Candesartancilexetil. Jede Tablette Candesartan AL 4 mg enthält 4 mg Candesartancilexetil. Die sonstigen Bestandteile sind Lactose-Monohydrat, Maisstärke, Hydroxypropylcellulose (Ph.Eur.), Carmellose-Calcium, Macrogol 8000, Magnesiumstearat (Ph.Eur.) [pflanzlich]. Wie Candesartan AL aussieht und Inhalt der Packung Candesartan AL 4 mg Tabletten sind runde weiße bis gebrochen weiße Tabletten mit einem Durchmesser von ungefähr 7 mm, einer Bruchkerbe auf der einen Seite und einer",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

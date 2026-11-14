@@ -1,0 +1,105 @@
+{
+  "pzn": "03090067",
+  "list_row": {
+    "active_ingredient": "Bisoprolol",
+    "category": "β受体阻滞剂 / Beta-blocker",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-al-10-mg-filmtabletten-3090067.html",
+    "hf_context_zh": "HFrEF：射血分数降低的心衰（心脏泵血能力减弱）",
+    "mechanism_zh": "减弱交感神经对心脏的刺激，降低心率和心肌耗氧。",
+    "clinical_role_zh": "稳定慢性HFrEF的基础治疗之一，改善长期结局。",
+    "example_product_name": "BISOPROLOL AL 10 mg Filmtabletten",
+    "pzn": "03090067",
+    "example_strength_as_stated": "10 mg",
+    "pack_size_units": "100",
+    "market": "DE",
+    "collection_order": "20",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-al-10-mg-filmtabletten-3090067.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Filmtabletten",
+    "pharmaceutical_company_as_listed": "ALIUD Pharma GmbH",
+    "ingredient_content_as_listed": "Bisoprolol fumarat 10 mg pro 1 Tablette; = Bisoprolol (8,49 mg pro 1 Tablette)",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:41:59.308056+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/60/38/33860.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 146357,
+      "saved_as": "03090067_tablet_1.jpg",
+      "sha256": "9f27a25afab598b591785f93d218ea5418653eee5ddbae6d9f7dd33b2aa7446f",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/61/38/33861.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 134667,
+      "saved_as": "03090067_tablet_2.jpg",
+      "sha256": "a5eb6957866aa5dfddbec348874a4ce7446d29798217ff88954e85e6740418f9",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/75/62/76275.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 119214,
+      "saved_as": "03090067_leaflet.pdf",
+      "sha256": "013dccc25fe442650d74f750290f72a7e870b5c5161e2c7603ab537d4e97a932",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-al-10-mg-filmtabletten-3090067.html?file=3051bdfaea2dc9a869f82cadc1d17ea7",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 03.2017"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von BISOPROLOL AL 10 mg Filmtabletten",
+    "pzn_on_page": "03090067",
+    "pack_size_on_page": "100 Stück (N3)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten",
+    "provider_on_page": "ALIUD Pharma GmbH Laichingen www.aliud.de",
+    "substances_on_page": [
+      "Bisoprolol fumarat 10 mg pro 1 Tablette",
+      "= Bisoprolol (8,49 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Calciumhydrogenphosphat Cellulose, mikrokristalline Crospovidon Magnesium stearat Siliciumdioxid, hochdisperses",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/60/38/33860.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/60/38/33860.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/60/38/33860.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/61/38/33861.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 7,1 mm Höhe: 3,2 mm Masse: 175,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : beidseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"BSL 10\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-al-10-mg-filmtabletten-3090067.html?file=3051bdfaea2dc9a869f82cadc1d17ea7",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 03.2017"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27",
+    "provider_website": "https://www.aliud.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Gelbe bis orange, runde, bikonvexe Filmtablette mit beid ­ seitiger Bruchkerbe und einseitiger Prägung „BSL10“. BISOPROLOL AL ist in Packungen mit 50 und 100 Film­ tabletten erhältlich.",
+    "company_raw": "",
+    "manufacturer_raw": "",
+    "revision_raw": "März 2017",
+    "wirkstoff_raw": "Bisoprololhemifumarat Lesen Sie die gesamte Gebrauchsinformation sorgfältig durch, bevor Sie mit der Einnahme dieses Arzneimittels beginnen, denn sie enthält wichtige Informationen. • Heben Sie die Ge",
+    "composition_raw": "Der Wirkstoff ist Bisoprololhemifumarat. 1 Filmtablette enthält 10 mg Bisoprololhemifumarat. Die sonstigen Bestandteile sind Calciumhydrogenphosphat, mikrokristalline Cellulose, Crospovidon, Hypromellose, Macrogol 400, Magnesium ­ stearat (Ph. Eur.), hochdisperses Siliciumdioxid, vorver ­ kleisterte Stärke (aus Mais), Titandioxid (E 171), Eisen(III) ­ oxid (E 172), Eisen(III) ­hydroxid­ oxid 3 H 2O (E 172). Wie BISOPROLOL AL aussieht und Inhalt der Packung Gelbe bis orange, runde, bikonvexe Film",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

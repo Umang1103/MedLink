@@ -1,0 +1,231 @@
+{
+  "pzn": "11126514",
+  "input_file": "heart_failure_collection_list_expanded.csv",
+  "collection_row": {
+    "active_ingredient": "Sacubitril / Valsartan",
+    "category": "血管紧张素受体-脑啡肽酶抑制剂 / ARNI",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/entresto-49-mg51-mg-filmtabletten-11126514.html",
+    "hf_context_zh": "成人有症状的慢性HFrEF。",
+    "mechanism_zh": "Sacubitril增强有利的利钠肽作用；Valsartan阻断血管紧张素II作用，减轻心脏负荷。",
+    "clinical_role_zh": "HFrEF中作用于肾素-血管紧张素系统的基础治疗选择。",
+    "example_product_name": "ENTRESTO 49 mg/51 mg Filmtabletten",
+    "pzn": "11126514",
+    "example_strength_as_stated": "49 mg",
+    "pack_size_units": "56",
+    "market": "DE",
+    "collection_order": "58",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/entresto-49-mg51-mg-filmtabletten-11126514.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Filmtabletten",
+    "pharmaceutical_company_as_listed": "Novartis Pharma GmbH",
+    "ingredient_content_as_listed": "Sacubitril 48,58 mg pro 1 Tablette; Valsartan 51,42 mg pro 1 Tablette; = Sacubitril natrium-Valsartan dinatrium (1:1)-2,5-Wasser (113,1 mg pro 1 Tablette); = Sacubitril-Valsartan (1:1) (100 mg pro 1 Tablette)",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "product_page": {
+    "page_title": "Beipackzettel von ENTRESTO 49 mg/51 mg Filmtabletten",
+    "pzn_on_page": "11126514",
+    "pack_size_on_page": "56 Stück (N2)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten",
+    "provider_on_page": "Novartis Pharma GmbH Nürnberg www.novartis.de",
+    "substances_on_page": [
+      "Sacubitril 48,58 mg pro 1 Tablette",
+      "Valsartan 51,42 mg pro 1 Tablette",
+      "= Sacubitril natrium-Valsartan dinatrium (1:1)-2,5-Wasser (113,1 mg pro 1 Tablette)",
+      "= Sacubitril-Valsartan (1:1) (100 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Cellulose, mikrokristalline Hyprolose, niedersubstituiert Crospovidon Magnesium stearat (pflanzlich) Talkum",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/89/72/147289.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/89/72/147289.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/89/72/147289.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/90/72/147290.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 3,8 mm Breite: 5,2 mm Tiefe: 13,1 mm Masse: 206,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Anordnung : ohne Kerbe Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"L1\", \"NVR\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/entresto-49-mg51-mg-filmtabletten-11126514.html?file=5bd6a5e39276e11b8fbc044a22a4d66c",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 05.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-10-27",
+    "provider_website": "https://www.novartis.de"
+  },
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/89/72/147289.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 74637,
+      "saved_as": "11126514_tablet_1.jpg",
+      "sha256": "2c4bde83fc79747d906936ebb17edc59bcf3ffb18d27f4521aa6e76247dd403f",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/90/72/147290.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 77517,
+      "saved_as": "11126514_tablet_2.jpg",
+      "sha256": "8f77316fb3cd96c1059abe70eec9cceb16db4a5049963d20f261cd29826b2c0b",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/44/55/135544.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 157161,
+      "saved_as": "11126514_leaflet.pdf",
+      "sha256": "9ad312550113d8389870f4f5470b8434740e5463f74a745981b2b10388ec28e5",
+      "pages": 9,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/entresto-49-mg51-mg-filmtabletten-11126514.html?file=5bd6a5e39276e11b8fbc044a22a4d66c",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 05.2025"
+    }
+  },
+  "unresolved_issues": [],
+  "field_sources": {
+    "pzn": {
+      "value": "11126514",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "market": {
+      "value": "DE",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "product_name": {
+      "value": "ENTRESTO 49 mg/51 mg Filmtabletten",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "active_ingredient": {
+      "value": "Sacubitril / Valsartan",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Sacubitril 48,58 mg pro 1 Tablette; Valsartan 51,42 mg pro 1 Tablette",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "strength_as_stated": {
+      "value": "49 mg",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "dosage_form": {
+      "value": "Filmtabletten",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "pack_size": {
+      "value": "56",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "manufacturer": {
+      "value": "Novartis Pharma GmbH Sophie-Germain-Straße 10 90443 Nürnberg Deutschland Falls Sie weitere Informationen über das Arzneimittel wünschen, setzen Sie sich bitte mit dem örtlichen Vertreter des pharmazeutischen Unternehmers in Verbindung. Deutschland Novartis Pharma GmbH Tel: +49 911 273 0 Gebrauchsinformation: Information für Patienten Entresto® 24 mg/26 mg Filmtabletten Entresto® 49 mg/51 mg Filmtabletten Entresto® 97 mg/103 mg Filmtabletten Stand: Mai 2025 9",
+      "source": "leaflet PDF, automatic extract; requires review"
+    },
+    "score_line": {
+      "value": "Anordnung : ohne Kerbe Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird.",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "tablet_image_1": {
+      "value": "11126514/11126514_tablet_1.jpg",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "tablet_image_2": {
+      "value": "11126514/11126514_tablet_2.jpg",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "leaflet_path": {
+      "value": "11126514/11126514_leaflet.pdf",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/entresto-49-mg51-mg-filmtabletten-11126514.html",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "leaflet_revision_date": {
+      "value": "2025-05",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "retrieved_at": {
+      "value": "2026-11-13T15:42:37.014458+00:00",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "verification_status": {
+      "value": "PZN verified against product page; assets file-validated; automatically extracted; appearance and clinical details require review.",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "notes": {
+      "value": "Source catalogue strength preserved verbatim. Provider is recorded separately from manufacturer. Appearance/company details are automatically extracted from the leaflet; ambiguous multi-strength appearance fields are left blank. Leaflet document date is taken from the product page. ",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "category": {
+      "value": "血管紧张素受体-脑啡肽酶抑制剂 / ARNI",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "hf_context_zh": {
+      "value": "成人有症状的慢性HFrEF。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "mechanism_zh": {
+      "value": "Sacubitril增强有利的利钠肽作用；Valsartan阻断血管紧张素II作用，减轻心脏负荷。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "clinical_role_zh": {
+      "value": "HFrEF中作用于肾素-血管紧张素系统的基础治疗选择。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "strength_note_zh": {
+      "value": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "clinical_source_url": {
+      "value": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "mechanism_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/entresto-49-mg51-mg-filmtabletten-11126514.html",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "dosage_form_as_listed": {
+      "value": "Filmtabletten",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "pharmaceutical_company_as_listed": {
+      "value": "Novartis Pharma GmbH",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "ingredient_content_as_listed": {
+      "value": "Sacubitril 48,58 mg pro 1 Tablette; Valsartan 51,42 mg pro 1 Tablette; = Sacubitril natrium-Valsartan dinatrium (1:1)-2,5-Wasser (113,1 mg pro 1 Tablette); = Sacubitril-Valsartan (1:1) (100 mg pro 1 Tablette)",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "product_hf_indication_status": {
+      "value": "not_reviewed_check_product_leaflet",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "scope_note_zh": {
+      "value": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "notes_zh": {
+      "value": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "checked_on": {
+      "value": "2026-11-13",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "brand": {
+      "value": "Entresto",
+      "source": "Derived from product_name: strength, dosage form and pack descriptors removed; existing brand capitalization reused where available.",
+      "product_name": "ENTRESTO 49 mg/51 mg Filmtabletten"
+    }
+  },
+  "reuse_permission": "Not checked; original downloaded files and watermarks preserved."
+}

@@ -27,8 +27,8 @@
     {% endif %}
   </header>
   <main>
-    {% for message in get_flashed_messages() %}
-    <p class="flash" role="alert">{{ message }}</p>
+    {% for category, message in get_flashed_messages(with_categories=true) %}
+    <p class="flash {{ 'ok' if category == 'ok' }}" role="alert">{{ message }}</p>
     {% endfor %}
     {% block content %}{% endblock %}
   </main>

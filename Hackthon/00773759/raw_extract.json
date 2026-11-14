@@ -1,0 +1,93 @@
+{
+  "pzn": "00773759",
+  "list_row": {
+    "active_ingredient": "Torasemid",
+    "category": "袢利尿剂 / Loop diuretic",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/torasemid-1a-pharma-25-mg-tabletten-773759.html",
+    "hf_context_zh": "伴心衰相关水肿或体液潴留的患者。",
+    "mechanism_zh": "促进肾脏排钠、排水，减轻循环液体负荷。",
+    "clinical_role_zh": "主要用于缓解淤血和水肿。",
+    "example_product_name": "TORASEMID-1A Pharma 2,5 mg Tabletten",
+    "pzn": "00773759",
+    "example_strength_as_stated": "2,5 mg",
+    "pack_size_units": "20",
+    "market": "DE",
+    "collection_order": "77",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/torasemid-1a-pharma-25-mg-tabletten-773759.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "1A Pharma GmbH",
+    "ingredient_content_as_listed": "Torasemid 2,5 mg pro 1 Tablette",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:43:03.223153+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/52/82/178252.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 105575,
+      "saved_as": "00773759_tablet_1.jpg",
+      "sha256": "b3b2232aa2faeca08545602233f227695cf1cf6eb4b4f13b729d889fb840dc38",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/04/57/25704.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 257762,
+      "saved_as": "00773759_leaflet.pdf",
+      "sha256": "65e3acd52e423dd4ecc988b664f759a75ffff5a0f77ec773d4ca7767ec5738f3",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/torasemid-1a-pharma-25-mg-tabletten-773759.html?file=10ca7dd8f20a0448aadf649f842c52e7",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 02.2022"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von TORASEMID-1A Pharma 2,5 mg Tabletten",
+    "pzn_on_page": "00773759",
+    "pack_size_on_page": "20 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "1A Pharma GmbH Holzkirchen",
+    "substances_on_page": [
+      "Torasemid 2,5 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Cellulose, mikrokristalline Lactose-1-Wasser Lactose Magnesium stearat (pflanzlich) Maisstärke",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/52/82/178252.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/52/82/178252.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/52/82/178252.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 6,0 mm Höhe: 2,4 mm Masse: 76,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Anordnung : ohne Kerbe Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/torasemid-1a-pharma-25-mg-tabletten-773759.html?file=10ca7dd8f20a0448aadf649f842c52e7",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 02.2022"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Torasemid - 1 A Pharma ist eine runde, weiße bis cremefarbene Tablette. Torasemid - 1 A Pharma ist in Packungen mit 20, 28, 30, 50, 56, 60, 70, 80, 90, 100 und 400 Tabletten erhältlich. Es werden möglicherweise nicht alle Pa- ckungsgrößen in den Verkehr gebracht.",
+    "company_raw": "1 A Pharma GmbH Industriestraße 18 83607 Holzkirchen Telefon: (08024) 908-3030",
+    "manufacturer_raw": "Salutas Pharma GmbH Otto-von-Guericke-Allee 1 39179 Barleben",
+    "revision_raw": "Februar 2022",
+    "wirkstoff_raw": "bezeichnung auf „-pril“ endet • Arzneimittel, die die Pumpkraft des Herzens fördern wie Digitoxin, Digoxin oder Me- thyldigoxin • Arzneimittel zur Behandlung von Diabe- tes • Probenecid, ein Arzneimit",
+    "composition_raw": "• Der Wirkstoff ist Torasemid. 1 Tablette enthält 2,5 mg Torasemid. • Die sonstigen Bestandteile sind: mikrokristalline Cellulose, Lactose-Mono- hydrat, Magnesiumstearat (Ph.Eur.) [pﬂanz- lich], Maisstärke, hochdisperses Siliciumdi- oxid. Wie Torasemid - 1 A Pharma aussieht und Inhalt der Packung Torasemid - 1 A Pharma ist eine runde, weiße bis cremefarbene Tablette. Torasemid - 1 A Pharma ist in Packungen mit 20, 28, 30, 50, 56, 60, 70, 80, 90, 100 und 400 Tabletten erhältlich. Es werden möglic",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

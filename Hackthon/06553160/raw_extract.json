@@ -1,0 +1,94 @@
+{
+  "pzn": "06553160",
+  "list_row": {
+    "active_ingredient": "Torasemid",
+    "category": "袢利尿剂 / Loop diuretic",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/torasemid-ratiopharm-20-mg-tabletten-6553160.html",
+    "hf_context_zh": "伴心衰相关水肿或体液潴留的患者。",
+    "mechanism_zh": "促进肾脏排钠、排水，减轻循环液体负荷。",
+    "clinical_role_zh": "主要用于缓解淤血和水肿。",
+    "example_product_name": "TORASEMID-ratiopharm 20 mg Tabletten",
+    "pzn": "06553160",
+    "example_strength_as_stated": "20 mg",
+    "pack_size_units": "100",
+    "market": "DE",
+    "collection_order": "78",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/torasemid-ratiopharm-20-mg-tabletten-6553160.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "ratiopharm GmbH",
+    "ingredient_content_as_listed": "Torasemid 20 mg pro 1 Tablette",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:43:05.288518+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/42/36/53642.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 77788,
+      "saved_as": "06553160_tablet_1.jpg",
+      "sha256": "a56a7198c7e49cc48cb8d32168ef03b55c3a36e43e5c422986107c0df8c8c6e6",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/22/27/42722.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 119267,
+      "saved_as": "06553160_leaflet.pdf",
+      "sha256": "ba253423ea8318c8739e66200cea137b336c103d5be94a9edfc29b1f9b4036a2",
+      "pages": 6,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/torasemid-ratiopharm-20-mg-tabletten-6553160.html?file=5f1e63147affe54742b3edc9be2aee7f",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 04.2022"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von TORASEMID-ratiopharm 20 mg Tabletten",
+    "pzn_on_page": "06553160",
+    "pack_size_on_page": "100 Stück (N3)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "ratiopharm GmbH Ulm www.ratiopharm.de",
+    "substances_on_page": [
+      "Torasemid 20 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Cellulose, mikrokristalline Maisstärke Croscarmellose natrium Siliciumdioxid, hochdisperses Magnesium stearat (pflanzlich)",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/42/36/53642.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/42/36/53642.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/42/36/53642.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 6,2 mm Breite: 8,2 mm Tiefe: 16,2 mm Masse: 624,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : beidseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/torasemid-ratiopharm-20-mg-tabletten-6553160.html?file=5f1e63147affe54742b3edc9be2aee7f",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 04.2022"
+      }
+    ],
+    "page_last_reviewed": "2026-09-01",
+    "provider_website": "https://www.ratiopharm.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Torasemid-ratiopharm ® Weiße, längliche Tablette mit Bruchkerbe auf beiden Seiten. ist in Packungen mit 30, 50 und 100 Tabletten erhältlich.Torasemid-ratiopharm ® Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "ratiopharm GmbH Graf-Arco-Str. 3 89079 Ulm",
+    "manufacturer_raw": "Merckle GmbH Ludwig-Merckle-Str. 3 89143 Blaubeuren",
+    "revision_raw": "April 2022",
+    "wirkstoff_raw": "von , zeigten keine fruchtschädigenden Wirkungen. NachTorasemid-ratiopharm ® Gabe von hohen Dosen des Wirkstoffs wurden jedoch schädliche Wirkungen auf das ungeborene Tier und das Muttertier beobachte",
+    "composition_raw": "Torasemid-ratiopharm ® — Der Wirkstoff ist Torasemid. Jede Tablette enthält 20 mg Torasemid. — Die sonstigen Bestandteile sind: Mikrokristalline Cellulose, Maisstärke, Croscarmellose-Natrium, Hochdisperses Siliciumdioxid, Magnesiumstearat (Ph.Eur.) [pflanzlich]. Wie aussieht und Inhalt der PackungTorasemid-ratiopharm ® Weiße, längliche Tablette mit Bruchkerbe auf beiden Seiten. ist in Packungen mit 30, 50 und 100 Tabletten erhältlich.Torasemid-ratiopharm ® Es werden möglicherweise nicht alle Pac",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}
