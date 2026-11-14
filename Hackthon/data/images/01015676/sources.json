@@ -1,0 +1,203 @@
+{
+  "pzn": "01015676",
+  "generated_at": "2026-11-13T11:47:45.860049+00:00",
+  "retrieved_at": "2026-11-13T11:37:17.314715+00:00",
+  "product_page": {
+    "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/enalapril-abz-5-mg-tabletten-1015676.html",
+    "http_status": 200,
+    "pzn_on_page": "01015676",
+    "pack_size_on_page": "100 Stück (N3)",
+    "provider_on_page (Anbieter)": "AbZ-Pharma GmbH Ulm www.abz.de",
+    "substances_on_page": [
+      "Enalapril maleat 5 mg pro 1 Tablette",
+      "= Enalapril (3,82 mg pro 1 Tablette)"
+    ],
+    "physical_data_on_page": "Abmessungen und Gewicht 1 Durchmesser: 7,1 mm Höhe: 3,7 mm Masse: 170,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "page_last_reviewed": "2026-08-15",
+    "data_provider": "ABDATA Pharma-Daten-Service"
+  },
+  "files": {
+    "tablet_image_1": {
+      "local_path": "01015676/01015676_tablet_1.jpg",
+      "download_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/15/84/48415.jpg",
+      "viewer_page": null,
+      "download_ok": true,
+      "verified_type": "jpeg",
+      "bytes": 86210,
+      "pixels": "600x600",
+      "document_date_on_page": null
+    },
+    "tablet_image_2": {
+      "local_path": "01015676/01015676_tablet_2.jpg",
+      "download_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/16/84/48416.jpg",
+      "viewer_page": null,
+      "download_ok": true,
+      "verified_type": "jpeg",
+      "bytes": 80414,
+      "pixels": "600x600",
+      "document_date_on_page": null
+    },
+    "leaflet_path": {
+      "local_path": "01015676/01015676_leaflet.pdf",
+      "download_url": "https://image.wub-service.de/resources/static/drugexpert/261101/49/05/40549.pdf",
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/enalapril-abz-5-mg-tabletten-1015676.html?file=521109ba99d1576028f079138034335b",
+      "download_ok": true,
+      "verified_type": "pdf",
+      "bytes": 595477,
+      "pixels": null,
+      "document_date_on_page": "Dokumentdatum: 07.2020"
+    }
+  },
+  "image_classification": {
+    "result": "both files are tablet photographs (front and back of the same tablet) on grey background with mm scale and '© ABDATA | Dosing' watermark; one side plain, one side with single score; consistent with page and leaflet",
+    "method": "visual review of each file",
+    "package_image": "none available"
+  },
+  "field_sources": {
+    "pzn": {
+      "value": "01015676",
+      "source": "product_page (verified equal to list)"
+    },
+    "market": {
+      "value": "DE",
+      "source": "derived (German PZN)"
+    },
+    "product_name": {
+      "value": "Enalapril AbZ 5 mg Tabletten",
+      "source": "leaflet_pdf title (German, preserved)"
+    },
+    "active_ingredient": {
+      "value": "Enalapril",
+      "source": "leaflet_pdf section 6"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Enalaprilmaleat",
+      "source": "leaflet_pdf section 6"
+    },
+    "strength_as_stated": {
+      "value": "5 mg",
+      "source": "product_name / leaflet_pdf section 6 (label strength, not converted)",
+      "note": "Salt mass (Enalaprilmaleat); not converted."
+    },
+    "dosage_form": {
+      "value": "Tabletten",
+      "source": "product_page Darreichungsform + leaflet_pdf"
+    },
+    "pack_size": {
+      "value": "100",
+      "source": "product_page Packungsgröße (verified for this PZN)"
+    },
+    "brand": {
+      "value": "Enalapril AbZ",
+      "source": "product_name"
+    },
+    "pharmaceutical_company": {
+      "value": "AbZ-Pharma GmbH, Graf-Arco-Str. 3, 89079 Ulm, Deutschland",
+      "source": "leaflet_pdf section 6 (Pharmazeutischer Unternehmer / Zulassungsinhaber)"
+    },
+    "manufacturer": {
+      "value": "Merckle GmbH, Ludwig-Merckle-Str. 3, 89143 Blaubeuren, Deutschland; oder Teva Operations Poland Sp. z o.o., UL. Emilii Plater 53, 00-113 Warszawa, Polen",
+      "source": "leaflet_pdf section 6 (Hersteller)",
+      "note": "Leaflet lists two alternative manufacturers joined by 'oder'."
+    },
+    "color": {
+      "value": "white",
+      "source": "leaflet_pdf section 6, normalised to English"
+    },
+    "shape": {
+      "value": "round, biconvex",
+      "source": "leaflet_pdf section 6, normalised to English"
+    },
+    "imprint": {
+      "value": "",
+      "source": "product_page 'Sonstige Merkmale' + leaflet_pdf"
+    },
+    "score_line": {
+      "value": "single score line on one side",
+      "source": "product_page 'Angaben zu Kerben' + leaflet_pdf"
+    },
+    "appearance_description_original": {
+      "value": "Weiße, runde, beidseits gewölbte Tablette mit einer Bruchkerbe auf einer Seite.",
+      "source": "leaflet_pdf section 6 (German, verbatim)"
+    },
+    "tablet_image_1": {
+      "value": "01015676/01015676_tablet_1.jpg",
+      "source": "product_page 'Originalbilder des Präparats'"
+    },
+    "tablet_image_2": {
+      "value": "01015676/01015676_tablet_2.jpg",
+      "source": "product_page 'Originalbilder des Präparats'"
+    },
+    "package_image": {
+      "value": "",
+      "source": "none available"
+    },
+    "leaflet_path": {
+      "value": "01015676/01015676_leaflet.pdf",
+      "source": "product_page 'PDF-Dokumente' link"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/enalapril-abz-5-mg-tabletten-1015676.html",
+      "source": "heart_failure_collection_list.csv"
+    },
+    "manufacturer_source_url": {
+      "value": "",
+      "source": "not cross-checked"
+    },
+    "leaflet_revision_date": {
+      "value": "2020-07",
+      "source": "leaflet_pdf 'zuletzt überarbeitet im …'"
+    },
+    "retrieved_at": {
+      "value": "2026-11-13",
+      "source": "collection run date"
+    },
+    "verification_status": {
+      "value": "Extracted from product page and leaflet PDF; images visually confirmed as tablet photos; not clinically or pharmacist verified.",
+      "source": "workflow status"
+    },
+    "notes": {
+      "value": "Label strength refers to the salt: 'Jede Tablette enthält 5 mg Enalaprilmaleat'. Product page gives the equivalent 3.82 mg enalapril (not used as label strength). No imprint stated in leaflet or product page; images show none. ABDATA average: diameter 7.1 mm, height 3.7 mm, mass 170.0 mg; score wedge-shaped, one side. Leaflet lists packs of 50 and 100; this PZN = 100 (N3) per product page. Two alternative manufacturers listed ('oder'); actual site for a given batch cannot be determined. Leaflet version code Z15. manufacturer_source_url not cross-checked.",
+      "source": "collector notes"
+    }
+  },
+  "unresolved_issues": [
+    "Leaflet revision July 2020 (page document date 07.2020); check for a newer leaflet."
+  ],
+  "reuse_permission": "unverified - image XMP: creator 'Dosing GmbH Heidelberg', rights 'ABDATA Pharma-Daten-Service', usage terms 'Verwendung nach Lizenzbestimmungen'. No explicit open licence found. Do not publish or deploy.",
+  "attribution": {
+    "product_page": "ABDATA Pharma-Daten-Service via apotheken-umschau.de",
+    "images": "© ABDATA | Dosing (watermark preserved, files unmodified)",
+    "leaflet_pdf": "marketing authorisation holder's patient leaflet, hosted by image.wub-service.de"
+  },
+  "expanded_catalogue": {
+    "input_file": "heart_failure_collection_list_expanded.csv",
+    "row": {
+      "active_ingredient": "Enalapril",
+      "category": "血管紧张素转换酶抑制剂 / ACE inhibitor",
+      "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/enalapril-abz-5-mg-tabletten-1015676.html",
+      "hf_context_zh": "有症状的HFrEF；某些无症状左室功能不全患者用于预防症状性心衰。",
+      "mechanism_zh": "抑制ACE，减少血管收缩和钠水潴留相关激素作用。",
+      "clinical_role_zh": "HFrEF中肾素-血管紧张素系统治疗的选择。",
+      "example_product_name": "ENALAPRIL AbZ 5 mg Tabletten",
+      "pzn": "01015676",
+      "example_strength_as_stated": "5 mg Enalaprilmaleat",
+      "pack_size_units": "100",
+      "market": "DE",
+      "collection_order": "11",
+      "collection_status": "check_existing_record",
+      "notes_zh": "原清单已有产品；按 market+pzn 检查已有记录。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+      "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+      "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+      "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/enalapril-abz-5-mg-tabletten-1015676.html",
+      "checked_on": "2026-11-13",
+      "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+      "dosage_form_as_listed": "Tabletten",
+      "pharmaceutical_company_as_listed": "AbZ-Pharma GmbH",
+      "ingredient_content_as_listed": "Enalapril maleat 5 mg pro 1 Tablette; = Enalapril (3,82 mg pro 1 Tablette)",
+      "pill_photo_status": "listed_on_product_page_not_visually_verified",
+      "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+      "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+    }
+  }
+}

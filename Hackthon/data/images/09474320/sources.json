@@ -1,0 +1,200 @@
+{
+  "pzn": "09474320",
+  "generated_at": "2026-11-13T11:47:45.864044+00:00",
+  "retrieved_at": "2026-11-13T11:37:28.325823+00:00",
+  "product_page": {
+    "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/candesartan-biomo-8-mg-tabletten-9474320.html",
+    "http_status": 200,
+    "pzn_on_page": "09474320",
+    "pack_size_on_page": "28 Stück (N1)",
+    "provider_on_page (Anbieter)": "biomo pharma GmbH Hennef www.biomopharma.de",
+    "substances_on_page": [
+      "Candesartan cilexetil 8 mg pro 1 Tablette",
+      "= Candesartan (5,77 mg pro 1 Tablette)"
+    ],
+    "physical_data_on_page": "Abmessungen und Gewicht 1 Durchmesser: 7,5 mm Höhe: 3,7 mm Masse: 167,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : rinnenförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Besonderheiten Die Tablette ist marmoriert. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "page_last_reviewed": "2026-08-15",
+    "data_provider": "ABDATA Pharma-Daten-Service"
+  },
+  "files": {
+    "tablet_image_1": {
+      "local_path": "09474320/09474320_tablet_1.jpg",
+      "download_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/37/60/116037.jpg",
+      "viewer_page": null,
+      "download_ok": true,
+      "verified_type": "jpeg",
+      "bytes": 133788,
+      "pixels": "600x600",
+      "document_date_on_page": null
+    },
+    "tablet_image_2": {
+      "local_path": "09474320/09474320_tablet_2.jpg",
+      "download_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/38/60/116038.jpg",
+      "viewer_page": null,
+      "download_ok": true,
+      "verified_type": "jpeg",
+      "bytes": 128252,
+      "pixels": "600x600",
+      "document_date_on_page": null
+    },
+    "leaflet_path": {
+      "local_path": "09474320/09474320_leaflet.pdf",
+      "download_url": "https://image.wub-service.de/resources/static/drugexpert/261101/91/74/147491.pdf",
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/candesartan-biomo-8-mg-tabletten-9474320.html?file=dbed8e9cbc2d9e49c4ebdac41ee3b1e1",
+      "download_ok": true,
+      "verified_type": "pdf",
+      "bytes": 149501,
+      "pixels": null,
+      "document_date_on_page": "Dokumentdatum: 11.2024"
+    }
+  },
+  "image_classification": {
+    "result": "both files are tablet photographs (front and back) with mm scale and '© ABDATA | Dosing' watermark; round marbled tablet, one side plain, one side scored; consistent with page and leaflet",
+    "method": "visual review of each file",
+    "package_image": "none available"
+  },
+  "field_sources": {
+    "pzn": {
+      "value": "09474320",
+      "source": "product_page (verified equal to list)"
+    },
+    "market": {
+      "value": "DE",
+      "source": "derived (German PZN)"
+    },
+    "product_name": {
+      "value": "candesartan-biomo 8 mg Tabletten",
+      "source": "leaflet_pdf title (German, preserved)"
+    },
+    "active_ingredient": {
+      "value": "Candesartan",
+      "source": "leaflet_pdf section 6"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Candesartancilexetil",
+      "source": "leaflet_pdf section 6"
+    },
+    "strength_as_stated": {
+      "value": "8 mg",
+      "source": "product_name / leaflet_pdf section 6 (label strength, not converted)"
+    },
+    "dosage_form": {
+      "value": "Tabletten",
+      "source": "product_page Darreichungsform + leaflet_pdf"
+    },
+    "pack_size": {
+      "value": "28",
+      "source": "product_page Packungsgröße (verified for this PZN)"
+    },
+    "brand": {
+      "value": "candesartan-biomo",
+      "source": "product_name"
+    },
+    "pharmaceutical_company": {
+      "value": "biomo pharma GmbH, Josef-Dietzgen-Straße 3, 53773 Hennef",
+      "source": "leaflet_pdf section 6 (Pharmazeutischer Unternehmer / Zulassungsinhaber)"
+    },
+    "manufacturer": {
+      "value": "biomo pharma GmbH, Josef-Dietzgen-Straße 3, 53773 Hennef",
+      "source": "leaflet_pdf section 6 (Hersteller)"
+    },
+    "color": {
+      "value": "light red",
+      "source": "leaflet_pdf section 6, normalised to English",
+      "note": "Leaflet 'hellrot'; product page adds marbled; photos look pinkish-orange marbled (colour words are subjective)."
+    },
+    "shape": {
+      "value": "round",
+      "source": "leaflet_pdf section 6, normalised to English"
+    },
+    "imprint": {
+      "value": "",
+      "source": "product_page 'Sonstige Merkmale' + leaflet_pdf"
+    },
+    "score_line": {
+      "value": "single score line on one side",
+      "source": "product_page 'Angaben zu Kerben' + leaflet_pdf"
+    },
+    "appearance_description_original": {
+      "value": "candesartan-biomo 8 mg Tabletten sind hellrote, runde Tabletten mit einer Bruchkerbe auf einer Seite.",
+      "source": "leaflet_pdf section 6 (German, verbatim)"
+    },
+    "tablet_image_1": {
+      "value": "09474320/09474320_tablet_1.jpg",
+      "source": "product_page 'Originalbilder des Präparats'"
+    },
+    "tablet_image_2": {
+      "value": "09474320/09474320_tablet_2.jpg",
+      "source": "product_page 'Originalbilder des Präparats'"
+    },
+    "package_image": {
+      "value": "",
+      "source": "none available"
+    },
+    "leaflet_path": {
+      "value": "09474320/09474320_leaflet.pdf",
+      "source": "product_page 'PDF-Dokumente' link"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/candesartan-biomo-8-mg-tabletten-9474320.html",
+      "source": "heart_failure_collection_list.csv"
+    },
+    "manufacturer_source_url": {
+      "value": "",
+      "source": "not cross-checked"
+    },
+    "leaflet_revision_date": {
+      "value": "2024-11",
+      "source": "leaflet_pdf 'zuletzt überarbeitet im …'"
+    },
+    "retrieved_at": {
+      "value": "2026-11-13",
+      "source": "collection run date"
+    },
+    "verification_status": {
+      "value": "Extracted from product page and leaflet PDF; images visually confirmed as tablet photos; not clinically or pharmacist verified.",
+      "source": "workflow status"
+    },
+    "notes": {
+      "value": "Label strength is the prodrug: 'enthält 8 mg Candesartancilexetil'; product page gives equivalent 5.77 mg candesartan (not used as label strength). Leaflet covers 8/16/32 mg; only the 8 mg description is used. Product page adds 'Die Tablette ist marmoriert'; score groove-shaped, one side. ABDATA average: diameter 7.5 mm, height 3.7 mm, mass 167.0 mg. Leaflet blister packs 14/28/56/84/98, bottles 100/250; this PZN = 28 (N1). No imprint stated; images show none. Leaflet names biomo pharma GmbH as both Pharmazeutischer Unternehmer and Hersteller.",
+      "source": "collector notes"
+    }
+  },
+  "unresolved_issues": [],
+  "reuse_permission": "unverified - image XMP: creator 'Dosing GmbH Heidelberg', rights 'ABDATA Pharma-Daten-Service', usage terms 'Verwendung nach Lizenzbestimmungen'. No explicit open licence found. Do not publish or deploy.",
+  "attribution": {
+    "product_page": "ABDATA Pharma-Daten-Service via apotheken-umschau.de",
+    "images": "© ABDATA | Dosing (watermark preserved, files unmodified)",
+    "leaflet_pdf": "marketing authorisation holder's patient leaflet, hosted by image.wub-service.de"
+  },
+  "expanded_catalogue": {
+    "input_file": "heart_failure_collection_list_expanded.csv",
+    "row": {
+      "active_ingredient": "Candesartan",
+      "category": "血管紧张素II受体阻滞剂 / ARB",
+      "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/candesartan-biomo-8-mg-tabletten-9474320.html",
+      "hf_context_zh": "HFrEF：射血分数降低的心衰（心脏泵血能力减弱）；特别是在ACE抑制剂不耐受等情况下的选择。",
+      "mechanism_zh": "阻断血管紧张素II的AT1受体，减少血管收缩和醛固酮作用。",
+      "clinical_role_zh": "HFrEF中肾素-血管紧张素系统治疗的替代选择。",
+      "example_product_name": "CANDESARTAN-biomo 8 mg Tabletten",
+      "pzn": "09474320",
+      "example_strength_as_stated": "8 mg Candesartancilexetil",
+      "pack_size_units": "28",
+      "market": "DE",
+      "collection_order": "12",
+      "collection_status": "check_existing_record",
+      "notes_zh": "原清单已有产品；按 market+pzn 检查已有记录。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+      "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+      "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+      "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/candesartan-biomo-8-mg-tabletten-9474320.html",
+      "checked_on": "2026-11-13",
+      "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+      "dosage_form_as_listed": "Tabletten",
+      "pharmaceutical_company_as_listed": "biomo pharma GmbH",
+      "ingredient_content_as_listed": "Candesartan cilexetil 8 mg pro 1 Tablette; = Candesartan (5,77 mg pro 1 Tablette)",
+      "pill_photo_status": "listed_on_product_page_not_visually_verified",
+      "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+      "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+    }
+  }
+}

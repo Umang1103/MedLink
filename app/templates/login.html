@@ -1,8 +1,8 @@
 {% extends "base.html" %}
-{% block title %}HPC Login - MedLink{% endblock %}
+{% block title %}Doctor / Pharmacy Login - MedLink{% endblock %}
 {% block content %}
 <section class="card narrow">
-  <h1>Healthcare Professional Login</h1>
+  <h1>Doctor / Pharmacy Login</h1>
   <p class="card-sub">Sign in to access patient medication data.</p>
   <form method="post">
     <input type="hidden" name="csrf_token" value="{{ csrf_token }}">
@@ -12,6 +12,6 @@
     <input id="password" name="password" type="password" autocomplete="current-password" required>
     <button type="submit">Log in</button>
   </form>
-  <p class="hint">Demo: dr.demo (doctor, read-only box) or nurse.weber (can load the box), password demo1234</p>
+  <p class="hint">Doctor demo: dr.demo / demo1234<br>Pharmacy demo: pharmacy.demo / pharmacy1234</p>
 </section>
 {% endblock %}

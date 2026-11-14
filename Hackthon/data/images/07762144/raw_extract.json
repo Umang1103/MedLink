@@ -1,0 +1,98 @@
+{
+  "pzn": "07762144",
+  "list_row": {
+    "active_ingredient": "Valsartan",
+    "category": "血管紧张素II受体阻滞剂 / ARB",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/valsartan-basics-80-mg-filmtabletten-7762144.html",
+    "hf_context_zh": "特定有症状的HFrEF患者；也用于特定心梗后左室功能不全/心衰。",
+    "mechanism_zh": "阻断AT1受体，减轻血管收缩、钠水潴留和心脏负荷。",
+    "clinical_role_zh": "HFrEF中肾素-血管紧张素系统治疗的替代选择。",
+    "example_product_name": "VALSARTAN BASICS 80 mg Filmtabletten",
+    "pzn": "07762144",
+    "example_strength_as_stated": "80 mg",
+    "pack_size_units": "56",
+    "market": "DE",
+    "collection_order": "15",
+    "collection_status": "pending_extraction",
+    "notes_zh": "这是单方Valsartan，与Entresto复方是不同产品；不要按成分相同自动替换或叠加。",
+    "strength_note_zh": "示例产品规格，不是患者每次或每日服药剂量；具体适应证以该产品现行说明书为准",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/valsartan-basics-80-mg-filmtabletten-7762144.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "心衰相关药物采集起始清单；每种成分/复方选一个产品示例，不穷尽药物、品牌或规格；非患者用药方案；图片和PDF待采集核实。"
+  },
+  "retrieved_at": "2026-11-13T11:37:39.024172+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/37/94/29437.jpg",
+      "http_status": 200,
+      "content_type": "image/jpeg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 112499,
+      "saved_as": "07762144_original_image_1.jpg",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/38/94/29438.jpg",
+      "http_status": 200,
+      "content_type": "image/jpeg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 110311,
+      "saved_as": "07762144_original_image_2.jpg",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/89/47/104789.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 1480825,
+      "saved_as": "07762144_leaflet.pdf",
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/valsartan-basics-80-mg-filmtabletten-7762144.html?file=972b94032aabb2e33d7a561c9bb96433",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 01.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von VALSARTAN BASICS 80 mg Filmtabletten",
+    "pzn_on_page": "07762144",
+    "pack_size_on_page": "56 Stück (N2)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten Dosierung & Anwendung Nebenwirkungen Wechselwirkungen alle Kapitel anzeigen Wirkung Originalbilder Anwendungsgebiete Gegenanzeigen & Hinweise Lagerungshinweise PDF-Dokumente",
+    "provider_on_page": "Basics GmbH Leverkusen www.basics.de",
+    "substances_on_page": [
+      "Valsartan 80 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Cellulose, mikrokristalline Crospovidon Siliciumdioxid, hochdisperses Talkum Magnesium stearat",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/37/94/29437.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/37/94/29437.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/37/94/29437.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/38/94/29438.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 3,8 mm Breite: 6,6 mm Tiefe: 12,1 mm Masse: 254,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : beidseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"V2\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/valsartan-basics-80-mg-filmtabletten-7762144.html?file=972b94032aabb2e33d7a561c9bb96433",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 01.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-10-09"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "",
+    "company_raw": "Basics GmbH Hemmelrather Weg 201 51377 Leverkusen E-Mail: info@basics.de Internet: www.basics.de",
+    "manufacturer_raw": "Sun Pharmaceutical Industries Europe B.V. Polarisavenue 87 2132 JH Hoofddorp Niederlande oder Terapia S.A. 124 Fabricii Street 400632 Cluj Napoca Rumänien",
+    "revision_raw": "Januar 2025",
+    "wirkstoff_raw": "Valsartan zur Verfügung. E rwachsene Patienten mit Bluthochdruck: Die emp- fohlene Dosis beträgt 80 mg pro Tag. In einigen Fällen kann Ihr Arzt eine höhere Dosis (z.B. 160 mg oder 320 mg) oder zusätzl",
+    "composition_raw": "Der Wirkstoff ist Valsartan. Eine Filmtablette enthält 80 mg Valsartan. Die sonstigen Bestandteile sind: Tablettenkern: mikrokristalline Cellulose, Crospovidon (Ph.Eur.), hochdisperses Siliciumdioxid, Talkum, Ma- gnesiumstearat (Ph.Eur.), vorverkleisterte Stärke (Mais) Tablettenfilm: Hypromellose, Titandioxid (E171), Macrogol 400, Macrogol 4000, Talkum, Eisen(III)- hydroxid-oxid x H2O (E172), Eisen(III)-oxid (E172) Wie VALSARTAN BASICS 80 mg Filmtabletten aus- sieht und Inhalt der Packung VALSAR",
+    "pdf_title": ""
+  }
+}

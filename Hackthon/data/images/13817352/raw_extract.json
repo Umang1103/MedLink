@@ -1,0 +1,94 @@
+{
+  "pzn": "13817352",
+  "list_row": {
+    "active_ingredient": "Losartan",
+    "category": "血管紧张素II受体阻滞剂 / ARB",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/losartan-axiromed-25-mg-filmtabletten-13817352.html",
+    "hf_context_zh": "ACE抑制剂不适合或不耐受的特定成人慢性HFrEF患者。",
+    "mechanism_zh": "阻断AT1受体，减轻血管紧张素II导致的血管收缩和醛固酮作用。",
+    "clinical_role_zh": "HFrEF中肾素-血管紧张素系统治疗的替代选择。",
+    "example_product_name": "LOSARTAN AXiromed 25 mg Filmtabletten",
+    "pzn": "13817352",
+    "example_strength_as_stated": "25 mg",
+    "pack_size_units": "28",
+    "market": "DE",
+    "collection_order": "186",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/losartan-axiromed-25-mg-filmtabletten-13817352.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Filmtabletten",
+    "pharmaceutical_company_as_listed": "Medical Valley Invest AB - AXiromed",
+    "ingredient_content_as_listed": "Losartan kalium 25 mg pro 1 Tablette; = Losartan (22,93 mg pro 1 Tablette)",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:44:52.957983+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/37/70/97037.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 90872,
+      "saved_as": "13817352_tablet_1.jpg",
+      "sha256": "e92c3d52ea074bbf65ff3694bec4a8584f997701b200219adaccb2e117be41f1",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/16/72/87216.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 186660,
+      "saved_as": "13817352_leaflet.pdf",
+      "sha256": "b54e0b590b2206fd0c97888cf5bcb2f594d6539641f0249b7c2c1285386841a1",
+      "pages": 9,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/losartan-axiromed-25-mg-filmtabletten-13817352.html?file=69651a273f0d28bc79f2057f125fb13d",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 10.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von LOSARTAN AXiromed 25 mg Filmtabletten",
+    "pzn_on_page": "13817352",
+    "pack_size_on_page": "28 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten",
+    "provider_on_page": "Medical Valley Invest AB - AXiromed Höllviken",
+    "substances_on_page": [
+      "Losartan kalium 25 mg pro 1 Tablette",
+      "= Losartan (22,93 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Lactose-1-Wasser Maisstärke, vorverkleistert Cellulose, mikrokristalline Magnesium stearat (pflanzlich) Hyprolose",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/37/70/97037.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/37/70/97037.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/37/70/97037.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 5,1 mm Höhe: 3,8 mm Masse: 78,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Anordnung : ohne Kerbe Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/losartan-axiromed-25-mg-filmtabletten-13817352.html?file=69651a273f0d28bc79f2057f125fb13d",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 10.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Losartan AXiromed ist in Form von runden, weißen, nicht-teilbaren Filmtabletten mit einem Losartan- Kalium-Gehalt von 25 mg, 50 mg bzw. 100 mg erhältlich. Losartan AXiromed 25 mg ist in folgenden Packungsgrößen erhältlich: Aluminium-PVC/PE/PVdC-Blisterpackungen mit 7, 10, 14, 15, 21, 28, 50, 56, 90, 98, 100, 210 oder 280 Filmtabletten. Losartan AXiromed 50 mg und 100 mg ist in folgenden Packungsgrößen erhältlich: Aluminium-PVC/PE/PVdC-Blisterpackungen mit 7, 10, 14, 15, 21, 28, 30, 50, 56, 90, 98, 100, 210 oder 280 Filmtabletten. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "und",
+    "manufacturer_raw": "Pharmazeutischer Unternehmer: Medical Valley Invest AB Brädgårdsvägen 28 236 32 Höllviken Schweden Hersteller: LABORATORIOS LICONSA, S. A. C/Dulcinea S/N 28805 Alcala de Henares, Madrid Spanien",
+    "revision_raw": "Oktober 2025",
+    "wirkstoff_raw": "von Losartan AXiromed, gehört zu einer Klasse von Arzneimitteln, die als Angiotensin-II-Rezeptor-Antagonisten bezeichnet werden. Die Substanz Angiotensin II wird im Körper gebildet und hilft, den Blut",
+    "composition_raw": "- Der Wirkstoff ist: Losartan-Kalium. Losartan AXiromed 25 mg Jede Losartan AXiromed 25 mg Filmtablette enthält 25 mg Losartan-Kalium. Losartan AXiromed 50 mg Jede Losartan AXiromed 50 mg Filmtablette enthält 50 mg Losartan-Kalium. Losartan AXiromed 100 mg Jede Losartan AXiromed 100 mg Filmtablette enthält 100 mg Losartan-Kalium. - Die sonstigen Bestandteile sind: Tablettenkern: Lactose-Monohydrat, vorverkleisterte Maisstärke, mikrokristalline Cellulose, Magnesiumstearat [pflanzlich] (Ph. Eur.).",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

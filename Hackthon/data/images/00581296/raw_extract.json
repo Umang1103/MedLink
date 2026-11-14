@@ -1,0 +1,105 @@
+{
+  "pzn": "00581296",
+  "list_row": {
+    "active_ingredient": "Losartan",
+    "category": "血管紧张素II受体阻滞剂 / ARB",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/losar-teva-25-mg-filmtabletten-581296.html",
+    "hf_context_zh": "ACE抑制剂不适合或不耐受的特定成人慢性HFrEF患者。",
+    "mechanism_zh": "阻断AT1受体，减轻血管紧张素II导致的血管收缩和醛固酮作用。",
+    "clinical_role_zh": "HFrEF中肾素-血管紧张素系统治疗的替代选择。",
+    "example_product_name": "LOSAR Teva 25 mg Filmtabletten",
+    "pzn": "00581296",
+    "example_strength_as_stated": "25 mg",
+    "pack_size_units": "28",
+    "market": "DE",
+    "collection_order": "184",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/losar-teva-25-mg-filmtabletten-581296.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Filmtabletten",
+    "pharmaceutical_company_as_listed": "Teva GmbH",
+    "ingredient_content_as_listed": "Losartan kalium 25 mg pro 1 Tablette; = Losartan (22,93 mg pro 1 Tablette)",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:44:51.054013+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/96/85/48596.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 80331,
+      "saved_as": "00581296_tablet_1.jpg",
+      "sha256": "52f663ba898ef6a0214376c0ca31d3d447f160f0a8852ffcb2967ce79e5f6e00",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/97/85/48597.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 79435,
+      "saved_as": "00581296_tablet_2.jpg",
+      "sha256": "eb97c62b6db5c11d060d6c9fa79492a73bb59152795703a25b634a6822630cf8",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/76/30/43076.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 106339,
+      "saved_as": "00581296_leaflet.pdf",
+      "sha256": "3cd19f9d64f93a1e6fd2c9015bfbfe5171929c932efcccdc72da795fa2369832",
+      "pages": 7,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/losar-teva-25-mg-filmtabletten-581296.html?file=1b87a0d5126af85685281531b4ce8ec1",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 10.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von LOSAR Teva 25 mg Filmtabletten",
+    "pzn_on_page": "00581296",
+    "pack_size_on_page": "28 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten",
+    "provider_on_page": "Teva GmbH Ulm an der Donau www.teva.de",
+    "substances_on_page": [
+      "Losartan kalium 25 mg pro 1 Tablette",
+      "= Losartan (22,93 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Lactose-1-Wasser Cellulose, mikrokristalline Maisstärke, vorverkleistert Magnesium stearat Poly(vinylalkohol)",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/96/85/48596.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/96/85/48596.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/96/85/48596.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/97/85/48597.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 3,0 mm Breite: 5,0 mm Tiefe: 8,6 mm Masse: 104,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : beidseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"25\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/losar-teva-25-mg-filmtabletten-581296.html?file=1b87a0d5126af85685281531b4ce8ec1",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 10.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27",
+    "provider_website": "https://www.teva.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "® Losar Teva 25 mg Filmtabletten sind weiße, ovale, leicht gebogene Filmtabletten mit der Prägung „2“ und „5“ sowie einer Bruchkerbe auf der einen Seite und einer Bruchkerbe auf der anderen Seite. Die Filmtabletten sind in Packungen mit weiß-opaquen PVC/PVdC/Alu-Blisterpackungen (oder weiß-opaquen PVC/PE/PVdC/Al-Blisterpackungen) mit 28 und 98 Filmtabletten erhältlich.",
+    "company_raw": "TEVA GmbH Graf-Arco-Str. 3 89079 Ulm",
+    "manufacturer_raw": "Pharmachemie B.V. Swensweg 5, P.O. Box 552 2003 RN Haarlem Niederlande oder TEVA Pharmaceutical Works Private Limited Company Pallagi út 13 4042 Debrecen Ungarn oder Teva Czech Industries s.r.o. Ostravska 29/305 747 70 Opava-Komarov Tschechische Republik oder Teva Pharma, S.L.U. C/ Anabel Segura 11 Edificio Albatros B, 1ª planta 28108 Alcobendas Madrid Spanien",
+    "revision_raw": "Oktober 2025",
+    "wirkstoff_raw": "ist: Losartan-Kalium. Jede Filmtablette enthält 25 mg Losartan-Kalium. — Die sonstigen Bestandteile sind: Lactose-Monohydrat, mikrokristalline Cellulose, vorverkleisterte Stärke (Mais), Magnesiumstear",
+    "composition_raw": "® — Der Wirkstoff ist: Losartan-Kalium. Jede Filmtablette enthält 25 mg Losartan-Kalium. — Die sonstigen Bestandteile sind: Lactose-Monohydrat, mikrokristalline Cellulose, vorverkleisterte Stärke (Mais), Magnesiumstearat (Ph.Eur.), Polyvinylalkohol (partiell hydrolysiert), Titandioxid (E 171), Macrogol, Talkum. GEBRAUCHSINFORMATION Losar Teva 25 mg Filmtabletten® 7 Wie Losar Teva 25 mg aussieht und Inhalt der Packung® Losar Teva 25 mg Filmtabletten sind weiße, ovale, leicht gebogene Filmtablette",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

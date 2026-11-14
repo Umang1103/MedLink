@@ -1,0 +1,27 @@
+{% extends 'base.html' %}
+{% block title %}Prescribe - MedLink{% endblock %}
+{% block content %}
+<section class="card">
+  <h1>Prescribe</h1>
+  <p class="card-sub">Enter patient details, select medicines and specify how each should be taken.</p>
+  {% if error %}<p class="flash" role="alert">{{ error }}</p>{% endif %}
+  <form method="post" id="prescription-form">
+    <input type="hidden" name="csrf_token" value="{{ csrf_token }}">
+    <div class="prescribe-grid">
+      <div><label for="name">Patient name</label><input id="name" name="name" maxlength="200" required value="{{ values.get('name', '') }}" autocomplete="name"></div>
+      <div><label for="birth_date">Birth date</label><input id="birth_date" name="birth_date" type="date" required value="{{ values.get('birth_date', '') }}"></div>
+      <div><label for="kvnr">KVNR</label><input id="kvnr" name="kvnr" pattern="[A-Za-z][0-9]{9}" maxlength="10" required placeholder="A123456780" value="{{ values.get('kvnr', '') }}"><small>One letter and nine digits, including a valid check digit.</small></div>
+    </div>
+    <h2 class="medicine-heading">Medicines</h2>
+    <label for="medicine-search">Search by the beginning of medicine name, PZN or ingredient</label>
+    <input id="medicine-search" type="search" autocomplete="off" placeholder="Start typing, e.g. B or Bisoprolol" aria-describedby="search-status" aria-controls="search-results">
+    <p id="search-status" role="status" aria-live="polite" class="card-sub">Type at least one character. Select a result to add it.</p>
+    <div id="search-results" class="search-results"></div>
+    <div id="selected-medicines" aria-label="Selected medicines"></div>
+    <p id="empty-selection" class="hint">No medicines selected yet.</p>
+    <button type="submit" id="create-prescription">Create prescription</button>
+  </form>
+</section>
+<script id="initial-medicines" type="application/json">{{ selected | tojson }}</script>
+<script src="{{ url_for('static', filename='prescribe.js') }}" defer></script>
+{% endblock %}

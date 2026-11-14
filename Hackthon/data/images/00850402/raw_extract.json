@@ -1,0 +1,95 @@
+{
+  "pzn": "00850402",
+  "list_row": {
+    "active_ingredient": "Metoprolol",
+    "category": "β受体阻滞剂 / Beta-blocker",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metohexal-succ-2375-mg-retardtabletten-850402.html",
+    "hf_context_zh": "HFrEF：射血分数降低的心衰（心脏泵血能力减弱）；使用有心衰证据的琥珀酸盐缓释制剂。",
+    "mechanism_zh": "阻断心脏β1受体，减慢心率并减轻交感神经长期过度刺激。",
+    "clinical_role_zh": "稳定慢性HFrEF的基础治疗选择。",
+    "example_product_name": "METOHEXAL Succ 23,75 mg Retardtabletten",
+    "pzn": "00850402",
+    "example_strength_as_stated": "23,75 mg",
+    "pack_size_units": "50",
+    "market": "DE",
+    "collection_order": "97",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metohexal-succ-2375-mg-retardtabletten-850402.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Retard-Tabletten",
+    "pharmaceutical_company_as_listed": "Hexal AG",
+    "ingredient_content_as_listed": "Metoprolol succinat 23,75 mg pro 1 Tablette; = Metoprolol (19,45 mg pro 1 Tablette)",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:43:21.639413+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/63/67/176763.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 86135,
+      "saved_as": "00850402_tablet_1.jpg",
+      "sha256": "5959209971811c1795c8bf6b6ecd93dcd0f5051f05f93c3aa1f0b4e8067869ea",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/52/33/23352.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 118982,
+      "saved_as": "00850402_leaflet.pdf",
+      "sha256": "3695299dc1990a29c6d3c96b9a454845f6795ef1b68b39be26489d19adb84bee",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metohexal-succ-2375-mg-retardtabletten-850402.html?file=09d79ab77f6cc27109370075d5b9750e",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 11.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von METOHEXAL Succ 23,75 mg Retardtabletten",
+    "pzn_on_page": "00850402",
+    "pack_size_on_page": "50 Stück (N2)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Retard-Tabletten",
+    "provider_on_page": "Hexal AG Holzkirchen www.hexal.de",
+    "substances_on_page": [
+      "Metoprolol succinat 23,75 mg pro 1 Tablette",
+      "= Metoprolol (19,45 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Cellulose, mikrokristalline Crospovidon Glucose Hypromellose Lactose-1-Wasser",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/63/67/176763.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/63/67/176763.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/63/67/176763.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 5,0 mm Breite: 5,8 mm Tiefe: 11,2 mm Masse: 225,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : beidseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metohexal-succ-2375-mg-retardtabletten-850402.html?file=09d79ab77f6cc27109370075d5b9750e",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 11.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-09-01",
+    "provider_website": "https://www.hexal.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "MetoHEXAL Succ 23,75 mg sind weiße, oblonge Retard- tabletten mit beidseitiger Bruchkerbe. Die Retardtabletten sind in PP/Aluminiumblisterpackun- gen oder PVC/Aclar-Aluminiumblisterpackungen ver- packt und in eine Faltschachtel eingeschoben. Packungsgrößen: 25, 30, 50 und 100 Retardtabletten HDPE-Flaschen mit 100 Retardtabletten (Schüttware) Es werden möglicherweise nicht alle Packungsgrößen oder Packungstypen in den Verkehr gebracht.",
+    "company_raw": "Hexal AG Industriestraße 25 83607 Holzkirchen Telefon: (08024) 908-0 Telefax: (08024) 908-1290 E-Mail: service@hexal.com",
+    "manufacturer_raw": "Salutas Pharma GmbH Otto-von-Guericke-Allee 1 39179 Barleben",
+    "revision_raw": "",
+    "wirkstoff_raw": "von MetoHEXAL Succ, blockiert bestimmte Beta-Rezeptoren im Körper, vorran- gig am Herzen (selektiver Beta-Rezeptoren-Blocker). MetoHEXAL Succ 23,75 mg wird angewendet • bei stabiler chronischer gering",
+    "composition_raw": "Der Wirkstoff ist Metoprololsuccinat (Ph.Eur.). Jede Retardtablette enthält 23,75 mg Metoprololsucci- nat, dies entspricht 25 mg Metoprololtartrat. Die sonstigen Bestandteile sind: mikrokristalline Cellulose (E 460), Crospovidon, Glucose, Hypromellose, Lactose-Monohydrat, Macrogol 4000, Magnesiumstearat (Ph.Eur.), Maisstärke, Polyacrylat, hochdisperses Siliciumdioxid, Saccharose, Talkum, Farb- stoff Titandioxid (E 171)Wie MetoHEXAL Succ aussieht und Inhalt der Packung MetoHEXAL Succ 23,75 mg sin",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

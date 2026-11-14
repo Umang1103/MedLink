@@ -1,6 +1,14 @@
 {% extends "patient_base.html" %}
-{% block title %}Medicine Identification - MedLink{% endblock %}
+{% block title %}Prescription - MedLink{% endblock %}
 {% block tab_content %}
-<h2>Medicine Identification</h2>
-<p>Placeholder. Build this tab in <code>app/medicine_identification.py</code> and this template.</p>
+<h2>Prescription</h2>
+<p class="card-sub">This patient's prescriptions, pharmacy dispensing status and medicine substitutions.</p>
+{% for record in records %}
+  {% with prescription=record.prescription, items=record['items'], dispensing=record.dispensing, dispensed=record.dispensed, history=record.history, original_images=record.original_images %}
+    {% include '_doctor_prescription.html' %}
+    <p><a href="{{ url_for('prescriptions.detail', prescription_id=prescription.id) }}">Open prescription #{{ prescription.id }}</a></p>
+  {% endwith %}
+{% else %}
+  <p>No prescriptions from your account for this patient yet.</p>
+{% endfor %}
 {% endblock %}

@@ -1,0 +1,105 @@
+{
+  "pzn": "01634416",
+  "list_row": {
+    "active_ingredient": "Metoprolol",
+    "category": "β受体阻滞剂 / Beta-blocker",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/beloc-zok-herz-2375-mg-retardtabletten-1634416.html",
+    "hf_context_zh": "HFrEF：射血分数降低的心衰（心脏泵血能力减弱）；使用有心衰证据的琥珀酸盐缓释制剂。",
+    "mechanism_zh": "阻断心脏β1受体，减慢心率并减轻交感神经长期过度刺激。",
+    "clinical_role_zh": "稳定慢性HFrEF的基础治疗选择。",
+    "example_product_name": "BELOC-ZOK Herz 23,75 mg Retardtabletten",
+    "pzn": "01634416",
+    "example_strength_as_stated": "23,75 mg",
+    "pack_size_units": "100",
+    "market": "DE",
+    "collection_order": "98",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/beloc-zok-herz-2375-mg-retardtabletten-1634416.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Retard-Tabletten",
+    "pharmaceutical_company_as_listed": "Recordati Pharma GmbH",
+    "ingredient_content_as_listed": "Metoprolol succinat 23,75 mg pro 1 Tablette; = Metoprolol (19,45 mg pro 1 Tablette)",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:43:22.409760+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/22/44/74422.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 70815,
+      "saved_as": "01634416_tablet_1.jpg",
+      "sha256": "0c36861a7d57ceec9e402dc2f3d8d920b299238fd880679ec3b5fb2241ff4f55",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/23/44/74423.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 71956,
+      "saved_as": "01634416_tablet_2.jpg",
+      "sha256": "19674e4d37972d4491d52fe70077d3411da42985817690addc7bfb10736ac413",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/35/18/41835.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 189803,
+      "saved_as": "01634416_leaflet.pdf",
+      "sha256": "77f46693d6c14c1f00f3b3c8c2f9cc1a8f503f88556828415064937be3b5d1d7",
+      "pages": 13,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/beloc-zok-herz-2375-mg-retardtabletten-1634416.html?file=65dd358a739dcfb0d1a051794618dab2",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 02.2022"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von BELOC-ZOK Herz 23,75 mg Retardtabletten",
+    "pzn_on_page": "01634416",
+    "pack_size_on_page": "100 Stück (N3)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Retard-Tabletten",
+    "provider_on_page": "Recordati Pharma GmbH Ulm www.recordati.de",
+    "substances_on_page": [
+      "Metoprolol succinat 23,75 mg pro 1 Tablette",
+      "= Metoprolol (19,45 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Siliciumdioxid Cellulose, mikrokristalline Ethylcellulose Hyprolose Hypromellose",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/22/44/74422.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/22/44/74422.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/22/44/74422.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/23/44/74423.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 3,6 mm Breite: 5,7 mm Tiefe: 10,7 mm Masse: 171,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : beidseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"A ß\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/beloc-zok-herz-2375-mg-retardtabletten-1634416.html?file=65dd358a739dcfb0d1a051794618dab2",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 02.2022"
+      }
+    ],
+    "page_last_reviewed": "2026-10-27",
+    "provider_website": "https://www.recordati.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Beloc-Zok Herz 23,75 mg sind ovale weiße bis weißliche Retardtabletten mit einer Bruchkerbe auf beiden Seiten und der Markierung A/ß auf einer Seite. Die Tablette kann in gleiche Dosen geteilt werden. Beloc-Zok Herz 23,75 mg ist in Packungen mit 30 Retardtabletten, 90 Retardtabletten und 100 Retardtabletten erhältlich. 6.3",
+    "company_raw": "und",
+    "manufacturer_raw": "Pharmazeutischer Unternehmer: RECORDATI Industria Chimica e Farmaceutica S.p.A. Via Matteo Civitali 1 20148 Mailand Italien Hersteller: SAVIO Industrial S.r.l. Via Emilia 21 27100 Pavia Italien Oder: Recordati Industria Chimica e Farmaceutica S.p.A. Via Matteo Civitali 1 20148 Mailand Italien Mitvertrieb: Recordati Pharma GmbH Eberhard-Finckh-Str. 55 89075 Ulm Deutschland Seite 13 von 13 Gebrauchsinformation Beloc-Zok Herz 23,75 mg, Retardtabletten (Zul.-Nr.: 48563.00.00)",
+    "revision_raw": "Februar 2022",
+    "wirkstoff_raw": "Hydralazin enthalten , • bestimmte Arzneimittel gegen allergische Reaktionen, wie z. B. Heuschnupfen, • bestimmte Arzneimittel gegen Magen-Darm-Erkrankungen (Histamin-2-Rezeptorantagonisten), • bestim",
+    "composition_raw": "Seite 12 von 13 Gebrauchsinformation Beloc-Zok Herz 23,75 mg, Retardtabletten (Zul.-Nr.: 48563.00.00) • Der Wirkstoff ist: Metoprololsuccinat (Ph.Eur.). 1 Retardtablette enthält 23,75 mg Metoprololsuccinat (Ph.Eur.). • Die sonstigen Bestandteile sind: Siliciumdioxid, mikrokristalline Cellulose, Ethylcellulose, Hyprolose, Hypromellose, Natriumstearylfumarat (Ph.Eur.), Macrogol 6000, Hartparaffin, Titandioxid. 6.2 Wie Beloc-Zok Herz 23,75 mg aussieht und Inhalt der Packung Beloc-Zok Herz 23,75 mg",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+{% block title %}{{ 'Print QR' if kind == 'qr' else 'Print medication list' }} · MedLink{% endblock %}
+{% block content %}
+<div class="print-actions">
+  <button type="button" onclick="window.print()">{{ 'Print QR' if kind == 'qr' else 'Print list' }}</button>
+</div>
+{% if kind == 'qr' %}
+<section class="card qr-print-sheet">
+  <h1>Your medication QR code</h1>
+  <img class="patient-qr" src="{{ url_for('pharmacy.patient_qr', token=token) }}" alt="QR code for your final medication list">
+  <p>Scan to view your medicines and how to take them.</p>
+  <p class="qr-link">{{ patient_url }}</p>
+</section>
+{% else %}
+<h1>Your medicines</h1>
+{% include '_patient_medicine_list.html' %}
+{% endif %}
+<script src="{{ url_for('static', filename='dispensing_print.js') }}" defer></script>
+{% endblock %}

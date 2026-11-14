@@ -1,0 +1,95 @@
+{
+  "pzn": "02952816",
+  "list_row": {
+    "active_ingredient": "Metoprolol",
+    "category": "β受体阻滞剂 / Beta-blocker",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metoprololsuccinat-dura-2375mg-retardtabletten-2952816.html",
+    "hf_context_zh": "HFrEF：射血分数降低的心衰（心脏泵血能力减弱）；使用有心衰证据的琥珀酸盐缓释制剂。",
+    "mechanism_zh": "阻断心脏β1受体，减慢心率并减轻交感神经长期过度刺激。",
+    "clinical_role_zh": "稳定慢性HFrEF的基础治疗选择。",
+    "example_product_name": "METOPROLOLSUCCINAT dura 23,75mg Retardtabletten",
+    "pzn": "02952816",
+    "example_strength_as_stated": "23,75mg",
+    "pack_size_units": "100",
+    "market": "DE",
+    "collection_order": "92",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metoprololsuccinat-dura-2375mg-retardtabletten-2952816.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Retard-Tabletten",
+    "pharmaceutical_company_as_listed": "Viatris Healthcare GmbH - Zweigniederlassung Bad Homburg",
+    "ingredient_content_as_listed": "Metoprolol succinat 23,75 mg pro 1 Tablette; = Metoprolol (19,45 mg pro 1 Tablette)",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:43:19.110433+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/84/27/82784.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 68205,
+      "saved_as": "02952816_tablet_1.jpg",
+      "sha256": "824c1513e75dd33fbc05e06aacce932e85851d2527343c652322a202a00841c5",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/81/70/117081.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 131425,
+      "saved_as": "02952816_leaflet.pdf",
+      "sha256": "604b86589804909fda75a8ae06f0038565ef76f7dd77bca25b8ce0d406fbfcbf",
+      "pages": 11,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metoprololsuccinat-dura-2375mg-retardtabletten-2952816.html?file=ddb872ddef5d4549a6b91fe8518a9d13",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 05.2026"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von METOPROLOLSUCCINAT dura 23,75mg Retardtabletten",
+    "pzn_on_page": "02952816",
+    "pack_size_on_page": "100 Stück (N3)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Retard-Tabletten",
+    "provider_on_page": "Viatris Healthcare GmbH - Zweigniederlassung Bad Homburg Bad Homburg www.viatris.de",
+    "substances_on_page": [
+      "Metoprolol succinat 23,75 mg pro 1 Tablette",
+      "= Metoprolol (19,45 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Saccharose Maisstärke Macrogol 6000 Poly(ethylacrylat- co -methylmethacrylat) (2:1) Talkum",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/84/27/82784.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/84/27/82784.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/84/27/82784.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 3,2 mm Breite: 4,1 mm Tiefe: 9,2 mm Masse: 108,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : beidseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/metoprololsuccinat-dura-2375mg-retardtabletten-2952816.html?file=ddb872ddef5d4549a6b91fe8518a9d13",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 05.2026"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15",
+    "provider_website": "https://www.viatris.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Metoprololsuccinat dura 23,75 mg ist weiß, länglich, beidseitig gewölbt und hat eine Bruchkerbe auf beiden Seiten. Metoprololsuccinat dura 23,75 mg ist in Aluminium/Aluminium-Blisterpackungen mit 30, 50 und 100 Retardta- bletten erhältlich. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "Viatris Germany GmbH Lütticher Straße 5 53842 Troisdorf Stand der Gebrauchsinformation: Juni 2022 Dieses PDF wurde von der Rote Liste® Service GmbH/GI 4.0® erzeugt. 10/11 Gebrauchsinformation: Information für den Anwender Metoprololsuccinat dura 23,75 mg Retardtabletten Mitvertrieb Viatris Healthcare GmbH Lütticher Straße 5 53842 Troisdorf",
+    "manufacturer_raw": "Viatris Germany GmbH Lütticher Straße 5 53842 Troisdorf Mylan Hungary Kft H-2900 Komárom Mylan utca 1 Ungarn",
+    "revision_raw": "Mai 2026",
+    "wirkstoff_raw": "von Metoprololsuccinat dura, gehört in die Arzneimittelgruppe der selektiven Beta-Rezeptorenblocker, die vorrangig am Herzen wirken. Dieses Arzneimittel beeinflusst die Antwort des Körpers auf bestimm",
+    "composition_raw": "Der Wirkstoff ist Metoprololsuccinat. Jede Retardtablette enthält 23,75 mg Metoprololsuccinat, entsprechend 25 mg Metoprololtartrat. Die sonstigen Bestandteile sind: Tablettenkern: Sucrose, Maisstärke, Macrogol 6000, Polyacrylat-Dispersion 30%, Talkum, Povidon K90, mikrokris- talline Cellulose, Magnesiumstearat (Ph.Eur.) [pflanzlich], hochdisperses Siliciumdioxid, Glucose. Filmüberzug: Hypromellose, Talkum, Macrogol 6000, Titandioxid (E171). Wie Metoprololsuccinat dura aussieht und Inhalt der Pa",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

@@ -1,0 +1,249 @@
+{
+  "pzn": "01014926",
+  "input_file": "heart_failure_collection_list_expanded.csv",
+  "collection_row": {
+    "active_ingredient": "Bisoprolol",
+    "category": "β受体阻滞剂 / Beta-blocker",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-abz-5-mg-tabletten-1014926.html",
+    "hf_context_zh": "HFrEF：射血分数降低的心衰（心脏泵血能力减弱）",
+    "mechanism_zh": "减弱交感神经对心脏的刺激，降低心率和心肌耗氧。",
+    "clinical_role_zh": "稳定慢性HFrEF的基础治疗之一，改善长期结局。",
+    "example_product_name": "BISOPROLOL AbZ 5 mg Tabletten",
+    "pzn": "01014926",
+    "example_strength_as_stated": "5 mg",
+    "pack_size_units": "30",
+    "market": "DE",
+    "collection_order": "33",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-abz-5-mg-tabletten-1014926.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "AbZ-Pharma GmbH",
+    "ingredient_content_as_listed": "Bisoprolol fumarat 5 mg pro 1 Tablette; = Bisoprolol (4,24 mg pro 1 Tablette)",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "product_page": {
+    "page_title": "Beipackzettel von BISOPROLOL AbZ 5 mg Tabletten",
+    "pzn_on_page": "01014926",
+    "pack_size_on_page": "30 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "AbZ-Pharma GmbH Ulm www.abz.de",
+    "substances_on_page": [
+      "Bisoprolol fumarat 5 mg pro 1 Tablette",
+      "= Bisoprolol (4,24 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Lactose-1-Wasser Cellulose, mikrokristalline Magnesium stearat Crospovidon Gelb PB 22812",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/88/84/48488.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/88/84/48488.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/88/84/48488.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/89/84/48489.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 8,1 mm Höhe: 3,3 mm Masse: 178,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"5\" Besonderheiten Die Tablette ist marmoriert. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-abz-5-mg-tabletten-1014926.html?file=9dcfc13057bab7fc4e3e0b33c746306d",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 03.2026"
+      }
+    ],
+    "page_last_reviewed": "2026-10-09",
+    "provider_website": "https://www.abz.de"
+  },
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/88/84/48488.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 124291,
+      "saved_as": "01014926_tablet_1.jpg",
+      "sha256": "5a4446abd7fcf508defc28bab01987a3234cd2df8d7dfbdc92135247c57c415f",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/89/84/48489.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 123447,
+      "saved_as": "01014926_tablet_2.jpg",
+      "sha256": "05eedc8451e8dc1ee199562976203efa151c9a60dfeb70ba60e194acd0b9ab9b",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/63/04/40463.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 127770,
+      "saved_as": "01014926_leaflet.pdf",
+      "sha256": "2cfe143fab99d34ce3766e1647a9b2ac10c5d630e06ce5cf12c1f25c2c0d3ce6",
+      "pages": 6,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-abz-5-mg-tabletten-1014926.html?file=9dcfc13057bab7fc4e3e0b33c746306d",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 03.2026"
+    }
+  },
+  "unresolved_issues": [],
+  "field_sources": {
+    "pzn": {
+      "value": "01014926",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "market": {
+      "value": "DE",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "product_name": {
+      "value": "BISOPROLOL AbZ 5 mg Tabletten",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "active_ingredient": {
+      "value": "Bisoprolol",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Bisoprolol fumarat 5 mg pro 1 Tablette",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "strength_as_stated": {
+      "value": "5 mg",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "dosage_form": {
+      "value": "Tabletten",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "pack_size": {
+      "value": "30",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "pharmaceutical_company": {
+      "value": "b -Pharma GmbH A Z Graf-Arco-Str. 3 89079 Ulm",
+      "source": "leaflet PDF, automatic extract; requires review"
+    },
+    "manufacturer": {
+      "value": "Merckle GmbH Ludwig-Merckle-Str. 3 89143 Blaubeuren",
+      "source": "leaflet PDF, automatic extract; requires review"
+    },
+    "color": {
+      "value": "yellow",
+      "source": "leaflet PDF, automatic extract; requires review"
+    },
+    "shape": {
+      "value": "round, convex",
+      "source": "leaflet PDF, automatic extract; requires review"
+    },
+    "imprint": {
+      "value": "5",
+      "source": "leaflet PDF, automatic extract; requires review"
+    },
+    "score_line": {
+      "value": "Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird.",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "appearance_description_original": {
+      "value": "sind gesprenkelt, blassgelb gefärbt, rund, konvex mit einer Bruchkerbe und der Prägung '5' rechts der Bruchkerbe.Bisoprolol AbZ 5 mg Tabletten Folgende",
+      "source": "leaflet PDF, automatic extract; requires review"
+    },
+    "tablet_image_1": {
+      "value": "01014926/01014926_tablet_1.jpg",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "tablet_image_2": {
+      "value": "01014926/01014926_tablet_2.jpg",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "leaflet_path": {
+      "value": "01014926/01014926_leaflet.pdf",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-abz-5-mg-tabletten-1014926.html",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "leaflet_revision_date": {
+      "value": "2026-03",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "retrieved_at": {
+      "value": "2026-11-13T15:42:11.974476+00:00",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "verification_status": {
+      "value": "PZN verified against product page; assets file-validated; automatically extracted; appearance and clinical details require review.",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "notes": {
+      "value": "Source catalogue strength preserved verbatim. Provider is recorded separately from manufacturer. Appearance/company details are automatically extracted from the leaflet; ambiguous multi-strength appearance fields are left blank. Leaflet document date is taken from the product page. ",
+      "source": "PZN-verified product page/download metadata; see raw_extract.json"
+    },
+    "category": {
+      "value": "β受体阻滞剂 / Beta-blocker",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "hf_context_zh": {
+      "value": "HFrEF：射血分数降低的心衰（心脏泵血能力减弱）",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "mechanism_zh": {
+      "value": "减弱交感神经对心脏的刺激，降低心率和心肌耗氧。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "clinical_role_zh": {
+      "value": "稳定慢性HFrEF的基础治疗之一，改善长期结局。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "strength_note_zh": {
+      "value": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "clinical_source_url": {
+      "value": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "mechanism_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-abz-5-mg-tabletten-1014926.html",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "dosage_form_as_listed": {
+      "value": "Tabletten",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "pharmaceutical_company_as_listed": {
+      "value": "AbZ-Pharma GmbH",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "ingredient_content_as_listed": {
+      "value": "Bisoprolol fumarat 5 mg pro 1 Tablette; = Bisoprolol (4,24 mg pro 1 Tablette)",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "product_hf_indication_status": {
+      "value": "not_reviewed_check_product_leaflet",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "scope_note_zh": {
+      "value": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "notes_zh": {
+      "value": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "checked_on": {
+      "value": "2026-11-13",
+      "source": "expanded input catalogue, not independently clinically reviewed"
+    },
+    "brand": {
+      "value": "BISOPROLOL AbZ",
+      "source": "Derived from product_name: strength, dosage form and pack descriptors removed; existing brand capitalization reused where available.",
+      "product_name": "BISOPROLOL AbZ 5 mg Tabletten"
+    }
+  },
+  "reuse_permission": "Not checked; original downloaded files and watermarks preserved."
+}

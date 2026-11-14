@@ -1,0 +1,203 @@
+{
+  "pzn": "09154986",
+  "generated_at": "2026-11-13T11:47:45.863613+00:00",
+  "retrieved_at": "2026-11-13T11:37:50.005308+00:00",
+  "product_page": {
+    "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/losartan-abz-50-mg-filmtabletten-9154986.html",
+    "http_status": 200,
+    "pzn_on_page": "09154986",
+    "pack_size_on_page": "98 Stück (N3)",
+    "provider_on_page (Anbieter)": "AbZ-Pharma GmbH Ulm www.abz.de",
+    "substances_on_page": [
+      "Losartan kalium 50 mg pro 1 Tablette",
+      "= Losartan (45,87 mg pro 1 Tablette)"
+    ],
+    "physical_data_on_page": "Abmessungen und Gewicht 1 Höhe: 4,0 mm Breite: 7,0 mm Tiefe: 11,0 mm Masse: 205,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"50\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "page_last_reviewed": "2026-07-27",
+    "data_provider": "ABDATA Pharma-Daten-Service"
+  },
+  "files": {
+    "tablet_image_1": {
+      "local_path": "09154986/09154986_tablet_1.jpg",
+      "download_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/46/02/30246.jpg",
+      "viewer_page": null,
+      "download_ok": true,
+      "verified_type": "jpeg",
+      "bytes": 77777,
+      "pixels": "600x600",
+      "document_date_on_page": null
+    },
+    "tablet_image_2": {
+      "local_path": "09154986/09154986_tablet_2.jpg",
+      "download_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/47/02/30247.jpg",
+      "viewer_page": null,
+      "download_ok": true,
+      "verified_type": "jpeg",
+      "bytes": 76776,
+      "pixels": "600x600",
+      "document_date_on_page": null
+    },
+    "leaflet_path": {
+      "local_path": "09154986/09154986_leaflet.pdf",
+      "download_url": "https://image.wub-service.de/resources/static/drugexpert/261101/78/06/40678.pdf",
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/losartan-abz-50-mg-filmtabletten-9154986.html?file=2a631934058e3ef4acb4791dccd802b2",
+      "download_ok": true,
+      "verified_type": "pdf",
+      "bytes": 140142,
+      "pixels": null,
+      "document_date_on_page": "Dokumentdatum: 12.2024"
+    }
+  },
+  "image_classification": {
+    "result": "both files are tablet photographs (front and back) with mm scale and '© ABDATA | Dosing' watermark; oval white tablet, '50' on one side, score on the other; consistent with page and leaflet",
+    "method": "visual review of each file",
+    "package_image": "none available"
+  },
+  "field_sources": {
+    "pzn": {
+      "value": "09154986",
+      "source": "product_page (verified equal to list)"
+    },
+    "market": {
+      "value": "DE",
+      "source": "derived (German PZN)"
+    },
+    "product_name": {
+      "value": "Losartan-AbZ 50 mg Filmtabletten",
+      "source": "leaflet_pdf title (German, preserved)"
+    },
+    "active_ingredient": {
+      "value": "Losartan",
+      "source": "leaflet_pdf section 6"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Losartan-Kalium",
+      "source": "leaflet_pdf section 6"
+    },
+    "strength_as_stated": {
+      "value": "50 mg",
+      "source": "product_name / leaflet_pdf section 6 (label strength, not converted)"
+    },
+    "dosage_form": {
+      "value": "Filmtabletten",
+      "source": "product_page Darreichungsform + leaflet_pdf"
+    },
+    "pack_size": {
+      "value": "98",
+      "source": "product_page Packungsgröße (verified for this PZN)"
+    },
+    "brand": {
+      "value": "Losartan-AbZ",
+      "source": "product_name"
+    },
+    "pharmaceutical_company": {
+      "value": "AbZ-Pharma GmbH, Graf-Arco-Str. 3, 89079 Ulm",
+      "source": "leaflet_pdf section 6 (Pharmazeutischer Unternehmer / Zulassungsinhaber)",
+      "note": "PDF text layer reads 'b -Pharma GmbH A Z' (logo-style typesetting); interpreted as AbZ-Pharma GmbH, matching page Anbieter."
+    },
+    "manufacturer": {
+      "value": "Merckle GmbH, Ludwig-Merckle-Str. 3, 89143 Blaubeuren; oder TEVA Pharmaceutical Works Private Limited Company - Teva Gyógyszergyár Zrt., Pallagi út 13, 4042 Debrecen, Ungarn; oder Teva Pharma, S.L.U., C/ Anabel Segura 11, Edificio Albatros B, 1ª planta, 28108 Alcobendas, Madrid, Spanien",
+      "source": "leaflet_pdf section 6 (Hersteller)"
+    },
+    "color": {
+      "value": "white",
+      "source": "leaflet_pdf section 6, normalised to English"
+    },
+    "shape": {
+      "value": "oval, slightly convex",
+      "source": "leaflet_pdf section 6, normalised to English"
+    },
+    "imprint": {
+      "value": "50",
+      "source": "product_page 'Sonstige Merkmale' + leaflet_pdf"
+    },
+    "score_line": {
+      "value": "single score line on the side opposite the imprint",
+      "source": "product_page 'Angaben zu Kerben' + leaflet_pdf"
+    },
+    "appearance_description_original": {
+      "value": "Losartan-AbZ 50 mg sind weiße, ovale, leicht gewölbte Filmtabletten mit der Prägung „50“ auf einer Seite und einer Bruchkerbe auf der anderen Seite. Jede Tablette ist ungefähr 11 mm lang und 7 mm breit und besitzt eine Höhe von ungefähr 4 mm.",
+      "source": "leaflet_pdf section 6 (German, verbatim)",
+      "note": "Reassembled from PDF text layer (product name displaced by layout); wording otherwise verbatim."
+    },
+    "tablet_image_1": {
+      "value": "09154986/09154986_tablet_1.jpg",
+      "source": "product_page 'Originalbilder des Präparats'"
+    },
+    "tablet_image_2": {
+      "value": "09154986/09154986_tablet_2.jpg",
+      "source": "product_page 'Originalbilder des Präparats'"
+    },
+    "package_image": {
+      "value": "",
+      "source": "none available"
+    },
+    "leaflet_path": {
+      "value": "09154986/09154986_leaflet.pdf",
+      "source": "product_page 'PDF-Dokumente' link"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/losartan-abz-50-mg-filmtabletten-9154986.html",
+      "source": "heart_failure_collection_list.csv"
+    },
+    "manufacturer_source_url": {
+      "value": "",
+      "source": "not cross-checked"
+    },
+    "leaflet_revision_date": {
+      "value": "2024-12",
+      "source": "leaflet_pdf 'zuletzt überarbeitet im …'"
+    },
+    "retrieved_at": {
+      "value": "2026-11-13",
+      "source": "collection run date"
+    },
+    "verification_status": {
+      "value": "Extracted from product page and leaflet PDF; images visually confirmed as tablet photos; not clinically or pharmacist verified.",
+      "source": "workflow status"
+    },
+    "notes": {
+      "value": "Label strength is the potassium salt: 'Jede Filmtablette enthält 50 mg Losartan-Kalium'; product page gives equivalent 45.87 mg losartan (not used as label strength). ABDATA average: 11.0 x 7.0 x 4.0 mm, mass 205.0 mg. Leaflet: blister packs of 98 only; this PZN = 98 (N3). The PDF text layer splits the product name out of the sentence; the original description was reassembled in reading order - check against the PDF. Version code Z08.",
+      "source": "collector notes"
+    }
+  },
+  "unresolved_issues": [
+    "Appearance text reassembled from a scrambled PDF text layer; confirm wording against the PDF."
+  ],
+  "reuse_permission": "unverified - image XMP: creator 'Dosing GmbH Heidelberg', rights 'ABDATA Pharma-Daten-Service', usage terms 'Verwendung nach Lizenzbestimmungen'. No explicit open licence found. Do not publish or deploy.",
+  "attribution": {
+    "product_page": "ABDATA Pharma-Daten-Service via apotheken-umschau.de",
+    "images": "© ABDATA | Dosing (watermark preserved, files unmodified)",
+    "leaflet_pdf": "marketing authorisation holder's patient leaflet, hosted by image.wub-service.de"
+  },
+  "expanded_catalogue": {
+    "input_file": "heart_failure_collection_list_expanded.csv",
+    "row": {
+      "active_ingredient": "Losartan",
+      "category": "血管紧张素II受体阻滞剂 / ARB",
+      "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/losartan-abz-50-mg-filmtabletten-9154986.html",
+      "hf_context_zh": "ACE抑制剂不适合或不耐受的特定成人慢性HFrEF患者。",
+      "mechanism_zh": "阻断AT1受体，减轻血管紧张素II导致的血管收缩和醛固酮作用。",
+      "clinical_role_zh": "HFrEF中肾素-血管紧张素系统治疗的替代选择。",
+      "example_product_name": "LOSARTAN AbZ 50 mg Filmtabletten",
+      "pzn": "09154986",
+      "example_strength_as_stated": "50 mg Losartan-Kalium",
+      "pack_size_units": "98",
+      "market": "DE",
+      "collection_order": "14",
+      "collection_status": "check_existing_record",
+      "notes_zh": "原清单已有产品；按 market+pzn 检查已有记录。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+      "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+      "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+      "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/losartan-abz-50-mg-filmtabletten-9154986.html",
+      "checked_on": "2026-11-13",
+      "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+      "dosage_form_as_listed": "Filmtabletten",
+      "pharmaceutical_company_as_listed": "AbZ-Pharma GmbH",
+      "ingredient_content_as_listed": "Losartan kalium 50 mg pro 1 Tablette; = Losartan (45,87 mg pro 1 Tablette)",
+      "pill_photo_status": "listed_on_product_page_not_visually_verified",
+      "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+      "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+    }
+  }
+}

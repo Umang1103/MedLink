@@ -1,0 +1,103 @@
+{
+  "pzn": "06434389",
+  "list_row": {
+    "active_ingredient": "Spironolacton",
+    "category": "盐皮质激素受体拮抗剂 / MRA",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/spironolacton-aristo-50-mg-tabletten-6434389.html",
+    "hf_context_zh": "HFrEF：射血分数降低的心衰（心脏泵血能力减弱）；该产品页面还列有心衰相关水肿、NYHA III心衰。",
+    "mechanism_zh": "阻断醛固酮作用，减少钠水潴留及对心脏的不利重塑，同时保钾。",
+    "clinical_role_zh": "HFrEF基础治疗之一。",
+    "example_product_name": "SPIRONOLACTON Aristo 50 mg Tabletten",
+    "pzn": "06434389",
+    "example_strength_as_stated": "50 mg",
+    "pack_size_units": "20",
+    "market": "DE",
+    "collection_order": "49",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/spironolacton-aristo-50-mg-tabletten-6434389.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "Aristo Pharma GmbH",
+    "ingredient_content_as_listed": "Spironolacton 50 mg pro 1 Tablette",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:42:29.731592+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/91/23/22391.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 14687,
+      "saved_as": "06434389_tablet_1.jpg",
+      "sha256": "c30e01cb6073dedb6d58487ffed3bb6aad144d2d387a84719ebcde4f15416db6",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/92/23/22392.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 14110,
+      "saved_as": "06434389_tablet_2.jpg",
+      "sha256": "229a86f97ea90acd0bfa6dfde4a339f0dd9e9a244104badfe00fdcef1f3bc28a",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/16/19/81916.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 153767,
+      "saved_as": "06434389_leaflet.pdf",
+      "sha256": "ac309989400f291b22bbb0f55b146ad1e7d0f2c3960d086219ddf1d8ada1f473",
+      "pages": 9,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/spironolacton-aristo-50-mg-tabletten-6434389.html?file=d0ad23c5531e43ac5e2dcb0128f5d3df",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 04.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von SPIRONOLACTON Aristo 50 mg Tabletten",
+    "pzn_on_page": "06434389",
+    "pack_size_on_page": "20 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "Aristo Pharma GmbH Berlin",
+    "substances_on_page": [
+      "Spironolacton 50 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Calciumhydrogenphosphat-2-Wasser Maisstärke Natriumdodecylsulfat Siliciumdioxid, hochdisperses Povidon K25",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/91/23/22391.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/91/23/22391.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/91/23/22391.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/92/23/22392.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 7,0 mm Höhe: 3,2 mm Masse: 122,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/spironolacton-aristo-50-mg-tabletten-6434389.html?file=d0ad23c5531e43ac5e2dcb0128f5d3df",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 04.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Spironolacton Aristo ist eine runde, weiße, beidseitig gewölbte Tablette, versehen mit einer einseitigen Bruchkerbe. Dieses Arzneimittel ist in Blisterpackungen zu 20, 50 und 100 Tabletten erhältlich. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "und",
+    "manufacturer_raw": "Aristo Pharma GmbH Wallenroder Straße 8–10 13435 Berlin Deutschland Tel.: +49 30 71094-4200 Fax: +49 30 71094-4250",
+    "revision_raw": "April 2025",
+    "wirkstoff_raw": "Spironolacton Lesen Sie die gesamte Packungsbeilage sorgfältig durch, bevor Sie mit der Einnahme dieses Arzneimittels beginnen, denn sie enthält wichtige Informationen. - Heben Sie die Packungsbeilage",
+    "composition_raw": "- Der Wirkstoff ist: 50 mg Spironolacton. - Die sonstigen Bestandteile sind: Calciumhydrogenphosphat-Dihydrat, Maisstärke, Natriumdodecylsulfat, hochdisperses Siliciumdioxid, Povidon K 25, Magnesiumstearat (Ph. Eur.) [pflanzlich] Wie Spironolacton Aristo aussieht und Inhalt der Packung Spironolacton Aristo ist eine runde, weiße, beidseitig gewölbte Tablette, versehen mit einer einseitigen Bruchkerbe. Dieses Arzneimittel ist in Blisterpackungen zu 20, 50 und 100 Tabletten erhältlich. Es werden mö",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

@@ -1,0 +1,104 @@
+{
+  "pzn": "16931781",
+  "list_row": {
+    "active_ingredient": "Eplerenon",
+    "category": "盐皮质激素受体拮抗剂 / MRA",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eplerenon-vivanta-25-mg-filmtabletten-16931781.html",
+    "hf_context_zh": "特定慢性HFrEF；也用于心肌梗死后伴左室功能不全和心衰的特定患者。",
+    "mechanism_zh": "选择性阻断醛固酮受体，减少醛固酮引起的不利心脏重塑并保钾。",
+    "clinical_role_zh": "HFrEF基础治疗中的MRA选择。",
+    "example_product_name": "EPLERENON Vivanta 25 mg Filmtabletten",
+    "pzn": "16931781",
+    "example_strength_as_stated": "25 mg",
+    "pack_size_units": "20",
+    "market": "DE",
+    "collection_order": "66",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eplerenon-vivanta-25-mg-filmtabletten-16931781.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Filmtabletten",
+    "pharmaceutical_company_as_listed": "Vivanta Generics s.r.o",
+    "ingredient_content_as_listed": "Eplerenon 25 mg pro 1 Tablette",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:42:44.199929+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/77/49/214977.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 117528,
+      "saved_as": "16931781_tablet_1.jpg",
+      "sha256": "c5474fdd45080860f526aadda09f828e9c0cac85fc5d47861d122bd6aa1f48d9",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/78/49/214978.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 117585,
+      "saved_as": "16931781_tablet_2.jpg",
+      "sha256": "30fd7860e92ebae6af86d684adfe297333335b591ea920ca1c0d6e7ef8f3e458",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/38/95/129538.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 271241,
+      "saved_as": "16931781_leaflet.pdf",
+      "sha256": "dd1977297af800e04925beb25b0d1dc983c01f10f8d1b7fd07881dcf4b0d6d00",
+      "pages": 8,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eplerenon-vivanta-25-mg-filmtabletten-16931781.html?file=e57319e0bd0bfd975250bebc143c7456",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 02.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von EPLERENON Vivanta 25 mg Filmtabletten",
+    "pzn_on_page": "16931781",
+    "pack_size_on_page": "20 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten",
+    "provider_on_page": "Vivanta Generics s.r.o Praha 9 www.vivantagenerics.de",
+    "substances_on_page": [
+      "Eplerenon 25 mg pro 1 Tablette"
+    ],
+    "excipients_on_page": "Lactose-1-Wasser Lactose Cellulose, mikrokristalline Croscarmellose natrium Natriumdodecylsulfat",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/77/49/214977.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/77/49/214977.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/77/49/214977.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/78/49/214978.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Höhe: 2,8 mm Breite: 7,0 mm Tiefe: 7,0 mm Masse: 86,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Anordnung : ohne Kerbe Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"E\", \"25\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/eplerenon-vivanta-25-mg-filmtabletten-16931781.html?file=e57319e0bd0bfd975250bebc143c7456",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 02.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-10-27",
+    "provider_website": "https://www.vivantagenerics.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Eplerenon Vivanta 25 mg Filmtabletten: Diamantförmige bikonvexe Filmtabletten mit weißer Farbe (7 mm lang, 7 mm breit, 3 mm dick), auf der einen Seite mit „E“ und auf der anderen Seite mit „25“ geprägt. Eplerenon Vivanta 50 mg Filmtabletten: Diamantförmige bikonvexe Filmtabletten mit weißer Farbe (9 mm lang, 8 mm breit, 4 mm dick), auf der einen Seite mit „E“ und auf der anderen Seite mit „50“ geprägt. Eplerenon Vivanta 25 mg und 50 mg Filmtabletten sind in undurchsichtigen Blisterpackungen mit 10, 14, 20, 28, 30, 50, 56, 60, 84, 90, 98, 100 oder 200 Filmtabletten erhältlich. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "Vivanta Generics s.r.o. Třtinová 260/1, Čakovice 196 00 Prag 9 Tschechische Republik",
+    "manufacturer_raw": "Pharmadox Healthcare Limited, KW20A Kordin Industrial Park, Paola, PLA3000, Malta",
+    "revision_raw": "Februar 2025",
+    "wirkstoff_raw": "ist Eplerenon. Eplerenon Vivanta 25 mg Filmtabletten: Jede Filmtablette enthält 25 mg Eplerenon. Eplerenon Vivanta 50 mg Filmtabletten: Jede Filmtablette enthält 50 mg Eplerenon. Die sonstigen Bestand",
+    "composition_raw": "Der Wirkstoff ist Eplerenon. Eplerenon Vivanta 25 mg Filmtabletten: Jede Filmtablette enthält 25 mg Eplerenon. Eplerenon Vivanta 50 mg Filmtabletten: Jede Filmtablette enthält 50 mg Eplerenon. Die sonstigen Bestandteile sind: Tablettenkern: Lactose-Monohydrat, mikrokristalline Cellulose (E 460), Croscarmellose-Natrium, Hypromellose, Natriumdodecylsulfat, Talkum (E 553b) und Magnesiumstearat (Ph. Eur.) [pflanzlich] Filmüberzug: Hypromellose, Titandioxid (E171), Macrogol 400 und Polysorbat 80. Wie",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

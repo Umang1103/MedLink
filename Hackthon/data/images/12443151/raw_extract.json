@@ -1,0 +1,104 @@
+{
+  "pzn": "12443151",
+  "list_row": {
+    "active_ingredient": "Losartan",
+    "category": "血管紧张素II受体阻滞剂 / ARB",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/losar-denk-100-mg-filmtabletten-12443151.html",
+    "hf_context_zh": "ACE抑制剂不适合或不耐受的特定成人慢性HFrEF患者。",
+    "mechanism_zh": "阻断AT1受体，减轻血管紧张素II导致的血管收缩和醛固酮作用。",
+    "clinical_role_zh": "HFrEF中肾素-血管紧张素系统治疗的替代选择。",
+    "example_product_name": "LOSAR-Denk 100 mg Filmtabletten",
+    "pzn": "12443151",
+    "example_strength_as_stated": "100 mg",
+    "pack_size_units": "98",
+    "market": "DE",
+    "collection_order": "172",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/losar-denk-100-mg-filmtabletten-12443151.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Filmtabletten",
+    "pharmaceutical_company_as_listed": "Denk Pharma GmbH & Co. KG",
+    "ingredient_content_as_listed": "Losartan kalium 100 mg pro 1 Tablette; = Losartan (91,74 mg pro 1 Tablette)",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:44:37.765545+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/16/34/73416.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 117879,
+      "saved_as": "12443151_tablet_1.jpg",
+      "sha256": "af92cc9310d4438f1343cf8728e9ccc2c73f085f16af09f2f0ebb9bee4acb45f",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/17/34/73417.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 116034,
+      "saved_as": "12443151_tablet_2.jpg",
+      "sha256": "e84bd4e9a4f85cd32f452586167361e8c4ce7a17fa5c0e1224493b1858651a8d",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/78/67/66778.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 712523,
+      "saved_as": "12443151_leaflet.pdf",
+      "sha256": "20be7f4a354b4998576b3f0a997eac1da94c3def071894b910858c3cbd532e8b",
+      "pages": 8,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/losar-denk-100-mg-filmtabletten-12443151.html?file=f1c8942ac91cffbbc6bfa2fda2bf2a29",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 01.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von LOSAR-Denk 100 mg Filmtabletten",
+    "pzn_on_page": "12443151",
+    "pack_size_on_page": "98 Stück (N3)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Filmtabletten",
+    "provider_on_page": "Denk Pharma GmbH & Co. KG München",
+    "substances_on_page": [
+      "Losartan kalium 100 mg pro 1 Tablette",
+      "= Losartan (91,74 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Lactose-1-Wasser Cellulose, mikrokristalline Maisstärke, vorverkleistert Magnesium stearat (pflanzlich) Hypromellose (6 mPa·s)",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/16/34/73416.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/16/34/73416.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/16/34/73416.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/17/34/73417.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 10,7 mm Höhe: 4,9 mm Masse: 414,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/losar-denk-100-mg-filmtabletten-12443151.html?file=f1c8942ac91cffbbc6bfa2fda2bf2a29",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 01.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-07-27"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Weiße bis gebrochen weiße, runde, bikonvexe Filmtabletten mit Bruchrille auf einer Seite und glatt auf der anderen Seite. Die Filmtablette kann in gleiche Hälften geteilt werden. Losar-Denk 100 mg Filmtabletten sind in Blisterpackungen mit 14, 28, 56, 98 Filmtabletten erhältlich. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "DENK PHARMA GmbH & Co. KG Prinzregentenstr. 79 81675 München",
+    "manufacturer_raw": "DENK PHARMA GmbH & Co. KG Betriebsstätte: Göllstr. 1 84529 Tittmoning oder Dragenopharm Apotheker Püschl GmbH Göllstr. 1 84529 Tittmoning",
+    "revision_raw": "Januar 2025",
+    "wirkstoff_raw": "Losartan-Kalium Lesen Sie die gesamte Packungsbeilage sorgfältig durch, bevor Sie mit der Einnahme dieses Arzneimittels beginnen, denn sie enthält wichtige Informationen.  Heben Sie die Packungsbeila",
+    "composition_raw": ": Der Wirkstoff ist Losartan-Kalium. Jede Losar-Denk 100 mg Filmtablette enthält 100 mg Losartan-Kalium. Die sonstigen Bestandteile sind: Lactose-Monohydrat Mikrokristalline Cellulose Vorverkleisterte Maisstärke Magnesiumstearat (Ph.Eur.) [pflanzlich] Hypromellose (6. mPa.s) Hyprolose Titandioxid (E171) Wie Losar-Denk aussieht und Inhalt der Packung Weiße bis gebrochen weiße, runde, bikonvexe Filmtabletten mit Bruchrille auf einer Seite und glatt auf der anderen Seite. Die Filmtablette kann in g",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

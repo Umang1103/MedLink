@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+{% block title %}Doctor workspace · MedLink{% endblock %}
+{% block content %}
+<section class="card">
+  <h1>Doctor workspace</h1>
+  <p class="card-sub">Find a patient's records or create a prescription.</p>
+  <div class="doctor-home-actions">
+    <a class="home-action" href="{{ url_for('patient.lookup') }}"><strong>Patient records</strong><span>Search by KVNR or name to review prescriptions and the patient's medicine list.</span></a>
+    <a class="home-action" href="{{ url_for('prescriptions.index') }}"><strong>Prescribe</strong><span>Create a prescription for a new or existing patient.</span></a>
+  </div>
+</section>
+{% endblock %}

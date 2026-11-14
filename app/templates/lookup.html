@@ -1,16 +1,32 @@
 {% extends "base.html" %}
-{% block title %}Patient lookup - MedLink{% endblock %}
+{% block title %}Patient records - MedLink{% endblock %}
 {% block content %}
-<section class="card narrow">
-  <h1>Open patient</h1>
-  <p class="card-sub">Enter the ID printed on the patient's insurance card.</p>
-  <form method="post">
+<section class="card">
+  <h1>Patient records</h1>
+  <p class="card-sub">Search by insurance number (KVNR) or patient name.</p>
+  <form method="post" action="{{ url_for('patient.lookup') }}">
     <input type="hidden" name="csrf_token" value="{{ csrf_token }}">
-    <label for="kvnr">Patient ID (KVNR, from health insurance card)</label>
-    <input id="kvnr" name="kvnr" maxlength="10" pattern="[A-Za-z][0-9]{9}"
-           placeholder="A123456780" autocomplete="off" required autofocus>
-    <button type="submit">Open patient</button>
+    <label for="patient-query">KVNR or name</label>
+    <input id="patient-query" name="q" maxlength="200" placeholder="A123456780 or Erika Mustermann" value="{{ query }}" autocomplete="off" required autofocus>
+    <button type="submit">Find patient</button>
   </form>
-  <p class="hint">Demo IDs: A123456780, K987654329</p>
 </section>
+{% if matches %}
+<section class="card">
+  <h2>Matching patients</h2>
+  <p class="card-sub">Check birth date and KVNR before opening a record.</p>
+  {% for match in matches %}
+  <article class="medicine-selection">
+    <strong>{{ match.name }}</strong>
+    <p>Born {{ match.birth_date }} · KVNR {{ match.kvnr }}</p>
+    <form method="post" action="{{ url_for('patient.lookup') }}" class="inline">
+      <input type="hidden" name="csrf_token" value="{{ csrf_token }}">
+      <input type="hidden" name="action" value="open">
+      <input type="hidden" name="kvnr" value="{{ match.kvnr }}">
+      <button type="submit">Open patient</button>
+    </form>
+  </article>
+  {% endfor %}
+</section>
+{% endif %}
 {% endblock %}

@@ -1,0 +1,47 @@
+<section class="card">
+  <h1>Prescription #{{ prescription.id }}</h1>
+  <p><strong>{{ prescription.patient_name }}</strong> · Born {{ prescription.birth_date }} · KVNR {{ prescription.kvnr }}</p>
+  <p class="card-sub">Prescribed by {{ prescription.doctor_name }} · {{ prescription.created_at }} (UTC)</p>
+  {% if not dispensing %}<p class="chip">Not yet dispensed</p>{% endif %}
+  {% if dispensing %}<p class="chip">{{ 'Dispensed' if dispensing.completed_at else 'Refill in progress' if history else 'Dispensing in progress' }} · {{ dispensing.pharmacy_username }}</p>{% endif %}
+  {% if history and dispensing and not dispensing.completed_at %}<p class="card-sub">Refill in progress. Below is the last completed dispensing; marks update when the refill is completed.</p>{% endif %}
+  {% for item in items %}
+  {% set actual = dispensed.get(item.id) %}
+  <article class="medicine-selection">
+    <h2><span class="medicine-number">{{ '%02d'|format(loop.index) }}</span> {{ item.product_name }}</h2>
+    {% if actual and actual.substituted %}<h3>Originally prescribed</h3>{% endif %}
+    <p>PZN {{ item.pzn }} · {{ item.active_ingredient }} · {{ item.strength }} · {{ item.dosage_form }}</p>
+    {% if not actual or actual.substituted or (not actual.photo and not actual.images) %}
+    {% for image in original_images.get(item.id, []) %}<img class="dispensing-photo" src="{{ url_for('medicine_catalog.image', image_id=image.id) }}" alt="{{ 'Originally prescribed ' if actual and actual.substituted else '' }}{{ item.product_name }}">{% else %}<p class="card-sub">{{ 'No original medicine image available.' if actual and actual.substituted else 'No medicine image available.' }}</p>{% endfor %}
+    {% endif %}
+    <p><strong>{{ item.units_per_dose }} unit(s) per dose, {{ item.times_per_day }} time(s) per day</strong></p>
+    {% if item.instructions %}<p>{{ item.instructions }}</p>{% endif %}
+    {% if actual %}
+    <div class="dispensed-summary {{ 'is-substituted' if actual.substituted else 'is-prescribed' }}">
+      <strong class="dispensing-status">{{ 'SUBSTITUTED' if actual.substituted else 'Dispensed as prescribed' }}</strong>
+      {% if actual.substituted %}
+      <p>Actual medicine: {{ actual.product_name }} · PZN {{ actual.pzn }}</p>
+      <p>{{ actual.active_ingredient }} · {{ actual.strength }} · {{ actual.dosage_form }}</p>
+      {% endif %}
+      {% if actual.substituted %}<p>Original PZN {{ item.pzn }} → {{ actual.pzn }}. Reason: {{ actual.replacement_reason }}</p>{% endif %}
+      {% if actual.description %}<p>{{ actual.description }}</p>{% endif %}
+      {% if actual.indication %}<p>Indication: {{ actual.indication }} (pharmacy supplied)</p>{% endif %}
+      {% if actual.photo %}<img class="dispensing-photo" src="{{ url_for('pharmacy.media', item_id=item.id, index=0, history=actual.get('history_id')) }}" alt="Pharmacy photo of {{ actual.product_name }}">{% endif %}
+      {% for image in actual.images %}<img class="dispensing-photo" src="{{ url_for('pharmacy.media', item_id=item.id, index=loop.index, history=actual.get('history_id')) }}" alt="{{ actual.product_name }}">{% endfor %}
+      <p class="card-sub">Confirmed by {{ actual.pharmacy_username }} · {{ actual.confirmed_at }}</p>
+    </div>
+    {% endif %}
+  </article>
+  {% endfor %}
+  {% for round in history %}
+  <details class="medicine-selection">
+    <summary>Previous dispensing · {{ round.completed_at }} · {{ round.pharmacy_username }}</summary>
+    {% for medicine in round.medicines %}
+      <p><span class="medicine-number">{{ '%02d'|format(loop.index) }}</span><strong class="{{ 'status-substituted' if medicine.substituted else 'status-prescribed' }}">{{ 'SUBSTITUTED' if medicine.substituted else 'Dispensed as prescribed' }}</strong> · {{ medicine.product_name }} · PZN {{ medicine.pzn }}</p>
+      {% if medicine.substituted %}<p>Reason: {{ medicine.replacement_reason }}</p>{% endif %}
+      {% if medicine.photo %}<img class="dispensing-photo" src="{{ url_for('pharmacy.media', item_id=medicine.item_id, index=0, history=round.id) }}" alt="{{ medicine.product_name }}">{% endif %}
+      {% for image in medicine.images %}<img class="dispensing-photo" src="{{ url_for('pharmacy.media', item_id=medicine.item_id, index=loop.index, history=round.id) }}" alt="{{ medicine.product_name }}">{% endfor %}
+    {% endfor %}
+  </details>
+  {% endfor %}
+</section>

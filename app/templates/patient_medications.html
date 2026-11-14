@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+{% block title %}Your medicines · MedLink{% endblock %}
+{% block content %}
+<section class="card">
+  <h1>Your medicines</h1>
+  <p class="card-sub">The medicines supplied by your pharmacy, listed in prescription order.</p>
+  <button type="button" onclick="window.print()">Print medication list</button>
+</section>
+{% include '_patient_medicine_list.html' %}
+{% endblock %}

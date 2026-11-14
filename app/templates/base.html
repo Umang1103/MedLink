@@ -8,8 +8,17 @@
 </head>
 <body>
   <header class="topbar">
-    <a class="brand" href="{{ url_for('patient.lookup') }}"><span class="brand-icon" aria-hidden="true">✚</span>MedLink</a>
-    {% if g.hpc %}
+    <a class="brand" href="{{ url_for('pharmacy.lookup') if g.hpc and g.hpc.role == 'pharmacy' else url_for('patient.home') }}"><span class="brand-icon" aria-hidden="true">✚</span>MedLink</a>
+    {% if g.hpc and not patient_share|default(false) %}
+    {% if g.hpc.role == 'doctor' %}
+    <nav class="doctor-nav" aria-label="Doctor navigation">
+      <a href="{{ url_for('patient.lookup') }}">Patient records</a>
+      <a href="{{ url_for('prescriptions.index') }}">Prescribe</a>
+      <a href="{{ url_for('prescriptions.history') }}">Prescriptions</a>
+    </nav>
+    {% else %}
+    <nav class="doctor-nav"><a href="{{ url_for('pharmacy.lookup') }}">Pharmacy dispensing</a></nav>
+    {% endif %}
     <form method="post" action="{{ url_for('auth.logout') }}" class="inline userbox">
       <input type="hidden" name="csrf_token" value="{{ csrf_token }}">
       <span>{{ g.hpc.name }}</span>

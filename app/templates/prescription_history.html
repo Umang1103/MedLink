@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+{% block title %}Prescriptions - MedLink{% endblock %}
+{% block content %}
+<section class="card">
+  <h1>Prescriptions</h1>
+  <p><a href="{{ url_for('prescriptions.index') }}">Create prescription →</a></p>
+  {% for prescription in prescriptions %}
+  <article class="medicine-selection">
+    <a href="{{ url_for('prescriptions.detail', prescription_id=prescription.id) }}">#{{ prescription.id }} · {{ prescription.patient_name }}</a>
+    <p class="card-sub">KVNR {{ prescription.kvnr }} · Born {{ prescription.birth_date }} · {{ prescription.created_at }}</p>
+  </article>
+  {% else %}<p>No prescriptions yet.</p>{% endfor %}
+</section>
+{% endblock %}

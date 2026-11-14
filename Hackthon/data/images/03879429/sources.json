@@ -1,0 +1,204 @@
+{
+  "pzn": "03879429",
+  "generated_at": "2026-11-13T11:47:45.860991+00:00",
+  "retrieved_at": "2026-11-13T11:36:34.352858+00:00",
+  "product_page": {
+    "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/beloc-zok-mite-475-mg-retardtabletten-3879429.html",
+    "http_status": 200,
+    "pzn_on_page": "03879429",
+    "pack_size_on_page": "30 Stück (N1)",
+    "provider_on_page (Anbieter)": "Recordati Pharma GmbH Ulm www.recordati.de",
+    "substances_on_page": [
+      "Metoprolol succinat 47,5 mg pro 1 Tablette",
+      "= Metoprolol (38,91 mg pro 1 Tablette)"
+    ],
+    "physical_data_on_page": "Abmessungen und Gewicht 1 Höhe: 3,8 mm Breite: 6,7 mm Tiefe: 12,7 mm Masse: 223,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : beidseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Sonstige Merkmale (Prägungen/Aufschrift) \"A MO\" Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "page_last_reviewed": "2026-10-27",
+    "data_provider": "ABDATA Pharma-Daten-Service"
+  },
+  "files": {
+    "tablet_image_1": {
+      "local_path": "03879429/03879429_tablet_1.jpg",
+      "download_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/95/71/57195.jpg",
+      "viewer_page": null,
+      "download_ok": true,
+      "verified_type": "jpeg",
+      "bytes": 81293,
+      "pixels": "600x600",
+      "document_date_on_page": null
+    },
+    "tablet_image_2": {
+      "local_path": "03879429/03879429_tablet_2.jpg",
+      "download_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/96/71/57196.jpg",
+      "viewer_page": null,
+      "download_ok": true,
+      "verified_type": "jpeg",
+      "bytes": 79210,
+      "pixels": "600x600",
+      "document_date_on_page": null
+    },
+    "leaflet_path": {
+      "local_path": "03879429/03879429_leaflet.pdf",
+      "download_url": "https://image.wub-service.de/resources/static/drugexpert/261101/37/18/41837.pdf",
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/beloc-zok-mite-475-mg-retardtabletten-3879429.html?file=17e07c76edf0a420cd2695138e259301",
+      "download_ok": true,
+      "verified_type": "pdf",
+      "bytes": 196915,
+      "pixels": null,
+      "document_date_on_page": "Dokumentdatum: 02.2022"
+    }
+  },
+  "image_classification": {
+    "result": "both files are tablet photographs (front and back) with mm scale and '© ABDATA | Dosing' watermark; oval tablet scored on both sides, letters on one side; consistent with page and leaflet",
+    "method": "visual review of each file",
+    "package_image": "none available"
+  },
+  "field_sources": {
+    "pzn": {
+      "value": "03879429",
+      "source": "product_page (verified equal to list)"
+    },
+    "market": {
+      "value": "DE",
+      "source": "derived (German PZN)"
+    },
+    "product_name": {
+      "value": "Beloc-Zok mite 47,5 mg Retardtabletten",
+      "source": "leaflet_pdf title (German, preserved)"
+    },
+    "active_ingredient": {
+      "value": "Metoprolol",
+      "source": "leaflet_pdf section 6"
+    },
+    "ingredient_form_as_stated": {
+      "value": "Metoprololsuccinat (Ph.Eur.)",
+      "source": "leaflet_pdf section 6"
+    },
+    "strength_as_stated": {
+      "value": "47,5 mg",
+      "source": "product_name / leaflet_pdf section 6 (label strength, not converted)"
+    },
+    "dosage_form": {
+      "value": "Retardtabletten",
+      "source": "product_page Darreichungsform + leaflet_pdf"
+    },
+    "pack_size": {
+      "value": "30",
+      "source": "product_page Packungsgröße (verified for this PZN)"
+    },
+    "brand": {
+      "value": "Beloc-Zok",
+      "source": "product_name"
+    },
+    "pharmaceutical_company": {
+      "value": "RECORDATI Industria Chimica e Farmaceutica S.p.A., Via Matteo Civitali 1, 20148 Mailand, Italien",
+      "source": "leaflet_pdf section 6 (Pharmazeutischer Unternehmer / Zulassungsinhaber)",
+      "note": "Leaflet PU differs from product-page Anbieter (Mitvertrieb)."
+    },
+    "manufacturer": {
+      "value": "SAVIO Industrial S.r.l., Via Emilia 21, 27100 Pavia, Italien; oder Recordati Industria Chimica e Farmaceutica S.p.A., Via Matteo Civitali 1, 20148 Mailand, Italien",
+      "source": "leaflet_pdf section 6 (Hersteller)"
+    },
+    "color": {
+      "value": "white to off-white",
+      "source": "leaflet_pdf section 6, normalised to English"
+    },
+    "shape": {
+      "value": "oval",
+      "source": "leaflet_pdf section 6, normalised to English"
+    },
+    "imprint": {
+      "value": "CONFLICT - leaflet: A/mO | product page: \"A MO\"",
+      "source": "product_page 'Sonstige Merkmale' + leaflet_pdf",
+      "note": "Sources disagree; not resolved."
+    },
+    "score_line": {
+      "value": "score line on both sides; for easier swallowing only, not for dividing into equal doses (per leaflet)",
+      "source": "product_page 'Angaben zu Kerben' + leaflet_pdf"
+    },
+    "appearance_description_original": {
+      "value": "Beloc-Zok mite 47,5 mg sind ovale weiße bis weißliche Retardtabletten mit einer Bruchkerbe auf beiden Seiten und der Markierung A/mO auf einer Seite. Die Bruchkerbe dient nur zum Teilen der Tablette, um das Schlucken zu erleichtern, und nicht zum Teilen in gleiche Dosen.",
+      "source": "leaflet_pdf section 6 (German, verbatim)"
+    },
+    "tablet_image_1": {
+      "value": "03879429/03879429_tablet_1.jpg",
+      "source": "product_page 'Originalbilder des Präparats'"
+    },
+    "tablet_image_2": {
+      "value": "03879429/03879429_tablet_2.jpg",
+      "source": "product_page 'Originalbilder des Präparats'"
+    },
+    "package_image": {
+      "value": "",
+      "source": "none available"
+    },
+    "leaflet_path": {
+      "value": "03879429/03879429_leaflet.pdf",
+      "source": "product_page 'PDF-Dokumente' link"
+    },
+    "product_source_url": {
+      "value": "https://www.apotheken-umschau.de/medikamente/beipackzettel/beloc-zok-mite-475-mg-retardtabletten-3879429.html",
+      "source": "heart_failure_collection_list.csv"
+    },
+    "manufacturer_source_url": {
+      "value": "",
+      "source": "not cross-checked"
+    },
+    "leaflet_revision_date": {
+      "value": "2022-02",
+      "source": "leaflet_pdf 'zuletzt überarbeitet im …'"
+    },
+    "retrieved_at": {
+      "value": "2026-11-13",
+      "source": "collection run date"
+    },
+    "verification_status": {
+      "value": "Extracted from product page and leaflet PDF; images visually confirmed as tablet photos; not clinically or pharmacist verified. Has flagged conflicts.",
+      "source": "workflow status"
+    },
+    "notes": {
+      "value": "Prolonged-release metoprolol SUCCINATE; keep separate from metoprolol tartrate products. Label strength is the salt: '1 Retardtablette enthält 47,5 mg Metoprololsuccinat (Ph.Eur.)'; product page gives equivalent 38.91 mg metoprolol (not used as label strength). Imprint wording differs between leaflet (A/mO) and product page (A MO); image shows 'A' and 'mO'/'MO' on the scored side but letter case cannot be settled from the photo. Product page 'Anbieter' is Recordati Pharma GmbH, Ulm, which the leaflet lists as 'Mitvertrieb' (co-distributor, Eberhard-Finckh-Str. 55, 89075 Ulm); leaflet Pharmazeutischer Unternehmer is the Italian company. Zul.-Nr. 48563.01.00. ABDATA average: 12.7 x 6.7 x 3.8 mm, mass 223.0 mg. Leaflet packs 30/50/90/100; this PZN = 30 (N1). Version code Z06.",
+      "source": "collector notes"
+    }
+  },
+  "unresolved_issues": [
+    "Imprint conflict: leaflet 'A/mO' vs product page 'A MO'.",
+    "Pharmaceutical company per leaflet (RECORDATI Industria Chimica e Farmaceutica S.p.A.) differs from product page Anbieter (Recordati Pharma GmbH, co-distributor)."
+  ],
+  "reuse_permission": "unverified - image XMP: creator 'Dosing GmbH Heidelberg', rights 'ABDATA Pharma-Daten-Service', usage terms 'Verwendung nach Lizenzbestimmungen'. No explicit open licence found. Do not publish or deploy.",
+  "attribution": {
+    "product_page": "ABDATA Pharma-Daten-Service via apotheken-umschau.de",
+    "images": "© ABDATA | Dosing (watermark preserved, files unmodified)",
+    "leaflet_pdf": "marketing authorisation holder's patient leaflet, hosted by image.wub-service.de"
+  },
+  "expanded_catalogue": {
+    "input_file": "heart_failure_collection_list_expanded.csv",
+    "row": {
+      "active_ingredient": "Metoprolol",
+      "category": "β受体阻滞剂 / Beta-blocker",
+      "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/beloc-zok-mite-475-mg-retardtabletten-3879429.html",
+      "hf_context_zh": "HFrEF：射血分数降低的心衰（心脏泵血能力减弱）；使用有心衰证据的琥珀酸盐缓释制剂。",
+      "mechanism_zh": "阻断心脏β1受体，减慢心率并减轻交感神经长期过度刺激。",
+      "clinical_role_zh": "稳定慢性HFrEF的基础治疗选择。",
+      "example_product_name": "BELOC-ZOK mite 47,5 mg Retardtabletten",
+      "pzn": "03879429",
+      "example_strength_as_stated": "47.5 mg Metoprololsuccinat",
+      "pack_size_units": "30",
+      "market": "DE",
+      "collection_order": "7",
+      "collection_status": "check_existing_record",
+      "notes_zh": "原清单已有产品；按 market+pzn 检查已有记录。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+      "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+      "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+      "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/beloc-zok-mite-475-mg-retardtabletten-3879429.html",
+      "checked_on": "2026-11-13",
+      "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+      "dosage_form_as_listed": "Retard-Tabletten",
+      "pharmaceutical_company_as_listed": "Recordati Pharma GmbH",
+      "ingredient_content_as_listed": "Metoprolol succinat 47,5 mg pro 1 Tablette; = Metoprolol (38,91 mg pro 1 Tablette)",
+      "pill_photo_status": "listed_on_product_page_not_visually_verified",
+      "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+      "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+    }
+  }
+}

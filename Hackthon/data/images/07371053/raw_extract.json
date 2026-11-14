@@ -1,0 +1,105 @@
+{
+  "pzn": "07371053",
+  "list_row": {
+    "active_ingredient": "Nebivolol",
+    "category": "β受体阻滞剂 / Beta-blocker",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/nebilet-5-mg-tabletten-7371053.html",
+    "hf_context_zh": "≥70岁患者的稳定、轻至中度慢性心衰，作为标准治疗的补充。",
+    "mechanism_zh": "阻断β1受体，降低心率；另有一氧化氮相关血管舒张作用。",
+    "clinical_role_zh": "特定老年心衰患者的治疗选择。",
+    "example_product_name": "NEBILET 5 mg Tabletten",
+    "pzn": "07371053",
+    "example_strength_as_stated": "5 mg",
+    "pack_size_units": "30",
+    "market": "DE",
+    "collection_order": "110",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/nebilet-5-mg-tabletten-7371053.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "Berlin-Chemie AG",
+    "ingredient_content_as_listed": "Nebivolol hydrochlorid 5,45 mg pro 1 Tablette; = Nebivolol (5 mg pro 1 Tablette)",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:43:34.207299+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/61/92/99261.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 88161,
+      "saved_as": "07371053_tablet_1.jpg",
+      "sha256": "a16e1515ab75d11f9753b93a1bda68cf70213bb3032889bd2ac8ef8ac0f0e5b3",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/62/92/99262.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 86535,
+      "saved_as": "07371053_tablet_2.jpg",
+      "sha256": "5c4c01d9dcc49451b87cd2f79c213ec87ffbf69ddb6aa85c2ab568903ed32528",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/84/17/91784.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 136763,
+      "saved_as": "07371053_leaflet.pdf",
+      "sha256": "defb9f20bf02930608075d3ca43f58033e7e6ecb57dfd3b0cb2cfdb4cd03a1e1",
+      "pages": 5,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/nebilet-5-mg-tabletten-7371053.html?file=ef139c078654ede53171c85477ab6989",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 10.2025"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von NEBILET 5 mg Tabletten",
+    "pzn_on_page": "07371053",
+    "pack_size_on_page": "30 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "Berlin-Chemie AG Berlin www.berlin-chemie.de",
+    "substances_on_page": [
+      "Nebivolol hydrochlorid 5,45 mg pro 1 Tablette",
+      "= Nebivolol (5 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Polysorbat 80 Hypromellose Lactose-1-Wasser Maisstärke Croscarmellose natrium",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/61/92/99261.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/61/92/99261.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/61/92/99261.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/62/92/99262.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 9,2 mm Höhe: 3,1 mm Masse: 229,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Kreuzkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/nebilet-5-mg-tabletten-7371053.html?file=ef139c078654ede53171c85477ab6989",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 10.2025"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15",
+    "provider_website": "https://www.berlin-chemie.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Nebilet ist in Form von wei ßen, runden, beidseitig leicht gewölbten T abletten mit einseitiger Kreuzbruchkerbe erhältlich. Nebilet gibt es in Packungen mit 30 (N1), 50 (N2) und 100 (N3) T abletten. Die T abletten werden als Blisterpackung angeboten (PVC/Aluminium-Blister). Es werden möglicherweise nicht alle Packungsgrö ßen in den Verkehr gebracht.",
+    "company_raw": "und",
+    "manufacturer_raw": "Pharmazeutischer Unternehmer Menarini International Operations Luxembourg S.A. 1, Avenue de la Gare, L-1611 Luxembourg, Luxemburg Mitvertrieb: BERLIN-CHEMIE AG Glienicker Weg 125, 12489 Berlin Hersteller BERLIN-CHEMIE AG Glienicker Weg 125, 12489 Berlin oder Menarini – Von Heyden GmbH Leipziger Stra βe 7 –13, 01097 Dresden",
+    "revision_raw": "Oktober 2025",
+    "wirkstoff_raw": "",
+    "composition_raw": "Nebivolol, ein Herz-Kreislauf-Mittel a us der Gruppe der selektiven Beta-Rezeptorenblocker (d. h. es wirkt gezielt auf das Herz-Kreislauf-System). Es beugt einem zu schnellen Herzschlag vor und reguliert die Schlagkraft des Herzens. Au ßerdem erweitert es die Blutgefä ße, was ebenso dazu beiträgt, den Blutdruck zu senken. Es wird zur Behandlung eines erhöhten Blutdrucks (Hypertonie) angewendet. Des Weiteren wird Nebilet zur Behandlung der leichten und mittelschweren chronischen Herzleistungsschw",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

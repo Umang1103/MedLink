@@ -1,0 +1,105 @@
+{
+  "pzn": "00663344",
+  "list_row": {
+    "active_ingredient": "Enalapril",
+    "category": "血管紧张素转换酶抑制剂 / ACE inhibitor",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/enalapril-ct-10-mg-tabletten-663344.html",
+    "hf_context_zh": "有症状的HFrEF；某些无症状左室功能不全患者用于预防症状性心衰。",
+    "mechanism_zh": "抑制ACE，减少血管收缩和钠水潴留相关激素作用。",
+    "clinical_role_zh": "HFrEF中肾素-血管紧张素系统治疗的选择。",
+    "example_product_name": "ENALAPRIL-CT 10 mg Tabletten",
+    "pzn": "00663344",
+    "example_strength_as_stated": "10 mg",
+    "pack_size_units": "100",
+    "market": "DE",
+    "collection_order": "135",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/enalapril-ct-10-mg-tabletten-663344.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "AbZ-Pharma GmbH",
+    "ingredient_content_as_listed": "Enalapril maleat 10 mg pro 1 Tablette; = Enalapril (7,64 mg pro 1 Tablette)",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:44:00.133818+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/72/34/83472.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 176299,
+      "saved_as": "00663344_tablet_1.jpg",
+      "sha256": "ce56d2338b6f70ebafade3510041426ca15b338f6983184d7f65394274867368",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/73/34/83473.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 173938,
+      "saved_as": "00663344_tablet_2.jpg",
+      "sha256": "bb0216ee79ef1e6f00b0304a601f5a6f15b79d0384395e781aea8cec2233826d",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/10/11/41110.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 335636,
+      "saved_as": "00663344_leaflet.pdf",
+      "sha256": "87bffee492a06eee1558ece0e508ffac712135bdeeb84fe872e2d14a2c1b8b8a",
+      "pages": 2,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/enalapril-ct-10-mg-tabletten-663344.html?file=286b392b5545ca6b9febc9aebf6b3b27",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 04.2019"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von ENALAPRIL-CT 10 mg Tabletten",
+    "pzn_on_page": "00663344",
+    "pack_size_on_page": "100 Stück (N3)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "AbZ-Pharma GmbH Ulm www.abz.de",
+    "substances_on_page": [
+      "Enalapril maleat 10 mg pro 1 Tablette",
+      "= Enalapril (7,64 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Natriumhydrogencarbonat Lactose-1-Wasser Maisstärke Talkum Eisen(III)-oxid",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/72/34/83472.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/72/34/83472.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/72/34/83472.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/73/34/83473.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 7,1 mm Höhe: 3,6 mm Masse: 169,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Besonderheiten Die Tablette ist marmoriert. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/enalapril-ct-10-mg-tabletten-663344.html?file=286b392b5545ca6b9febc9aebf6b3b27",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 04.2019"
+      }
+    ],
+    "page_last_reviewed": "2026-08-15",
+    "provider_website": "https://www.abz.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Rot-braune, weiß gesprenkelte, runde, beidseits gewölbte Tablette mit einer Bruchkerbe auf einer Seite. Enalapril-CT 10 mg ist in Packungen mit 30, 50 und 100 Tabletten erhältlich. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "AbZ-Pharma GmbH Graf-Arco-Str. 3 89079 Ulm Deutschland",
+    "manufacturer_raw": "Merckle GmbH Ludwig-Merckle-Str. 3 89143 Blaubeuren Deutschland oder Teva Operations Poland Sp. z o.o. UL. Emilii Plater 53 00-113 WARSZAWA POLEN",
+    "revision_raw": "April 2019",
+    "wirkstoff_raw": "Enalaprilmaleat Lesen Sie die gesamte Packungsbeilage sorgfältig durch, bevor Sie mit der Einnahme dieses Arznei- mittels beginnen, denn sie enthält wichtige Informationen. - Heben Sie die Packungsbei",
+    "composition_raw": "Der Wirkstoff ist Enalaprilmaleat. Jede Tablette enthält 10 mg Enalaprilmaleat. Die sonstigen Bestandteile sind: Natriumhydrogencarbonat, Lactose-Monohydrat, Maisstärke, Talkum, Eisen(III)-oxid, Magnesiumstearat (Ph.Eur.). Wie Enalapril-CT aussieht und Inhalt der Packung Rot-braune, weiß gesprenkelte, runde, beidseits gewölbte Tablette mit einer Bruchkerbe auf einer Seite. Enalapril-CT 10 mg ist in Packungen mit 30, 50 und 100 Tabletten erhältlich. Es werden möglicherweise nicht alle Packungsgrö",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}

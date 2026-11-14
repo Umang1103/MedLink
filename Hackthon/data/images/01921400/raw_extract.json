@@ -1,0 +1,105 @@
+{
+  "pzn": "01921400",
+  "list_row": {
+    "active_ingredient": "Bisoprolol",
+    "category": "β受体阻滞剂 / Beta-blocker",
+    "product_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-dexcel-25-mg-tabletten-1921400.html",
+    "hf_context_zh": "HFrEF：射血分数降低的心衰（心脏泵血能力减弱）",
+    "mechanism_zh": "减弱交感神经对心脏的刺激，降低心率和心肌耗氧。",
+    "clinical_role_zh": "稳定慢性HFrEF的基础治疗之一，改善长期结局。",
+    "example_product_name": "BISOPROLOL Dexcel 2,5 mg Tabletten",
+    "pzn": "01921400",
+    "example_strength_as_stated": "2,5 mg",
+    "pack_size_units": "30",
+    "market": "DE",
+    "collection_order": "21",
+    "collection_status": "pending_collection_if_permitted",
+    "notes_zh": "新增同成分产品候选；按 market+pzn 去重。 网页 Anbieter 为所列供应企业，不等于实际生产厂家；图片使用权限与实际生产厂家待核实。",
+    "strength_note_zh": "产品规格，不是患者服用剂量；不同规格、剂型或品牌不能据此自动互换。",
+    "clinical_source_url": "https://www.leitlinien.de/themen/herzinsuffizienz/version-4",
+    "mechanism_source_url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-dexcel-25-mg-tabletten-1921400.html",
+    "checked_on": "2026-11-13",
+    "scope_note_zh": "16组成分扩展目录，每组最多20个产品；只纳入详情页列有药片原图的条目。原心衰背景/作用说明沿用成分层面资料，不代表每个产品均获批用于心衰；具体产品适应证待查。未下载或目视核验图片。",
+    "dosage_form_as_listed": "Tabletten",
+    "pharmaceutical_company_as_listed": "Dexcel Pharma GmbH",
+    "ingredient_content_as_listed": "Bisoprolol fumarat 2,5 mg pro 1 Tablette; = Bisoprolol (2,12 mg pro 1 Tablette)",
+    "pill_photo_status": "listed_on_product_page_not_visually_verified",
+    "pill_photo_evidence": "Originalbilder des Präparats; Vorder-, Hinter- und Seitenansicht. Evidence URL: product_source_url",
+    "product_hf_indication_status": "not_reviewed_check_product_leaflet"
+  },
+  "retrieved_at": "2026-11-13T15:42:00.462261+00:00",
+  "downloads": {
+    "image_1": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/21/59/25921.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 83450,
+      "saved_as": "01921400_tablet_1.jpg",
+      "sha256": "7d3fbc6e6f718e1ce87acf5b14cf3a3f35a0a8e98824c0a231fd3931187d87ab",
+      "pixels": "600x600"
+    },
+    "image_2": {
+      "url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/22/59/25922.jpg",
+      "ok": true,
+      "kind": "jpeg",
+      "bytes": 72614,
+      "saved_as": "01921400_tablet_2.jpg",
+      "sha256": "9d6ec16ca29c349d9f6c7f8c30a0e6e413688687bf0aee046da81735bd57ed60",
+      "pixels": "600x600"
+    },
+    "leaflet": {
+      "url": "https://image.wub-service.de/resources/static/drugexpert/261101/96/85/28596.pdf",
+      "ok": true,
+      "kind": "pdf",
+      "bytes": 522182,
+      "saved_as": "01921400_leaflet.pdf",
+      "sha256": "1263a78740a731ceec20a797d982083fd848aabb5284f8899506ccaa00126549",
+      "pages": 6,
+      "viewer_page": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-dexcel-25-mg-tabletten-1921400.html?file=e106e98d7e69becce62a34258da30ed0",
+      "label": "Original Beipackzettel (Gebrauchsinformation)",
+      "doc_date": "Dokumentdatum: 08.2026"
+    }
+  },
+  "issues": [],
+  "page_http_status": 200,
+  "page": {
+    "page_title": "Beipackzettel von BISOPROLOL Dexcel 2,5 mg Tabletten",
+    "pzn_on_page": "01921400",
+    "pack_size_on_page": "30 Stück (N1)",
+    "dispensing_status": "Rezeptpflichtig",
+    "dosage_form_on_page": "Tabletten",
+    "provider_on_page": "Dexcel Pharma GmbH Alzenau www.dexcel-pharma.de",
+    "substances_on_page": [
+      "Bisoprolol fumarat 2,5 mg pro 1 Tablette",
+      "= Bisoprolol (2,12 mg pro 1 Tablette)"
+    ],
+    "excipients_on_page": "Lactose-1-Wasser Cellulose, mikrokristalline Magnesium stearat (pflanzlich) Crospovidon",
+    "primary_image_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/21/59/25921.jpg",
+    "packshot_url": "https://image.wub-service.de/resources/images/800x/drugexpert/261101/21/59/25921.jpg",
+    "original_image_urls": [
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/21/59/25921.jpg",
+      "https://image.wub-service.de/resources/images/800x/drugexpert/261101/22/59/25922.jpg"
+    ],
+    "physical_block_raw": "Abmessungen und Gewicht 1 Durchmesser: 6,1 mm Höhe: 2,8 mm Masse: 90,0 mg 1 Durchschnittswerte, Circa-Angaben Angaben zu Kerben Lage : Einzelkerbe Form : keilförmig Anordnung : einseitig Spaltung 2 : nein 2 Beschreibt, ob am Rand der Tablette die Kerbe spaltenförmig erweitert wird. Mehr Infos zu Tabletten Fakten zu Tabletten Tabletten teilen? Retardtabletten richtig einnehmen So fällt Tabletten-Schlucken leichter",
+    "pdf_links": [
+      {
+        "url": "https://www.apotheken-umschau.de/medikamente/beipackzettel/bisoprolol-dexcel-25-mg-tabletten-1921400.html?file=e106e98d7e69becce62a34258da30ed0",
+        "label": "Original Beipackzettel (Gebrauchsinformation)",
+        "doc_date": "Dokumentdatum: 08.2026"
+      }
+    ],
+    "page_last_reviewed": "2026-10-27",
+    "provider_website": "https://www.dexcel-pharma.de"
+  },
+  "leaflet_fields": {
+    "pdf_pages": null,
+    "section6_raw": "Weiße, runde, konvexe Tabletten mit einer Bruchkerbe auf einer Seite. Die Tablette kann in gleiche Dosen geteilt werden. Zur Teilung gehen Sie wie folgt vor: 260810-palde-biso-2,5mg-1774 Seite 6 von 6 August 2026 Packungen mit 30, 50, 100 Tabletten. Es werden möglicherweise nicht alle Packungsgrößen in den Verkehr gebracht.",
+    "company_raw": "und",
+    "manufacturer_raw": "Dexcel® Pharma GmbH ∙ Carl-Zeiss-Straße 2 ∙ 63755 Alzenau ∙ Telefon: 06023 9480 - 0 ∙ Telefax: 06023 9480 – 50 ∙ E- Mail: service@dexcel.com",
+    "revision_raw": "August 2026",
+    "wirkstoff_raw": "Bisoprololfumarat Lesen Sie die gesamte Packungsbeilage sorgfältig durch, bevor Sie mit der Einnahme dieses Arzneimittels beginnen, denn sie enthält wichtige Informationen.  Heben Sie die Packungsbei",
+    "composition_raw": " Der Wirkstoff ist: Bisoprololfumarat 1 Tablette enthält 2,5 mg Bisoprololfumarat.  Die sonstigen Bestandteile sind: Lactose-Monohydrat, mikrokristalline Cellulose, Magnesiumstearat (Ph.Eur.) [pflanzlich], Crospovidon (Typ B) Wie Bisoprolol Dexcel 2,5 mg aussieht und Inhalt der Packung Weiße, runde, konvexe Tabletten mit einer Bruchkerbe auf einer Seite. Die Tablette kann in gleiche Dosen geteilt werden. Zur Teilung gehen Sie wie folgt vor: 260810-palde-biso-2,5mg-1774 Seite 6 von 6 August 202",
+    "pdf_title": ""
+  },
+  "expanded_collection_complete": true
+}
